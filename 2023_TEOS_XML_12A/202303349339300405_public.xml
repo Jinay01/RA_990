@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2020v1.3">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-11-30T10:51:18-06:00</ReturnTs>
+    <TaxPeriodEndDt>2021-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>135565207</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KPMG LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>200 EAST RANDOLPH ST SUITE 5500</AddressLine1Txt>
+        <CityNm>CHICAGO</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60601</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2020-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>362167817</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>NORTHWESTERN UNIVERSITY</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>NORT</BusinessNameControlTxt>
+      <PhoneNum>8474914722</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>633 CLARK STREET</AddressLine1Txt>
+        <CityNm>EVANSTON</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60208</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>AMANDA DISTEL</PersonNm>
+      <PersonTitleTxt>VP &amp; CFO</PersonTitleTxt>
+      <PhoneNum>8474917350</PhoneNum>
+      <SignatureDt>2023-11-27</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>AMANDA</PersonFirstNm>
+        <PersonLastNm>DISTEL</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>TARA KENNEY</PreparerPersonNm>
+      <PTIN>P01245482</PTIN>
+      <PhoneNum>3126651000</PhoneNum>
+      <PreparationDt>2023-11-22</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>0</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2020</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="18">
+    <IRS990T documentId="RetDoc1237100001">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>19369511926</BookValueAssetsEOYAmt>
+      <AmendedReturnInd>X</AmendedReturnInd>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt>13</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>0</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <PersonNm>NICOLE VAN LAAN</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>633 CLARK STREET</AddressLine1Txt>
+          <CityNm>EVANSTON</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60208</ZIPCd>
+        </USAddress>
+        <PhoneNum>8474914722</PhoneNum>
+      </BooksInCareOfDetail>
+      <TotalUBTIComputedAmt>4594355</TotalUBTIComputedAmt>
+      <CharitableContributionsDedAmt>0</CharitableContributionsDedAmt>
+      <TotalUBTIBeforeNOLSpecificAmt>4594355</TotalUBTIBeforeNOLSpecificAmt>
+      <NetOperatingLossDeductionAmt referenceDocumentId="RetDoc2403500001">4594355</NetOperatingLossDeductionAmt>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>0</TotalUBTIAmt>
+      <TaxableCorporationAmt>0</TaxableCorporationAmt>
+      <TotalTaxComputationAmt>0</TotalTaxComputationAmt>
+      <TaxLessCreditsAmt>0</TaxLessCreditsAmt>
+      <TotalTaxAmt>0</TotalTaxAmt>
+      <PaidTaxLiabilityAmt>0</PaidTaxLiabilityAmt>
+      <BackupWithholdingAmt>7610</BackupWithholdingAmt>
+      <Form4136Ind referenceDocumentId="RetDoc1102700001" totalFuelTaxCreditAmt="31184">X</Form4136Ind>
+      <TotalOtherCreditsAdjPaymentAmt>31184</TotalOtherCreditsAdjPaymentAmt>
+      <TotalPaymentsAmt>38794</TotalPaymentsAmt>
+      <OverpaymentSection>
+        <OverpaymentAmt>38794</OverpaymentAmt>
+        <RefundAmt>38794</RefundAmt>
+      </OverpaymentSection>
+      <ForeignAccountsQuestionInd>1</ForeignAccountsQuestionInd>
+      <ForeignCountryCd>QA</ForeignCountryCd>
+      <ForeignCountryCd>UK</ForeignCountryCd>
+      <ForeignTrustQuestionInd>0</ForeignTrustQuestionInd>
+      <TaxExemptInterestAmt>31061</TaxExemptInterestAmt>
+      <ChangeInMethodOfAccountingInd>0</ChangeInMethodOfAccountingInd>
+      <ItmzdSupplementalInfoGrp>
+        <PartNum>N/A</PartNum>
+        <LineNum>QUESTION F</LineNum>
+        <ExplanationTxt>AMENDED RETURN STATEMENT OF EXPLANATION==================================ENTITY 1, SCHEDULE A, PART I, LINE 4A (CAPITAL GAIN INCOME)ENTITY 1, SCHEDULE A, PART I, LINE 5 (INCOME (LOSS) FROM PARTNERSHIPS AND S CORPORATIONS)ENTITY 1, SCHEDULE A, PART I, LINE 13 (TOTAL) ENTITY 1, SCHEDULE A, PART I, LINE 16 (UNRELATED BUSINESS INCOME BEFORE NET OPERATING LOSS DEDUCTION)ENTITY 1, SCHEDULE A, PART I, LINE 18 (UNRELATED BUSINESS TAXABLE INCOME)SCHEDULE D, PART I, LINE 3 FORM 8949, PART I, LINE 1FORM 8990, PART I, SECTION I, LINE 1FORM 8990, PART I, SECTION I, LINE 5FORM 8990, PART I, SECTION II, LINE 6FORM 8990, PART I, SECTION II, LINE 8FORM 8990, PART I, SECTION II, LINE 12FORM 8990, PART I, SECTION II, LINE 13FORM 8990, PART I, SECTION II, LINE 16FORM 8990, PART I, SECTION II, LINE 20FORM 8990, PART I, SECTION II, LINE 21FORM 8990, PART I, SECTION II, LINE 22FORM 8990, PART I, SECTION IV, LINE 26FORM 8990, PART I, SECTION IV, LINE 29FORM 8990, PART I, SECTION IV, LINE 30FORM 8990, SCHDULE A, PARTNERSHIP 25FORM 8991, PART I, LINE 2AFORM 8991, PART I, LINE 2BFORM 8991, PART I, LINE 2NFORM 8991, PART I, LINE 2OFORM 8991, SCHEDULE A, LINE 11FORM 8991, SCHEDULE A, LINE 12FORM 926 - ADDED FORM 926 FOR FOREIGN CORPORATION "APM HUMAN SERVICES INTERNATIONAL PTY LTD."NORTHWESTERN UNIVERSITY'S FORM 990-T FOR THE TAX YEAR ENDED AUGUST 31, 2021 IS BEING AMENDED TO REFLECT ADDITIONAL UNRELATED BUSINESS INCOME LOSSES OF (136,443) FROM THE RECEIPT OF ADDITIONAL PARTNERSHIP SCHEDULE K-1S FROM MADISON DEARBORN CAPITAL PARTNERS VIII-A, L.P. AND MADISON DEARBORN CAPITAL PARTNERS VIII-B. FORM 990, PART I, LINE 4A AND 5 REFLECTS AN INCREASE OF THE INCOME AND LOSS RESPECTIVELY FROM PARTNERSHIPS AS A RESULT OF THIS CORRECTION.</ExplanationTxt>
+      </ItmzdSupplementalInfoGrp>
+    </IRS990T>
+    <IRS990TScheduleA documentId="RetDoc1087300001">
+      <PrincipalBusinessActivityCd>901101</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>INVESTMENTS</TradeOrBusinessDesc>
+      <CapitalGainNetIncomeAmt referenceDocumentId="RetDoc1074900001">17734581</CapitalGainNetIncomeAmt>
+      <TotalOrdinaryGainLossAmt referenceDocumentId="RetDoc1180000001">-752389</TotalOrdinaryGainLossAmt>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc240471416447">-39323634</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>-22341442</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>-22341442</TotNetUnrltTrdBusIncmAmt>
+      <TaxesAndLicensesAmt>39457</TaxesAndLicensesAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100001">933571</OtherDeductionsAmt>
+      <TotalDeductionsAmt>973028</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>-23314470</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>-23314470</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+      <ItmzdSupplementalInfoGrp>
+        <PartNum>SCHEDULE A</PartNum>
+        <LineNum>ITEM C</LineNum>
+        <ExplanationTxt>FOR FISCAL YEAR ENDED AUGUST 31, 2020, THE TAXPAYER USED THE 520000 NAICS CODE TO CLASSIFY INVESTMENT ACTIVITIES BECAUSE THE NON-NAICS CODE WAS NOT INDICATED IN THE 2019 FORM 990-T INSTRUCTIONS. THE TAXPAYER IS USING THE 901101 NON-NAICS CODE FOR FISCAL YEAR ENDED AUGUST 31, 2021 PURSUANT TO THE 2020 FORM 990-T INSTRUCTIONS.</ExplanationTxt>
+      </ItmzdSupplementalInfoGrp>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300002">
+      <PrincipalBusinessActivityCd>530000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>2</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>SCIENTIFIC EQUIPMENT RENTAL, OTHER RENTAL INC AND PARTNERSHIP INVESTMENT</TradeOrBusinessDesc>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc240471416448">-38683</TotalPrtshpSCorpIncomeAmt>
+      <OtherIncomeAmt referenceDocumentId="RetDoc24110566121">2693014</OtherIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>2654331</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>2654331</TotNetUnrltTrdBusIncmAmt>
+      <SalariesAndWagesAmt>21401</SalariesAndWagesAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100002">2152485</OtherDeductionsAmt>
+      <TotalDeductionsAmt>2173886</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>480445</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>480445</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300003">
+      <PrincipalBusinessActivityCd>540000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>3</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>SPONSORSHIPS, RESEARCH SERVICES &amp; ALUMNI MAGAZINE</TradeOrBusinessDesc>
+      <NetAdvertisingIncomeAmt>7254</NetAdvertisingIncomeAmt>
+      <OtherIncomeAmt referenceDocumentId="RetDoc24110566122">2390157</OtherIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>2411662</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>14251</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>2397411</TotNetUnrltTrdBusIncmAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100003">1520258</OtherDeductionsAmt>
+      <TotalDeductionsAmt>1527512</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>869899</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>869899</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <AdvertisingIncmPeriodicalGrp>
+        <AdvertisedPeriodicalNameTxt>NORTHWESTERN ALUMNI MAGAZINE</AdvertisedPeriodicalNameTxt>
+        <GrossAdvertisingIncomeAmt>21505</GrossAdvertisingIncomeAmt>
+        <DirectAdvertisingCostAmt>14251</DirectAdvertisingCostAmt>
+        <AdvertisingGainLossAmt>7254</AdvertisingGainLossAmt>
+        <ReadershipCostsAmt>846887</ReadershipCostsAmt>
+        <ExcessReadershipCostsAmt>846887</ExcessReadershipCostsAmt>
+        <ExcessReadershipCostsDedAmt>7254</ExcessReadershipCostsDedAmt>
+      </AdvertisingIncmPeriodicalGrp>
+      <TotalGrossAdvertisingIncomeAmt>21505</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>14251</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>7254</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300004">
+      <PrincipalBusinessActivityCd>560000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>4</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>ALUMNI TRAVEL TOURS REVENUE</TradeOrBusinessDesc>
+      <OtherIncomeAmt referenceDocumentId="RetDoc24110566123">15227</OtherIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>15227</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>15227</TotNetUnrltTrdBusIncmAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100004">114</OtherDeductionsAmt>
+      <TotalDeductionsAmt>114</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>15113</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>15113</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300005">
+      <PrincipalBusinessActivityCd>810000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>5</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>PARKING GARAGE</TradeOrBusinessDesc>
+      <OtherIncomeAmt referenceDocumentId="RetDoc24110566124">4484448</OtherIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>4484448</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>4484448</TotNetUnrltTrdBusIncmAmt>
+      <SalariesAndWagesAmt>354366</SalariesAndWagesAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100005">935514</OtherDeductionsAmt>
+      <TotalDeductionsAmt>1289880</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>3194568</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>3194568</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300006">
+      <PrincipalBusinessActivityCd>210000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>6</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>PARTNERSHIP INVESTMENT</TradeOrBusinessDesc>
+      <TotalOrdinaryGainLossAmt referenceDocumentId="RetDoc1180000001">-92</TotalOrdinaryGainLossAmt>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc240471416449">-2704492</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>-2704584</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>-2704584</TotNetUnrltTrdBusIncmAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100006">10151</OtherDeductionsAmt>
+      <TotalDeductionsAmt>10151</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>-2714735</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>-2714735</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300007">
+      <PrincipalBusinessActivityCd>480000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>7</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>PARTNERSHIP INVESTMENT</TradeOrBusinessDesc>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc240471416450">-1023839</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>-1023839</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>-1023839</TotNetUnrltTrdBusIncmAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100007">2429</OtherDeductionsAmt>
+      <TotalDeductionsAmt>2429</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>-1026268</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>-1026268</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300008">
+      <PrincipalBusinessActivityCd>230000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>8</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>PARTNERSHIP INVESTMENT</TradeOrBusinessDesc>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc240471416451">33931</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>33931</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>33931</TotNetUnrltTrdBusIncmAmt>
+      <TaxesAndLicensesAmt>159</TaxesAndLicensesAmt>
+      <OtherDeductionsAmt>-558</OtherDeductionsAmt>
+      <TotalDeductionsAmt>-399</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>34330</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>34330</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300009">
+      <PrincipalBusinessActivityCd>720000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>9</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>PARTNERSHIP INVESTMENT</TradeOrBusinessDesc>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc240471416452">-65405</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>-65405</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>-65405</TotNetUnrltTrdBusIncmAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100009">1077</OtherDeductionsAmt>
+      <TotalDeductionsAmt>1077</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>-66482</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>-66482</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300010">
+      <PrincipalBusinessActivityCd>420000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>10</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>PARTNERSHIP INVESTMENT</TradeOrBusinessDesc>
+      <TotalOrdinaryGainLossAmt referenceDocumentId="RetDoc1180000001">-345</TotalOrdinaryGainLossAmt>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc240471416453">-263585</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>-263930</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>-263930</TotNetUnrltTrdBusIncmAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100010">2258</OtherDeductionsAmt>
+      <TotalDeductionsAmt>2258</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>-266188</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>-266188</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300011">
+      <PrincipalBusinessActivityCd>510000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>11</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>PARTNERSHIP INVESTMENT</TradeOrBusinessDesc>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc240471416454">-215572</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>-215572</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>-215572</TotNetUnrltTrdBusIncmAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100011">1278</OtherDeductionsAmt>
+      <TotalDeductionsAmt>1278</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>-216850</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>-216850</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300012">
+      <PrincipalBusinessActivityCd>330000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>12</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>PARTNERSHIP INVESTMENT</TradeOrBusinessDesc>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc240471416455">-1263404</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>-1263404</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>-1263404</TotNetUnrltTrdBusIncmAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc2406100012">19393</OtherDeductionsAmt>
+      <TotalDeductionsAmt>19393</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>-1282797</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>-1282797</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS990TScheduleA documentId="RetDoc1087300013">
+      <PrincipalBusinessActivityCd>520000</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>13</SequenceReferenceNum>
+      <SequenceTotalNum>13</SequenceTotalNum>
+      <TradeOrBusinessDesc>PARTNERSHIP INVESTMENT</TradeOrBusinessDesc>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="RetDoc240471416456">-9986</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>-9986</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>-9986</TotNetUnrltTrdBusIncmAmt>
+      <TotalDeductionsAmt>0</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>-9986</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt>0</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>-9986</UnrelatedBusinessTaxblIncmAmt>
+      <TotalRentIncomeAmt>0</TotalRentIncomeAmt>
+      <TotalRentDeductionsAmt>0</TotalRentDeductionsAmt>
+      <TotalGrossDebtFinancedIncmAmt>0</TotalGrossDebtFinancedIncmAmt>
+      <TotalAllocableDeductionsAmt>0</TotalAllocableDeductionsAmt>
+      <TotalDividendsReceivedDedAmt>0</TotalDividendsReceivedDedAmt>
+      <TotalCtrlOrgPymtGrossIncmAmt>0</TotalCtrlOrgPymtGrossIncmAmt>
+      <TotalCtrlOrgDeductionAmt>0</TotalCtrlOrgDeductionAmt>
+      <TotalInvestmentIncomeAmt>0</TotalInvestmentIncomeAmt>
+      <TotalDeductionSetAsidesAmt>0</TotalDeductionSetAsidesAmt>
+      <TotalGrossAdvertisingIncomeAmt>0</TotalGrossAdvertisingIncomeAmt>
+      <TotalDirectAdvertisingCostAmt>0</TotalDirectAdvertisingCostAmt>
+      <TotExcessReadershipCostsDedAmt>0</TotExcessReadershipCostsDedAmt>
+      <TotalUnrelatedBusinessCompAmt>0</TotalUnrelatedBusinessCompAmt>
+    </IRS990TScheduleA>
+    <IRS1120ScheduleD documentId="RetDoc1074900001" referenceDocumentId="RetDoc1075300001">
+      <TotalSTCGL1099BNotReceivedGrp>
+        <TotalGainOrLossAmt>364185</TotalGainOrLossAmt>
+      </TotalSTCGL1099BNotReceivedGrp>
+      <NetSTCapitalGainOrLossAmt>364185</NetSTCapitalGainOrLossAmt>
+      <TotalLTCGL1099BNotReceivedGrp>
+        <TotalGainOrLossAmt>17370396</TotalGainOrLossAmt>
+      </TotalLTCGL1099BNotReceivedGrp>
+      <NetLTCapitalGainOrLossAmt>17370396</NetLTCapitalGainOrLossAmt>
+      <ExcNetSTGainOverNetLTLossAmt>364185</ExcNetSTGainOverNetLTLossAmt>
+      <NetCapitalGainAmt>17370396</NetCapitalGainAmt>
+      <CapitalGainNetIncomeAmt>17734581</CapitalGainNetIncomeAmt>
+    </IRS1120ScheduleD>
+    <IRS4136 documentId="RetDoc1102700001">
+      <AlternativeFuelRegistrationNum>2017000817AL</AlternativeFuelRegistrationNum>
+      <LiquefiedPetroleumGasGalsQty>163</LiquefiedPetroleumGasGalsQty>
+      <LiquefiedPetroleumGasCrAmt creditReferenceNum="426">82</LiquefiedPetroleumGasCrAmt>
+      <LiquefiedNaturalGasGallonsQty>62203</LiquefiedNaturalGasGallonsQty>
+      <LiquefiedNaturalGasCreditAmt creditReferenceNum="432">31102</LiquefiedNaturalGasCreditAmt>
+      <TotalFuelTaxCreditAmt>31184</TotalFuelTaxCreditAmt>
+    </IRS4136>
+    <IRS8949 documentId="RetDoc1075300001">
+      <ShortTermCapitalGainAndLossGrp>
+        <TransactionsNotRptedOn1099BInd>X</TransactionsNotRptedOn1099BInd>
+        <CapitalGainAndLossAssetGrp>
+          <PropertyDesc>SCHEDULE K-1 (1065)</PropertyDesc>
+          <GainOrLossAmt>364185</GainOrLossAmt>
+        </CapitalGainAndLossAssetGrp>
+        <TotalGainOrLossAmt>364185</TotalGainOrLossAmt>
+      </ShortTermCapitalGainAndLossGrp>
+      <LongTermCapitalGainAndLossGrp>
+        <TransactionsNotRptedOn1099BInd>X</TransactionsNotRptedOn1099BInd>
+        <CapitalGainAndLossAssetGrp>
+          <PropertyDesc>SCHEDULE K-1 (1065)</PropertyDesc>
+          <GainOrLossAmt>17370396</GainOrLossAmt>
+        </CapitalGainAndLossAssetGrp>
+        <TotalGainOrLossAmt>17370396</TotalGainOrLossAmt>
+      </LongTermCapitalGainAndLossGrp>
+    </IRS8949>
+    <IRS8949 documentId="RetDoc1365400147">
+      <ShortTermCapitalGainAndLossGrp>
+        <TransactionsNotRptedOn1099BInd>X</TransactionsNotRptedOn1099BInd>
+        <CapitalGainAndLossAssetGrp>
+          <PropertyDesc>AVAILABLE UPON REQUEST</PropertyDesc>
+          <ProceedsSalesPriceAmt>2527674327</ProceedsSalesPriceAmt>
+          <CostOrOtherBasisAmt>2546490026</CostOrOtherBasisAmt>
+          <AdjustmentsToGainOrLossCd>MOW</AdjustmentsToGainOrLossCd>
+          <AdjustmentsToGainOrLossAmt>1964212</AdjustmentsToGainOrLossAmt>
+          <GainOrLossAmt>-16851487</GainOrLossAmt>
+        </CapitalGainAndLossAssetGrp>
+        <TotalProceedsSalesPriceAmt>2527674327</TotalProceedsSalesPriceAmt>
+        <TotalCostOrOtherBasisAmt>2546490026</TotalCostOrOtherBasisAmt>
+        <TotAdjustmentsToGainOrLossAmt>1964212</TotAdjustmentsToGainOrLossAmt>
+        <TotalGainOrLossAmt>-16851487</TotalGainOrLossAmt>
+      </ShortTermCapitalGainAndLossGrp>
+      <LongTermCapitalGainAndLossGrp>
+        <TransactionsNotRptedOn1099BInd>X</TransactionsNotRptedOn1099BInd>
+        <CapitalGainAndLossAssetGrp>
+          <PropertyDesc>AVAILABLE UPON REQUEST</PropertyDesc>
+          <ProceedsSalesPriceAmt>34473025</ProceedsSalesPriceAmt>
+          <CostOrOtherBasisAmt>33526787</CostOrOtherBasisAmt>
+          <AdjustmentsToGainOrLossCd>MOW</AdjustmentsToGainOrLossCd>
+          <AdjustmentsToGainOrLossAmt>-3686432</AdjustmentsToGainOrLossAmt>
+          <GainOrLossAmt>-2740194</GainOrLossAmt>
+        </CapitalGainAndLossAssetGrp>
+        <TotalProceedsSalesPriceAmt>34473025</TotalProceedsSalesPriceAmt>
+        <TotalCostOrOtherBasisAmt>33526787</TotalCostOrOtherBasisAmt>
+        <TotAdjustmentsToGainOrLossAmt>-3686432</TotAdjustmentsToGainOrLossAmt>
+        <TotalGainOrLossAmt>-2740194</TotalGainOrLossAmt>
+      </LongTermCapitalGainAndLossGrp>
+    </IRS8949>
+  </ReturnData>
+</Return>

@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-18T13:37:11-06:00</ReturnTs>
+    <TaxPeriodEndDt>2023-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MILLER COOPER &amp; CO LTD</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1751 Lake Cook Road Suite 400</AddressLine1Txt>
+        <CityNm>Deerfield</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60015</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>263242399</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>North Chicago Community Partners</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% GREEN BAY MANAGEMENT COMPANY</InCareOfNm>
+      <BusinessNameControlTxt>NORT</BusinessNameControlTxt>
+      <PhoneNum>8475821358</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>855 Skokie Highway Suite D</AddressLine1Txt>
+        <CityNm>Lake Bluff</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60044</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Mary Gorter Krey</PersonNm>
+      <PersonTitleTxt>Chairman/Director</PersonTitleTxt>
+      <PhoneNum>8475821358</PhoneNum>
+      <SignatureDt>2023-12-01</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Mary</PersonFirstNm>
+        <PersonLastNm>Gorter Krey</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Kevin Hodges</PreparerPersonNm>
+      <PTIN>P00742715</PTIN>
+      <PhoneNum>8472055000</PhoneNum>
+      <PreparationDt>2023-12-01</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF">
+      <PF60MonthTermSect507b1BInd>X</PF60MonthTermSect507b1BInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2757231</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>3890100</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>25110</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>25110</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>38240</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>38240</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>5125</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>5134</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>5125</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>3958575</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>68475</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>178846</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>178846</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>1811595</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>1811595</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>272340</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>272340</PensionEmplBnftDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">18382</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>18382</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt>15</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>15</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSch">11052</DeprecAndDpltnRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>104284</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>104284</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>2133</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>2133</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">721053</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>0</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>0</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>721053</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>3119700</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>3108648</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>3119700</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>3108648</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>838875</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>68475</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>350</CashBOYAmt>
+        <CashEOYAmt>350</CashEOYAmt>
+        <CashEOYFMVAmt>350</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>1849124</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>2682092</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>2682092</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>2157</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>2621</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>2157</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>2157</AcctRcvblEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>182873</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>138171</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>40598</LandBOYAmt>
+        <LandEOYAmt>44702</LandEOYAmt>
+        <LandEOYFMVAmt>44702</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt>0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt>27930</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt>27930</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1892693</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2757231</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2757231</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabSch">0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabSch">27930</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>27930</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>1640114</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>2537329</NoDonorRstrNetAssestsEOYAmt>
+        <DonorRstrNetAssetsBOYAmt>252579</DonorRstrNetAssetsBOYAmt>
+        <DonorRstrNetAssetsEOYAmt>191972</DonorRstrNetAssetsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1892693</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2729301</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1892693</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2757231</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1892693</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>838875</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2731568</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSch">2267</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2729301</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>81 SHARES OF COCA-COLA CO</PropertyDesc>
+          <SoldDt>2022-12-28</SoldDt>
+          <GrossSalesPriceAmt>5134</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5125</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5125</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>5125</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>952</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>952</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>952</TaxBasedOnInvestmentIncomeAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>952</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentId="BinaryAttach">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentId="BinaryAttach">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="BinaryAttach">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>GREEN BAY MANAGEMENT COMPANY</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8475821358</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>855 SKOKIE HIGHWAY SUITE D</AddressLine1Txt>
+          <CityNm>LAKE BLUFF</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60044</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Mary G Krey</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>c/o Green Bay Management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>lake bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman/Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>James P Gorter</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>c/o Green Bay Management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>Lake Bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.5</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Jennifer K Grumhaus</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O Green Bay management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>Lake Bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Executive Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>178846</CompensationAmt>
+          <EmployeeBenefitProgramAmt>3600</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>480</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Tony Hoban</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O Green Bay Management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>Lake Bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer/Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Kim Taylor-Smith</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O Green Bay Management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>Lake Bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.5</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Jesus Ruiz</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O Green Bay Management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>Lake Bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.5</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Paul Yeh</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O Green Bay Management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>Lake Bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary/Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Graham Cook</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O Green Bay Management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>Lake Bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.5</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Gloria Morgan</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O Green Bay Management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>Lake Bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.5</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Allison Waggoner</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O Green Bay Management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>Lake Bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.5</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Stephen Schutt</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O Green Bay Management Company</AddressLine1Txt>
+            <AddressLine2Txt>855 Skokie Highway Ste D</AddressLine2Txt>
+            <CityNm>Lake Bluff</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.5</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>KELLY GALLEGO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>855 SKOKIE HIGHWAY STE D</AddressLine1Txt>
+            <CityNm>LAKE BLUFF</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>PROGRAM DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>91661</CompensationAmt>
+          <EmployeeBenefitsAmt>1887</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>480</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>LINDSAY APULI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>855 SKOKIE HIGHWAY STE D</AddressLine1Txt>
+            <CityNm>LAKE BLUFF</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>0</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>74000</CompensationAmt>
+          <EmployeeBenefitsAmt>6044</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>480</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>JUAN P ARANGURE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>855 SKOKIE HIGHWAY STE D</AddressLine1Txt>
+            <CityNm>LAKE BLUFF</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>66634</CompensationAmt>
+          <EmployeeBenefitsAmt>7056</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>480</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>BERTHA CASTELLANOS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>855 SKOKIE HIGHWAY STE D</AddressLine1Txt>
+            <CityNm>LAKE BLUFF</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>52079</CompensationAmt>
+          <EmployeeBenefitsAmt>7055</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>480</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>LAUREN GLATT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>855 SKOKIE HIGHWAY STE D</AddressLine1Txt>
+            <CityNm>LAKE BLUFF</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60044</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>66272</CompensationAmt>
+          <EmployeeBenefitsAmt>6604</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>480</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>SEE STATEMENT ATTACHED</Description1Txt>
+        <Expenses1Amt>3108648</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2774109</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>46859</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2820968</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2820968</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>42315</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2778653</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>138933</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>3108648</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>3108648</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>138933</CurrentYearAmt>
+          <TotalAmt>138933</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>118093</CurrentYearAmt>
+          <TotalAmt>118093</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>3108648</CurrentYearAmt>
+          <TotalAmt>3108648</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriNotUsedDrtGrp />
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>3108648</CurrentYearAmt>
+          <TotalAmt>3108648</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <CurrentYearAmt>2757231</CurrentYearAmt>
+          <TotalAmt>2757231</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp />
+        <TotalSupportGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <TotalAmt>0</TotalAmt>
+        </PublicSupportType>
+        <LargestSupportFromEOGrp>
+          <TotalAmt>0</TotalAmt>
+        </LargestSupportFromEOGrp>
+        <GrossInvestmentIncomeGrp>
+          <TotalAmt>0</TotalAmt>
+        </GrossInvestmentIncomeGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>25110</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>38240</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>5125</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>68475</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>68475</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>GORTER FAMILY FOUNDATION</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>855 SKOKIE HWY STE D</AddressLine1Txt>
+          <CityNm>LAKE BLUFF</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60044</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>406693</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>Grainger</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>100 Grainger Parkway</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>68000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>David Mary Grumhaus Fund</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>197 N Green Bay Rd</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>19000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>4</ContributorNum>
+        <ContributorPersonNm>Steans Family Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>50 E Washington St Suite 400</AddressLine1Txt>
+          <CityNm>Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60602</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>155000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>5</ContributorNum>
+        <ContributorPersonNm>John Kathleen Schreiber Foundatio</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>682 Bank Lane Suite 200</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>350000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>6</ContributorNum>
+        <ContributorPersonNm>Bessemer Trust</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>196 Gomez Road</AddressLine1Txt>
+          <CityNm>Hobe Sound</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33455</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>7</ContributorNum>
+        <ContributorPersonNm>The Siragusa Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>ONE EAST WACKER DRIVE SUITE 2910</AddressLine1Txt>
+          <CityNm>Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60601</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>8</ContributorNum>
+        <ContributorPersonNm>Abbvie Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>1 N Waukegan Rd</AddressLine1Txt>
+          <CityNm>North Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60064</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>575000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>9</ContributorNum>
+        <ContributorPersonNm>Goldman Sachs Gives</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>71 South Wacker Drive Suite 500</AddressLine1Txt>
+          <CityNm>Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60606</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>8250</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>10</ContributorNum>
+        <ContributorPersonNm>Hoban Family Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>150 N Riverside Plaza 26th Floor</AddressLine1Txt>
+          <CityNm>Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60606</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>50000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>11</ContributorNum>
+        <ContributorPersonNm>Discover Financial Services</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2500 Lake Cook Road</AddressLine1Txt>
+          <CityNm>Riverwoods</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60015</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>34597</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>12</ContributorNum>
+        <ContributorPersonNm>John H Krehbiel Jr</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>930 East Rosemary Road</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>25000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>13</ContributorNum>
+        <ContributorPersonNm>North Chicago Community School Dist</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2000 Lewis Avenue</AddressLine1Txt>
+          <CityNm>North Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60064</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>700000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>14</ContributorNum>
+        <ContributorPersonNm>William Mynatt</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>1 Corporate Drive Suite 360</AddressLine1Txt>
+          <CityNm>Lake Zurich</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60047</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>15</ContributorNum>
+        <ContributorPersonNm>Slycook LLC</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>99 Stone Gate Ln</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>25000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>16</ContributorNum>
+        <ContributorPersonNm>Fidelity Charitable</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO Box 770001</AddressLine1Txt>
+          <CityNm>Cincinnati</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>45277</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>46956</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>17</ContributorNum>
+        <ContributorPersonNm>Schultz Family Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>604 Walnut Ave</AddressLine1Txt>
+          <CityNm>Lake Bluff</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60044</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>12500</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>18</ContributorNum>
+        <ContributorPersonNm>Schwab Charitable</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>211 Main Street</AddressLine1Txt>
+          <CityNm>San Francisco</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94105</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>15600</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>19</ContributorNum>
+        <ContributorPersonNm>The Benevity Community Impact Fund</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>40 East Main Street Ste 887</AddressLine1Txt>
+          <CityNm>Newark</CityNm>
+          <StateAbbreviationCd>DE</StateAbbreviationCd>
+          <ZIPCd>19711</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10740</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>20</ContributorNum>
+        <ContributorPersonNm>The Blackbaud Giving Fund</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2000 Daniel Island Drive Ste 100</AddressLine1Txt>
+          <CityNm>Charleston</CityNm>
+          <StateAbbreviationCd>SC</StateAbbreviationCd>
+          <ZIPCd>29492</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>26209</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>21</ContributorNum>
+        <ContributorPersonNm>TrustMark Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>400 Field Dr</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>15000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>22</ContributorNum>
+        <ContributorPersonNm>Douglas Allison Waggoner</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>580 Stable Lane</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>13900</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>23</ContributorNum>
+        <ContributorPersonNm>Transform for Kids</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>855 Skokie Hwy Suite D</AddressLine1Txt>
+          <CityNm>Lake Bluff</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60044</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>487829</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>24</ContributorNum>
+        <ContributorPersonNm>Hunter Family Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>222 East Wisconsin Ave Ste 300</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>50000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>25</ContributorNum>
+        <ContributorPersonNm>Abbvie Inc</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>1 N Waukegan Rd</AddressLine1Txt>
+          <CityNm>North Chicago</CityNm>
+          <StateAbbreviationCd>ID</StateAbbreviationCd>
+          <ZIPCd>60064</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5500</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>26</ContributorNum>
+        <ContributorPersonNm>Andy Betsy Rosenfield</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>10 West Deerpath Road</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>27</ContributorNum>
+        <ContributorPersonNm>Butler Family Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>825 South Waukegan Road Suite A8 PM</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>25000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>28</ContributorNum>
+        <ContributorPersonNm>Dick Cindy Morehead</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>905 Barclay Circle</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>7500</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>29</ContributorNum>
+        <ContributorPersonNm>Fulk Family Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>501 Silverside Road Ste 123</AddressLine1Txt>
+          <CityNm>Wilmington</CityNm>
+          <StateAbbreviationCd>DE</StateAbbreviationCd>
+          <ZIPCd>19809</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>250000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>30</ContributorNum>
+        <ContributorPersonNm>Jim Louise Glasser</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>13262 East Saddlerock Road</AddressLine1Txt>
+          <CityNm>Tuscon</CityNm>
+          <StateAbbreviationCd>AZ</StateAbbreviationCd>
+          <ZIPCd>85749</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>31</ContributorNum>
+        <ContributorPersonNm>John Karen Crotty</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>709 Mountain Road</AddressLine1Txt>
+          <CityNm>Lake Bluff</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60044</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>32</ContributorNum>
+        <ContributorPersonNm>JP Morgan Charitable Fund</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>165 Township Line Road Suite 1200</AddressLine1Txt>
+          <CityNm>Jenkintown</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>19046</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>15500</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>33</ContributorNum>
+        <ContributorPersonNm>Liam and Francesca Connell</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>112 West Westminister</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>34</ContributorNum>
+        <ContributorPersonNm>Matt Janet Nagel</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>660 North Green Bay Road</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>35</ContributorNum>
+        <ContributorPersonNm>Mike Lisa Walsh</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>766 North Sheridan Road</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>36</ContributorNum>
+        <ContributorPersonNm>National Philanthropic Trust</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>165 Township Line Road Suite 1200</AddressLine1Txt>
+          <CityNm>Jenkintown</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>19046</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>37</ContributorNum>
+        <ContributorPersonNm>Richard Adams</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>518 E Clear Lake Drive</AddressLine1Txt>
+          <CityNm>Fremont</CityNm>
+          <StateAbbreviationCd>IN</StateAbbreviationCd>
+          <ZIPCd>46737</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>38</ContributorNum>
+        <ContributorPersonNm>Rob Nancy Northrip</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>5906 Kildeer Court</AddressLine1Txt>
+          <CityNm>Long Grove</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60047</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5113</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>39</ContributorNum>
+        <ContributorPersonNm>Roger Mario Christoph</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>Topsfield Farm 1601 Conway Road</AddressLine1Txt>
+          <CityNm>Lake Forest</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60045</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5408</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>40</ContributorNum>
+        <ContributorPersonNm>Sarah Jenson</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>805 Paddock Lane 402</AddressLine1Txt>
+          <CityNm>Libertyville</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60048</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5150</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>41</ContributorNum>
+        <ContributorPersonNm>The American Gift Fund</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO Box 15627</AddressLine1Txt>
+          <CityNm>Wilmington</CityNm>
+          <StateAbbreviationCd>DE</StateAbbreviationCd>
+          <ZIPCd>19580</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>42</ContributorNum>
+        <ContributorPersonNm>Tom Connie Duckworth</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO Box 1757</AddressLine1Txt>
+          <CityNm>Boca Grande</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33921</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>43</ContributorNum>
+        <ContributorPersonNm>United States Treasury</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>Internal Revenue Service</AddressLine1Txt>
+          <CityNm>Kansas City</CityNm>
+          <StateAbbreviationCd>MO</StateAbbreviationCd>
+          <ZIPCd>64999</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>75327</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>44</ContributorNum>
+        <ContributorPersonNm>Vanguard Charitable</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO Box 9509</AddressLine1Txt>
+          <CityNm>Warwick</CityNm>
+          <StateAbbreviationCd>RI</StateAbbreviationCd>
+          <ZIPCd>02889</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>11000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>45</ContributorNum>
+        <ContributorPersonNm>Vivo Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>1124 Loyola Dr</AddressLine1Txt>
+          <CityNm>Libertyville</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60048</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>150000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>18382</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>18382</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAPTOP COMPUTER</PropertyDesc>
+        <AcquiredDt>2008-09-25</AcquiredDt>
+        <CostOrOtherBasisAmt>1680</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1680</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2008-11-01</AcquiredDt>
+        <CostOrOtherBasisAmt>2387</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2387</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER SOFTWARE</PropertyDesc>
+        <AcquiredDt>2009-07-21</AcquiredDt>
+        <CostOrOtherBasisAmt>5681</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>5681</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>2009-07-14</AcquiredDt>
+        <CostOrOtherBasisAmt>1473</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1473</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MINI COMPUTERS</PropertyDesc>
+        <AcquiredDt>2009-09-26</AcquiredDt>
+        <CostOrOtherBasisAmt>2327</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2327</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SHELVING UNIT</PropertyDesc>
+        <AcquiredDt>2009-05-19</AcquiredDt>
+        <CostOrOtherBasisAmt>2201</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2201</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SERVERS</PropertyDesc>
+        <AcquiredDt>2010-02-05</AcquiredDt>
+        <CostOrOtherBasisAmt>10259</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>10259</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>KITCHEN/BATHROOM</PropertyDesc>
+        <AcquiredDt>2010-02-24</AcquiredDt>
+        <CostOrOtherBasisAmt>4906</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1554</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>39</LifeRt>
+        <CurrentYearExpenseAmt>126</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>NEW OFFICE/DOORWAY</PropertyDesc>
+        <AcquiredDt>2010-08-25</AcquiredDt>
+        <CostOrOtherBasisAmt>1690</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>509</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>39</LifeRt>
+        <CurrentYearExpenseAmt>43</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SOFTWARE</PropertyDesc>
+        <AcquiredDt>2013-10-05</AcquiredDt>
+        <CostOrOtherBasisAmt>13440</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13440</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MISC COMPUTERS</PropertyDesc>
+        <AcquiredDt>2014-04-08</AcquiredDt>
+        <CostOrOtherBasisAmt>2139</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2139</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>M5</ComputationMethodTxt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CLOUD 4 GOOD- WEBS</PropertyDesc>
+        <AcquiredDt>2014-05-08</AcquiredDt>
+        <CostOrOtherBasisAmt>12096</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>12096</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2008-09-25</AcquiredDt>
+        <CostOrOtherBasisAmt>4464</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>4464</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SOFTWARE</PropertyDesc>
+        <AcquiredDt>2015-04-21</AcquiredDt>
+        <CostOrOtherBasisAmt>1175</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1175</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2016-03-31</AcquiredDt>
+        <CostOrOtherBasisAmt>900</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>806</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7</LifeRt>
+        <CurrentYearExpenseAmt>94</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SOFTWARE</PropertyDesc>
+        <AcquiredDt>2015-08-06</AcquiredDt>
+        <CostOrOtherBasisAmt>2140</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2140</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SOFTWARE</PropertyDesc>
+        <AcquiredDt>2016-06-01</AcquiredDt>
+        <CostOrOtherBasisAmt>5700</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>5700</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2016-09-28</AcquiredDt>
+        <CostOrOtherBasisAmt>400</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>328</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7</LifeRt>
+        <CurrentYearExpenseAmt>57</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SOFTWARE</PropertyDesc>
+        <AcquiredDt>2016-09-12</AcquiredDt>
+        <CostOrOtherBasisAmt>9200</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>9200</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>2017-03-19</AcquiredDt>
+        <CostOrOtherBasisAmt>1297</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1297</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2016-04-14</AcquiredDt>
+        <CostOrOtherBasisAmt>2140</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2140</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2017-09-22</AcquiredDt>
+        <CostOrOtherBasisAmt>2065</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1401</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7</LifeRt>
+        <CurrentYearExpenseAmt>295</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SERVER EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2017-10-19</AcquiredDt>
+        <CostOrOtherBasisAmt>4227</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3944</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>283</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SOFTWARE &amp; LICENSE</PropertyDesc>
+        <AcquiredDt>2017-11-03</AcquiredDt>
+        <CostOrOtherBasisAmt>1144</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1144</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OFFICE365 SOFTWARE</PropertyDesc>
+        <AcquiredDt>2018-01-05</AcquiredDt>
+        <CostOrOtherBasisAmt>1980</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1980</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>DATA EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2017-11-03</AcquiredDt>
+        <CostOrOtherBasisAmt>3040</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2837</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>203</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>2018-07-15</AcquiredDt>
+        <CostOrOtherBasisAmt>751</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>600</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>150</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>2018-12-07</AcquiredDt>
+        <CostOrOtherBasisAmt>127</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>90</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>25</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>2018-12-16</AcquiredDt>
+        <CostOrOtherBasisAmt>739</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>518</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>148</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SOFTWARE</PropertyDesc>
+        <AcquiredDt>2018-07-26</AcquiredDt>
+        <CostOrOtherBasisAmt>11474</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>11474</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LENOVO LAPTOPS</PropertyDesc>
+        <AcquiredDt>2019-08-09</AcquiredDt>
+        <CostOrOtherBasisAmt>5433</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3170</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAPTOP COMPUTERS</PropertyDesc>
+        <AcquiredDt>2020-03-31</AcquiredDt>
+        <CostOrOtherBasisAmt>731</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>329</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>146</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CLOUD MANAGED SWIT</PropertyDesc>
+        <AcquiredDt>2019-07-25</AcquiredDt>
+        <CostOrOtherBasisAmt>1240</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1205</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+        <CurrentYearExpenseAmt>35</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>GATEWAY SECURITY</PropertyDesc>
+        <AcquiredDt>2019-10-29</AcquiredDt>
+        <CostOrOtherBasisAmt>2349</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2088</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+        <CurrentYearExpenseAmt>261</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2021-06-15</AcquiredDt>
+        <CostOrOtherBasisAmt>4500</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>697</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7</LifeRt>
+        <CurrentYearExpenseAmt>643</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>2021-02-09</AcquiredDt>
+        <CostOrOtherBasisAmt>3767</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1067</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>753</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTERS</PropertyDesc>
+        <AcquiredDt>2016-01-14</AcquiredDt>
+        <CostOrOtherBasisAmt>3534</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3534</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTERS</PropertyDesc>
+        <AcquiredDt>2018-02-22</AcquiredDt>
+        <CostOrOtherBasisAmt>3006</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2605</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>401</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTERS</PropertyDesc>
+        <AcquiredDt>2018-07-23</AcquiredDt>
+        <CostOrOtherBasisAmt>9991</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>7826</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>1998</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAPTOPS</PropertyDesc>
+        <AcquiredDt>2021-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>14871</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1487</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>2974</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2021-11-07</AcquiredDt>
+        <CostOrOtherBasisAmt>9310</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>887</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>7</LifeRt>
+        <CurrentYearExpenseAmt>1330</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTERS</PropertyDesc>
+        <AcquiredDt>2023-03-26</AcquiredDt>
+        <CostOrOtherBasisAmt>2000</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>100</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTERS</PropertyDesc>
+        <AcquiredDt>2023-03-26</AcquiredDt>
+        <CostOrOtherBasisAmt>190</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>10</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LEASEHOLD IMPROVE</PropertyDesc>
+        <AcquiredDt>2022-12-16</AcquiredDt>
+        <CostOrOtherBasisAmt>840</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15</LifeRt>
+        <CurrentYearExpenseAmt>28</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LEASEHOLD IMPROVE</PropertyDesc>
+        <AcquiredDt>2022-12-21</AcquiredDt>
+        <CostOrOtherBasisAmt>600</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15</LifeRt>
+        <CurrentYearExpenseAmt>20</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LEASEHOLD IMPROVE</PropertyDesc>
+        <AcquiredDt>2023-01-04</AcquiredDt>
+        <CostOrOtherBasisAmt>6351</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15</LifeRt>
+        <CurrentYearExpenseAmt>212</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LEASEHOLD IMPROVE</PropertyDesc>
+        <AcquiredDt>2023-01-25</AcquiredDt>
+        <CostOrOtherBasisAmt>6351</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15</LifeRt>
+        <CurrentYearExpenseAmt>176</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSS</Desc>
+        <Amt>2267</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>UTILITIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>16360</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>16360</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SECURITY</Desc>
+        <RevenueAndExpensesPerBooksAmt>1831</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1831</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>20532</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>20532</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CLEANING</Desc>
+        <RevenueAndExpensesPerBooksAmt>6716</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>6716</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REPAIRS &amp; MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>943</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>943</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>11312</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>11312</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>180</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>180</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>26905</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>26905</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>COPYING</Desc>
+        <RevenueAndExpensesPerBooksAmt>20360</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>20360</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>COMPUTER EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>39443</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>39443</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL SERVICE</Desc>
+        <RevenueAndExpensesPerBooksAmt>7165</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>7165</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>HR EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>10882</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>10882</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES &amp; SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>838</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>838</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TRAINING</Desc>
+        <RevenueAndExpensesPerBooksAmt>8857</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>8857</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADMIN COSTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>3758</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3758</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>STORAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1600</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1600</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DEVELOPMENT EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>8454</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>8454</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>VOLUNTEER EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4079</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4079</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MARKETING</Desc>
+        <RevenueAndExpensesPerBooksAmt>25202</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>25202</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2256</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2256</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EQUIPMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>565</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>565</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SCHOOL PROJECTS/PROGRAMS</Desc>
+        <RevenueAndExpensesPerBooksAmt>501494</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>501494</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>145</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>145</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>LOSS ON DISPOSAL OF ASSET</Desc>
+        <RevenueAndExpensesPerBooksAmt>1176</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1176</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>Other Misc Income</Desc>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilitiesDetail>
+        <Desc>LEASE LIABILITY, OPERATING LEASE</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>27930</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+  </ReturnData>
+</Return>

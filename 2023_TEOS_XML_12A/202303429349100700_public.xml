@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-08T06:05:07-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-07-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>271533293</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Morgan &amp; Guthman LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>217 Robert Morgan Road</AddressLine1Txt>
+        <CityNm>Murphysboro</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>62966</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-08-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>376243123</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SMYSOR ELIZABETH CHARITABLE 8455000017</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SMYS</BusinessNameControlTxt>
+      <PhoneNum>6186880851</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>10950 LINCOLN TRAIL</AddressLine1Txt>
+        <CityNm>FAIRVIEW HEIGHTS</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>62208</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>CYNTHIA SIEGEL</PersonNm>
+      <PersonTitleTxt>Vice President</PersonTitleTxt>
+      <SignatureDt>2023-12-08</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>CYNTHIA</PersonFirstNm>
+        <PersonLastNm>SIEGEL</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Matthew W Guthman CPA</PreparerPersonNm>
+      <PTIN>P01022112</PTIN>
+      <PhoneNum>6186873762</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>6443864</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>19</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>19</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>161507</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>161507</DividendsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>-568</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-64086</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2639056</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">6</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>6</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>97446</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>161532</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">3656</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1828</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1828</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">42446</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>21223</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>21223</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">1916</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">784</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>669</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>115</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>48802</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>23720</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>23166</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>264696</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>264696</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>313498</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>23720</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>287862</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-216052</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>137812</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>1486223</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>310777</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>310777</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesEOYAmt>8084</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>8084</PrepaidExpensesEOYFMVAmt>
+        <CorporateStockBOYAmt>657226</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>796340</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1100543</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>3852214</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>4649564</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>5023293</OtherInvestmentsEOYFMVAmt>
+        <LandEOYFMVAmt>1167</LandEOYFMVAmt>
+        <TotalAssetsBOYAmt>5995663</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>5764765</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>6443864</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">14846</OtherLiabilitiesBOYAmt>
+        <TotalLiabilitiesBOYAmt>14846</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>5980817</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>5764765</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>5980817</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>5764765</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>5995663</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>5764765</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>5980817</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-216052</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>5764765</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>5764765</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>2639056</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2703142</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-64086</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-64086</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-64086</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1916</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1916</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1916</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>10000</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>10000</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>8084</OverpaymentAmt>
+        <AppliedToESTaxAmt>8084</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>CYNTHIA SIEGEL</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6186880851</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>10950 LINCOLN TRAIL</AddressLine1Txt>
+          <CityNm>FAIRVIEW HEIGHTS</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>62208</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES A LAWDER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>619 S 19TH ST</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </USAddress>
+          <TitleTxt>GOVERNOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVE GRACE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>205 S RUSSELL</AddressLine1Txt>
+            <CityNm>AVA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62907</ZIPCd>
+          </USAddress>
+          <TitleTxt>GOVERNOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BERT OZBURN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2230 DEWEY ST</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GERALD SPIETH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>MAIN STREET</AddressLine1Txt>
+            <CityNm>AVA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62907</ZIPCd>
+          </USAddress>
+          <TitleTxt>GOVERNOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THOMAS JONES</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7 TWELVE OAKS DRIVE</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BILL WILSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>206 S 5TH DY</AddressLine1Txt>
+            <CityNm>AVA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62907</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SCOTT R MALONEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>66 MAYNOR COURT</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </USAddress>
+          <TitleTxt>GOVERNOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>6221921</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>63008</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>1164</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>6286093</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>6286093</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>94291</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>6191802</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>309590</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>309590</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1916</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1916</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>307674</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>307674</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>307674</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>287862</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>287862</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>307674</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>265044</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>287862</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>265044</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>22818</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>284856</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>ELIZABETH A SMYSOR CHARITABLE TRUST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1166</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6186845911</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>APPLICATION FORMS TO BE OBTAINED FROM ABOVE ADDRESS</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>MARCH 1</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>PROJECTS WITHIN CITY OF MURPHYSBORO AND CITY OF AVA ILLINOIS</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TRICO CUSD176</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 336</AddressLine1Txt>
+            <CityNm>CAMPBELL HILL</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62916</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS, CLASSROOM EQUIPMENT &amp; PERFORMING ARTS SUPPORT.</GrantOrContributionPurposeTxt>
+          <Amt>21000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MURPHYSBORO CUSD186</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 BLACKWOOD DRIVE</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS, CLASSROOM EQUIPMENT, SCHOOL ACTIVITIES, SPECIAL EVENT TRANSPORTATION.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MURPHYSBORO FOOD PANTRY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>906 NORTH 14TH STREET</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REFILL FOOD PANTRY SUPPLIES</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MURPHYSBORO PARK DISTRICT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>710 SOUTH 24TH STREET</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSES OF PARK DISTRICT NEEDS, SIDEWALK IMPROVEMENTS &amp; PROGRAMS.</GrantOrContributionPurposeTxt>
+          <Amt>17000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MURPHYSBORO BASEBALL INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1923 N 7TH ST EXT</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BASEBALL SUPPLIES AND FIELD MAINTENANCE.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CITY OF AVA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>312 WEST MAIN ST</AddressLine1Txt>
+            <CityNm>AVA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62907</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CITY INFRASTRUCTURE IMPROVEMENTS &amp; PARK IMPROVEMENTS. FIRE DEPARTMENT SUPPLIES.</GrantOrContributionPurposeTxt>
+          <Amt>27500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AVA FOOD PANTRY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>AVA</AddressLine1Txt>
+            <CityNm>AVA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62907</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REFILL FOOD PANTRY SUPPLIES</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AVA SENIOR CITIZENS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>AVA</AddressLine1Txt>
+            <CityNm>AVA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62907</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MURPHYSBORO SOCCER INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 664</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SOCCER SUPPLIES, FIELD MAINTENANCE &amp; BUILDING MORTGAGE SUPPORT.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AVA EVERGREEN CEMETERY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>AVA</AddressLine1Txt>
+            <CityNm>AVA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62907</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CEMETERY MAINTENANCE AND GENERAL CARE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FIRST BAPTIST CHURCH OF AVA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>208 SOUTH RUSSELL ST</AddressLine1Txt>
+            <CityNm>AVA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62907</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PERFORMING ARTS SUPPLIES AND EXPENSES. TRICO AREA FOOD FOR YOUTH PROGRAM COSTS.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AVA LITTLE LEAGUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 391</AddressLine1Txt>
+            <CityNm>AVA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62907</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>YOUTH BASEBALL ACTIVITIES.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JOHN A LOGAN MUSEUM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1613 EDITH STREET</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MUSEUM ACTIVITIES &amp; BUILDING IMPROVEMENTS.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>IMMANUEL LUTHERN SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1915 PINE STREET</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSES.</GrantOrContributionPurposeTxt>
+          <Amt>14000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE HISTORIC LIBERTY THEATRE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1603</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AIR CONDITIONING REPAIRS, BUILDING IMPROVEMENTS AND THEATER OPERATIONAL NEEDS.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SALLY LOGAN PUBLIC LIBRARY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1808 WALNUT ST</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NON-RESIDENT FEES AND LIBRARY OPERATIONAL NEEDS.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CITY OF MURPHYSBORO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>202 NORTH 11TH ST</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CITY PLANNING, INFRASTRUCTURE IMPROVEMENTS AND REVITILIZATION NEEDS.</GrantOrContributionPurposeTxt>
+          <Amt>23700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MURPHYSBORO MAIN STREET COMMITTEE I</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1623</AddressLine1Txt>
+            <CityNm>MURPHYSBORO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62966</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MURPHYSBORO MAIN STREET IMPROVEMENT PROJECTS.</GrantOrContributionPurposeTxt>
+          <Amt>50496</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JACKSON CEO PROGRAM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 336</AddressLine1Txt>
+            <CityNm>CAMPBELL HILL</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62916</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL ACTIVITIES OF JACKSON CEO PROGRAM.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALL FOR AVA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>AVA C/O STEVE GRACE</AddressLine1Txt>
+            <CityNm>AVA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62907</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROGRAM SUPPORT TO PROMOTE THE CITY OF AVA.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>264696</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>19</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>161507</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>-568</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-64086</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>ROYALTY INCOME</Desc>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>6</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>96878</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>96878</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION FEE</CategoryTxt>
+        <Amt>3656</Amt>
+        <NetInvestmentIncomeAmt>1828</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1828</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>IL CHARITY FILING FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>15</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>15</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>568</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>568</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SAFE DEPOSIT BOX RENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>201</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>101</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>100</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncomeDetail>
+        <Desc>ROYALTY INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>6</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>6</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>REGIONS BANK - INVESTMENT MANAGEMENT FEE</CategoryTxt>
+        <Amt>42446</Amt>
+        <NetInvestmentIncomeAmt>21223</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>21223</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX 7-31-23</CategoryTxt>
+        <Amt>1916</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

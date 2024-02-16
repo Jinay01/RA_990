@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-04T18:02:56-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-02-28</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>562075834</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>TMI Trust Company</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>115 S 84th St Ste 325</AddressLine1Txt>
+        <CityNm>Milwaukee</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>53214</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-03-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>436765443</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>EMMETT &amp; BEULAH JONES EDUCATIONAL FUND</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>EMME</BusinessNameControlTxt>
+      <PhoneNum>4148753240</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>TMI Trust Co 115 S 84th St</AddressLine1Txt>
+        <CityNm>Milwaukee</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>53214</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Barbara J Suleiman</PersonNm>
+      <PersonTitleTxt>Trust Officer</PersonTitleTxt>
+      <PhoneNum>4148753240</PhoneNum>
+      <SignatureDt>2023-12-04</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Barbara</PersonFirstNm>
+        <PersonLastNm>Suleiman</PersonLastNm>
+      </PersonFullName>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Gordon P Jakus</PreparerPersonNm>
+      <PTIN>P00472581</PTIN>
+      <PhoneNum>4148753224</PhoneNum>
+      <PreparationDt>2023-12-04</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF-01">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>486453</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>9931</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>9931</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="GainLossSaleOtherAssetsSch-01" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">13614</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>52569</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>13614</CapGainNetIncmNetInvstIncmAmt>
+        <GrossProfitRevAndExpnssAmt>0</GrossProfitRevAndExpnssAmt>
+        <OtherIncomeRevAndExpnssAmt>0</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>23545</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>23545</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>5912</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>5912</CompOfcrDirTrstNetInvstIncmAmt>
+        <LegalFeesRevAndExpnssAmt>0</LegalFeesRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt>612</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>612</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt>0</OtherProfFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule-01" referenceDocumentName="TaxesSchedule">1567</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>116</TaxesNetInvstIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>0</DeprecAndDpltnRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt>0</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>8091</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>6028</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>612</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>28254</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>28254</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>36345</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>6028</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>28866</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-12800</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>17517</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>4218</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>8108</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>8108</SavAndTempCashInvstEOYFMVAmt>
+        <RcvblFromOfficersEOYAmt>0</RcvblFromOfficersEOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>0</OtherNtsAndLoansRcvblEOYAmt>
+        <CorporateStockBOYAmt>284578</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedul-01" referenceDocumentName="InvestmentsCorpStockSchedule">277311</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>305312</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>216649</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedul-01" referenceDocumentName="InvestmentsCorpBondsSchedule">206980</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>172562</CorporateBondsEOYFMVAmt>
+        <LandBldgInvestmentsEOYAmt>0</LandBldgInvestmentsEOYAmt>
+        <OtherInvestmentsEOYAmt>0</OtherInvestmentsEOYAmt>
+        <LandEOYAmt>0</LandEOYAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule-01" referenceDocumentName="OtherAssetsSchedule">360</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule-01" referenceDocumentName="OtherAssetsSchedule">471</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule-01" referenceDocumentName="OtherAssetsSchedule">471</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>505805</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>492870</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>486453</TotalAssetsEOYFMVAmt>
+        <LoansFromOfficersEOYAmt>0</LoansFromOfficersEOYAmt>
+        <MortgagesAndNotesPayableEOYAmt>0</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt>0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt>0</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>505805</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>492870</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>505805</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>492870</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>505805</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>492870</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>505805</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-12800</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>493005</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule-01" referenceDocumentName="OtherDecreasesSchedule">135</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>492870</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Long term capital gain/loss - see attached</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-03-31</AcquiredDt>
+          <SoldDt>2023-02-28</SoldDt>
+          <GrossSalesPriceAmt>40000</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>38955</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1045</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>1045</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Long term capital gain divs/distrib - see attached</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-01-01</AcquiredDt>
+          <SoldDt>2023-02-28</SoldDt>
+          <GrossSalesPriceAmt>12569</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12569</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>12569</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>13614</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>243</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>243</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>243</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>900</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>900</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnOverpaymentAmt>-900</OriginalReturnOverpaymentAmt>
+        <OverpaymentAmt>657</OverpaymentAmt>
+        <AppliedToESTaxAmt>244</AppliedToESTaxAmt>
+        <RefundAmt>413</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>TMI Trust Co</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4148753240</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>115 South 84th Street</AddressLine1Txt>
+          <CityNm>Milwaukee</CityNm>
+          <StateAbbreviationCd>WI</StateAbbreviationCd>
+          <ZIPCd>53214</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>TMI Trust Co</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>115 S 84th Street</AddressLine1Txt>
+            <CityNm>Milwaukee</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53214</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>33.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5912</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>494926</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>494926</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>494926</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>7424</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>487502</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>24375</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>24375</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>243</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>243</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>24132</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>24132</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>24132</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>28866</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>28866</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>24132</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>28253</UndistributedIncomePYAmt>
+        <ExcessDistributionCyovYr5Amt>0</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>0</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>0</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>0</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>0</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>28866</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>28253</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>613</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>23519</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>0</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>0</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>0</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>0</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>WILLIAM JEWELL COLLEGE OFFICE - FIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 COLLEGE HILL</AddressLine1Txt>
+            <CityNm>LIBERTY</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>64068</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8167817700</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>FORMS ARE ATTACHED</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>INDIVIDUALS WHO ARE INTERESTED IN CHRISTIAN MINISTRY</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>William Jewell College</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 W College St</AddressLine1Txt>
+            <CityNm>Liberty</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>64068</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>College</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarships(nameswithheld for privacy act)</GrantOrContributionPurposeTxt>
+          <Amt>14127</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>College of the Ozarks</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 Opportunity Ave</AddressLine1Txt>
+            <CityNm>Point Lookout</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65726</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>College</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarships(nameswithheld for privacy act)</GrantOrContributionPurposeTxt>
+          <Amt>14127</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>28254</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>9931</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>13614</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>23545</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>23545</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>14</LineNumberTxt>
+          <RelationshipStatementTxt>Income for Scholarships</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="GainLossSaleOtherAssetsSch-01">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Long term capital gain/loss - see attached</AssetDesc>
+        <AcquiredDt>2014-03</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>40000</GrossSalesPriceAmt>
+        <BasisAmt>38955</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>1045</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Long term capital gain divs/distrib</AssetDesc>
+        <AcquiredDt>2021-01</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>12569</GrossSalesPriceAmt>
+        <BasisAmt>0</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>12569</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedul-01">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>See attached</BondNm>
+        <EOYBookValueAmt>206980</EOYBookValueAmt>
+        <EOYFMVAmt>172562</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedul-01">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>See attached</StockNm>
+        <EOYBookValueAmt>277311</EOYBookValueAmt>
+        <EOYFMVAmt>305312</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule-01">
+      <OtherAssetsScheduleGrp>
+        <Desc>Accrual</Desc>
+        <BOYBookValueAmt>360</BOYBookValueAmt>
+        <EOYBookValueAmt>471</EOYBookValueAmt>
+        <EOYFMVAmt>471</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule-01">
+      <OtherDecreasesDetail>
+        <Desc>Wash Sales adjustment</Desc>
+        <Amt>135</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule-01">
+      <TaxesDetail>
+        <CategoryTxt>FORIEGN TAXES PAID</CategoryTxt>
+        <Amt>116</Amt>
+        <NetInvestmentIncomeAmt>116</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>2021 Fed Tax Due</CategoryTxt>
+        <Amt>551</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>2022 Fed Estimates</CategoryTxt>
+        <Amt>900</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

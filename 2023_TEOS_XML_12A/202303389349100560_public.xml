@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-04T19:56:22-05:00</ReturnTs>
+    <TaxPeriodEndDt>2023-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>872105240</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CLOUD-CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>14831 WHITTIER BLVD 202</AddressLine1Txt>
+        <CityNm>WHITTIER</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>90605</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>952258645</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SOROPTIMIST VILLAGE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SORO</BusinessNameControlTxt>
+      <PhoneNum>5628688044</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>12657 FOREST RD SUITE 47</AddressLine1Txt>
+        <CityNm>NORWALK</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>90650</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>TERESA MOLINA</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>5628688044</PhoneNum>
+      <SignatureDt>2023-11-21</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>TERESA</PersonFirstNm>
+        <PersonLastNm>MOLINA</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>TRIEU NGUYEN</PreparerPersonNm>
+      <PTIN>P02107850</PTIN>
+      <PhoneNum>8554879700</PhoneNum>
+      <PreparationDt>2023-11-22</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="RetDoc12">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc9">387690</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>387690</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>387690</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>387690</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc5">6326</LegalFeesRevAndExpnssAmt>
+        <LegalFeesAdjNetIncmAmt>6326</LegalFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc11">8007</TaxesRevAndExpnssAmt>
+        <TaxesAdjNetIncmAmt>8007</TaxesAdjNetIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc2">28144</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>28144</DeprecAndDpltnAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc7">306292</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesAdjNetIncmAmt>306292</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>348769</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>348769</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>348769</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>348769</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>0</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>38921</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>38921</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>158494</CashBOYAmt>
+        <CashEOYAmt>288600</CashEOYAmt>
+        <CorporateStockBOYAmt>1746564</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">1796564</CorporateStockEOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>1168663</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>1018729</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>149934</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc4">149934</LandEOYAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc6">1436</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc6">1436</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>2056428</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2236534</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>-809</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>-809</AccountsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc10">21365</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc10">21365</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>20556</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>20556</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>2035872</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>2215978</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2035872</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2215978</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2056428</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2236534</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2035872</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>38921</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc8">141185</OtherIncreasesAmt>
+        <SubtotalAmt>2215978</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2215978</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>TERESA MOLINA</IndividualWithBooksNm>
+        <PhoneNum>5628688044</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>12657 FOSTER RD 47</AddressLine1Txt>
+          <CityNm>NORWALK</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90650</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TERESA MOLINA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12657 FOSTER RD 47</AddressLine1Txt>
+            <CityNm>NORWALK</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90650</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GINA AYALA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12657 FOSTER RD 47</AddressLine1Txt>
+            <CityNm>NORWALK</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90650</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VIVIAN FAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12657 FOSTER RD 47</AddressLine1Txt>
+            <CityNm>NORWALK</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90650</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SILVIA YOUNGLOOD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12657 FOSTER RD 47</AddressLine1Txt>
+            <CityNm>NORWALK</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90650</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>0</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>0</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevenueDtl>
+          <Desc>SENIOR HOUSING</Desc>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>387690</ExclusionAmt>
+        </ProgramServiceRevenueDtl>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>387690</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>387690</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <DepreciationSchedule documentId="RetDoc2">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE AND FIXTURES</PropertyDesc>
+        <AcquiredDt>2000-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>66272</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>66272</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MACHINERY AND EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2000-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>13421</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13421</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BULDIING</PropertyDesc>
+        <AcquiredDt>1990-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>394525</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>394525</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>27.5000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2000-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>622489</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>566576</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>39.0000</LifeRt>
+        <CurrentYearExpenseAmt>22636</CurrentYearExpenseAmt>
+        <AdjustedNetIncomeAmt>22636</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>2019-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>52190</CostOrOtherBasisAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>WATER HEATER</PropertyDesc>
+        <AcquiredDt>2019-12-31</AcquiredDt>
+        <CostOrOtherBasisAmt>6250</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>804</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>27.5000</LifeRt>
+        <CurrentYearExpenseAmt>228</CurrentYearExpenseAmt>
+        <AdjustedNetIncomeAmt>228</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>NEW APPLIANCES</PropertyDesc>
+        <AcquiredDt>2023-06-15</AcquiredDt>
+        <CostOrOtherBasisAmt>6950</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>27.5000</LifeRt>
+        <CurrentYearExpenseAmt>11</CurrentYearExpenseAmt>
+        <AdjustedNetIncomeAmt>11</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OTHER FIXTURE</PropertyDesc>
+        <AcquiredDt>2023-06-01</AcquiredDt>
+        <CostOrOtherBasisAmt>6566</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>150DB</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>5269</CurrentYearExpenseAmt>
+        <AdjustedNetIncomeAmt>5269</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY</StockNm>
+        <EOYBookValueAmt>1796564</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc4">
+      <LandEtcGrp>
+        <CostOrOtherBasisAmt>1116473</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1018729</AccumulatedDepreciationAmt>
+        <BookValueAmt>97744</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc5">
+      <LegalFeesGrp>
+        <CategoryTxt>SENIOR HOUSING</CategoryTxt>
+        <LegalFeesAmt>6326</LegalFeesAmt>
+        <AdjustedNetIncomeAmt>6326</AdjustedNetIncomeAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc6">
+      <OtherAssetsScheduleGrp>
+        <Desc>DEPOSITS</Desc>
+        <BOYBookValueAmt>1436</BOYBookValueAmt>
+        <EOYBookValueAmt>1436</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpensesScheduleGrp>
+        <Desc>SENIOR HOUSING</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>AUXILARY ACTIVITIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>3152</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>3152</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2592</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>2592</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>3907</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>3907</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>73</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>73</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1325</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>1325</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WORKERS COMP INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>894</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>894</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WAGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>76562</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>76562</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER HEALTH INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>18495</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>18495</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES AND FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>47</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>47</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WEBSITE</Desc>
+        <RevenueAndExpensesPerBooksAmt>94</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>94</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FLOOR REPAIRS</Desc>
+        <RevenueAndExpensesPerBooksAmt>2118</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>2118</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>APPLIANCE MATERIALS</Desc>
+        <RevenueAndExpensesPerBooksAmt>877</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>877</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FLOOR MATERIALS</Desc>
+        <RevenueAndExpensesPerBooksAmt>8401</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>8401</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAINT MATERIALS</Desc>
+        <RevenueAndExpensesPerBooksAmt>540</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>540</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WINDOW MATERIALS</Desc>
+        <RevenueAndExpensesPerBooksAmt>2026</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>2026</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REPAIRS AND MAINTENACE</Desc>
+        <RevenueAndExpensesPerBooksAmt>14633</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>14633</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>HQS INSPECTION</Desc>
+        <RevenueAndExpensesPerBooksAmt>2205</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>2205</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TEXES AND LICENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>8955</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>8955</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ATTORNEY GENERAL</Desc>
+        <RevenueAndExpensesPerBooksAmt>200</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>200</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UNCATEGORIZED EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1062</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>1062</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UTILITIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>99500</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>99500</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>HEALTH INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>59180</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>59180</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DIVIDEND</Desc>
+        <RevenueAndExpensesPerBooksAmt>-546</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>-546</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc9">
+      <OtherIncomeDetail>
+        <Desc>SENIOR HOUSING</Desc>
+        <RevenueAndExpensesPerBooksAmt>387690</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>387690</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc8">
+      <OtherIncreasesDetail>
+        <Desc>HAP DEPOSITS</Desc>
+        <Amt>6500</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>MONEY MARKET</Desc>
+        <Amt>134685</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc10">
+      <OtherLiabilitiesDetail>
+        <Desc>SECURITY DEPOSIT</Desc>
+        <BOYBookValueAmt>21365</BOYBookValueAmt>
+        <EOYBookValueAmt>21365</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc11">
+      <TaxesDetail>
+        <CategoryTxt>SENIOR HOUSING</CategoryTxt>
+        <Amt>8007</Amt>
+        <AdjustedNetIncomeAmt>8007</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

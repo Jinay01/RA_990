@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-11-29T10:16:18-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>650446918</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ROBERT S ELLENBOGEN CPA PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>15271 NW 60TH AVE SUITE 105</AddressLine1Txt>
+        <CityNm>MIAMI LAKES</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33014</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>510169662</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ROYCE NURSING FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ROYC</BusinessNameControlTxt>
+      <PhoneNum>3059051477</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1500 NW 12TH AVE 7TH FLOOR</AddressLine1Txt>
+        <CityNm>MIAMI</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33136</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>NANCY ROBERTS</PersonNm>
+      <PersonTitleTxt>SEC/TREASURER</PersonTitleTxt>
+      <PhoneNum>3059051477</PhoneNum>
+      <SignatureDt>2023-11-21</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>NANCY</PersonFirstNm>
+        <PersonLastNm>ROBERTS</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ROBERT S ELLENBOGEN CPA</PreparerPersonNm>
+      <PTIN>P01209509</PTIN>
+      <PhoneNum>3055575266</PhoneNum>
+      <PreparationDt>2023-11-29</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF-01">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>235815</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>4122</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>24</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>24</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>8603</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>8603</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="GainLossSaleOtherAssetsSch-01" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">1969</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>73789</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1969</CapGainNetIncmNetInvstIncmAmt>
+        <GrossProfitRevAndExpnssAmt>0</GrossProfitRevAndExpnssAmt>
+        <OtherIncomeRevAndExpnssAmt>0</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>14718</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>10596</TotalNetInvstIncmAmt>
+        <LegalFeesRevAndExpnssAmt>0</LegalFeesRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule-01" referenceDocumentName="AccountingFeesSchedule">4000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1000</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>3000</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedu-01" referenceDocumentName="OtherProfessionalFeesSchedule">3896</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>3896</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule-01" referenceDocumentName="TaxesSchedule">79</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>0</DeprecAndDpltnRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>2290</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>2290</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>4016</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubDsbrsChrtblAmt>4016</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule-01" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">47</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>47</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>14328</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>4896</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>9353</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>12000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>12000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>26328</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>4896</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>21353</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-11610</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>5700</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>1</CashBOYAmt>
+        <CashEOYAmt>1</CashEOYAmt>
+        <CashEOYFMVAmt>1</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>10561</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>8181</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>8181</SavAndTempCashInvstEOYFMVAmt>
+        <RcvblFromOfficersEOYAmt>0</RcvblFromOfficersEOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>0</OtherNtsAndLoansRcvblEOYAmt>
+        <InventoriesBOYAmt>665</InventoriesBOYAmt>
+        <InventoriesEOYAmt>665</InventoriesEOYAmt>
+        <InventoriesEOYFMVAmt>665</InventoriesEOYFMVAmt>
+        <CorporateStockBOYAmt>227118</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedul-01" referenceDocumentName="InvestmentsCorpStockSchedule">226968</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>226968</CorporateStockEOYFMVAmt>
+        <LandBldgInvestmentsEOYAmt>0</LandBldgInvestmentsEOYAmt>
+        <OtherInvestmentsEOYAmt>0</OtherInvestmentsEOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>1399</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>1399</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>0</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2-01" referenceDocumentName="LandEtcSchedule2">0</LandEOYAmt>
+        <LandEOYFMVAmt>0</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt>0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt>0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt>0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>238345</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>235815</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>235815</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>6000</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>5000</AccountsPayableEOYAmt>
+        <LoansFromOfficersEOYAmt>0</LoansFromOfficersEOYAmt>
+        <MortgagesAndNotesPayableEOYAmt>0</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule-01" referenceDocumentName="OtherLiabilitiesSchedule">181</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule-01" referenceDocumentName="OtherLiabilitiesSchedule">79</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>6181</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>5079</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>231009</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>230736</NoDonorRstrNetAssestsEOYAmt>
+        <DonorRstrNetAssetsBOYAmt>1155</DonorRstrNetAssetsBOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>232164</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>230736</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>238345</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>235815</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>232164</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-11610</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule-01" referenceDocumentName="OtherIncreasesSchedule">10182</OtherIncreasesAmt>
+        <SubtotalAmt>230736</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>230736</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>73789</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>71820</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1969</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>1969</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>1969</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>79</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>79</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>79</TaxBasedOnInvestmentIncomeAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>200</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>200</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnOverpaymentAmt>-200</OriginalReturnOverpaymentAmt>
+        <OverpaymentAmt>121</OverpaymentAmt>
+        <AppliedToESTaxAmt>121</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>false</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.ROYCENURSINGFOUNDATION.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>NANCY ROBERTS</IndividualWithBooksNm>
+        <PhoneNum>3059051477</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1500 NW 12TH AVENUE 7TH FLOOR</AddressLine1Txt>
+          <CityNm>MIAMI</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33136</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BARBARA SCHNEIDER-RUSSELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2626 SW 183 AVE</AddressLine1Txt>
+            <CityNm>MIRAMAR</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33029</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.15</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LEILANI KICKLIGHTER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5102 LAUREL CIRCLE</AddressLine1Txt>
+            <CityNm>TAMARAC</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33319</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.15</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NANCY ROBERTS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>15060 EGAN LANE</AddressLine1Txt>
+            <CityNm>HIALEAH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33014</ZIPCd>
+          </USAddress>
+          <TitleTxt>SEC/TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.67</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GARDENIA JUSTO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>578 SW 169 TERRACE</AddressLine1Txt>
+            <CityNm>WESTON</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33326</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.15</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VIOLET KRAMER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1712 N 32 COURT</AddressLine1Txt>
+            <CityNm>HOLLYWOOD</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33021</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.15</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>D JANE MASS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>420 HARDEE RD</AddressLine1Txt>
+            <CityNm>CORAL GABLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33145</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.15</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LYNN PERRINE BOATWRIGHT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>15410 SW 84 AVE</AddressLine1Txt>
+            <CityNm>PALMETTO BAY</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33157</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.15</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NANCY LUTHER FIGLEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>13250 SW 7 CT</AddressLine1Txt>
+            <CityNm>PEMBROKE PINES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33027</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.15</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LORI LOUDERMILK GARCIA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10470 NW 133 ST</AddressLine1Txt>
+            <CityNm>HIALEAH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33018</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.15</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ESTELLE SWANSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9128 VINEYARD LAKE DR</AddressLine1Txt>
+            <CityNm>PLANTATION</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33324</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.15</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>221283</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>8586</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>229869</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>229869</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>3448</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>226421</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>11321</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>11321</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>79</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>79</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>11242</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>11242</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>11242</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>21353</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>21353</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>11242</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>6700</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>0</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>2833</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>0</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>6428</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>15961</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>21353</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>11242</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>10111</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>26072</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>6700</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>19372</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>0</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>2833</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>0</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>6428</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>10111</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>ROYCE NURSING FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15060 EGAN LANE</AddressLine1Txt>
+            <CityNm>MIAMI LAKES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33014</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3059051477</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>SEE ATTACHED APPLICATION</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>SEE ATTACHED APPLICATION</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>SEE ATTACHED APPLICATION</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JAMIE BARBEE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1445 SE 24 TERR</AddressLine1Txt>
+            <CityNm>HOMESTEAD</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33035</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NURSING</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDIES</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OLASTUBOSUN AKINRIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1358 NW 214 TERR</AddressLine1Txt>
+            <CityNm>MIAMI GARDENS</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33169</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NURSING</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDIES</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MICHELLE RAMOS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15521 SW 143 AVE</AddressLine1Txt>
+            <CityNm>MIAMI</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33177</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NURSING</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDIES</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATASHA WILSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>22225 SW 108 AVE</AddressLine1Txt>
+            <CityNm>MIAMI</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33170</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NURSING</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDIES</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LAQUESTA BRAYNEN-BAKER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1375 SW 101 WAY APT 304</AddressLine1Txt>
+            <CityNm>PEMBROKE PINES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NURSING</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDIES</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DENISE VALENTINI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2355 NW 49 LANE</AddressLine1Txt>
+            <CityNm>BOCA RATON</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33431</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NURSING</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDIES</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MAUREEN STOUT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>541 NE 106 ST</AddressLine1Txt>
+            <CityNm>MIAMI SHORES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33138</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NURSING</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDIES</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GENESIS BOTANA-ROJAS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3500 NW 11 CT APT 201</AddressLine1Txt>
+            <CityNm>MIAMI</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NURSING</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDIES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>12000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>24</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>8603</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>1969</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>10596</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>10596</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule-01">
+      <AccountingFeesDetail>
+        <CategoryTxt>ROBERT S ELLENBOGEN, CPA, PA ACCOUNTING</CategoryTxt>
+        <Amt>4000</Amt>
+        <NetInvestmentIncomeAmt>1000</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3000</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="GainLossSaleOtherAssetsSch-01">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PUBLICLY TRADED SECURITIES</AssetDesc>
+        <GrossSalesPriceAmt>73789</GrossSalesPriceAmt>
+        <BasisAmt>71820</BasisAmt>
+        <TotalNetAmt>1969</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedul-01">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>86 ISHARES RUSSELL 1000 GROWTH FD</StockNm>
+        <EOYBookValueAmt>23665</EOYBookValueAmt>
+        <EOYFMVAmt>23665</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>160 ISHARES RUSSELL 1000 VALUE FD</StockNm>
+        <EOYBookValueAmt>25253</EOYBookValueAmt>
+        <EOYFMVAmt>25253</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>123 VANGUARD RUSSELL 1000 ET GRTH</StockNm>
+        <EOYBookValueAmt>8703</EOYBookValueAmt>
+        <EOYFMVAmt>8703</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>140 VANGUARD INTRMDIATE-TERM CORP BD FD</StockNm>
+        <EOYBookValueAmt>11064</EOYBookValueAmt>
+        <EOYFMVAmt>11064</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>215 VANGUARD MORTGAGE-BACKED SEC FD</StockNm>
+        <EOYBookValueAmt>9888</EOYBookValueAmt>
+        <EOYFMVAmt>9888</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1445 ISHARES US TREASURY BD ETF</StockNm>
+        <EOYBookValueAmt>33091</EOYBookValueAmt>
+        <EOYFMVAmt>33091</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>271 ISHARES INC CORE MSCI EMERGING MKTS ETF</StockNm>
+        <EOYBookValueAmt>13358</EOYBookValueAmt>
+        <EOYFMVAmt>13358</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>75 ISHARES TR CORE MSCI INTL DEV</StockNm>
+        <EOYBookValueAmt>4584</EOYBookValueAmt>
+        <EOYFMVAmt>4584</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>138 VANGUARD TOTAL INTERNATL BD ETF</StockNm>
+        <EOYBookValueAmt>6745</EOYBookValueAmt>
+        <EOYFMVAmt>6745</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1364 DOUBLELINE TOTAL RETURN</StockNm>
+        <EOYBookValueAmt>12017</EOYBookValueAmt>
+        <EOYFMVAmt>12017</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>257 MFS VALUE FD CL I</StockNm>
+        <EOYBookValueAmt>12431</EOYBookValueAmt>
+        <EOYFMVAmt>12431</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>344 DELAWARE SMALL CAP CORE FD</StockNm>
+        <EOYBookValueAmt>9340</EOYBookValueAmt>
+        <EOYFMVAmt>9340</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>245 EDGEWOOD GRTH FD</StockNm>
+        <EOYBookValueAmt>9812</EOYBookValueAmt>
+        <EOYFMVAmt>9812</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2006 PIMCO INVESTMENT GRADE CR BD</StockNm>
+        <EOYBookValueAmt>17593</EOYBookValueAmt>
+        <EOYFMVAmt>17593</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>458 GS GQG PARTNERS INTL OPPS FD</StockNm>
+        <EOYBookValueAmt>8404</EOYBookValueAmt>
+        <EOYFMVAmt>8404</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>302.597 OAKMARK INTL FD CL INST</StockNm>
+        <EOYBookValueAmt>8164</EOYBookValueAmt>
+        <EOYFMVAmt>8164</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>663 BLACKROCK EQTY DIVIDEND FD</StockNm>
+        <EOYBookValueAmt>12856</EOYBookValueAmt>
+        <EOYFMVAmt>12856</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2-01">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>MAC BOOK COMPUTER</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1399</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1399</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule-01">
+      <OtherExpensesScheduleGrp>
+        <Desc>WEB DOMAIN</Desc>
+        <RevenueAndExpensesPerBooksAmt>47</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>47</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule-01">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN ON INVESTMENTS</Desc>
+        <Amt>10182</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule-01">
+      <OtherLiabilitiesDetail>
+        <Desc>NET INVESTMENT INCOME TAX</Desc>
+        <BOYBookValueAmt>181</BOYBookValueAmt>
+        <EOYBookValueAmt>79</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedu-01">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>MERRILL LYNCH ADVISORY FEES</CategoryTxt>
+        <Amt>3896</Amt>
+        <NetInvestmentIncomeAmt>3896</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule-01">
+      <TaxesDetail>
+        <CategoryTxt>NET INVESTMENT INCOME TAX</CategoryTxt>
+        <Amt>79</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

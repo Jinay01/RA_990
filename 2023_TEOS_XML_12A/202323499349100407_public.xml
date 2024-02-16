@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-15T09:10:04-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-01-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>264028944</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Rochwarger And Company</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>286B Cedarbridge Ave</AddressLine1Txt>
+        <CityNm>Lakewood</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>08701</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-02-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>261870154</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Dirshu International Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DIRS</BusinessNameControlTxt>
+      <PhoneNum>7329873948</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>911 E County Line Rd</AddressLine1Txt>
+        <CityNm>Lakewood</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>08701</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Moishe Fisher</PersonNm>
+      <PersonTitleTxt>Officer</PersonTitleTxt>
+      <PhoneNum>7329873948</PhoneNum>
+      <SignatureDt>2023-12-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Moishe</PersonFirstNm>
+        <PersonLastNm>Fisher</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Moshe Rochwarger CPA</PreparerPersonNm>
+      <PTIN>P00550802</PTIN>
+      <PhoneNum>7329012280</PhoneNum>
+      <PreparationDt>2023-12-15</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990PF documentId="IRS990PF-01">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>639</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>4458760</ContriRcvdRevAndExpnssAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <GrossProfitRevAndExpnssAmt>0</GrossProfitRevAndExpnssAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2-01" referenceDocumentName="OtherIncomeSchedule2">360682</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>4819442</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>33600</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>33600</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>209263</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>209263</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>108931</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>108931</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt>0</LegalFeesRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt>0</AccountingFeesRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt>0</OtherProfFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt>0</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>0</DeprecAndDpltnRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>77568</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>77568</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>1210062</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>1210062</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>146825</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubDsbrsChrtblAmt>146825</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule-01" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">3179563</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>3179563</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>4965812</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>4965812</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>239237</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>239237</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>5205049</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>5205049</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-385607</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>391735</CashBOYAmt>
+        <CashEOYAmt>639</CashEOYAmt>
+        <CashEOYFMVAmt>639</CashEOYFMVAmt>
+        <RcvblFromOfficersEOYAmt>0</RcvblFromOfficersEOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>0</OtherNtsAndLoansRcvblEOYAmt>
+        <LandBldgInvestmentsEOYAmt>0</LandBldgInvestmentsEOYAmt>
+        <OtherInvestmentsEOYAmt>0</OtherInvestmentsEOYAmt>
+        <LandEOYAmt>0</LandEOYAmt>
+        <OtherAssetsBOYAmt>0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt>0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt>0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>391735</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>639</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>639</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>10219</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>4730</AccountsPayableEOYAmt>
+        <LoansFromOfficersEOYAmt>0</LoansFromOfficersEOYAmt>
+        <MortgagesAndNotesPayableEOYAmt>0</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt>0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt>0</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>10219</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>4730</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>381516</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-4091</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>381516</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>-4091</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>391735</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>639</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>381516</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-385607</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>-4091</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>-4091</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>0</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>false</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>Moishe Fisher</IndividualWithBooksNm>
+        <PhoneNum>7329873948</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>911 E County Line</AddressLine1Txt>
+          <CityNm>Lakewood</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>08701</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Adam Enock</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>74 E 9th Street</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Elimelech Brailofsky</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1191 Buchenwald Court</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Avrohom Steinharter</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>74 E 9th Street</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Ahron Gobioff</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>216 River Ave</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </USAddress>
+          <TitleTxt>Officer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>18.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>33600</CompensationAmt>
+          <EmployeeBenefitProgramAmt>32542</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>A Major event that brings together a large number of the participants of our programs. These students study the Talmud &amp; Jewish law all year &amp; take intensive exams on the material studied. The purpose of the event is to provide them the inspiration they need to continue these studies &amp; exams by meeting fellow students &amp; hearing lectures from world renowned speakers. It also encourages new participants to join our program.</Description1Txt>
+        <Expenses1Amt>3119308</Expenses1Amt>
+        <Description2Txt>Money &amp; other incentives are awarded to many individuals (this year the number was around 775)based on participation &amp; exam scores. The programs &amp; tests are administered around the tri-state area.</Description2Txt>
+        <Expenses2Amt>47189</Expenses2Amt>
+        <Description3Txt>Lectures, primarily in the area of the Code of Jewish Law, are given on a daily basis by prominent &amp; well known Rabbis to groups of rabbinical students &amp; laymen in the Jewish community. These lectures take place all over the United States.</Description3Txt>
+        <Expenses3Amt>437537</Expenses3Amt>
+        <Description4Txt>Chabura Study Groups - An expansion of the original idea of promoting Torah study through a system of bechinos or tests, these study groups are organized to group together those interested in studying specific areas of the talmud. The groups are provided with reference material and they study together. They too participate in a system of tests on what they studied.</Description4Txt>
+        <Expenses4Amt>17972</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>0</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>0</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>0</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>5205049</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>5205049</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>1689201</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>2269454</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>2418401</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>1557045</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1511834</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>9445935</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>5205049</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>5205049</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>14650984</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>1689201</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>12961783</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>2269454</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>2418401</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>1557045</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1511834</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>5205049</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>Moishe Fisher</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>911 E County Line Rd Suite 205</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7329873948</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>Name, address, phone number and examinations for which they want to take.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>None</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>None</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>Ahron Gobioff</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>212 Second St Suite 404B</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7329873948</RecipientPhoneNum>
+        </ApplicationSubmissionInfoGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>Ahron Gobioff</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>212 Second St Suite 404B</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7329873948</RecipientPhoneNum>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Shiras Chaim</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 Pine St</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>7300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Talmud Torah Bais Avrohom</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>915 New Hampshire Ave</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Bais Tova</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>555 Oak Street</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Yeshiva Orchos Chaim</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>410 Oberlin Ave South</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Bais Leah</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 Carey St</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>6367</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Lakewood Cheder School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>725 Vasser Ave</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>11500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Ner Moishe</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>82 Oak St</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Yeshiva Ohr Hachaim</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>198 Ocean Ave</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Keren Chaim Osher</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>425 Oberlin Ave</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Mesivtha Tifereth Jerusalem</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>145 East Broadway</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>3600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Shaarei Tefilah</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>142 Liberty Dr</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religous Services</GrantOrContributionPurposeTxt>
+          <Amt>880</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Mesivta Ohr Yisroel</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>975 West Cross St</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Camp Degel Hatorah</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>116 Glen South</AddressLine1Txt>
+            <CityNm>lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religous Services</GrantOrContributionPurposeTxt>
+          <Amt>2150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Yeshiva Keren Orah</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>64 Monterey Circle</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>13800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Congregation Chasdei Tzvi</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>133 GERRY ST</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11206</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religous Services</GrantOrContributionPurposeTxt>
+          <Amt>1460</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Bais Medrash Mayan Hatorah</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 Milton St</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Shiras Devorah</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>555 Oak St</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>75</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Misaskim</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5805 16th Ave</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11204</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Services</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Chevra Kadisha Yerushalayim Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1428 36th St Ste 225</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11218</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Services</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Tiferes Mordechai</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 McDonald Ave</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11218</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Camp Bnos</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>42 Broadway 14 Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Services</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Project Witness</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>201 Foster Avenue</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11230</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Tiferes Shmuel</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1262 East 9th Street</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11230</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Education</GrantOrContributionPurposeTxt>
+          <Amt>450</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Bais Tefila</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 East 8th Street</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious Services</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Chaburah Study Group</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>601 Private Way</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Individuals</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Individual awards forTalmudic group-researchachievement</GrantOrContributionPurposeTxt>
+          <Amt>130670</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Other American Grants</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>601 Private Way</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>Individuals</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Individual awards foradministering Talmudicstudies</GrantOrContributionPurposeTxt>
+          <Amt>9385</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>239237</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevenueDtl>
+          <Desc>DHB World Siyum</Desc>
+          <RelatedOrExemptFunctionIncmAmt>357341</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <Desc>Shabbos Convention</Desc>
+          <RelatedOrExemptFunctionIncmAmt>3279</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>360620</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>360620</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>The main purpose of this foundation is to promote education of the</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>Bible, Talmud, Code of Law and various other religious works.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>The above income was from the sale of tickets &amp; for charges for accomodations</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>for 2 events that help celebrate the accomplishment of those goals.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB-01">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>David Hofstedter Foundation</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorForeignAddress>
+          <AddressLine1Txt>3625 Dufferin St Suite 500</AddressLine1Txt>
+          <CityNm>Ontario</CityNm>
+          <CountryCd>CA</CountryCd>
+        </ContributorForeignAddress>
+        <TotalContributionsAmt>4396072</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>VMM Zichron Chaim Charity</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorForeignAddress>
+          <AddressLine1Txt>6288 CHEM DEACON Rd</AddressLine1Txt>
+          <CityNm>Montreal</CityNm>
+          <CountryCd>CA</CountryCd>
+        </ContributorForeignAddress>
+        <TotalContributionsAmt>12200</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>Ben and Atara Schechter</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>1252 Hickory St</AddressLine1Txt>
+          <CityNm>Toms River</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>08755</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>22800</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>4</ContributorNum>
+        <ContributorPersonNm>Ari Seidenfeld</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>5 Commonwealth Dr</AddressLine1Txt>
+          <CityNm>Lakewood</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>08701</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>15905</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule-01">
+      <OtherExpensesScheduleGrp>
+        <Desc>Advertising</Desc>
+        <RevenueAndExpensesPerBooksAmt>170</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>170</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Charge</Desc>
+        <RevenueAndExpensesPerBooksAmt>976</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>976</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Computer Services</Desc>
+        <RevenueAndExpensesPerBooksAmt>42498</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>42498</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>75985</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>75985</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Gifts</Desc>
+        <RevenueAndExpensesPerBooksAmt>3303</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3303</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Shipping and Postage</Desc>
+        <RevenueAndExpensesPerBooksAmt>103355</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>103355</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Outside Services</Desc>
+        <RevenueAndExpensesPerBooksAmt>3550</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3550</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Travel</Desc>
+        <RevenueAndExpensesPerBooksAmt>26320</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>26320</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>2458</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2458</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Typing</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Lectures</Desc>
+        <RevenueAndExpensesPerBooksAmt>437537</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>437537</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Translating and Test Writing</Desc>
+        <RevenueAndExpensesPerBooksAmt>8121</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>8121</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Testing Sites</Desc>
+        <RevenueAndExpensesPerBooksAmt>37922</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>37922</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Maintenance &amp; Storage</Desc>
+        <RevenueAndExpensesPerBooksAmt>37297</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>37297</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Program Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>78325</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>78325</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Graphics</Desc>
+        <RevenueAndExpensesPerBooksAmt>4190</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4190</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Credit Card Processing</Desc>
+        <RevenueAndExpensesPerBooksAmt>13854</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>13854</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DHB World Siyum Event</Desc>
+        <RevenueAndExpensesPerBooksAmt>2303702</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2303702</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2-01">
+      <OtherIncomeDetail>
+        <Desc>DHB World Siyum</Desc>
+        <RevenueAndExpensesPerBooksAmt>357403</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Shabbos Convention</Desc>
+        <RevenueAndExpensesPerBooksAmt>3279</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-11-27T13:36:58-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>201753907</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Layman CPA LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>202 W Washington</AddressLine1Txt>
+        <CityNm>Cuba</CityNm>
+        <StateAbbreviationCd>MO</StateAbbreviationCd>
+        <ZIPCd>65453</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>376551347</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>James H Woods III Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JAME</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>PO Box 505</AddressLine1Txt>
+        <CityNm>Cuba</CityNm>
+        <StateAbbreviationCd>MO</StateAbbreviationCd>
+        <ZIPCd>65453</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>James Woods III</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2023-11-27</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>James Woods</PersonFirstNm>
+        <PersonLastNm>III</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Darrell Layman</PreparerPersonNm>
+      <PTIN>P00355123</PTIN>
+      <PhoneNum>5738857323</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>902945</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>21107</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>21107</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>21107</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="GainLossFromSaleOtherAssetsSch">57228</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>158348</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>78335</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>21107</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>21107</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">4290</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4290</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>4290</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>4290</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">9771</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>9771</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>9771</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>9771</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">176</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>176</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>176</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>176</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>14237</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>14237</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>14237</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>14237</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>100000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>100000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>114237</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>14237</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>14237</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>114237</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-35902</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>6870</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>6870</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>300</CashBOYAmt>
+        <CashEOYAmt>300</CashEOYAmt>
+        <CashEOYFMVAmt>300</CashEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>902490</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>902645</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>902645</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">1</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>902790</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>902946</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>902945</TotalAssetsEOYFMVAmt>
+        <DeferredRevenueBOYAmt>129215</DeferredRevenueBOYAmt>
+        <DeferredRevenueEOYAmt>165273</DeferredRevenueEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">1</OtherLiabilitiesBOYAmt>
+        <TotalLiabilitiesBOYAmt>129216</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>165273</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>773574</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>737673</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>773574</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>737673</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>902790</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>902946</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>773574</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-35902</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">1</OtherIncreasesAmt>
+        <SubtotalAmt>737673</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>737673</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>95</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>95</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>95</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>95</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Darrell Layman CPA</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5738857323</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO Box 505</AddressLine1Txt>
+          <CityNm>Cuba</CityNm>
+          <StateAbbreviationCd>MO</StateAbbreviationCd>
+          <ZIPCd>65453</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>James Woods III</PersonNm>
+          <ForeignAddress>
+            <AddressLine1Txt>PO Box 32510</AddressLine1Txt>
+            <CityNm>Devenport</CityNm>
+            <ProvinceOrStateNm>Devenport</ProvinceOrStateNm>
+            <CountryCd>NZ</CountryCd>
+            <ForeignPostalCd>0744</ForeignPostalCd>
+          </ForeignAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>902645</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>300</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>902945</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>902945</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>13544</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>889401</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>44470</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>44470</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>95</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>95</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>44375</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>44375</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>44375</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>114237</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>114237</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>44375</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>135009</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr2Amt>85577</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>70704</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>291290</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>114237</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>44375</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>69862</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>361152</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>135009</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>226143</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>85577</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>70704</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>69862</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Woods Family Charitable Fund DAF</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Schwab Charitable Donor Advised</AddressLine1Txt>
+            <CityNm>Orlando</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32862</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donor Advised Funds</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>100000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>21107</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>57228</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>78335</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>78335</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>4290</Amt>
+        <NetInvestmentIncomeAmt>4290</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>4290</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4290</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="GainLossFromSaleOtherAssetsSch" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BLACKROCK INC</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>22498</GrossSalesPriceAmt>
+        <BasisAmt>6021</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>16477</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BLACKROCK SYSTGEMATIC MULTI STRATEGY</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>11572</GrossSalesPriceAmt>
+        <BasisAmt>12063</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>-491</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BLACKROCK INC</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2023-08</SoldDt>
+        <GrossSalesPriceAmt>15462</GrossSalesPriceAmt>
+        <BasisAmt>15936</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>-474</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>COMMERCE MIDCAP GROWTH FUND</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>5183</GrossSalesPriceAmt>
+        <BasisAmt>5665</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>-482</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EURONEL SVCS INCD</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2023-08</SoldDt>
+        <GrossSalesPriceAmt>12550</GrossSalesPriceAmt>
+        <BasisAmt>14797</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>-2247</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>HONEYWELL INTL INC</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>31933</GrossSalesPriceAmt>
+        <BasisAmt>9296</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>22637</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ISHARES RUSSELL MICAP VALUE</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>24588</GrossSalesPriceAmt>
+        <BasisAmt>24236</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>352</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>KENVUE INC</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2023-08</SoldDt>
+        <GrossSalesPriceAmt>5</GrossSalesPriceAmt>
+        <BasisAmt>2</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>3</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MORGAN STANLEY DEAN WITTER &amp; CO</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>30179</GrossSalesPriceAmt>
+        <BasisAmt>13104</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>17075</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>COMMERCE MIDCAP GROWTH FUND</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <GrossSalesPriceAmt>582</GrossSalesPriceAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>582</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DFA US TRGETED VALUE</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <GrossSalesPriceAmt>928</GrossSalesPriceAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>928</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DFA INTERNATIONAL SMALL COMPANY</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <GrossSalesPriceAmt>311</GrossSalesPriceAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>311</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>HARTFORD MIDCAP FUND</AssetDesc>
+        <AcquiredDt>2022-01</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <GrossSalesPriceAmt>2557</GrossSalesPriceAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>2557</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncreasesDetail>
+        <Desc>Rounding</Desc>
+        <Amt>1</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment Fees</CategoryTxt>
+        <Amt>57</Amt>
+        <NetInvestmentIncomeAmt>57</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>57</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>57</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment Management Fees</CategoryTxt>
+        <Amt>9714</Amt>
+        <NetInvestmentIncomeAmt>9714</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>9714</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>9714</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>Foreign Taxes Withheld</CategoryTxt>
+        <Amt>176</Amt>
+        <NetInvestmentIncomeAmt>176</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>176</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>176</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

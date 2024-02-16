@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-13T15:16:32-05:00</ReturnTs>
+    <TaxPeriodEndDt>2023-07-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>620970323</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ADAMS &amp; PLUCKER CPA'S PLLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 1117</AddressLine1Txt>
+        <CityNm>GREENEVILLE</CityNm>
+        <StateAbbreviationCd>TN</StateAbbreviationCd>
+        <ZIPCd>377441117</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-08-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>621706760</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BARTLETT-PATTERSON CORPORATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BART</BusinessNameControlTxt>
+      <PhoneNum>4236390151</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>119 S MAIN STREET</AddressLine1Txt>
+        <CityNm>GREENEVILLE</CityNm>
+        <StateAbbreviationCd>TN</StateAbbreviationCd>
+        <ZIPCd>37743</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>RAY ADAMS</PersonNm>
+      <PersonTitleTxt>SECRETARY</PersonTitleTxt>
+      <PhoneNum>4236390151</PhoneNum>
+      <SignatureDt>2023-12-12</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>C RAY</PersonFirstNm>
+        <PersonLastNm>ADAMS</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>WHITNEY A BALL</PreparerPersonNm>
+      <PTIN>P00964896</PTIN>
+      <PhoneNum>4236390151</PhoneNum>
+      <PreparationDt>2023-12-12</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc14">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>3339111</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>176</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>176</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>176</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>94248</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>94248</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>94248</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc4">39115</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>50175</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>15996</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc8">800</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>800</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>134339</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>110420</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>95224</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">6031</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>6031</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>6031</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>6031</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc9">1978</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1700</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>1978</TaxesAdjNetIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc3">691</DeprecAndDpltnRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>3933</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>3933</OccupancyDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>12633</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>7731</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>8009</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>9964</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>105109</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>105109</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>117742</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>7731</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>8009</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>115073</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>16597</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>102689</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>87215</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>-24076</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>-23752</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>-23752</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>1041219</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">1030159</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2040864</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>926019</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc6">954043</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1321999</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>26938</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>777</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>26852</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc7">26161</LandEOYAmt>
+        <TotalAssetsBOYAmt>1970014</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1986611</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>3339111</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>1970014</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1986611</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1970014</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1986611</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1970014</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1986611</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1970014</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>16597</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1986611</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1986611</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>15996</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1427</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1427</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1427</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1700</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1700</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>273</OverpaymentAmt>
+        <AppliedToESTaxAmt>273</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>RAY ADAMS</IndividualWithBooksNm>
+        <PhoneNum>4236390151</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>119 S MAIN STREET</AddressLine1Txt>
+          <CityNm>GREENEVILLE</CityNm>
+          <StateAbbreviationCd>TN</StateAbbreviationCd>
+          <ZIPCd>37743</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RONALD W WOODS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>230 W DEPOT STREET</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RAY ADAMS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>119 S MAIN STREET</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WHITNEY A BALL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>119 S MAIN STREET</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>GREENEVILLE/GREENE COUNTY COMMUNITY MINISTRIES</Description1Txt>
+        <Expenses1Amt>59675</Expenses1Amt>
+        <Description2Txt>VARIOUS</Description2Txt>
+        <Expenses2Amt>27609</Expenses2Amt>
+        <Description3Txt>GREENEVILLE/GREENE CO. LIBRARY</Description3Txt>
+        <Expenses3Amt>3500</Expenses3Amt>
+        <Description4Txt>THE OPPORTUNITY HOUSE</Description4Txt>
+        <Expenses4Amt>2500</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3401199</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>-23914</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>3377285</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>3377285</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>50659</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>3326626</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>166331</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>115073</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>115073</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <QualifyingDistributionsAmt>115073</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>115073</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>115073</TotalCorpusAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>87215</CurrentYearAmt>
+          <Year1Amt>84443</Year1Amt>
+          <Year2Amt>80205</Year2Amt>
+          <Year3Amt>81227</Year3Amt>
+          <TotalAmt>333090</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>74133</CurrentYearAmt>
+          <Year1Amt>71777</Year1Amt>
+          <Year2Amt>68174</Year2Amt>
+          <Year3Amt>69043</Year3Amt>
+          <TotalAmt>283127</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>115073</CurrentYearAmt>
+          <Year1Amt>89836</Year1Amt>
+          <Year2Amt>106310</Year2Amt>
+          <Year3Amt>112643</Year3Amt>
+          <TotalAmt>423862</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>115073</CurrentYearAmt>
+          <Year1Amt>89836</Year1Amt>
+          <Year2Amt>106310</Year2Amt>
+          <Year3Amt>112643</Year3Amt>
+          <TotalAmt>423862</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <CurrentYearAmt>3339111</CurrentYearAmt>
+          <Year1Amt>3415460</Year1Amt>
+          <Year2Amt>3534629</Year2Amt>
+          <Year3Amt>2810251</Year3Amt>
+          <TotalAmt>13099451</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <CurrentYearAmt>3339111</CurrentYearAmt>
+          <Year1Amt>3415460</Year1Amt>
+          <Year2Amt>3534629</Year2Amt>
+          <Year3Amt>2810251</Year3Amt>
+          <TotalAmt>13099451</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>C RAY ADAMS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>119 S MAIN STREET</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>4236390151</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>SEE THE ATTACHED MEMO ANSWERING THIS QUESTION.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>SEE THE ATTACHED MEMO ANSWERING THIS QUESTION.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>SEE THE ATTACHED MEMO ANSWERING THIS QUESTION.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREENEVILLEGREENE COUNTY MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 W MCKEE STREET</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROMOTE GREENE COUNTY HISTORY.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREENEVILLEGREENE CO COMM MINIS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>107 NORTH CUTLER ST</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST INDIVIDUALS IN NEED</GrantOrContributionPurposeTxt>
+          <Amt>59675</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITED WAY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 ACADEMY ST</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST THOSE IN NEED.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BOY SCOUTS OF AMERICA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>129 BOONE RIDGE LN</AddressLine1Txt>
+            <CityNm>JOHNSON CITY</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO INSTILL VALUES IN YOUTH AND BUILD</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BALLAD HEALTHCARE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1420 TUSCULUM BLVD</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37745</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST INDIVIDUALS IN NEED.</GrantOrContributionPurposeTxt>
+          <Amt>825</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHILD ADVOCACY CENTER FOR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 MAIN ST</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37818</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE SUPPORT FOR CHILDREN IN T</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPPORTUNITY HOUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>203 N IRISH ST</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37745</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST THOSE IN NEED OF SHELTER.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREENEVILLEGREENE COUNTY LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>210 N MAIN ST</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37745</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACQUIRE BOOKS FOR THE LIBRARY</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>APPA GIRL SCOUT COUNCIL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3175 MIDDLE CREEK RD</AddressLine1Txt>
+            <CityNm>AFTON</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37616</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO INSTILL VALUES IN YOUTH AND BUILD</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOLSTON UM HOME FOR CHILDREN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>404 HOLSTON DR</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE CARE OF YOUNG PEOPLE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YMCA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>404 Y ST</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37745</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST INDIVIDUALS IN COMMUNITY.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MOSHEIM PUBLIC LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>730 MAIN ST</AddressLine1Txt>
+            <CityNm>MOSHEIM</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37818</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACQUIRE BOOKS FOR THE LIBRARY.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BOYS AND GIRLS CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>740 W CHURCH ST</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37745</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST YOUNG PEOPLE IN THE COMMUN</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FREE WILL BAPTIST FAMILY MINISTRY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>90 STANLEY LN</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE CARE FOR FAMILIES.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREENE COUNTY IMAGINATION LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 56</AddressLine1Txt>
+            <CityNm>CHUCKEY</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37641</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROMOTE READING TO YOUNG CHILDREN</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ISAIAH 117 HOUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>409 WEST MAIN STREET</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE CARE OF YOUNG PEOPLE.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VARIOUS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>VARIOUS</AddressLine1Txt>
+            <CityNm>GREENEVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37743</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARI</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROMOTE ANDREW JOHNSON'S NAME</GrantOrContributionPurposeTxt>
+          <Amt>27609</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>105109</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>176</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>94248</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>39115</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>RENT</Desc>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>600</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER</Desc>
+          <ExclusionCd>41</ExclusionCd>
+          <ExclusionAmt>200</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>134339</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>134339</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ADAMS &amp; PLUCKER, CPAS</CategoryTxt>
+        <Amt>6031</Amt>
+        <NetInvestmentIncomeAmt>6031</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>6031</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>6031</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc3">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ROOF</PropertyDesc>
+        <AcquiredDt>2022-06-08</AcquiredDt>
+        <CostOrOtherBasisAmt>26938</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>86</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>39.0000</LifeRt>
+        <CurrentYearExpenseAmt>691</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BANK OF AMERICA CORP</AssetDesc>
+        <AcquiredDt>1992-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-10</SoldDt>
+        <GrossSalesPriceAmt>34179</GrossSalesPriceAmt>
+        <BasisAmt>11060</BasisAmt>
+        <TotalNetAmt>23119</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ATMOS ENERGY</StockNm>
+        <EOYBookValueAmt>43460</EOYBookValueAmt>
+        <EOYFMVAmt>207570</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BANK OF AMERICA CORP.</StockNm>
+        <EOYBookValueAmt>516771</EOYBookValueAmt>
+        <EOYFMVAmt>722248</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHEVRON CORP</StockNm>
+        <EOYBookValueAmt>29193</EOYBookValueAmt>
+        <EOYFMVAmt>127096</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DUKE ENERGY CORP</StockNm>
+        <EOYBookValueAmt>26845</EOYBookValueAmt>
+        <EOYFMVAmt>37989</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EMERSON ELECTRIC CO</StockNm>
+        <EOYBookValueAmt>21134</EOYBookValueAmt>
+        <EOYFMVAmt>54582</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITY RESIDENTIAL</StockNm>
+        <EOYBookValueAmt>35960</EOYBookValueAmt>
+        <EOYFMVAmt>142582</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EVERGY INC. COMMON</StockNm>
+        <EOYBookValueAmt>10184</EOYBookValueAmt>
+        <EOYFMVAmt>30075</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IBM</StockNm>
+        <EOYBookValueAmt>22347</EOYBookValueAmt>
+        <EOYFMVAmt>22091</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>24960</EOYBookValueAmt>
+        <EOYFMVAmt>34896</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KYNDRYL HLDGS INC</StockNm>
+        <EOYBookValueAmt>954</EOYBookValueAmt>
+        <EOYFMVAmt>397</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICROSOFT CORP</StockNm>
+        <EOYBookValueAmt>23043</EOYBookValueAmt>
+        <EOYFMVAmt>101511</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PEPSICO INC.</StockNm>
+        <EOYBookValueAmt>33600</EOYBookValueAmt>
+        <EOYFMVAmt>57093</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PFIZER</StockNm>
+        <EOYBookValueAmt>10019</EOYBookValueAmt>
+        <EOYFMVAmt>10821</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROCTOR &amp; GAMBLE</StockNm>
+        <EOYBookValueAmt>16988</EOYBookValueAmt>
+        <EOYFMVAmt>31282</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROLOGIS INC.</StockNm>
+        <EOYBookValueAmt>20225</EOYBookValueAmt>
+        <EOYFMVAmt>35240</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SOUTHERN CO</StockNm>
+        <EOYBookValueAmt>98097</EOYBookValueAmt>
+        <EOYFMVAmt>289400</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VF CORP</StockNm>
+        <EOYBookValueAmt>5575</EOYBookValueAmt>
+        <EOYFMVAmt>1969</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VERIZON COMMUNICATIONS</StockNm>
+        <EOYBookValueAmt>14574</EOYBookValueAmt>
+        <EOYFMVAmt>10209</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VIATRIS, INC</StockNm>
+        <EOYBookValueAmt>518</EOYBookValueAmt>
+        <EOYFMVAmt>385</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLTOWER INC. REIT</StockNm>
+        <EOYBookValueAmt>19238</EOYBookValueAmt>
+        <EOYFMVAmt>21630</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3M CO</StockNm>
+        <EOYBookValueAmt>20967</EOYBookValueAmt>
+        <EOYFMVAmt>30767</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>9135</EOYBookValueAmt>
+        <EOYFMVAmt>26172</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROCTOR &amp; GAMBLE</StockNm>
+        <EOYBookValueAmt>8783</EOYBookValueAmt>
+        <EOYFMVAmt>23461</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ROYAL DUTCH SHELL</StockNm>
+        <EOYBookValueAmt>8847</EOYBookValueAmt>
+        <EOYFMVAmt>8532</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3M CO.</StockNm>
+        <EOYBookValueAmt>8742</EOYBookValueAmt>
+        <EOYFMVAmt>12866</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc6">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>STRATEGIC BOND FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>14622</BookValueAmt>
+        <EOYFMVAmt>11775</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FRANKLIN GROWTH FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>24317</BookValueAmt>
+        <EOYFMVAmt>37302</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FRANKLIN HIGH YIELD TAX FREE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>12993</BookValueAmt>
+        <EOYFMVAmt>11998</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FRANKLIN STRATEGIC INCOME</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>29090</BookValueAmt>
+        <EOYFMVAmt>22434</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FRANKLIN TOTAL RETURN FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>33099</BookValueAmt>
+        <EOYFMVAmt>26207</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FUNDAMENTAL INVESTORS FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>79228</BookValueAmt>
+        <EOYFMVAmt>103518</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MFS CORPORATE BOND FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>41459</BookValueAmt>
+        <EOYFMVAmt>34770</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MFS INTL NEW DISCOVERY FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>14973</BookValueAmt>
+        <EOYFMVAmt>15530</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BOND FUND OF AMERICA</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>124843</BookValueAmt>
+        <EOYFMVAmt>128688</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CAPITAL INCOME BUILDER FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>50742</BookValueAmt>
+        <EOYFMVAmt>89098</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CAPITAL WORLD GROWTH &amp; INCOME</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>69002</BookValueAmt>
+        <EOYFMVAmt>133520</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>LORD ABBETT SHORT DURATION</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>96405</BookValueAmt>
+        <EOYFMVAmt>85372</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NEW PERSPECTIVE FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>59403</BookValueAmt>
+        <EOYFMVAmt>116089</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WASHINGTON MUTUAL INVESTORS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>105090</BookValueAmt>
+        <EOYFMVAmt>197479</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISHARES CORE S&amp;P</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>33320</BookValueAmt>
+        <EOYFMVAmt>55470</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISHARES DOW JONES US</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>45864</BookValueAmt>
+        <EOYFMVAmt>78403</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISHARES S&amp;P GLOBAL UTILITIES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>31086</BookValueAmt>
+        <EOYFMVAmt>39775</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISHARES TR MSCI</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>25880</BookValueAmt>
+        <EOYFMVAmt>25017</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SECTOR SPDR TRUST UTILITIES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>31392</BookValueAmt>
+        <EOYFMVAmt>58325</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD HIGH YIELD DIV</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>31235</BookValueAmt>
+        <EOYFMVAmt>51229</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc7">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>ROOF</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>26938</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>777</AccumulatedDepreciationAmt>
+        <BookValueAmt>26161</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherIncomeSchedule2 documentId="RetDoc8">
+      <OtherIncomeDetail>
+        <Desc>RENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>600</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>600</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>OTHER</Desc>
+        <RevenueAndExpensesPerBooksAmt>200</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>200</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc9">
+      <TaxesDetail>
+        <CategoryTxt>TAX ON INVESTMENT INCOME</CategoryTxt>
+        <Amt>1700</Amt>
+        <NetInvestmentIncomeAmt>1700</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1700</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>TN SECRETARY OF STATE</CategoryTxt>
+        <Amt>31</Amt>
+        <AdjustedNetIncomeAmt>31</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>INCOME TAX</CategoryTxt>
+        <Amt>247</Amt>
+        <AdjustedNetIncomeAmt>247</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

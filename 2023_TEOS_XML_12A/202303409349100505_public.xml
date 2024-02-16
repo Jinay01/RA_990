@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-06T09:12:12-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>232321605</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KAUNITZ &amp; COMPANY CPAS</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1038 TREXLERTOWN RD</AddressLine1Txt>
+        <CityNm>BREINIGSVILLE</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>18031</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>232805616</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE ZACHARY BARKER CHITTICK FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>GRAN</BusinessNameControlTxt>
+      <PhoneNum>6103956766</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2160 OVERHILL ROAD</AddressLine1Txt>
+        <CityNm>ALLENTOWN</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>18103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>BARBRA BARKER</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2023-11-09</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>BARBRA</PersonFirstNm>
+        <PersonLastNm>BARKER</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>STEVEN KAUNITZ</PreparerPersonNm>
+      <PTIN>P00063883</PTIN>
+      <PhoneNum>6103956766</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1000219</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>20981</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>20981</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>20981</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>80871</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>110323</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>80871</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>101852</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>101852</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>20981</TotalAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">9085</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>9085</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>9085</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">1289</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">16</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>16</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>16</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>10390</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>9101</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>9101</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>37490</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>37490</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>47880</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>9101</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>9101</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>37490</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>53972</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>92751</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>11880</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>23135</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>18415</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>18415</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>1555</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>266</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>266</PrepaidExpensesEOYFMVAmt>
+        <CorporateStockBOYAmt>297992</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">322120</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>788731</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>177243</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">210502</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>192807</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>499925</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>551303</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1000219</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>9320</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>7820</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>9320</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>7820</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>490605</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>543483</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>490605</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>543483</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>499925</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>551303</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>490605</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>53972</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>544577</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">1094</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>543483</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500.000 INTEL CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-09-20</AcquiredDt>
+          <SoldDt>2022-09-13</SoldDt>
+          <GrossSalesPriceAmt>15046</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9546</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5500</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5500</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100.000 APPLE INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-04-01</AcquiredDt>
+          <SoldDt>2022-09-19</SoldDt>
+          <GrossSalesPriceAmt>15305</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>532</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14773</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14773</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>55.000 NOVO-NORDISK A S</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-08-01</AcquiredDt>
+          <SoldDt>2022-09-19</SoldDt>
+          <GrossSalesPriceAmt>5548</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>718</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4830</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4830</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>95.000 NOVO-NORDISK A S</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-08-01</AcquiredDt>
+          <SoldDt>2022-09-19</SoldDt>
+          <GrossSalesPriceAmt>9583</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1241</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8342</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8342</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20.000 MICROSOFT CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1996-12-31</AcquiredDt>
+          <SoldDt>2023-03-16</SoldDt>
+          <GrossSalesPriceAmt>5365</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>142</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5223</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5223</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1000.000 NUVEEN PREFERRED INCOME</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-11-28</AcquiredDt>
+          <SoldDt>2022-03-16</SoldDt>
+          <GrossSalesPriceAmt>6632</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10361</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3729</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3729</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50.000 NOVO-NORDISK A S</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-08-01</AcquiredDt>
+          <SoldDt>2023-03-16</SoldDt>
+          <GrossSalesPriceAmt>6927</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>653</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6274</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6274</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100.000 TJX COMPANIES INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-20</AcquiredDt>
+          <SoldDt>2023-03-16</SoldDt>
+          <GrossSalesPriceAmt>7482</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>947</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6535</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6535</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50.000 TJX COMPANIES INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-20</AcquiredDt>
+          <SoldDt>2023-06-26</SoldDt>
+          <GrossSalesPriceAmt>4095</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>473</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3622</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3622</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>30.000 NOVO-NORDISK A S</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-08-01</AcquiredDt>
+          <SoldDt>2023-06-26</SoldDt>
+          <GrossSalesPriceAmt>4715</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>392</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4323</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4323</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>30.000 APPLE INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-04-01</AcquiredDt>
+          <SoldDt>2023-08-24</SoldDt>
+          <GrossSalesPriceAmt>5333</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>160</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5173</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5173</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50.000 TJX COMPANIES INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-20</AcquiredDt>
+          <SoldDt>2023-08-24</SoldDt>
+          <GrossSalesPriceAmt>4474</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>473</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4001</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4001</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75.000 FORTREA HLDGS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-03-28</AcquiredDt>
+          <SoldDt>2023-08-24</SoldDt>
+          <GrossSalesPriceAmt>2000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2523</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-523</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-523</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20.000 APPLE INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-04-01</AcquiredDt>
+          <SoldDt>2023-08-25</SoldDt>
+          <GrossSalesPriceAmt>3555</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>106</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3449</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3449</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>15.000 STRYKER CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2003-08-21</AcquiredDt>
+          <SoldDt>2023-08-25</SoldDt>
+          <GrossSalesPriceAmt>4151</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>572</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3579</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3579</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10.000 ACCENTURE PLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-05-25</AcquiredDt>
+          <SoldDt>2023-08-25</SoldDt>
+          <GrossSalesPriceAmt>3180</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>281</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2899</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2899</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10.000 MICROSOFT CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1996-12-31</AcquiredDt>
+          <SoldDt>2023-08-25</SoldDt>
+          <GrossSalesPriceAmt>3223</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>71</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3152</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3152</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20.000 NOVO-NORDISK A S</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-08-01</AcquiredDt>
+          <SoldDt>2022-08-25</SoldDt>
+          <GrossSalesPriceAmt>3709</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>261</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3448</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3448</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>80871</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1289</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1289</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1289</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1555</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1555</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>266</OverpaymentAmt>
+        <AppliedToESTaxAmt>266</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>PA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd referenceDocumentId="ExplanationOfNonFilingWithAGSt">false</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>BARBRA BARKER</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6103956766</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>2160 OVERHILL ROAD</AddressLine1Txt>
+          <CityNm>ALLENTOWN</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>18103</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BARBRA BARKER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2160 OVERHILL ROAD</AddressLine1Txt>
+            <CityNm>ALLENTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18103</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>NONE</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>941001</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>25010</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>966011</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>966011</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>14490</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>951521</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>47576</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>37490</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>37490</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>11880</CurrentYearAmt>
+          <Year1Amt>6484</Year1Amt>
+          <Year2Amt>5771</Year2Amt>
+          <Year3Amt>6710</Year3Amt>
+          <TotalAmt>30845</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>10098</CurrentYearAmt>
+          <Year1Amt>5511</Year1Amt>
+          <Year2Amt>4905</Year2Amt>
+          <Year3Amt>5704</Year3Amt>
+          <TotalAmt>26218</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>37490</CurrentYearAmt>
+          <Year1Amt>23450</Year1Amt>
+          <Year2Amt>31525</Year2Amt>
+          <Year3Amt>37050</Year3Amt>
+          <TotalAmt>129515</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>37490</CurrentYearAmt>
+          <Year1Amt>23450</Year1Amt>
+          <Year2Amt>31525</Year2Amt>
+          <Year3Amt>37050</Year3Amt>
+          <TotalAmt>129515</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>31717</CurrentYearAmt>
+          <Year1Amt>33383</Year1Amt>
+          <Year2Amt>32034</Year2Amt>
+          <Year3Amt>27667</Year3Amt>
+          <TotalAmt>124801</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CALIFORNIA POLYTECHNICAL STATE UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 GRAND AVENUE</AddressLine1Txt>
+            <CityNm>SAN LUIS OBISPO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93407</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP IN THE FIELD OF ENGINEERING</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEDONA ARTS CENTER INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 569</AddressLine1Txt>
+            <CityNm>SEDONA</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86339</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROGRAM SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>4500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEDONA INTERNATIONAL FILM FESTIVAL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2030 W STATE ROUTE 89A SUITE A-3</AddressLine1Txt>
+            <CityNm>SEDONA</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86336</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATIONAL WORKSHOPS</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEHIGH VALLEY CENTER FOR INDEPENDEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>713 NORTH 13TH STREET</AddressLine1Txt>
+            <CityNm>ALLENTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SERVICES ANDSUPPORT TOPEOPLE WITH ALLTYPES OFDISABILITIES</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALLENTOWN ART MUSEUM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5TH AND COURT STREETS</AddressLine1Txt>
+            <CityNm>ALLENTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO DRIVEINTERACTION,EDUCATION,EXPERIMENTATIONAND SOCIALCHANGE</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNITED FRIENDS SCHOOL OF THE GREATE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1018 WEST BROAD STREET</AddressLine1Txt>
+            <CityNm>QUAKERTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18951</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VALLEY YOUTH HOUSE COMMITTEE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>829 LINDEN STREET</AddressLine1Txt>
+            <CityNm>ALLENTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SERVICES FORTROUBLED TEENS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PENNSYLVANIA SHAKESPEARE FESTIVAL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2755 STATION AVENUE</AddressLine1Txt>
+            <CityNm>CENTER VALLEY</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18034</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROGRAM FORLEARNINGSHAKESPEARE</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CIVIC THEATRE OF ALLENTOWN PA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>527 N 19TH STREET</AddressLine1Txt>
+            <CityNm>ALLENTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROGRAM FORPERFORMING ARTS</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMMUNITIES IN SCHOOLS OF EASTERN P</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>739 N 12TH STREET</AddressLine1Txt>
+            <CityNm>ALLENTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SURROUND STUDENTS WITH A COMMUNITY OF SUPPORT, EMPOWERING THEM TO STAY IN SCHOOL AND ACHIEVE IN LIFE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEDONA CHAMBER MUSIC SOCIETY INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2030 W STATE RTE 89A SUITE B5</AddressLine1Txt>
+            <CityNm>SEDONA</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86336</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROGRAM FORPERFORMING ARTS</GrantOrContributionPurposeTxt>
+          <Amt>490</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VILLAGE LIBRARY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>207 N WALNUT STREET</AddressLine1Txt>
+            <CityNm>MORGANTOWN</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19543</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT SERVICES OF 19 PUBLIC LIBRARIES IN THE COUNTY OF BERKS</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>37490</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>20981</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>80871</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>101852</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>101852</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <ExplnOfNonFilingWithAGStmt documentId="ExplanationOfNonFilingWithAGSt" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <ExplanationTxt>SINCE THE FOUNDATION RECEIVED LESS THAN $25,000 IN CONTRIBUTIONS DURING ITS MOSTRECENTLY COMPLETED FISCAL YEAR, THE FOUNDATION IS EXEMPT FROM FILING AN IRS 990-PFTAX RETURN WITH THE COMMONWEALTH OF PENNSYLVANIA.</ExplanationTxt>
+    </ExplnOfNonFilingWithAGStmt>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ACCENTURE PLC</StockNm>
+        <EOYBookValueAmt>4786</EOYBookValueAmt>
+        <EOYFMVAmt>55041</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>APPLE INC</StockNm>
+        <EOYBookValueAmt>1331</EOYBookValueAmt>
+        <EOYFMVAmt>46968</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHEVRON CORP</StockNm>
+        <EOYBookValueAmt>10577</EOYBookValueAmt>
+        <EOYFMVAmt>16110</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ECOLAB INC</StockNm>
+        <EOYBookValueAmt>4866</EOYBookValueAmt>
+        <EOYFMVAmt>18381</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>8551</EOYBookValueAmt>
+        <EOYFMVAmt>48504</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MEDTRONIC INC</StockNm>
+        <EOYBookValueAmt>22701</EOYBookValueAmt>
+        <EOYFMVAmt>24450</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICROSOFT CORP</StockNm>
+        <EOYBookValueAmt>4118</EOYBookValueAmt>
+        <EOYFMVAmt>49164</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NIKE INC</StockNm>
+        <EOYBookValueAmt>3472</EOYBookValueAmt>
+        <EOYFMVAmt>30513</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NOVO-NORDISK</StockNm>
+        <EOYBookValueAmt>3264</EOYBookValueAmt>
+        <EOYFMVAmt>46405</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROCTER &amp; GAMBLE CO</StockNm>
+        <EOYBookValueAmt>12720</EOYBookValueAmt>
+        <EOYFMVAmt>30868</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STRYKER CORP</StockNm>
+        <EOYBookValueAmt>5149</EOYBookValueAmt>
+        <EOYFMVAmt>38279</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>T ROWE PRICE GROUP INC</StockNm>
+        <EOYBookValueAmt>1396</EOYBookValueAmt>
+        <EOYFMVAmt>22446</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TJX COMPANIES INC</StockNm>
+        <EOYBookValueAmt>3787</EOYBookValueAmt>
+        <EOYFMVAmt>36992</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNILEVER PLC</StockNm>
+        <EOYBookValueAmt>9903</EOYBookValueAmt>
+        <EOYFMVAmt>15306</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RTX CORP</StockNm>
+        <EOYBookValueAmt>13614</EOYBookValueAmt>
+        <EOYFMVAmt>25812</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>QUALCOMM INC</StockNm>
+        <EOYBookValueAmt>13691</EOYBookValueAmt>
+        <EOYFMVAmt>22906</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LOCKHEED MARTIN CORP COM</StockNm>
+        <EOYBookValueAmt>15752</EOYBookValueAmt>
+        <EOYFMVAmt>33626</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NOVARTIS A G</StockNm>
+        <EOYBookValueAmt>14632</EOYBookValueAmt>
+        <EOYFMVAmt>20096</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ARTHUR J GALLAGHER &amp; CO</StockNm>
+        <EOYBookValueAmt>12968</EOYBookValueAmt>
+        <EOYFMVAmt>34572</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>APPLIED MATERIALS</StockNm>
+        <EOYBookValueAmt>15272</EOYBookValueAmt>
+        <EOYFMVAmt>22914</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JPMORGAN CHASE &amp; CO</StockNm>
+        <EOYBookValueAmt>11655</EOYBookValueAmt>
+        <EOYFMVAmt>14633</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ROCKWELL AUTOMATION</StockNm>
+        <EOYBookValueAmt>18076</EOYBookValueAmt>
+        <EOYFMVAmt>17789</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FISERV INC</StockNm>
+        <EOYBookValueAmt>20071</EOYBookValueAmt>
+        <EOYFMVAmt>24278</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HONEYWELL INTL INC</StockNm>
+        <EOYBookValueAmt>9832</EOYBookValueAmt>
+        <EOYFMVAmt>9397</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LAB CO OF AMER HLDG</StockNm>
+        <EOYBookValueAmt>17361</EOYBookValueAmt>
+        <EOYFMVAmt>15607</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REGIONS FINL CO</StockNm>
+        <EOYBookValueAmt>18207</EOYBookValueAmt>
+        <EOYFMVAmt>14672</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALPHABET INC</StockNm>
+        <EOYBookValueAmt>20638</EOYBookValueAmt>
+        <EOYFMVAmt>27470</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMAZON.COM INC</StockNm>
+        <EOYBookValueAmt>23730</EOYBookValueAmt>
+        <EOYFMVAmt>25532</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD SHORT-TERM CORP BD EFT</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>79974</BookValueAmt>
+        <EOYFMVAmt>75800</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GLOBAL X FDS US PFD ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>26062</BookValueAmt>
+        <EOYFMVAmt>24755</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SCHWAB US TIPS ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>23676</BookValueAmt>
+        <EOYFMVAmt>20656</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SCHWAB EMERGING MARKETS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>35931</BookValueAmt>
+        <EOYFMVAmt>28599</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD SHRT INF PROT SEC INDEX ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>20624</BookValueAmt>
+        <EOYFMVAmt>18952</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SCHWAB SHORT TERM US</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>24235</BookValueAmt>
+        <EOYFMVAmt>24045</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherDecreasesDetail>
+        <Desc>ADJ IN COST BASIS OF CHARLES SCHWAB</Desc>
+        <Amt>1094</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADR PASS THRU FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>16</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>16</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>16</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT FEES</CategoryTxt>
+        <Amt>9085</Amt>
+        <NetInvestmentIncomeAmt>9085</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>9085</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>1289</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

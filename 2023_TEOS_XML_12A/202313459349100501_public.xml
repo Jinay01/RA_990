@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-11T14:32:33-05:00</ReturnTs>
+    <TaxPeriodEndDt>2023-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>112459188</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CULLEN &amp; DANOWSKI LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1650 ROUTE 112</AddressLine1Txt>
+        <CityNm>PORT JEFFERSON STA</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>117763060</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>112774386</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>KIWANIS CLUB OF PATCHOGUE</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>CHARITABLE FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>KIWA</BusinessNameControlTxt>
+      <PhoneNum>6312890938</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+        <CityNm>PATCHOGUE</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11772</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN CONDIT</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <SignatureDt>2023-12-01</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>JOHN</PersonFirstNm>
+        <PersonLastNm>CONDIT</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ROBERT SCHWARZ CPA</PreparerPersonNm>
+      <PTIN>P00094888</PTIN>
+      <PhoneNum>6314733400</PhoneNum>
+      <PreparationDt>2023-12-05</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc5">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>86600</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>7400</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc3">153543</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>153543</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>160943</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>153543</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">4650</AccountingFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc4">75</TaxesRevAndExpnssAmt>
+        <PrintingAndPubRevAndExpnssAmt>5210</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubAdjNetIncmAmt>2426</PrintingAndPubAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2">90190</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesAdjNetIncmAmt>80591</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>100125</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>83017</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>66107</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>66107</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>166232</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>83017</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>66107</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-5289</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>70526</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>91889</CashBOYAmt>
+        <CashEOYAmt>86600</CashEOYAmt>
+        <CashEOYFMVAmt>86600</CashEOYFMVAmt>
+        <TotalAssetsBOYAmt>91889</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>86600</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>86600</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>91889</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>86600</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>91889</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>86600</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>91889</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>86600</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>91889</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-5289</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>86600</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>86600</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>PATCHOGUEKIWANIS.COM</WebsiteAddressTxt>
+        <IndividualWithBooksNm>KIWANIS CLUB OF PATCHOGUE INC</IndividualWithBooksNm>
+        <PhoneNum>6313568465</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+          <CityNm>PATCHOGUE</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11772</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL D'AMBROSIO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>19 PADDOCK LANE</AddressLine1Txt>
+            <CityNm>MEDFORD</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11763</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>J GLEN CHARVAT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>113 NORTH PROSPECT AVE</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOE ILG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RYAN VOLLMUTH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>37 BAYVIEW AVE</AddressLine1Txt>
+            <CityNm>BLUE POINT</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11715</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAUL HERRMANN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>96 MAPLE STREET</AddressLine1Txt>
+            <CityNm>MEDFORD</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11763</ZIPCd>
+          </USAddress>
+          <TitleTxt>PAST PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PATRICK MCPEAK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEPHEN KING</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ERIC BUDZINSKI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GLENN WINTERS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN CONDIT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>341 PHYLLIS DRIVE</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>PAT-MED KEY CLUB</Description1Txt>
+        <Expenses1Amt>18763</Expenses1Amt>
+        <Description2Txt>HOLIDAY FOOD BASKETS</Description2Txt>
+        <Expenses2Amt>8091</Expenses2Amt>
+        <Description3Txt>KIWANIS INT'L KAMP KIWANIS</Description3Txt>
+        <Expenses3Amt>7854</Expenses3Amt>
+        <Description4Txt>CROHN'S AND COLITIS FOUNDATION</Description4Txt>
+        <Expenses4Amt>3000</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>90961</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>90961</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>90961</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1364</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>89597</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>4480</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>4480</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>4480</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>4480</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>4480</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>66107</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>66107</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>4480</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>50644</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>50788</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>40810</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>30201</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>68344</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>240787</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>66107</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>4480</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>61627</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>302414</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>50644</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>251770</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>50788</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>40810</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>30201</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>68344</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>61627</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>PRESIDENTKIWANIS CLUB OF PATCHOGUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6312890938</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>LETTER OF REQUEST STATING NEED</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>EDUCATIONAL &amp; MEDICAL ASSISTANCE; LOCAL AREA RESTRICTIONS</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CROHNS COLITIS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>733 THRID AVE SUITE 510</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDING</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOLIDAY FOOD BASKETS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOOD FOR FAMILIES</GrantOrContributionPurposeTxt>
+          <Amt>8091</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KAMP KIWANIS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHILDREN/FUNDING</GrantOrContributionPurposeTxt>
+          <Amt>7854</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PAT-MED KEY CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>181 BUFFALO AVE</AddressLine1Txt>
+            <CityNm>MEDFORD</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11763</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHILDREN/FUNDING</GrantOrContributionPurposeTxt>
+          <Amt>18763</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAMP PAQUATUCK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2 CHET SWEZEY RD</AddressLine1Txt>
+            <CityNm>CENTER MORICHES</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11934</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDING</GrantOrContributionPurposeTxt>
+          <Amt>2026</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OTHER CONTRIBUTIONS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 605</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDING</GrantOrContributionPurposeTxt>
+          <Amt>23873</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PATCHOGUE YOUNG PROFESSIONALS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>390 BAY AVE</AddressLine1Txt>
+            <CityNm>PATCHOGUE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11772</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONE</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDING</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>66107</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <NetIncomeLossFromSpecialEvtGrp>
+          <RelatedOrExemptFunctionIncmAmt>70526</RelatedOrExemptFunctionIncmAmt>
+        </NetIncomeLossFromSpecialEvtGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>70526</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>70526</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>9</LineNumberTxt>
+          <RelationshipStatementTxt>VARIOUS SPECIAL EVENTS ARE CONDUCTED TO RAISE FUNDS TO SUPPORT THE COMMUNITY EDUCATIONALLY, MEDICALLY, AND TO SUPPORT FAMILIES IN NEED.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>true</RelationshipsNonchrtblEOInd>
+        <RelationshipScheduleDetail>
+          <OrganizationBusinessName>
+            <BusinessNameLine1Txt>KIWANISCLUBOFPATCHOGUE</BusinessNameLine1Txt>
+          </OrganizationBusinessName>
+          <OrganizationTypeDesc>CIVIC/COMMUNITY</OrganizationTypeDesc>
+          <RelationshipDescriptionTxt>SAME MEMBERSHIP</RelationshipDescriptionTxt>
+        </RelationshipScheduleDetail>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>4650</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2">
+      <OtherExpensesScheduleGrp>
+        <Desc>GOLF CLASSIC</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>GREEN FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>25110</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>25110</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>10308</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>10308</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>3679</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>3679</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CHARTER NIGHT</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PRIZES</Desc>
+        <RevenueAndExpensesPerBooksAmt>19500</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>19500</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DINNER EVENT</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TROTS</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>AWARDS/GIFTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>5000</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>5000</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PARTY RENTALS</Desc>
+        <RevenueAndExpensesPerBooksAmt>8997</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>8997</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PERMIT/FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>525</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>525</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FOOD , ENTERTAINMENT&amp; SUPPLIE</Desc>
+        <RevenueAndExpensesPerBooksAmt>7472</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>7472</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CREDIT CARD FEES/BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1389</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>STORAGE UNIT RENTAL</Desc>
+        <RevenueAndExpensesPerBooksAmt>5232</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES AND SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1178</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>1800</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc3">
+      <OtherIncomeDetail>
+        <Desc>GOLF CLASSIC</Desc>
+        <RevenueAndExpensesPerBooksAmt>68356</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>68356</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>CHARTER NIGHT</Desc>
+        <RevenueAndExpensesPerBooksAmt>40729</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>40729</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>TROTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>44458</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>44458</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc4">
+      <TaxesDetail>
+        <CategoryTxt>NYS CHARITIES BUREAU - ANNUAL FI</CategoryTxt>
+        <Amt>75</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-11T08:05:23-06:00</ReturnTs>
+    <TaxPeriodEndDt>2023-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>382426290</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DOLINKA VANNOORD &amp; COMPANY PLLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>360 EAST BELTLINE NE STE 200</AddressLine1Txt>
+        <CityNm>GRAND RAPIDS</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>495061208</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>382646809</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ME DAVENPORT FUND</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>A PRIVATE FOUNDATION INC</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MEDA</BusinessNameControlTxt>
+      <PhoneNum>6164592233</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>360 E BELTLINE NE 200</AddressLine1Txt>
+        <CityNm>GRAND RAPIDS</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>49506</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARCIA SNEDEN</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>6164592233</PhoneNum>
+      <SignatureDt>2023-12-08</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>MARCIA</PersonFirstNm>
+        <PersonLastNm>SNEDEN</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>PATRICK J LEIKERT</PreparerPersonNm>
+      <PTIN>P00111319</PTIN>
+      <PhoneNum>6164592233</PhoneNum>
+      <PreparationDt>2023-12-08</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>17287221</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>620200</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>620200</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>776967</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>5751151</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>776967</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>1397167</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1397167</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>40000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>10000</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>30000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>12538</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>3135</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>9404</PensionEmplBnftDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">34665</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>34665</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">73834</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>73245</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>589</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">24657</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1307</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>9118</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>2279</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>6839</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">4610</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>3174</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>1436</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>199422</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>127805</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>48268</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>816587</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>816587</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1016009</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>127805</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>864855</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>381158</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1269362</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>160543</CashBOYAmt>
+        <CashEOYAmt>320750</CashEOYAmt>
+        <CashEOYFMVAmt>320750</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>390132</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>319396</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>319396</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>3266</PrepaidExpensesBOYAmt>
+        <USGovernmentObligationsBOYAmt>516780</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2210400001">513034</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>513034</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>14792830</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">15692939</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>15692939</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>384664</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">331740</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>331740</CorporateBondsEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>70000</InvstLandCostOrOtherBasisAmt>
+        <LandBldgInvestmentsBOYAmt>65000</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt>70000</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>70000</LandBldgInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>1812</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>1812</LandBldgEquipAccumDeprecAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">39108</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">39362</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">39362</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>16352323</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>17287221</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>17287221</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>10000</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>18150</AccountsPayableEOYAmt>
+        <GrantsPayableEOYAmt>1587</GrantsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">5444</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>10000</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>25181</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>16342323</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>17262040</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>16342323</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>17262040</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>16352323</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>17287221</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>16342323</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>381158</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc2049700001">538559</OtherIncreasesAmt>
+        <SubtotalAmt>17262040</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>17262040</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>5751151</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4974184</CostOrOtherBasisAmt>
+          <GainOrLossAmt>776967</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>776967</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>776967</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>17644</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>17644</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>17644</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>12200</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>12200</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <TaxDueAmt>5444</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>MS MARCIA SNEDEN</IndividualWithBooksNm>
+        <PhoneNum>6164592233</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>360 EAST BELTLINE NE SUITE 200</AddressLine1Txt>
+          <CityNm>GRAND RAPIDS</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>49506</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARCIA A SNEDEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>360 EAST BELTLINE NE</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49506</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE/PRES. &amp; EXEC. DIRE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>12.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>20000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>2310</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY P SULLIVAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>360 EAST BELTLINE NE</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49506</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE/SECR., TREAS.&amp; GRA</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>12.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>20000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>6930</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAITLIN FEELEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>360 EAST BELTLINE NE</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49506</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROB SULLIVAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>360 EAST BELTLINE NE</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49506</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WILLIAM SULLIVAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>360 EAST BELTLINE NE</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49506</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>DAVENPORT UNIVERSITY</Description1Txt>
+        <Expenses1Amt>432687</Expenses1Amt>
+        <Description2Txt>PLANNED PARENTHOOD LEAGUE OF MASSACHUSETTS</Description2Txt>
+        <Expenses2Amt>60000</Expenses2Amt>
+        <Description3Txt>COMMUNITY FOUNDATION OF MARQUETTE COUNTY</Description3Txt>
+        <Expenses3Amt>50000</Expenses3Amt>
+        <Description4Txt>WOMEN'S CENTER</Description4Txt>
+        <Expenses4Amt>50000</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>16820202</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>1028558</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>70000</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>17918760</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>17918760</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>268781</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>17649979</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>882499</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>882499</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>17644</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>17644</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>864855</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>864855</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>864855</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>864855</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>864855</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>864855</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>864855</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>864855</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MARCIA SNEDEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>360 EAST BELTLINE NE</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49506</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6164592233</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>NO SPECIFIC APPLICATION FORMAT BUT MUST SPECIFY TYPE OF ORGANIZATION AND PURPOSE OF REQUEST. ALSO, MUST SUBMIT A BUDGET AND SCHEDULE OF FINANCIAL SUPPORT.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>ANNUALLY BY JUNE 30</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>AWARDS CONCENTRATED IN MICHIGAN AND PRIMARILY FOR EDUCATIONAL PROGRAMS.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COMMUNITY FOUNDATION OF MARQUETTE COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>228 W WASHINGTON ST</AddressLine1Txt>
+            <CityNm>MARQUETTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49855</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>KIDS COVE - MUSIC/FREE PLAY ZONE</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DAVENPORT UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6191 KRAFT AVE SE</AddressLine1Txt>
+            <CityNm>GRAND RAPIDS</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49512</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MED LEGACY ENDOWMENT</GrantOrContributionPurposeTxt>
+          <Amt>432687</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EPISCOPAL DIOCESE OF N MI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>131 E RIDGE ST</AddressLine1Txt>
+            <CityNm>MARQUETTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49855</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>WALKING TOGETHER - TRAVELING EXHIBIT</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FEEDING AMERICA WEST MI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>864 W RIVER CENTER DR SE</AddressLine1Txt>
+            <CityNm>COMSTOCK PARK</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49321</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR FOOD PANTRIES &amp; MOBILE DISTRIBUTIONS IN THE U.P.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PLANNED PARENTHOOD LEAGUE OF MASSACHUSETTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1055 COMMONWEALTH AVENUE</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02215</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PATIENT PILOT EXPERIENCE &amp; CHILDCARE PLANNING PROCESS</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PLANNED PARENTHOOD OF MI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1726 HOWARD ST</AddressLine1Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48216</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>U.P. PATIENT RECRUITMENT &amp; MARKETING - CHOICE EVENT SPONSORSHIP</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SUPERIOR HEALTH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>121 N FRONT ST</AddressLine1Txt>
+            <CityNm>MARQUETTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49855</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>BREAST HEALTH FUND AND ANNUAL GALA SPONSORSHIP</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YMCA OF MQT COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1420 PINE ST</AddressLine1Txt>
+            <CityNm>MARQUETTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49855</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CAPITAL CAMPAIGN FOR FIELD HOUSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CANTERBURY HOUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>721 E HURON ST</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48104</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>BUILDING CAPACITY TO MEET STUDENT NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WOMEN'S CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1310 S FRONT ST</AddressLine1Txt>
+            <CityNm>MARQUETTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49855</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED FUNDS TO BRIDGE COMPENSATE FOR STATE FUNDING CUTS</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROOM AT THE INN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>347 ROCK ST</AddressLine1Txt>
+            <CityNm>MARQUETTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49855</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SALARIES CASE MANAGER &amp; NIGHT-TIME SECURITY</GrantOrContributionPurposeTxt>
+          <Amt>45000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NORTHERN LIGHTS CHILD ADVOCACY CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3210 US HWY 41</AddressLine1Txt>
+            <CityNm>MARQUETTE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49855</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CRITICAL SUPPLIES &amp; MATCHING EVENT</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CARY LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1874 MASSACHUSETTS AVE</AddressLine1Txt>
+            <CityNm>LEXINGTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02420</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CHILDREN'S LIBRARY RENOVATIONS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEXINGTON FOOD PANTRY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 MERIAM ST</AddressLine1Txt>
+            <CityNm>LEXINGTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02420</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPLIES FOR INFANTS</GrantOrContributionPurposeTxt>
+          <Amt>8900</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>816587</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>620200</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>776967</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>1397167</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1397167</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>INTEREST &amp; DIVIDENDS EARNED FROM RECEIVING, HOLDING, MANAGING AND INVESTING FUNDS</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>CAPITAL GAIN REALIZED FROM MANAGING AND INVESTING FUNDS. NOTE: ALL INCOME IS EITHER RE-INVESTED OR GIVEN TO A CHARITABLE PURPOSE AS STATED BY THE ARTICLES OF INCORPORATION.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>34665</Amt>
+        <NetInvestmentIncomeAmt>34665</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORPORATE BONDS</BondNm>
+        <EOYBookValueAmt>331740</EOYBookValueAmt>
+        <EOYFMVAmt>331740</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORPORATE STOCK</StockNm>
+        <EOYBookValueAmt>15692939</EOYBookValueAmt>
+        <EOYFMVAmt>15692939</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtObligationsBookVlEOYAmt>463131</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>463131</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>49903</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>49903</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>PREPAIDS AND ACCRUALS</Desc>
+        <BOYBookValueAmt>39108</BOYBookValueAmt>
+        <EOYBookValueAmt>39362</EOYBookValueAmt>
+        <EOYFMVAmt>39362</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1358</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1222</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>136</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>418</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>376</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>42</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>STIPENDS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1500</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>375</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1125</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1334</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1201</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>133</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN ON INVESTMENTS</Desc>
+        <Amt>538559</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>ACCRUED EXCISE TAX</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>5444</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>73149</Amt>
+        <NetInvestmentIncomeAmt>73149</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER ADVISORY FEES</CategoryTxt>
+        <Amt>685</Amt>
+        <NetInvestmentIncomeAmt>96</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>589</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>PROPERTY TAXES</CategoryTxt>
+        <Amt>1307</Amt>
+        <NetInvestmentIncomeAmt>1307</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX</CategoryTxt>
+        <Amt>23350</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

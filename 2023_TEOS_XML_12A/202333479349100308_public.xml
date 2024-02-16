@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-13T12:03:56-06:00</ReturnTs>
+    <TaxPeriodEndDt>2023-01-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>331197384</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ANDERSEN TAX LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1177 AVENUE OF THE AMERICAS 18TH</AddressLine1Txt>
+        <AddressLine2Txt>FLOOR</AddressLine2Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10036</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-02-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>133766973</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE STONY POINT FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O ANDERSEN TAX</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>STON</BusinessNameControlTxt>
+      <PhoneNum>6462135100</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1177 6TH AVE 18TH FLOOR</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10036</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>FRANCES VS DOWNING</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>2128718504</PhoneNum>
+      <SignatureDt>2023-12-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>FRANCES</PersonFirstNm>
+        <PersonLastNm>VS DOWNING</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MICHAEL VANDELOO</PreparerPersonNm>
+      <PTIN>P01458923</PTIN>
+      <PhoneNum>6462135100</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>17029970</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>139710</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>139710</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>2483333</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>4486208</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2483333</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">-15006</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-15006</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>2608037</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>2608037</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>50000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>50000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">3500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1750</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1750</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">19756</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>19756</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <InterestRevAndExpnssAmt>13217</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>13217</InterestNetInvstIncmAmt>
+        <InterestDsbrsChrtblAmt>0</InterestDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">31319</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>319</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>750</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">107144</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>106847</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>224936</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>141889</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>52500</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>871375</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>871375</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1096311</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>141889</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>923875</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1511726</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>2466148</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>334837</CashBOYAmt>
+        <CashEOYAmt>86145</CashEOYAmt>
+        <CashEOYFMVAmt>86145</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>260032</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1106580</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1106660</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>2679001</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">2509064</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3274745</CorporateStockEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">9399241</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">9952766</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">12562420</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>12673111</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>13654555</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>17029970</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">469100</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">19500</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>469100</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>19500</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>12204011</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>13635055</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>0</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>0</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>12204011</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>13635055</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>12673111</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>13654555</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>12204011</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1511726</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>13715737</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">80682</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>13635055</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB #2033</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>769799</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>732295</CostOrOtherBasisAmt>
+          <GainOrLossAmt>37504</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>37504</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>JP MORGAN #5007</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>2392172</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2579678</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-187506</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-187506</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GOLDMAN SACHS #71214</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>1324237</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>690030</CostOrOtherBasisAmt>
+          <GainOrLossAmt>634207</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>634207</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FROM K-1: SPECIAL OPPORTUNITIES FUND V</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>37642</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>37642</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FROM K-1: TIGER GLOBAL VI</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>1686</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1686</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FROM K-1: TIGER GLOBAL XII</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>52629</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>52629</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FROM K-1: WHALE ROCK FLAGSHIP FUND LP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>-264863</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-264863</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FROM K-1: GREENBRIAR EQUITY FUND IV-A LP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>2172034</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2172034</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>2483333</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>34279</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>34279</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>34279</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>25713</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>35000</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>60713</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>26434</OverpaymentAmt>
+        <AppliedToESTaxAmt>26434</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>ANDERSEN TAX LLC</IndividualWithBooksNm>
+        <PhoneNum>6462135100</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1177 6TH AVE 18TH FLOOR</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10036</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN O DOWNING</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O ANDERSEN TAX 1177 6TH AVE 18TH</AddressLine1Txt>
+            <AddressLine2Txt>FLOOR</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FRANCES VS DOWNING</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O ANDERSEN TAX 1177 6TH AVE 18TH</AddressLine1Txt>
+            <AddressLine2Txt>FLOOR</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>30.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>50000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>PLEASE NOTE, THE FOUNDATION IS NOT INVOLVED IN ANY DIRECTCHARITABLE ACTIVITIES. ITS PRIMARY PURPOSE IS TO SUPPORT OTHER ORGANIZATIONS EXEMPT UNDER INTERNAL REVENUE CODE SECTION 501(C)(3).</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3198285</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>1361133</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>13463920</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>18023338</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>18023338</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>270350</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>17752988</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>887649</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>887649</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>34279</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>34279</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>853370</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>853370</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>853370</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>923875</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>923875</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>853370</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>23276</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>923875</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>23276</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>853370</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>47229</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>47229</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>47229</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>47229</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JOHN O DOWNING</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEE STATEMENT ATTACHED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>C/O ANDERSEN TAX 1177 6TH AVE 18TH</AddressLine1Txt>
+            <AddressLine2Txt>FLOOR</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>871375</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>871375</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <BusinessCd>523000</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>139710</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>523000</BusinessCd>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>2483333</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>MISCELLANEOUS INCOME</Desc>
+          <BusinessCd>523000</BusinessCd>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>-15006</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>2608037</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>2608037</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>3500</Amt>
+        <NetInvestmentIncomeAmt>1750</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1750</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHARLES SCHWAB - SECURITIES</StockNm>
+        <EOYBookValueAmt>593403</EOYBookValueAmt>
+        <EOYFMVAmt>685421</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JP MORGAN - SECURITIES</StockNm>
+        <EOYBookValueAmt>1914801</EOYBookValueAmt>
+        <EOYFMVAmt>2303051</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GOLDMAN SACHS - SECURITIES</StockNm>
+        <EOYBookValueAmt>860</EOYBookValueAmt>
+        <EOYFMVAmt>286273</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>1251 CAPITAL</Desc>
+        <BOYBookValueAmt>750000</BOYBookValueAmt>
+        <EOYBookValueAmt>785000</EOYBookValueAmt>
+        <EOYFMVAmt>1047500</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>ALTIMETER GROWTH PARTNERS FUND VI LP</Desc>
+        <BOYBookValueAmt>738769</BOYBookValueAmt>
+        <EOYBookValueAmt>831772</EOYBookValueAmt>
+        <EOYFMVAmt>720358</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>CDK GLOBAL SELECT FUND D USD</Desc>
+        <BOYBookValueAmt>432475</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>CHILDRENS INVESTMENT FUND</Desc>
+        <BOYBookValueAmt>1513067</BOYBookValueAmt>
+        <EOYBookValueAmt>1255512</EOYBookValueAmt>
+        <EOYFMVAmt>3458480</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>GREENBRIAR EQUITY FUND</Desc>
+        <BOYBookValueAmt>804229</BOYBookValueAmt>
+        <EOYBookValueAmt>456341</EOYBookValueAmt>
+        <EOYFMVAmt>1337723</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>JMI EQUITY FUND X-B LP</Desc>
+        <BOYBookValueAmt>404233</BOYBookValueAmt>
+        <EOYBookValueAmt>692817</EOYBookValueAmt>
+        <EOYFMVAmt>841321</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>LIO HOLDINGS LLC</Desc>
+        <BOYBookValueAmt>185625</BOYBookValueAmt>
+        <EOYBookValueAmt>475000</EOYBookValueAmt>
+        <EOYFMVAmt>449174</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>LUXOR CAPITAL PARTNERS</Desc>
+        <BOYBookValueAmt>102908</BOYBookValueAmt>
+        <EOYBookValueAmt>102908</EOYBookValueAmt>
+        <EOYFMVAmt>14834</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>SPECIAL OPP FUND V</Desc>
+        <BOYBookValueAmt>401305</BOYBookValueAmt>
+        <EOYBookValueAmt>536560</EOYBookValueAmt>
+        <EOYFMVAmt>527274</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>TIGER GLOBAL PVT INVT VI, LP</Desc>
+        <BOYBookValueAmt>2042370</BOYBookValueAmt>
+        <EOYBookValueAmt>1289307</EOYBookValueAmt>
+        <EOYFMVAmt>385309</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>TIGER GLOBAL XII</Desc>
+        <BOYBookValueAmt>815828</BOYBookValueAmt>
+        <EOYBookValueAmt>851505</EOYBookValueAmt>
+        <EOYFMVAmt>1112962</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>VIDA VENTURES III LP</Desc>
+        <BOYBookValueAmt>109857</BOYBookValueAmt>
+        <EOYBookValueAmt>202288</EOYBookValueAmt>
+        <EOYFMVAmt>202288</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>WHALE ROCK FLAGSHIP FUND</Desc>
+        <BOYBookValueAmt>1098575</BOYBookValueAmt>
+        <EOYBookValueAmt>827161</EOYBookValueAmt>
+        <EOYFMVAmt>752263</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>DIAMETER OFFSHORE FUND</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>1400000</EOYBookValueAmt>
+        <EOYFMVAmt>1414404</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>HENDERSON PARK REAL ESTATE OFFSHORE ACCESS FUND II</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>254854</EOYBookValueAmt>
+        <EOYFMVAmt>309089</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>JMI EQUITY FUND XI-B LP</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>-8259</EOYBookValueAmt>
+        <EOYFMVAmt>-10559</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED INCOME/LOSS &amp; TIMING DIFFERENCES</Desc>
+        <Amt>80682</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL TAXES</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PORTFOLIO DEDUCTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>106847</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>106847</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER MISCELLANEOUS EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>297</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>MISCELLANEOUS INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>-15006</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-15006</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>-15006</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>PENDING TRANSACTIONS</Desc>
+        <BOYBookValueAmt>469100</BOYBookValueAmt>
+        <EOYBookValueAmt>19500</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT FEES - JPM #5007</CategoryTxt>
+        <Amt>19740</Amt>
+        <NetInvestmentIncomeAmt>19740</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>ADR FEES - JPM #5007</CategoryTxt>
+        <Amt>16</Amt>
+        <NetInvestmentIncomeAmt>16</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>NYC UBT - JPM #3271</CategoryTxt>
+        <Amt>250</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>NYCHAR 500 - GS #71214</CategoryTxt>
+        <Amt>750</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>750</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN - JPM #5007</CategoryTxt>
+        <Amt>167</Amt>
+        <NetInvestmentIncomeAmt>167</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN - FROM K-1S</CategoryTxt>
+        <Amt>152</Amt>
+        <NetInvestmentIncomeAmt>152</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>990-PF / 990-T - JPM #3271</CategoryTxt>
+        <Amt>30000</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-20T09:45:51-00:00</ReturnTs>
+    <TaxPeriodEndDt>2023-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>352390688</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Select Fiduciary LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO Box 420</AddressLine1Txt>
+        <CityNm>Rootstown</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>44272</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>046198798</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Fisher-Renkert Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FISH</BusinessNameControlTxt>
+      <PhoneNum>3304844887</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1201 Millerton St SE</AddressLine1Txt>
+        <CityNm>Canton</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>44707</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Guy Renkert</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <PhoneNum>3304844887</PhoneNum>
+      <SignatureDt>2023-12-20</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Guy</PersonFirstNm>
+        <PersonLastNm>Renkert</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Robin L Riemenschneider</PreparerPersonNm>
+      <PTIN>P00074066</PTIN>
+      <PhoneNum>3307770600</PhoneNum>
+      <PreparationDt>2023-12-20</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="990PF" softwareId="22015461" softwareVersionNum="22.0.1.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1962949</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>35840</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>35840</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>9771</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>63047</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>9771</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>45611</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>45611</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="990PF:112">850</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>425</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>425</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="990PF:113">9347</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>9347</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="990PF:114">1350</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="990PF:115">200</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>200</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>11747</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>9772</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>625</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>105000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>105000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>116747</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>9772</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>105625</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-71136</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>35839</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>105864</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>138404</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>138404</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>843046</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="990PF:122">789769</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1679396</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>200714</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="990PF:123">150315</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>145149</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1149624</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1078488</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1962949</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>2923451</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>2923451</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>-1773827</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-1844963</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1149624</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1078488</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1149624</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1078488</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1149624</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-71136</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1078488</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1078488</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>63047</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>53276</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9771</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9771</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>9771</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>498</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>498</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>498</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>825</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>825</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnTaxPaidAmt>825</OriginalReturnTaxPaidAmt>
+        <OverpaymentAmt>327</OverpaymentAmt>
+        <AppliedToESTaxAmt>327</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OH</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>None</WebsiteAddressTxt>
+        <IndividualWithBooksNm>Guy F Renkert</IndividualWithBooksNm>
+        <PhoneNum>3304844887</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1201 Millerton St SE</AddressLine1Txt>
+          <CityNm>Canton</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>44707</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Guy F Renkert</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1201 Millerton St SE</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44707</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>002.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Steve Renkert</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1201 Millerton St SE</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44707</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>002.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>None</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>None</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1761956</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>78104</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1840060</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1840060</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>27601</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1812459</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>90623</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>90623</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>498</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>498</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>90125</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>90125</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>90125</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt referenceDocumentId="990PF:151">105625</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>105625</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>90125</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>38023</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr3Amt>18730</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr1Amt>1957</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>58710</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>105625</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>90125</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>15500</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>74210</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>38023</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>36187</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>18730</ExcessFromYear3Amt>
+        <ExcessFromYear1Amt>1957</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>15500</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Steve Renkert</ContributingManagerNm>
+        <ShareholderManagerNm>NA</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>Guy Renkert</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 9240</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>447119240</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3304844887</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>Must be submitted in writing</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>None</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>None</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Akron Canton Regional Foodbank</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>350 Opportunity Parkway</AddressLine1Txt>
+            <CityNm>Akron</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>443072234</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Arts in Stark</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 21190</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Canton Symphony Orchestra</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2331 17th St NW</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44708</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Community Drop-In Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 22073</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Early Childhood Resource Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1718 Cleveland Ave NW</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44703</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Habitat for Humanity of Greater Stark &amp; Carroll Counties</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2800 Leemont Avenue NW</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>447093245</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Hannah's House 119</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>213 Nassau St E</AddressLine1Txt>
+            <CityNm>East Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44730</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JR Coleman Family Services</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1731 Grace Avenue NE</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>447052261</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Margaret B Shipley Child Health Clinic</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>919 2nd St NE</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44704</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Musical Arts Association</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11001 Euclid Ave</AddressLine1Txt>
+            <CityNm>Cleveland</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Pathway Caring for Children</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4895 Dressler Rd NW</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44718</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Pegasus Farm Equestrian Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7490 Edison Street NE</AddressLine1Txt>
+            <CityNm>Hartville</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44632</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Rahab Ministries</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>901 Tuscarawas St E</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44707</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Refuge of Hope Ministries</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>405 3rd St NE</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44702</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Smith College Trustees</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>33 Elm Street College Hall 204</AddressLine1Txt>
+            <CityNm>Northampton</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01063</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Tile Heritage Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1850</AddressLine1Txt>
+            <CityNm>Healdsburg</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>954481850</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Total Living Center Ministries</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2221 Ninth Street SW</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44706</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>United Way of Greater Stark County</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 Market Ave N Ste 300</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44702</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>William McKinley Presidential Library Museum</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 McKinley Monument Dr NW</AddressLine1Txt>
+            <CityNm>Canton</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44708</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Grant</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>105000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>35840</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>9771</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>45611</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>45611</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:112" softwareId="22015461" softwareVersionNum="22.0.1.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Select Fiduciary</CategoryTxt>
+        <Amt>850</Amt>
+        <NetInvestmentIncomeAmt>425</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>425</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="990PF:123" softwareId="22015461" softwareVersionNum="22.0.1.0">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50000 Analog Devices 3.50 2026-12-05</BondNm>
+        <EOYBookValueAmt>50215</EOYBookValueAmt>
+        <EOYFMVAmt>47890</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50000 Metlife 3.00 2025-03-01</BondNm>
+        <EOYBookValueAmt>49696</EOYBookValueAmt>
+        <EOYFMVAmt>48333</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>50000 Morgan Stanley 3.70 2024-10-23</BondNm>
+        <EOYBookValueAmt>50404</EOYBookValueAmt>
+        <EOYFMVAmt>48926</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="990PF:122" softwareId="22015461" softwareVersionNum="22.0.1.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Apple Inc</StockNm>
+        <EOYBookValueAmt>1274</EOYBookValueAmt>
+        <EOYFMVAmt>43586</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Baxter Intl Inc</StockNm>
+        <EOYBookValueAmt>4540</EOYBookValueAmt>
+        <EOYFMVAmt>6740</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Chevron Corp</StockNm>
+        <EOYBookValueAmt>5650</EOYBookValueAmt>
+        <EOYFMVAmt>24809</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Analog Devices</StockNm>
+        <EOYBookValueAmt>4841</EOYBookValueAmt>
+        <EOYFMVAmt>29630</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Danaher Corp</StockNm>
+        <EOYBookValueAmt>2647</EOYBookValueAmt>
+        <EOYFMVAmt>26500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Accenture Place</StockNm>
+        <EOYBookValueAmt>5049</EOYBookValueAmt>
+        <EOYFMVAmt>30111</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Activision Blizzard</StockNm>
+        <EOYBookValueAmt>27530</EOYBookValueAmt>
+        <EOYFMVAmt>27965</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Fedex Corp</StockNm>
+        <EOYBookValueAmt>7103</EOYBookValueAmt>
+        <EOYFMVAmt>22187</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Gilead Sciences Inc</StockNm>
+        <EOYBookValueAmt>6994</EOYBookValueAmt>
+        <EOYFMVAmt>18891</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Johnson Johnson</StockNm>
+        <EOYBookValueAmt>7202</EOYBookValueAmt>
+        <EOYFMVAmt>21342</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Nike Inc Class B</StockNm>
+        <EOYBookValueAmt>2563</EOYBookValueAmt>
+        <EOYFMVAmt>19935</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Pepsico Inc</StockNm>
+        <EOYBookValueAmt>8139</EOYBookValueAmt>
+        <EOYFMVAmt>25620</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Procter Gamble Co</StockNm>
+        <EOYBookValueAmt>8367</EOYBookValueAmt>
+        <EOYFMVAmt>29170</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Prologis</StockNm>
+        <EOYBookValueAmt>22660</EOYBookValueAmt>
+        <EOYFMVAmt>26827</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IShares Russell Midcap Index</StockNm>
+        <EOYBookValueAmt>48618</EOYBookValueAmt>
+        <EOYFMVAmt>156483</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IShares Core SP Smallcap</StockNm>
+        <EOYBookValueAmt>27599</EOYBookValueAmt>
+        <EOYFMVAmt>100780</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Meta Platforms</StockNm>
+        <EOYBookValueAmt>14180</EOYBookValueAmt>
+        <EOYFMVAmt>36986</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Thermo Fisher Scientific</StockNm>
+        <EOYBookValueAmt>6621</EOYBookValueAmt>
+        <EOYFMVAmt>26741</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Union Pacific</StockNm>
+        <EOYBookValueAmt>12320</EOYBookValueAmt>
+        <EOYFMVAmt>25145</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Visa Inc</StockNm>
+        <EOYBookValueAmt>6419</EOYBookValueAmt>
+        <EOYFMVAmt>23340</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>American Funds- New World Fund</StockNm>
+        <EOYBookValueAmt>50000</EOYBookValueAmt>
+        <EOYFMVAmt>60442</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Electronic Arts</StockNm>
+        <EOYBookValueAmt>22658</EOYBookValueAmt>
+        <EOYFMVAmt>20877</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IShares US Utilites ETF</StockNm>
+        <EOYBookValueAmt>23676</EOYBookValueAmt>
+        <EOYFMVAmt>29433</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Nvidia</StockNm>
+        <EOYBookValueAmt>19294</EOYBookValueAmt>
+        <EOYFMVAmt>70084</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Crown Castle Intl Corp</StockNm>
+        <EOYBookValueAmt>14561</EOYBookValueAmt>
+        <EOYFMVAmt>15075</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Honeywell International</StockNm>
+        <EOYBookValueAmt>13431</EOYBookValueAmt>
+        <EOYFMVAmt>23117</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Alphabet Inc Cl A</StockNm>
+        <EOYBookValueAmt>9457</EOYBookValueAmt>
+        <EOYFMVAmt>32681</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Microsoft Corp</StockNm>
+        <EOYBookValueAmt>4758</EOYBookValueAmt>
+        <EOYFMVAmt>29498</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Sherwin Williams Co</StockNm>
+        <EOYBookValueAmt>9904</EOYBookValueAmt>
+        <EOYFMVAmt>27715</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Amazon.com</StockNm>
+        <EOYBookValueAmt>7741</EOYBookValueAmt>
+        <EOYFMVAmt>22082</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Valero Energy Corp</StockNm>
+        <EOYBookValueAmt>15658</EOYBookValueAmt>
+        <EOYFMVAmt>31826</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Amgen Inc</StockNm>
+        <EOYBookValueAmt>15722</EOYBookValueAmt>
+        <EOYFMVAmt>25634</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Unitedhealth Group Inc</StockNm>
+        <EOYBookValueAmt>9158</EOYBookValueAmt>
+        <EOYFMVAmt>25259</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Automatic Data Processing</StockNm>
+        <EOYBookValueAmt>11852</EOYBookValueAmt>
+        <EOYFMVAmt>30553</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Cisco Systems</StockNm>
+        <EOYBookValueAmt>15294</EOYBookValueAmt>
+        <EOYFMVAmt>27815</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>T-Mobile US Inc</StockNm>
+        <EOYBookValueAmt>16372</EOYBookValueAmt>
+        <EOYFMVAmt>33381</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Blackrock Inc</StockNm>
+        <EOYBookValueAmt>17138</EOYBookValueAmt>
+        <EOYFMVAmt>25219</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Linde Public Limited</StockNm>
+        <EOYBookValueAmt>13403</EOYBookValueAmt>
+        <EOYFMVAmt>31737</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Lululemon Athletica</StockNm>
+        <EOYBookValueAmt>17912</EOYBookValueAmt>
+        <EOYFMVAmt>29357</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Target</StockNm>
+        <EOYBookValueAmt>17834</EOYBookValueAmt>
+        <EOYFMVAmt>19362</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Mondelez International</StockNm>
+        <EOYBookValueAmt>19323</EOYBookValueAmt>
+        <EOYFMVAmt>26081</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Walmart Stores</StockNm>
+        <EOYBookValueAmt>17303</EOYBookValueAmt>
+        <EOYFMVAmt>23091</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ConocoPhillips</StockNm>
+        <EOYBookValueAmt>19549</EOYBookValueAmt>
+        <EOYFMVAmt>41184</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JP Morgan Chase</StockNm>
+        <EOYBookValueAmt>17719</EOYBookValueAmt>
+        <EOYFMVAmt>27803</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Abbott Laboratories</StockNm>
+        <EOYBookValueAmt>17171</EOYBookValueAmt>
+        <EOYFMVAmt>18934</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Intuitive Surgical</StockNm>
+        <EOYBookValueAmt>17155</EOYBookValueAmt>
+        <EOYFMVAmt>30017</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Stryker Corp</StockNm>
+        <EOYBookValueAmt>19448</EOYBookValueAmt>
+        <EOYFMVAmt>26087</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Adobe Systems</StockNm>
+        <EOYBookValueAmt>17432</EOYBookValueAmt>
+        <EOYFMVAmt>26289</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Broadcom</StockNm>
+        <EOYBookValueAmt>15113</EOYBookValueAmt>
+        <EOYFMVAmt>42453</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Mastercard</StockNm>
+        <EOYBookValueAmt>17384</EOYBookValueAmt>
+        <EOYFMVAmt>25584</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Paypal Holdings</StockNm>
+        <EOYBookValueAmt>17106</EOYBookValueAmt>
+        <EOYFMVAmt>7376</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Salesforce.com</StockNm>
+        <EOYBookValueAmt>17811</EOYBookValueAmt>
+        <EOYFMVAmt>22589</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Ecolab</StockNm>
+        <EOYBookValueAmt>17431</EOYBookValueAmt>
+        <EOYFMVAmt>16359</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RTX Corp</StockNm>
+        <EOYBookValueAmt>3685</EOYBookValueAmt>
+        <EOYFMVAmt>11614</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="990PF:115" softwareId="22015461" softwareVersionNum="22.0.1.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>State Filing Fee</Desc>
+        <RevenueAndExpensesPerBooksAmt>200</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>200</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="990PF:113" softwareId="22015461" softwareVersionNum="22.0.1.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Huntington National</CategoryTxt>
+        <Amt>9347</Amt>
+        <NetInvestmentIncomeAmt>9347</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="990PF:114" softwareId="22015461" softwareVersionNum="22.0.1.0">
+      <TaxesDetail>
+        <CategoryTxt>Tax on investment income</CategoryTxt>
+        <Amt>525</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Estimated Tax on Investment Income</CategoryTxt>
+        <Amt>825</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-14T12:03:07-05:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>201530518</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BHA LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>344 ELLSWORTH RD PO BOX 697</AddressLine1Txt>
+        <CityNm>BLUE HILL</CityNm>
+        <StateAbbreviationCd>ME</StateAbbreviationCd>
+        <ZIPCd>04614</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>943473937</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE GB KNECHT FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O DONNA MADONNA</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>GBKN</BusinessNameControlTxt>
+      <PhoneNum>2072662301</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>101 CARLETON STREAM LANE</AddressLine1Txt>
+        <CityNm>BLUE HILL</CityNm>
+        <StateAbbreviationCd>ME</StateAbbreviationCd>
+        <ZIPCd>04614</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DONNA MADONNA</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>2072662301</PhoneNum>
+      <SignatureDt>2023-12-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>DONNA</PersonFirstNm>
+        <PersonLastNm>MADONNA</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>THOMAS C SMITH EA</PreparerPersonNm>
+      <PTIN>P01209005</PTIN>
+      <PhoneNum>2073749985</PhoneNum>
+      <PreparationDt>2023-12-12</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc8" referenceDocumentId="RetDoc5 RetDoc7">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2162819</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>7</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>7</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>7</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>30259</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>30259</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>30259</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>224565</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>406109</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>224565</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>254831</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>254831</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>30266</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>20000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>20000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">800</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>800</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc4">23171</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>23171</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc6">1066</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1066</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>45037</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>24237</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>20800</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>116000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>116000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>161037</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>24237</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>136800</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>93794</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>230594</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>30266</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>-1</CashBOYAmt>
+        <CashEOYAmt>3</CashEOYAmt>
+        <SavAndTempCashInvstBOYAmt>26479</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>10349</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>10349</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>2708271</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2">2152470</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2152470</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>2734749</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2162822</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2162819</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>2734749</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>2162822</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2734749</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2162822</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2734749</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2162822</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2734749</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>93794</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2828543</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc3">665721</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2162822</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SEE ATTACHED UBS 1099-B</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>84848</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>88765</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3917</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3917</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SEE ATTACHED UBS 1099-B</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>116882</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>92779</CostOrOtherBasisAmt>
+          <GainOrLossAmt>24103</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>24103</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>224565</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>3205</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>3205</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3205</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>3205</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>ME</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>DONNA MADONNA</IndividualWithBooksNm>
+        <PhoneNum>2072662301</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>101 CARLETON STREAM LANE</AddressLine1Txt>
+          <CityNm>BLUE HILL</CityNm>
+          <StateAbbreviationCd>ME</StateAbbreviationCd>
+          <ZIPCd>04614</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEAN MADONNA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>101 CARLETON STREAM LANE</AddressLine1Txt>
+            <CityNm>BLUE HILL</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04614</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DONNA MADONNA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>101 CARLETON STREAM LANE</AddressLine1Txt>
+            <CityNm>BLUE HILL</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04614</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>20000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JIM FISHER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>101 CARLETON STREAM LANE</AddressLine1Txt>
+            <CityNm>BLUE HILL</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04614</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>DISTRIBUTION OF CONTRIBUTIONS TO DESERVING CHARITABLE ORGANIZATIONS.</Description1Txt>
+        <Expenses1Amt>116000</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2325946</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>22366</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2348312</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2348312</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>35225</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2313087</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>115654</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>115654</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3205</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>3205</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>112449</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>112449</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>112449</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>136800</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>136800</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>112449</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>13022</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>13022</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>136800</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>112449</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>24351</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>37373</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>37373</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>13022</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>24351</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>DONNA MADONNA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 CARLETON STREAM LANE</AddressLine1Txt>
+            <CityNm>BLUE HILL</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04614</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2072662301</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>GBKNECHTFOUNDATION@GMAIL.COM</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>AT A MINIMUM, A GRANT REQUEST SHOULD INCLUDE A COPY OF THE ORGANIZATION'S TAX EXEMPT LETTER ISSUED BY THE INTERNAL REVENUE SERVICE, IT'S PROPER NAME AND ADDRESS, A DESCRIPTION OF WHAT THE GRANT WILL BE USED FOR AND WHETHER IT IS A MATCHING GRANT, AND THE AMOUNT OF THE REQUEST.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN RED CROSS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 37839</AddressLine1Txt>
+            <CityNm>BOONE</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>500370839</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BLUE HILL PUBLIC LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5 PARKER POINT ROAD</AddressLine1Txt>
+            <CityNm>BLUE HILL</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04614</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BROWARD COUNTY PUBLIC LIBRARY FOUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 SOUTH ANDREWS AVENUE</AddressLine1Txt>
+            <CityNm>FORT LAUDERDALE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BROWARD OUTREACH CENTERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2056 SCOTT STREET</AddressLine1Txt>
+            <CityNm>HOLLYWOOD</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CARE USA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 1870</AddressLine1Txt>
+            <AddressLine2Txt>GIFT CENTER</AddressLine2Txt>
+            <CityNm>MERRIFIELD</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>221168070</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CATHOLIC CHARITIES MAINE</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>OFFICE OF DEVELOPMENT</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 10660</AddressLine1Txt>
+            <AddressLine2Txt>80 SHERMAN STREET</AddressLine2Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>041046060</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CATHOLIC CHARITIES USA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2050 BALLENGER AVENUE</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 400</AddressLine2Txt>
+            <CityNm>ALEXANDRIA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22314</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DOWNEAST COMMUNITY PARTNERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>248 BUCKSPORT ROAD</AddressLine1Txt>
+            <CityNm>ELLSWORTH</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04605</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EVERYBODY EATS &amp; FRIENDSHIP COTTAGE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EMMAUS HOMELESS CENTER</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>DIRECTOR STACEY HERRICK</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 811</AddressLine1Txt>
+            <AddressLine2Txt>51 MAIN STREET</AddressLine2Txt>
+            <CityNm>ELLSWORTH</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04605</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FAIRFIELD COUNTY COMMUNITY FOUNDTN</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>PRESIDENT &amp; CEO JUANITA T JAMES</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>40 RICHARDS AVENUE</AddressLine1Txt>
+            <CityNm>NORWALK</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>068542320</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GOOD SHEPARD FOOD BANK</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>MAJOR GIFT OFFICER ETHAN MINTON</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 1807</AddressLine1Txt>
+            <AddressLine2Txt>3121 HOTEL ROAD</AddressLine2Txt>
+            <CityNm>AUBURN</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04211</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HABITAT FOR HUMANITY</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>JONATHAN T M RECKFORD CEO</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>322 WEST LAMAR STREET</AddressLine1Txt>
+            <CityNm>AMERICUS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>317093543</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HEALTHY PENINSULA</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>ANNE SCHROTH EXECUTIVE DIRECTOR</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 945</AddressLine1Txt>
+            <AddressLine2Txt>10 PARKER POINT ROAD</AddressLine2Txt>
+            <CityNm>BLUE HILL</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04614</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ISLAND PANTRY</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>KATHY EATON-GRAY</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 12</AddressLine1Txt>
+            <CityNm>DEER ISLE</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>046270012</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LITERACY VOLUNTEERS OF BANGOR</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>MARY MARIN TAYLOR EXECUTIVE DIRECTOR</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>354 HOGAN ROAD</AddressLine1Txt>
+            <CityNm>BANGOR</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MAINE PUBLIC</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>SCOTT MARCHILDON CHIEF DEVELOPMENT OFFICER</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1450 LISBON STREET</AddressLine1Txt>
+            <CityNm>LEWISTON</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>042403595</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MANO EN MANO</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>CHRISTINA OCAMPO &amp; IAN YAFFE</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 573</AddressLine1Txt>
+            <AddressLine2Txt>ADVOCACY CO-DIRECTOR/EXEC</AddressLine2Txt>
+            <CityNm>MILBRIDGE</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04658</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARYKNOLL LAY MISSIONERS</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>LESLIE A LOPEZ DIRECTOR MISSION ADVANCEMENT</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 307</AddressLine1Txt>
+            <CityNm>MARYKNOLL</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>105450307</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW SURRY THEATRE &amp; PERFORM ART SCH</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>MATT MURPHY PRES &amp; LORI SITZABEE ART DIR</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 1597</AddressLine1Txt>
+            <CityNm>BLUE HILL</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04614</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SALVATION ARMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>65 SOUTH PARK STREET</AddressLine1Txt>
+            <CityNm>BANGOR</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAVE THE CHILDREN USA</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>DANIELLE DOMINICI DONOR RELATIONS SPEC</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 KINGS HIGHWAY EAST</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 400</AddressLine2Txt>
+            <CityNm>FAIRFIELD</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06825</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNICEF USA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>125 MAIDEN LANE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10038</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITED WAY WORLDWIDE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>701 NORTH FAIRFAX STREET</AddressLine1Txt>
+            <CityNm>ALEXANDRIA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>223142045</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VISITING NURSES AND HOSPICE</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>OF FAIRFIELD COUNTY</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3 FARM ROAD</AddressLine1Txt>
+            <AddressLine2Txt>ATTN DEVELOPMENT DEPARTMT</AddressLine2Txt>
+            <CityNm>NEW CANAAN</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06840</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WERU</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 170</AddressLine1Txt>
+            <CityNm>EAST ORLAND</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04431</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WOMEN FOR HEALTHY RURAL LIVING</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>WHRL</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 463</AddressLine1Txt>
+            <CityNm>MILBRIDGE</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04658</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DOCTORS WITHOUT BORDERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>40 RECTOR STREET</AddressLine1Txt>
+            <AddressLine2Txt>16TH FLOOR</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GEORGE STEVENS ACADEMY</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>REFUGEE EDUCATION FUND</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>23 UNION STREET</AddressLine1Txt>
+            <AddressLine2Txt>R STARKEY DIANA PAGE</AddressLine2Txt>
+            <CityNm>BLUE HILL</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04614</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>REFUGEE EDUCATION FUND</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JONATHAN FISHER HOUSE MEMORIAL</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>HANNAH CYRUS</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 537</AddressLine1Txt>
+            <AddressLine2Txt>44 MINES ROAD</AddressLine2Txt>
+            <CityNm>BLUE HILL</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04614</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MERCY CORPS</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>DEPARTMENT W</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 37800</AddressLine1Txt>
+            <AddressLine2Txt>NATIONAL PROCESSING CTR</AddressLine2Txt>
+            <CityNm>BOONE</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>500374800</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PARTNERS IN HEALTH</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>PAUL FARMER</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 996</AddressLine1Txt>
+            <AddressLine2Txt>GENERAL OFFICE</AddressLine2Txt>
+            <CityNm>FREDERICK</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>217059942</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RESOURCES FOR THE FUTURE</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>DEVELOPMENT OFFICE</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1616 P STREET NORTH WEST</AddressLine1Txt>
+            <AddressLine2Txt>MANAGER DEV OPS/ANALYTICS</AddressLine2Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HONOR OF JLF CARLIN ANDERSON</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE CARTER CENTER</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>AMANDA GROVER</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 47339</AddressLine1Txt>
+            <AddressLine2Txt>ONE COPENHILL</AddressLine2Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>303629806</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TREE OF LIFE</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>MICHELLE KEYO &amp; MARTHA SHELDON</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 1329</AddressLine1Txt>
+            <AddressLine2Txt>23 SOUTH STREET</AddressLine2Txt>
+            <CityNm>BLUE HILL</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04614</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WELCOMING IMMIGRANT NEIGHBORS</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>WIN - BANGOR</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>41 GLENCOVE AVENUE</AddressLine1Txt>
+            <CityNm>BANGOR</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WORLD CENTRAL KITCHEN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 MASSACHUSETTS AVENUE</AddressLine1Txt>
+            <AddressLine2Txt>NORTH WEST SEVENTH FLOOR</AddressLine2Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WORLD FOOD PROGRAMME</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>ATTENTION ERIN</BusinessNameLine2Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 37239</AddressLine1Txt>
+            <CityNm>BOONE</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>50037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PUBLIC CHAR.</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>116000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>30259</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>224565</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>254831</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>254831</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>800</Amt>
+        <DisbursementsCharitablePrpsAmt>800</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2">
+      <InvestmentsCorporateStockGrp>
+        <EOYBookValueAmt>2152470</EOYBookValueAmt>
+        <EOYFMVAmt>2152470</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc3">
+      <OtherDecreasesDetail>
+        <Desc>NET UNREALIZED LOSS ON INVESTMENTS</Desc>
+        <Amt>665721</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc4">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT FEES</CategoryTxt>
+        <Amt>23171</Amt>
+        <NetInvestmentIncomeAmt>23171</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <ReasonableCauseExplanation documentId="RetDoc5">
+      <ExplanationTxt>HURRICANE LEE</ExplanationTxt>
+    </ReasonableCauseExplanation>
+    <TaxesSchedule documentId="RetDoc6">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>1066</Amt>
+        <NetInvestmentIncomeAmt>1066</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

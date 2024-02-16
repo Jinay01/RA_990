@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-08T10:27:50-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-01-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>222377538</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Gittelman &amp; Company PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO Box 2369</AddressLine1Txt>
+        <CityNm>Clifton</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>07015</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-02-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>133102941</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE LEON AND TOBY COOPERMAN</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FAMILY FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LEON</BusinessNameControlTxt>
+      <PhoneNum>9737788885</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>C/O GITTELMAN CO PC PO BOX 2369</AddressLine1Txt>
+        <CityNm>CLIFTON</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>07015</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>LEON G COOPERMAN</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2023-12-08</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>LEON G</PersonFirstNm>
+        <PersonLastNm>COOPERMAN</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Sheryl DennisCPA</PreparerPersonNm>
+      <PTIN>P00073402</PTIN>
+      <PhoneNum>9737788885</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation BinaryAttachment.3 BinaryAttachment.4" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>439987279</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>41010716</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>41010716</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="GainLossFromSaleOtherAssetsSch">13484274</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>41941126</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>13430497</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">-2817055</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>48424</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>51677935</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>54489637</TotalNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">400000</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>325000</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>75000</OtherProfFeesDsbrsChrtblAmt>
+        <InterestRevAndExpnssAmt>10032653</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>590558</InterestNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">300000</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">995256</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>823490</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>11727909</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1739048</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>75000</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>24393219</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>24393219</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>36121128</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1739048</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>24468219</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>15556807</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>52750589</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>28948170</CashBOYAmt>
+        <CashEOYAmt>19145372</CashEOYAmt>
+        <CashEOYFMVAmt>19145372</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>3811252</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1791971</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1791971</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>366779340</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>394158226</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>419049936</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>399538762</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>415095569</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>439987279</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>271014656</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>284498928</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>128524106</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>130596641</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>399538762</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>415095569</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>399538762</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>415095569</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>399538762</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>15556807</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>415095569</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>415095569</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>158569.429 FORUM REAL ESTATE INCOME FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-08-12</SoldDt>
+          <GrossSalesPriceAmt>1457253</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1528210</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-70957</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-70957</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>131311.13 OCO OPPORTUNITIES OFFSHORE FUND LTD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>20000000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12135775</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7864225</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7864225</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75000 ARBOR REALTY TRUST INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>1272227</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>466075</CostOrOtherBasisAmt>
+          <GainOrLossAmt>806152</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>806152</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>74000 CHIMERA INVESTMENT CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>777933</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>884389</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-106456</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-106456</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25727 DIAMEDICA THERAPEUTICS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-09-30</AcquiredDt>
+          <SoldDt>2022-02-10</SoldDt>
+          <GrossSalesPriceAmt>77621</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>102873</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-25252</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-25252</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50000 ELLINGTON FINANCIAL INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>770038</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>866823</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-96785</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-96785</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>124309 FALCON MINERALS CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>672230</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>458685</CostOrOtherBasisAmt>
+          <GainOrLossAmt>213545</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>213545</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>515491 FALCON MINERALS CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>3731616</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>908380</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2823236</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2823236</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100000 OWL ROCK CAPITAL CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-12-21</AcquiredDt>
+          <SoldDt>2022-04-04</SoldDt>
+          <GrossSalesPriceAmt>1477912</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1306230</CostOrOtherBasisAmt>
+          <GainOrLossAmt>171682</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>171682</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5000 SITIO ROYALTIES CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-10-29</AcquiredDt>
+          <SoldDt>2022-06-17</SoldDt>
+          <GrossSalesPriceAmt>119985</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>59789</CostOrOtherBasisAmt>
+          <GainOrLossAmt>60196</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>60196</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10000000 AMERICAN MEDIA INC 10.5%</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>10500000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9279605</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1220395</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1220395</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RREF II DOMESTIC INVESTORS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>13648</GrossSalesPriceAmt>
+          <GainOrLossAmt>13648</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13648</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>JENSEN GROUP I LIMITED PARTNERSHIP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <CostOrOtherBasisAmt>12397</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-12397</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-12397</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RREF IV</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>1656</GrossSalesPriceAmt>
+          <GainOrLossAmt>1656</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1656</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL SPRING DIRECT LENDING PARTNERS U</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>43011</GrossSalesPriceAmt>
+          <GainOrLossAmt>43011</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>43011</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUT TREE OFFSHORE FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>12199</GrossSalesPriceAmt>
+          <GainOrLossAmt>12199</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12199</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHATHAM ASSET PRIVATE DEBT AND STRATEGIC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <CostOrOtherBasisAmt>167958</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-167958</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-167958</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHATHAM ASSET PRIVATE DEBT AND STRATEGIC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>227670</GrossSalesPriceAmt>
+          <GainOrLossAmt>227670</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>227670</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TACONIC EUROPEAN DISLOCATION OFFSHORE FU</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>84288</GrossSalesPriceAmt>
+          <GainOrLossAmt>84288</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>84288</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GSO CAPITAL SOLUTIONS OVERSEAS FEEDER FD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>41005</GrossSalesPriceAmt>
+          <GainOrLossAmt>41005</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>41005</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL SPRING DIRECT LENDING PARTNERS U</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>327394</GrossSalesPriceAmt>
+          <GainOrLossAmt>327394</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>327394</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>13430497</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>733233</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>733233</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>733233</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>553918</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>400000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>953918</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>5193</EsPenaltyAmt>
+        <OverpaymentAmt>215492</OverpaymentAmt>
+        <AppliedToESTaxAmt>215492</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>true</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NJ</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>GITTELMAN &amp; COMPANY PC</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9737788885</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>300 COLFAX AVENUE</AddressLine1Txt>
+          <CityNm>CLIFTON</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>07013</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>true</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LEON G COOPERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7118 MELROSE CASTLE LANE</AddressLine1Txt>
+            <CityNm>BOCA RATON</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33496</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TOBY F COOPERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>45 WATCHUNG ROAD</AddressLine1Txt>
+            <CityNm>SHORT HILLS</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07078</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL S COOPERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 230</AddressLine1Txt>
+            <CityNm>MANCHESTER</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05254</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WAYNE M COOPERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>56 LAKE ROAD</AddressLine1Txt>
+            <CityNm>SHORT HILLS</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07078</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JODI COOPERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>56 LAKE ROAD</AddressLine1Txt>
+            <CityNm>SHORT HILLS</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07078</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>COURTNEY COOPERMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>56 LAKE ROAD</AddressLine1Txt>
+            <CityNm>SHORT HILLS</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07078</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANNE ARCHER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 230</AddressLine1Txt>
+            <CityNm>MANCHESTER</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05254</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompensationOfHghstPdCntrctGrp>
+          <PersonNm>David Bloom</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>20 West 71st St Apt 1</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10023</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Legal and Compliance</ServiceTypeTxt>
+          <CompensationAmt>150000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <PersonNm>Mary Ann Viscio</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>121 Theodore Drive</AddressLine1Txt>
+            <CityNm>Coram</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11727</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Administrative</ServiceTypeTxt>
+          <CompensationAmt>100000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <PersonNm>Edward Levy</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>415 Bath Club Blvd North</AddressLine1Txt>
+            <CityNm>North Redington Beac</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33708</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Accounting</ServiceTypeTxt>
+          <CompensationAmt>150000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>PLEASE NOTE, THE FOUNDATION IS NOT INVOLVED IN ANY DIRECT CHARITABLE ACTIVITIES. ITS PRIMARY PURPOSE IS TO SUPPORT, BY CONTRIBUTIONS, OTHER ORGANIZATIONS EXEMPT UNDER INTERNAL REVENUE CODE SECTION 501(C)(3).</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>434188943</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>9137588</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>443326531</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>443326531</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>6649898</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>436676633</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>21833832</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>21833832</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>733233</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>733233</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>21100599</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>21100599</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>21100599</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>24468219</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>24468219</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>21100599</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>1552672</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>2578044</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>2421021</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>1883822</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>8435559</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>24468219</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>21100599</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>3367620</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>11803179</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>1552672</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>10250507</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>2578044</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>2421021</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>1883822</ExcessFromYear2Amt>
+        <ExcessFromCurrentYearAmt>3367620</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>LEON G COOPERMAN</ContributingManagerNm>
+        <ContributingManagerNm>TOBY F COOPERMAN</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>LEON COOPERMAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2369</AddressLine1Txt>
+            <CityNm>CLIFTON</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07015</ZIPCd>
+          </RecipientUSAddress>
+          <FormAndInfoAndMaterialsTxt>WRITTEN SPECIFYING PURPOSE</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEE CONTRIBUTIONS LIST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SEE ATTACHED</AddressLine1Txt>
+            <CityNm>VARIOUS</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07015</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>VARIOUS</GrantOrContributionPurposeTxt>
+          <Amt>24393219</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>24393219</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>41010716</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>523900</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>53777</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>13430497</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>ASPEN</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>100000</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>ATLAS GROWTH PARTNERS GP</Desc>
+          <ExclusionCd>1</ExclusionCd>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>CAPITAL SPRING DIRECT</Desc>
+          <BusinessCd>900099</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>145004</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>CAPITALSPRING PARALLEL</Desc>
+          <BusinessCd>523000</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>CHATHAM</Desc>
+          <BusinessCd>523900</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>792880</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>-792128</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>CHATHAM ASSET II</Desc>
+          <BusinessCd>523000</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>487581</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>EURODEKANIA</Desc>
+          <ExclusionCd>1</ExclusionCd>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>GSO CAPITAL SOLUTIONS</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>86171</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>LIGADO NETWORKS LLC</Desc>
+          <BusinessCd>900099</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>-3789117</UnrelatedBusinessTaxblIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>NUT TREE</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>94094</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>PRIME STORAGE FUND II</Desc>
+          <BusinessCd>531130</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>-76238</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>1619</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>RREF II DOMESTIC INVESTOR</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>86617</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>RREF IV</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>22553</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>RS LOW BETA</Desc>
+          <BusinessCd>900099</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>25671</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>SECTION 1256 CONTRACTS</Desc>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-332401</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>STAR ASIA</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>36163</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>TACONIC EUROPEAN CREDIT</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>83029</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>TAMARIX</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>4451</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>TETRAGON</Desc>
+          <ExclusionCd>1</ExclusionCd>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>WSREF 4000CT</Desc>
+          <BusinessCd>901101</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>206996</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>-2811702</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>54489637</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>51677935</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="GainLossFromSaleOtherAssetsSch" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CHATHAM ASSET PRIVATE DEBT AND STRATEGIC</AssetDesc>
+        <AcquiredDt>2022-12</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <BasisAmt>279663</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>-279663</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CHATHAM ASSET PRIVATE DEBT AND STRATEGIC</AssetDesc>
+        <AcquiredDt>2001-12</AcquiredDt>
+        <HowAcquiredTxt>Purchase</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <GrossSalesPriceAmt>333440</GrossSalesPriceAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>333440</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>300070</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>128304</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PORTFOLIO DEDUCTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>695186</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>695186</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncomeDetail>
+        <Desc>ASPEN</Desc>
+        <RevenueAndExpensesPerBooksAmt>100000</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>100000</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>CAPITAL SPRING DIRECT</Desc>
+        <RevenueAndExpensesPerBooksAmt>145004</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>145004</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>CHATHAM</Desc>
+        <RevenueAndExpensesPerBooksAmt>752</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-792128</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>CHATHAM ASSET II</Desc>
+        <RevenueAndExpensesPerBooksAmt>487581</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>487581</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>GSO CAPITAL SOLUTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>86171</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>86171</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>LIGADO NETWORKS LLC</Desc>
+        <RevenueAndExpensesPerBooksAmt>-3789117</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>NUT TREE</Desc>
+        <RevenueAndExpensesPerBooksAmt>94094</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>94094</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>PRIME STORAGE FUND II</Desc>
+        <RevenueAndExpensesPerBooksAmt>-74619</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1619</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>RREF II DOMESTIC INVESTOR</Desc>
+        <RevenueAndExpensesPerBooksAmt>86617</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>86617</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>RREF IV</Desc>
+        <RevenueAndExpensesPerBooksAmt>22553</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>22553</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>RS LOW BETA</Desc>
+        <RevenueAndExpensesPerBooksAmt>25671</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>25671</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>SECTION 1256 CONTRACTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>-332401</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-332401</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>STAR ASIA</Desc>
+        <RevenueAndExpensesPerBooksAmt>36163</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>36163</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>TACONIC EUROPEAN CREDIT</Desc>
+        <RevenueAndExpensesPerBooksAmt>83029</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>83029</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>TAMARIX</Desc>
+        <RevenueAndExpensesPerBooksAmt>4451</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4451</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>WSREF 4000CT</Desc>
+        <RevenueAndExpensesPerBooksAmt>206996</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES</CategoryTxt>
+        <Amt>400000</Amt>
+        <NetInvestmentIncomeAmt>325000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>75000</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>990PF AND 990T</CategoryTxt>
+        <Amt>300000</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-04T13:05:12-05:00</ReturnTs>
+    <TaxPeriodEndDt>2023-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>260547877</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KSDT &amp; CO LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>9300 S DADELAND BLVD STE 600</AddressLine1Txt>
+        <CityNm>MIAMI</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>331562721</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>592477459</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>COBB FAMILY FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>COBB</BusinessNameControlTxt>
+      <PhoneNum>3054411700</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4000 PONCE DE LEON BLVD STE 470</AddressLine1Txt>
+        <CityNm>CORAL GABLES</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33146</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>CHARLES E COBB JR</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>3054411700</PhoneNum>
+      <SignatureDt>2023-12-04</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>CHARLES</PersonFirstNm>
+        <PersonLastNm>COBB</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JOHN L HOFMANN</PreparerPersonNm>
+      <PTIN>P00009637</PTIN>
+      <PhoneNum>3056703370</PhoneNum>
+      <PreparationDt>2023-12-04</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc10" referenceDocumentId="RetDoc9">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>32472056</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>299498</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>106557</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>106557</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>674976</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>674976</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-534843</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2253713</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>267321</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>546188</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1048854</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>15000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>15000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>144300</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>41513</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>102787</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>25208</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>5507</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>19700</PensionEmplBnftDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">10000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>7500</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2500</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">21116</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2780</TaxesNetInvstIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>39123</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>39123</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc7">7101</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>6274</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>827</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>261848</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>63574</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>179937</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1509195</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1509195</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1771043</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>63574</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1689132</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-1224855</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>985280</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>361451</CashBOYAmt>
+        <CashEOYAmt>120506</CashEOYAmt>
+        <CashEOYFMVAmt>120506</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>784496</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1339384</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1339384</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1626380</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc6">2366017</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>2330195</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>11206229</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">9389967</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>27637016</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>1614897</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">1115432</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1044955</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>15593453</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>14331306</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>32472056</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>37292</AccountsPayableBOYAmt>
+        <TotalLiabilitiesBOYAmt>37292</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>15556161</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>14331306</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>15556161</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>14331306</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>15593453</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>14331306</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>15556161</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-1224855</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>14331306</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>14331306</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BROOKFIELD ASSET MGT CL A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-02-01</AcquiredDt>
+          <SoldDt>2022-12-13</SoldDt>
+          <GrossSalesPriceAmt>86262</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>98073</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-11811</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-11811</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>EBAY INC 2.75% MATURED 1/30/23</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-05-07</AcquiredDt>
+          <SoldDt>2023-01-30</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100396</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-396</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-396</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BROOKFIELD ASSET MGT REINSURANCE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-06-28</AcquiredDt>
+          <SoldDt>2022-12-13</SoldDt>
+          <GrossSalesPriceAmt>586</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>867</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-281</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-281</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>STARWOOD HOTEL &amp; RESORT 3.125%</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-05-17</AcquiredDt>
+          <SoldDt>2023-02-15</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100998</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-998</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-998</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BROOKFIELD ASSET SPINOFF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-06-28</AcquiredDt>
+          <SoldDt>2022-12-13</SoldDt>
+          <GrossSalesPriceAmt>19398</GrossSalesPriceAmt>
+          <GainOrLossAmt>19398</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19398</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GENERAL ELECTRIC BOND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-05-17</AcquiredDt>
+          <SoldDt>2023-04-15</SoldDt>
+          <GrossSalesPriceAmt>100000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>101311</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1311</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1311</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>HOST HOTELS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-11-06</AcquiredDt>
+          <SoldDt>2023-04-17</SoldDt>
+          <GrossSalesPriceAmt>375</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>241</CostOrOtherBasisAmt>
+          <GainOrLossAmt>134</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>134</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CIGNA CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-03-27</AcquiredDt>
+          <SoldDt>2023-07-15</SoldDt>
+          <GrossSalesPriceAmt>50000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>46257</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3743</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3743</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>HOST HOTELS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-04-08</AcquiredDt>
+          <SoldDt>2023-04-17</SoldDt>
+          <GrossSalesPriceAmt>48368</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>51747</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3379</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3379</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WALT DISNEY</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2019-04-26</AcquiredDt>
+          <SoldDt>2023-01-12</SoldDt>
+          <GrossSalesPriceAmt>177018</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>250</CostOrOtherBasisAmt>
+          <GainOrLossAmt>176768</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>176768</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ADS TEC ENERGY PLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-13</AcquiredDt>
+          <SoldDt>2023-08-04</SoldDt>
+          <GrossSalesPriceAmt>61058</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100100</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-39042</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-39042</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WALT DISNEY</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2019-04-26</AcquiredDt>
+          <SoldDt>2023-04-17</SoldDt>
+          <GrossSalesPriceAmt>69934</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>97</CostOrOtherBasisAmt>
+          <GainOrLossAmt>69837</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>69837</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>AT&amp;T INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-04-19</AcquiredDt>
+          <SoldDt>2023-08-03</SoldDt>
+          <GrossSalesPriceAmt>51821</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>72098</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-20277</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-20277</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WALT DISNEY</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2020-10-14</AcquiredDt>
+          <SoldDt>2023-04-17</SoldDt>
+          <GrossSalesPriceAmt>129744</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>181</CostOrOtherBasisAmt>
+          <GainOrLossAmt>129563</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>129563</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FEDERAL REALTY INVT REIT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-08-03</AcquiredDt>
+          <SoldDt>2023-08-03</SoldDt>
+          <GrossSalesPriceAmt>102621</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>116454</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-13833</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-13833</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WALT DISNEY</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2021-12-02</AcquiredDt>
+          <SoldDt>2023-08-04</SoldDt>
+          <GrossSalesPriceAmt>172067</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>278</CostOrOtherBasisAmt>
+          <GainOrLossAmt>171789</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>171789</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VERIZON COMMUNICATN</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-06-10</AcquiredDt>
+          <SoldDt>2023-08-03</SoldDt>
+          <GrossSalesPriceAmt>99299</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>172110</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-72811</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-72811</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BROOKFIELD ASSET MGT F</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-06-28</AcquiredDt>
+          <SoldDt>2023-09-30</SoldDt>
+          <GrossSalesPriceAmt>7</GrossSalesPriceAmt>
+          <GainOrLossAmt>7</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FRANKLIN FTSE ASIA EX JAPAN ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-11-17</AcquiredDt>
+          <SoldDt>2023-08-04</SoldDt>
+          <GrossSalesPriceAmt>159790</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>194546</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-34756</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-34756</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB US REIT ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-08-03</AcquiredDt>
+          <SoldDt>2023-08-03</SoldDt>
+          <GrossSalesPriceAmt>204777</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>250105</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-45328</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-45328</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WSDMTRE EMRG MKT EX STT OWN ENTER ET</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-12-14</AcquiredDt>
+          <SoldDt>2023-08-03</SoldDt>
+          <GrossSalesPriceAmt>146559</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>196088</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-49529</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-49529</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CRESCENT ENERGY COMPANY CL A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-05-13</AcquiredDt>
+          <SoldDt>2023-08-04</SoldDt>
+          <GrossSalesPriceAmt>24029</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>33692</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9663</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9663</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GE 2.7 % BOND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-08-27</AcquiredDt>
+          <SoldDt>2023-10-11</SoldDt>
+          <GrossSalesPriceAmt>150000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>150503</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-503</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-503</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WELLS FARGO BK CD 1.9% MATURED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-01-16</AcquiredDt>
+          <SoldDt>2023-01-30</SoldDt>
+          <GrossSalesPriceAmt>200000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>200000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>267321</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-20277</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>13695</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>13695</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>13695</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>21882</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>21882</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc2">X</Form2220AttachedInd>
+        <EsPenaltyAmt>100</EsPenaltyAmt>
+        <OverpaymentAmt>8087</OverpaymentAmt>
+        <AppliedToESTaxAmt>8087</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>COBB PARTNERS LLC</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3054411700</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4000 PONCE DE LEON BLVD STE 470</AddressLine1Txt>
+          <CityNm>CORAL GABLES</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33146</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHARLES E COBB JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 14-4200</AddressLine1Txt>
+            <CityNm>CORAL GABLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33114</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SUE M COBB</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 14-4200</AddressLine1Txt>
+            <CityNm>CORAL GABLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33114</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHRISTIAN M COBB</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 14-4200</AddressLine1Txt>
+            <CityNm>CORAL GABLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33114</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TOBIN T COBB</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 14-4200</AddressLine1Txt>
+            <CityNm>CORAL GABLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33114</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KOLLEEN O COBB</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 14-4200</AddressLine1Txt>
+            <CityNm>CORAL GABLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33114</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LUISA S COBB</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 14-4200</AddressLine1Txt>
+            <CityNm>CORAL GABLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33114</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>34808638</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>961774</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>35770412</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>35770412</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>536556</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>35233856</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1761693</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1761693</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>13695</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>13695</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1747998</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1747998</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1747998</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1689132</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1689132</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1747998</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>1681941</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>1689132</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>1681941</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>7191</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>1740807</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>COBB FAMILY FOUNDATION ADMIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4000 PONCE DE LEON BLVD STE 470</AddressLine1Txt>
+            <CityNm>CORAL GABLES</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33146</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3054411700</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>REQUESTS FOR CONTRIBUTIONS SHOULD INCLUDE A BRIEF HISTORY OF THE ORGANIZATION, A CURRENT LIST OF MEMBERS OF THE BOARD OF DIRECTORS AND SENIOR EXECUTIVES, THE CURRENT ANNUAL BUDGET, THE ENTITY'S PERCENT MANAGEMENT/ADMINISTRATION COSTS TO DOLLARS DISTRIBUTED, THE PROPOSED USE OF REQUESTED FUNDS AND THE AMOUNT OF THE REQUEST. FURTHER, THE FOUNDATION WILL REQUIRE A COPY OF THE ORGANIZATION'S TAX EXEMPTION CERTIFICATE. ALL REQUESTS SHOULD BE MAILED TO: THE COBB FAMILY FOUNDATION ATTENTION: COBB FAMILY FOUNDATION ADMINISTRATOR PO BOX 14-4200 CORAL GABLES, FLORIDA 33114-4200 (305) 471-1700 FAX (305) 445-5674</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>SEE STATEMENT 9</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEE STATEMENT 10</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SEE STATEMENT 10</AddressLine1Txt>
+            <CityNm>SEE STATEMENT</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33114</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>VARIOUS</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>VARIOUS</GrantOrContributionPurposeTxt>
+          <Amt>1509195</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1509195</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEE STATEMENT 11</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SEE STATEMENT 11</AddressLine1Txt>
+            <CityNm>SEE STATEMENT</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33114</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>VARIOUS</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>VARIOUS</GrantOrContributionPurposeTxt>
+          <Amt>2260400</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>2260400</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>106557</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>674976</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-534843</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>246690</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>246690</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>CHARLES E COBB JR</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 14-4200</AddressLine1Txt>
+          <CityNm>CORAL GABLES</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>331144200</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>272831</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>TOBIN COBB</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 14-4200</AddressLine1Txt>
+          <CityNm>CORAL GABLES</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33114</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>26667</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>DISNEY CORPORATION - 3100 SHARES</NoncashPropertyDesc>
+        <FairMarketValueAmt>272831</FairMarketValueAmt>
+        <ReceivedDt>2022-12-31</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>10000</Amt>
+        <NetInvestmentIncomeAmt>7500</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2500</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL ELECTRIC - 2.7% DUE 10/9/22</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>STARWOOD HOTEL - 3.125% DUE 2/15/23</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL ELECTRIC 1.275% DUE 4/15/23</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EBAY INC 2.75% DUE 1/30/23</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CIGNA CORP 2.721% DUE 7/15/23</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>THE MOSAIC CO DUE 11/15/23</BondNm>
+        <EOYBookValueAmt>97929</EOYBookValueAmt>
+        <EOYFMVAmt>99664</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HASBRO INC 3% DUE 11/19/24</BondNm>
+        <EOYBookValueAmt>101933</EOYBookValueAmt>
+        <EOYFMVAmt>96580</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HOST HOTELS 4.5% DUE 2/1/26</BondNm>
+        <EOYBookValueAmt>48376</EOYBookValueAmt>
+        <EOYFMVAmt>47942</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VIACOMCBS INC 3.45% DUE 10/4/26</BondNm>
+        <EOYBookValueAmt>48888</EOYBookValueAmt>
+        <EOYFMVAmt>45343</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DARDEN RESTAURANT 3.85% DUE 5/1/27</BondNm>
+        <EOYBookValueAmt>93780</EOYBookValueAmt>
+        <EOYFMVAmt>93695</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HYATT HOTELS CORP 4.375% DUE 9/15/28</BondNm>
+        <EOYBookValueAmt>96994</EOYBookValueAmt>
+        <EOYFMVAmt>92520</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PACIFIC GAS 3.15% DUE 1/1/26</BondNm>
+        <EOYBookValueAmt>104610</EOYBookValueAmt>
+        <EOYFMVAmt>92974</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HOSPITALITY PR 4.5% DUE 3/15/25</BondNm>
+        <EOYBookValueAmt>49907</EOYBookValueAmt>
+        <EOYFMVAmt>46910</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HOSPITALITY PR 4.35% DUE 10/1/24</BondNm>
+        <EOYBookValueAmt>50114</EOYBookValueAmt>
+        <EOYFMVAmt>48018</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL MOTORS 1.05% BOND DUE 3/8/24</BondNm>
+        <EOYBookValueAmt>96727</EOYBookValueAmt>
+        <EOYFMVAmt>97820</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERICAN ELECT PWR 2.03% DUE 3/15/24</BondNm>
+        <EOYBookValueAmt>98847</EOYBookValueAmt>
+        <EOYFMVAmt>98023</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SEARS HOLDING CORP 8% 12/15/19</BondNm>
+        <EOYBookValueAmt>29000</EOYBookValueAmt>
+        <EOYFMVAmt>259</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MARRIOTT INTL 3.75% DUE 10/1/25</BondNm>
+        <EOYBookValueAmt>96449</EOYBookValueAmt>
+        <EOYFMVAmt>96082</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PETROLEOS MEXICA 4.5% DUE 1/23/26</BondNm>
+        <EOYBookValueAmt>101878</EOYBookValueAmt>
+        <EOYFMVAmt>89125</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STOCKS - SEE STATEMENT 5A</StockNm>
+        <EOYBookValueAmt>2681289</EOYBookValueAmt>
+        <EOYFMVAmt>14717355</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SCHWAB MUTUAL FUNDS</StockNm>
+        <EOYBookValueAmt>3794210</EOYBookValueAmt>
+        <EOYFMVAmt>4169186</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD MUTUAL FUNDS</StockNm>
+        <EOYBookValueAmt>2640834</EOYBookValueAmt>
+        <EOYFMVAmt>8498745</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY MUTUAL FUNDS</StockNm>
+        <EOYBookValueAmt>273634</EOYBookValueAmt>
+        <EOYFMVAmt>251730</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtObligationsBookVlEOYAmt>2366017</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>2330195</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>319</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>319</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES AND SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>3569</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2742</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>827</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROMOTIONS AND ENTERTAINMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>3213</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>3213</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>LICENSES</CategoryTxt>
+        <Amt>114</Amt>
+        <NetInvestmentIncomeAmt>114</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX PAID</CategoryTxt>
+        <Amt>2666</Amt>
+        <NetInvestmentIncomeAmt>2666</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INCOME TAX</CategoryTxt>
+        <Amt>18336</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

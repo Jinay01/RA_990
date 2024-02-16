@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-11T14:20:57-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>760261086</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Charles E Gebhardt &amp; Assoc</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>5701 Woodway Suite 320</AddressLine1Txt>
+        <CityNm>Houston</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>77057</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>475142731</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Frank and Theresa Bramanti</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>Family Foundation</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FRAN</BusinessNameControlTxt>
+      <PhoneNum>2815585824</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>13707 Cottrell Ct</AddressLine1Txt>
+        <CityNm>Houston</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>77077</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Theresa Bramanti</PersonNm>
+      <PersonTitleTxt>Treasurer, Dir</PersonTitleTxt>
+      <SignatureDt>2023-12-11</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Theresa</PersonFirstNm>
+        <PersonLastNm>Bramanti</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CHARLES E GEBHARDT</PreparerPersonNm>
+      <PTIN>P01065044</PTIN>
+      <PhoneNum>7133341044</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AmendedReturnInd>X</AmendedReturnInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2301389</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>428</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>428</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>51262</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>51262</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>1657</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>459536</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1657</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">1015</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>54362</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>53347</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>2250</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">5575</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2788</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2787</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">10273</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>10273</OtherProfFeesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">28</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>28</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>18126</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>13089</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2787</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>170000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>170000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>188126</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>13089</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>172787</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-133764</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>40258</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>168464</CashBOYAmt>
+        <CashEOYAmt>166042</CashEOYAmt>
+        <CashEOYFMVAmt>166042</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>1348013</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>1230604</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2094902</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>50730</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>36797</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>40445</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1567207</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1433443</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2301389</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>1567207</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1433443</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1567207</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1433443</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1567207</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1433443</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1567207</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-133764</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1433443</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1433443</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>250 Brookfield Asset Mgt</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2023-02-10</SoldDt>
+          <GrossSalesPriceAmt>8625</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4001</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4624</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4624</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 BHP GROUP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-09-07</AcquiredDt>
+          <SoldDt>2023-01-03</SoldDt>
+          <GrossSalesPriceAmt>9257</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6645</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2612</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2612</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 BHP GROUP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-08-25</AcquiredDt>
+          <SoldDt>2023-03-23</SoldDt>
+          <GrossSalesPriceAmt>2917</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2974</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-57</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-57</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1125 Brookfield Infra</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-09-07</AcquiredDt>
+          <SoldDt>2023-03-23</SoldDt>
+          <GrossSalesPriceAmt>49905</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>41424</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8481</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8481</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SALESFORCE INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2022-08-25</SoldDt>
+          <GrossSalesPriceAmt>17041</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24260</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7219</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7219</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 DOMINION ENERGY</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2022-12-06</SoldDt>
+          <GrossSalesPriceAmt>17412</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24246</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-6834</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-6834</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>.36390 DOMINION ENERGY</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2023-01-03</SoldDt>
+          <GrossSalesPriceAmt>23</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>28</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>316 DOMINION ENERGY</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2023-01-03</SoldDt>
+          <GrossSalesPriceAmt>19577</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21895</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2318</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2318</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 DOW INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2022-12-06</SoldDt>
+          <GrossSalesPriceAmt>25639</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>26685</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1046</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1046</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 ALPHABET INC. C</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-10-05</AcquiredDt>
+          <SoldDt>2023-03-23</SoldDt>
+          <GrossSalesPriceAmt>2667</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>801</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1866</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1866</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>410.849990 INTEL CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2022-09-01</SoldDt>
+          <GrossSalesPriceAmt>12852</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12496</CostOrOtherBasisAmt>
+          <GainOrLossAmt>356</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>356</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>.71870 INTEL CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2023-01-03</SoldDt>
+          <GrossSalesPriceAmt>19</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>36</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-17</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-17</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4 INTEL CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2023-01-03</SoldDt>
+          <GrossSalesPriceAmt>106</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>184</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-78</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-78</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 JP MORGAN CHASE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2022-09-01</SoldDt>
+          <GrossSalesPriceAmt>5675</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4572</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1103</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1103</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>57 Lowes</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2023-06-14</SoldDt>
+          <GrossSalesPriceAmt>12326</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4894</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7432</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7432</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 3M CO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2022-08-25</SoldDt>
+          <GrossSalesPriceAmt>42449</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>53527</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-11078</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-11078</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SERVICE NOW INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-03-15</AcquiredDt>
+          <SoldDt>2022-12-06</SoldDt>
+          <GrossSalesPriceAmt>38658</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>49188</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-10530</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-10530</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 PEPSICO INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-03-11</AcquiredDt>
+          <SoldDt>2023-01-03</SoldDt>
+          <GrossSalesPriceAmt>8950</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5058</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3892</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3892</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 PEPSICO INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-03-11</AcquiredDt>
+          <SoldDt>2023-03-23</SoldDt>
+          <GrossSalesPriceAmt>8842</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5058</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3784</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3784</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>73 PROCTER &amp; GAMBLE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2023-03-23</SoldDt>
+          <GrossSalesPriceAmt>10577</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10596</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-19</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-19</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>32 PROCTER &amp; GAMBLE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2023-06-14</SoldDt>
+          <GrossSalesPriceAmt>4683</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2576</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2107</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2107</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>230 PROLOGIS INC. REIT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2022-12-06</SoldDt>
+          <GrossSalesPriceAmt>26672</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>24324</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2348</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2348</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 STARBUCKS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-03-15</AcquiredDt>
+          <SoldDt>2022-08-25</SoldDt>
+          <GrossSalesPriceAmt>17370</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21516</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4146</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4146</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 STRYKER CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-10-05</AcquiredDt>
+          <SoldDt>2023-03-23</SoldDt>
+          <GrossSalesPriceAmt>13814</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4836</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8978</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8978</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>623 AT&amp;T INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2023-06-14</SoldDt>
+          <GrossSalesPriceAmt>9924</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14626</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4702</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4702</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>250 THORE INDUSTRIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2022-09-01</SoldDt>
+          <GrossSalesPriceAmt>19507</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25516</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-6009</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-6009</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 TYSON FOODS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-30</AcquiredDt>
+          <SoldDt>2022-12-06</SoldDt>
+          <GrossSalesPriceAmt>31999</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>40390</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8391</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8391</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 UNITEDHEALTHGRP INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-03</AcquiredDt>
+          <SoldDt>2023-01-03</SoldDt>
+          <GrossSalesPriceAmt>13082</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2941</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10141</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10141</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 EXXON MOBIL CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-10-05</AcquiredDt>
+          <SoldDt>2023-01-03</SoldDt>
+          <GrossSalesPriceAmt>5460</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3695</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1765</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1765</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 ZOETIS INC A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2022-12-06</SoldDt>
+          <GrossSalesPriceAmt>23122</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18891</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4231</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4231</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WASH SALES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>386</GrossSalesPriceAmt>
+          <GainOrLossAmt>386</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>386</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>1657</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-57</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>560</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>560</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>560</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>2808</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>2808</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>2248</OverpaymentAmt>
+        <AppliedToESTaxAmt>2248</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Theresa Bramanti</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2815585824</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>13707 Cottrell Ct</AddressLine1Txt>
+          <CityNm>Houston</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>77077</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Frank J Bramanti</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>13707 Cottrell Ct</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77077</ZIPCd>
+          </USAddress>
+          <TitleTxt>President, Dir</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Theresa Bramanti</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>13707 Cottrell Ct</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77077</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer, Dir</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Elizabeth A Feldpausch</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11819 Drexelbrook</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77077</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary, Dir</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Bart Bramanti</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>13707 Cottrell Ct</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77077</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Christina Hall</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>300 E 75th St Apt 20E</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10021</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>250</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Joseph Bramanti</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11814 Drexelbrook</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77077</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Matt Bramanti</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>19007 Yearling Meadows</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77095</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2115513</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>133048</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2248561</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2248561</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>33728</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2214833</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>110742</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>110742</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>560</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>560</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>110182</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>110182</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>110182</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>172787</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>172787</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>110182</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>49552</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>39401</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>104746</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>92170</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>89340</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>375209</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>172787</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>110182</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>62605</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>437814</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>49552</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>388262</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>39401</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>104746</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>92170</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>89340</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>62605</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Frank J Bramanti</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Anthony Catholic School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>635 Bonham St</AddressLine1Txt>
+            <CityNm>Columbus</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78934</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support Catholic faith based education</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St John Paul II cath School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 Parkway Plaza</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77077</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support Catholic faith based education</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Pius X Cath High School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>811 West Donovan Street</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77091</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support Catholic faith based education</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Angelo Catholic School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2315 AM Ave</AddressLine1Txt>
+            <CityNm>San Angelo</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76904</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support Catholic faith based education</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Sacred Heart Catholic School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>313 S Texana</AddressLine1Txt>
+            <CityNm>Halletsville</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77964</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support Catholic faith based education</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>IMMACULATE CONCEPTION SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501S AVENUE B</AddressLine1Txt>
+            <CityNm>YUMA</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85364</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO CONSTRUCT A STORAGE SHED.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>170000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>428</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>51262</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <RelatedOrExemptFunctionIncmAmt>1015</RelatedOrExemptFunctionIncmAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>1657</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>54362</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>54362</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>CPA FEES</CategoryTxt>
+        <Amt>5575</Amt>
+        <NetInvestmentIncomeAmt>2788</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2787</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADR FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>28</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>28</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncomeDetail>
+        <Desc>Other Investment Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>1015</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment advisor fees</CategoryTxt>
+        <Amt>10273</Amt>
+        <NetInvestmentIncomeAmt>10273</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

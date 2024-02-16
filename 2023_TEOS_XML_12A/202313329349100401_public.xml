@@ -1,0 +1,1696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-11-28T09:27:56-05:00</ReturnTs>
+    <TaxPeriodEndDt>2023-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>371223565</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>TIMMERMANN &amp; COMPANY LTD</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>105 S 4TH ST</AddressLine1Txt>
+        <CityNm>VANDALIA</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>624712809</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>271847433</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ANNA M GUILANDER SCHOLARSHIP TRUST</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ANNA</BusinessNameControlTxt>
+      <PhoneNum>3148891024</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1 FIRST MISSOURI CENTER</AddressLine1Txt>
+        <CityNm>ST LOUIS</CityNm>
+        <StateAbbreviationCd>MO</StateAbbreviationCd>
+        <ZIPCd>63141</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JILL BASTIAN</PersonNm>
+      <PersonTitleTxt>CO-TRUSTEE</PersonTitleTxt>
+      <PhoneNum>3148891024</PhoneNum>
+      <SignatureDt>2023-11-16</SignatureDt>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>JILL</PersonFirstNm>
+        <PersonLastNm>BASTIAN</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DALE TIMMERMANN</PreparerPersonNm>
+      <PTIN>P01269085</PTIN>
+      <PhoneNum>6182832371</PhoneNum>
+      <PreparationDt>2023-11-16</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc10">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4622470</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>5270</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>5270</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>143159</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>143159</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc2">-36559</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>783082</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc8">8251</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-2533</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>120121</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>145896</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>55010</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>55010</CompOfcrDirTrstNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">4200</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4200</AccountingFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc9">5174</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>5174</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>64384</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>64384</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>246317</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>246317</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>310701</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>64384</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>246317</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-190580</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>81512</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>1873</CashBOYAmt>
+        <CashEOYAmt>1509</CashEOYAmt>
+        <CashEOYFMVAmt>1509</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>92649</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>33417</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>33417</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>295503</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">295503</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>707501</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>178571</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc3">155296</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>127760</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>3707086</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc5">3564291</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>3752283</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>4275682</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>4050016</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4622470</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>4275682</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>4050016</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>4275682</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4050016</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>4275682</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>4050016</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>4275682</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-190580</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc7">34196</OtherIncreasesAmt>
+        <SubtotalAmt>4119298</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc6">69282</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4050016</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10.345 SH VANGUARD INTERMEDIATE TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-04-02</AcquiredDt>
+          <SoldDt>2023-04-04</SoldDt>
+          <GrossSalesPriceAmt>89</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>104</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-15</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-15</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4587.185 SH VANGUARD S/T INVESTMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-04</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>46331</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>49129</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2798</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2798</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>27.339 SH VANGUARD INTERMEDIATE TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-04-02</AcquiredDt>
+          <SoldDt>2023-04-04</SoldDt>
+          <GrossSalesPriceAmt>236</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>275</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-39</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-39</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9380.863 SH VANGUARD S/T INVESTMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-07-01</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>94747</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5253</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5253</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1082.489 SH VANGRD INTERMEDIATE TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-02-10</AcquiredDt>
+          <SoldDt>2023-04-04</SoldDt>
+          <GrossSalesPriceAmt>9353</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11009</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1656</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1656</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2314.815 SH VANGUARD S/T INVESTMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-05-23</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>23380</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1620</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1620</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1375.721 SH VANGRD INTERMEDIATE TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-02-10</AcquiredDt>
+          <SoldDt>2023-04-04</SoldDt>
+          <GrossSalesPriceAmt>11886</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13991</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2105</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2105</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>13.28 SH VANGUARD S/T INVESTMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-31</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>134</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>142</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4990.02 SH VANGRD INTERMEDIATE TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-01-24</AcquiredDt>
+          <SoldDt>2023-04-04</SoldDt>
+          <GrossSalesPriceAmt>43114</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>50000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-6886</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-6886</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>67.221 SH VANGUARD S/T INVESTMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-23</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>679</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>723</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-44</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-44</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1658.617 SH VANGRD INTERMEDIATE TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-05-23</AcquiredDt>
+          <SoldDt>2023-04-04</SoldDt>
+          <GrossSalesPriceAmt>14330</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16852</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2522</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2522</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10.326 SH VANGUARD S/T INVESTMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-12-31</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>104</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>111</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2429.543 SH VANGRD INTERMEDIATE TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-17</AcquiredDt>
+          <SoldDt>2023-04-04</SoldDt>
+          <GrossSalesPriceAmt>20991</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4009</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4009</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3428.29 SH VANGUARD S/T INVESTMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-12-07</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>34626</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>37026</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2400</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2400</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>758.323 SH DODGE &amp; COX INCOME FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-05-23</AcquiredDt>
+          <SoldDt>2023-04-04</SoldDt>
+          <GrossSalesPriceAmt>9517</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10525</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1008</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1008</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>990 SH ISHARES BARCLAY INTERMED CRED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-12-07</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>50846</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>52356</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1510</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1510</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>7209.805 SH DODGE &amp; COX INCOME FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-17</AcquiredDt>
+          <SoldDt>2023-04-04</SoldDt>
+          <GrossSalesPriceAmt>90483</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9517</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9517</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>768 STORNE RIDGE RNS RSK PR INT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-12-13</AcquiredDt>
+          <SoldDt>2023-05-19</SoldDt>
+          <GrossSalesPriceAmt>35052</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>38938</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3886</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3886</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2490.919 SH VANGUARD INTRM BND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-12-15</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>30644</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>32703</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2059</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2059</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25000 INTEL CORP 2.7%</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-04</AcquiredDt>
+          <SoldDt>2022-12-15</SoldDt>
+          <GrossSalesPriceAmt>25000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>23275</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1725</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1725</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1857.546 SH VANGUARD INTRM BND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-12-07</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>19356</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21120</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1764</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1764</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3876.335 DFA SHORT TERM EXTENDED QUA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-04</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>39732</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>41981</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2249</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2249</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9276.438 DFA SHORT TERM EXTENDED QUA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-07-01</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>95083</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4917</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4917</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2291.476 DFA SHORT TERM EXTENDED QUA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-05-23</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>23488</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1512</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1512</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4067.946 DFA SHORT TERM EXTENDED QUA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-17</AcquiredDt>
+          <SoldDt>2023-04-03</SoldDt>
+          <GrossSalesPriceAmt>41696</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>44381</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2685</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2685</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-51529</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1133</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1133</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1133</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>4800</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>4800</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>3667</OverpaymentAmt>
+        <AppliedToESTaxAmt>1160</AppliedToESTaxAmt>
+        <RefundAmt>2507</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JILL BASTIAN</IndividualWithBooksNm>
+        <PhoneNum>3148891024</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1 FIRST MISSOURI CENTER</AddressLine1Txt>
+          <CityNm>ST LOUIS</CityNm>
+          <StateAbbreviationCd>MO</StateAbbreviationCd>
+          <ZIPCd>63141</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JILL BASTIAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1 FIRST MISSOURI CENTER</AddressLine1Txt>
+            <CityNm>ST LOUIS</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63141</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>43997</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERT E GUILANDER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1969 GLIDDON BLVD UNIT B</AddressLine1Txt>
+            <CityNm>TROY</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62294</ZIPCd>
+          </USAddress>
+          <TitleTxt>CO-TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>11013</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>4965927</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>71246</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>5037173</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>5037173</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>75558</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>4961615</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>248081</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>248081</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1133</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1133</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>246948</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>246948</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>246948</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>246317</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>246317</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>246948</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>234507</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>246317</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>234507</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>11810</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>235138</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>ANNA M GUILANDER SCHOLARSHIP TRUST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 FIRST MISSOURI CENTER</AddressLine1Txt>
+            <CityNm>ST LOUIS</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63141</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3148891024</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>THE APPLICATION WILL BE SUBMITTED BY FILING OUT THE PREPRINTED FORM AVAILABLE AND ALL ATTACHMENTS INCLUDING 2 TEACHER RECOMMENDATIONS FOR THE SCHOLARSHIP SAT AND/OR ACT SCORES, GRADE VERIFICATION, STUDENT ESSAY, FINANCIAL INFORMATION AND SCHOOL/COMMUNITY INVOLVEMENT.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>GRADUATING SENIOR OF JERSEY COMMUNITY UNIT SCHOOL DISTRICT 100 HIGH SCHOOL WHO WILL BE ATTENDING A COLLEGE, UNIVERSITY OR TRADE SCHOOL, HAS MAINTAINED A "B" AVERAGE (GPA OF 3.0) AND HAS FINANCIAL NEED.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ABBY HAYES LINDENWOOD UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>29900 PHILS CREEK RD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ABIGAIL MANNS GOLDFARB SCH OF NUR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>220 MICHAEL PLACE</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ABIGAL WOMACK MO UNIV OF SCIENCE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>409 WEST PINE STREET</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALEC FREY MISSOURI STATE UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>906 NORTH STATE STREET</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMBER SAMPLES LCCC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15975 YATES RD</AddressLine1Txt>
+            <CityNm>GRAFTON</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ANNA POPPE UNIV OF MO COLUMBIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2555 S PROV RD APPT 1201</AddressLine1Txt>
+            <CityNm>COLUMBIA</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65203</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ANNE WALKER ILLINOIS STATE UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>609 YVETTE PLACE</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AUBREY MCCORMICK MISSOURI STATE U</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12638 FESSLER RD</AddressLine1Txt>
+            <CityNm>DOW</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AUSTIN HAYES SIUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>29900 PHILS CREEK RD</AddressLine1Txt>
+            <CityNm>JERESYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BERNARD DOHRN UNIV OF ILLINOIS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>22118 E COUNTY RD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BLAKE WHITTMAN UNIV OF ILL CHICA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1106 BUSCH DRIVE</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BRENDEN MARSHALL UNIV OF MO COLUM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2501 S PROV RD APT 1201</AddressLine1Txt>
+            <CityNm>COLUMBIA</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65203</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BRIA TUTTLE UNIV OF ILLINOIS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2 ROSE COURT</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CASSIDY MAAG EASTERN ILL UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>26676 CLAYVIN CANYON RD</AddressLine1Txt>
+            <CityNm>KANE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62054</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CLAIRE ROBERTS EASTERN ILL UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1210 DOLON LN</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1963</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COLTON GAVAZA ILLINOIS COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>27655 MCCLUSKY RD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CONNER BERRY SIUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>25125 NATALIE LANE</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DRAKE GOETTEN DEPAW UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 HICKORY HOLLOW CT</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ELAINA WALSH ILLINOIS STATE UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15538 WENDLE ROAD</AddressLine1Txt>
+            <CityNm>GODFREY</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62035</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ELESE SMITH UNIV OF MO COLUMBIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1102 WAGGONER AVE</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1507</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EMILIO HERNANDEZ MISSOURI BAPTIST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>23003 HOLLOW AVE</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EMILY FRY MISSOURI BAPTIST UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>19684 BEATY MOUND RD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FRANCINE TEPEN ST AMBROSE UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17753 STAGECOACH ROAD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GRACE SHARICH UNIVERSITY OF ILL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>105 W MAIN ST</AddressLine1Txt>
+            <CityNm>OTTERVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GRANT MORGAN INDIANA UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>509 MCDOW RD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HALLE BECHTOLD BRADLEY UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>31199 STATE HWY 16</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JACK DOHRN UNIVERISTY OF ILLINOIS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>22118 E COUNTY RO</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JAY GOETTEN ST LOUIS UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>23052 ST MARYS RD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KARI KRUEGER MIAMI UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>23598 WALNUT HOLLOW CT</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KATE M JONES ST AMBROSE UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 RIDGEPOINT DR</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KATHERYN WITTMAN UNIV OF KENTUCKY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1106 BUSCH DRIVE</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KENDAL DAVIS LEWIS CLARK CC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 MILL ST</AddressLine1Txt>
+            <CityNm>ELSAH</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62028</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LANE N JONES UNIV OF NORTH DAKOTA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>19011 JONES RD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LAUREN BROWN ILLINOIS COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>24744 COSTELLO RD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LAUREN REXING ROSE HULMAN INST OF</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>22254 STATE HWY 3</AddressLine1Txt>
+            <CityNm>GRAFTON</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEANN WOODRING TRUMAN STATE UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>210 MICHAEL PL</AddressLine1Txt>
+            <CityNm>CARROLTON</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LIBBY ROTH SIUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>27245 MCCLUSKY RD</AddressLine1Txt>
+            <CityNm>DOW</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>7847</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LOGAN MEISER UINIV OF MISSISSIPPI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>704 BOLDER WAY</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MACKENZIE JONES ILLINOIS COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17159 INDIANA LAKE RD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MALLORY DUGGAN SIUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>19491 DABBS N RD</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARGARET GOETTEN ST LOUIS UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>701 FAIRVIEW AVE</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MORGAN JOHNSON FLORIDA STATE UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>24696 SUMNER STREET</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MORGAN MARSHALL UNIVERSITY OF ILL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4 CROSS COUNTY CT</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OWEN GOETTEN SOUTHEAST MO ST UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13361 WATERWORKS RD</AddressLine1Txt>
+            <CityNm>FIELDON</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62031</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>QUINTEN SCHULTE LCCC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>26693 SPRUCE ST</AddressLine1Txt>
+            <CityNm>GODFREY</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62035</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RYAN ESCHBACH SOUTHEAST MO ST UNI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>713 N STATE STREET</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RYAN HEITZIG SIUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>21820 STATE HWY 16</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RYLEIGH JONES QUINCY UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 RIDGE POINT</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHANNON STRONG MISSOURI ST U</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1634 S MARION AVE AT D207</AddressLine1Txt>
+            <CityNm>SPRINGFIELD</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>65807</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TANNER BRUNAUGH LINDENWOOD UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 BUSCH DRIVE</AddressLine1Txt>
+            <CityNm>JERSEYVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TYLER AYERS SOUTHWESTERN ILL COLL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>19629 POWERLINE ROAD</AddressLine1Txt>
+            <CityNm>GRAFTON</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WILLAIM ABBOTT ILLINOIS WESLEYAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>301 JERSEY ST</AddressLine1Txt>
+            <CityNm>OTTERVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>246317</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5270</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>143159</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>7215</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>-43774</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>SCHOLARSHIPS RETURNED</Desc>
+          <RelatedOrExemptFunctionIncmAmt>11809</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>BAMBOO MICRO OPPORTUNITY FU</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>-412</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>ALTUS REALTY INCOME FUND II</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>-2121</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>BAMBOO MICRO OPPORTUNITY II</Desc>
+          <RelatedOrExemptFunctionIncmAmt>-1491</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>FEDERAL TAX REFUND</Desc>
+          <RelatedOrExemptFunctionIncmAmt>466</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>153111</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>-32990</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>120121</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <Amt>4200</Amt>
+        <NetInvestmentIncomeAmt>4200</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ALTUS</AssetDesc>
+        <AcquiredDt>2000-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <GrossSalesPriceAmt>5834</GrossSalesPriceAmt>
+        <TotalNetAmt>5834</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BAMBOO MICRO OPP FUND 1</AssetDesc>
+        <AcquiredDt>2000-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <GrossSalesPriceAmt>9136</GrossSalesPriceAmt>
+        <TotalNetAmt>9136</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FIRST TR EXCHANGE TRADED FD PREFERRE</BondNm>
+        <EOYBookValueAmt>155296</EOYBookValueAmt>
+        <EOYFMVAmt>127760</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTEL CORP 2.7% DUE 12/15/22</BondNm>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3M COMPANY</StockNm>
+        <EOYBookValueAmt>15470</EOYBookValueAmt>
+        <EOYFMVAmt>18724</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ABBIVIE INC</StockNm>
+        <EOYBookValueAmt>12801</EOYBookValueAmt>
+        <EOYFMVAmt>74530</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERICAN EXPRESS COMPANY</StockNm>
+        <EOYBookValueAmt>15571</EOYBookValueAmt>
+        <EOYFMVAmt>52216</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AT &amp; T INC</StockNm>
+        <EOYBookValueAmt>12697</EOYBookValueAmt>
+        <EOYFMVAmt>9012</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHEVRON CORPORATION</StockNm>
+        <EOYBookValueAmt>10264</EOYBookValueAmt>
+        <EOYFMVAmt>33724</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DUKE ENERGY CORPORATION</StockNm>
+        <EOYBookValueAmt>19957</EOYBookValueAmt>
+        <EOYFMVAmt>24272</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ENBRIDGE INC COM</StockNm>
+        <EOYBookValueAmt>24726</EOYBookValueAmt>
+        <EOYFMVAmt>24494</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EXXON MOBIL CORPORATION</StockNm>
+        <EOYBookValueAmt>17185</EOYBookValueAmt>
+        <EOYFMVAmt>29395</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INTEL CORPORATION</StockNm>
+        <EOYBookValueAmt>16713</EOYBookValueAmt>
+        <EOYFMVAmt>26662</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>15152</EOYBookValueAmt>
+        <EOYFMVAmt>42831</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JP MORGAN CHASE &amp; CO</StockNm>
+        <EOYBookValueAmt>18284</EOYBookValueAmt>
+        <EOYFMVAmt>58008</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LOWES' COMPANIES, INC</StockNm>
+        <EOYBookValueAmt>12511</EOYBookValueAmt>
+        <EOYFMVAmt>97685</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MCDONALD'S CORPORATION</StockNm>
+        <EOYBookValueAmt>16831</EOYBookValueAmt>
+        <EOYFMVAmt>59274</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PEPSICO INC</StockNm>
+        <EOYBookValueAmt>18265</EOYBookValueAmt>
+        <EOYFMVAmt>46596</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PFIZER INC</StockNm>
+        <EOYBookValueAmt>16441</EOYBookValueAmt>
+        <EOYFMVAmt>33170</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PHILIP MORRIS INTL INC</StockNm>
+        <EOYBookValueAmt>20751</EOYBookValueAmt>
+        <EOYFMVAmt>23145</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>QUALCOM INCORPORATED</StockNm>
+        <EOYBookValueAmt>10041</EOYBookValueAmt>
+        <EOYFMVAmt>35983</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VERIZON COMMUNICATIONS</StockNm>
+        <EOYBookValueAmt>17870</EOYBookValueAmt>
+        <EOYFMVAmt>16205</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WARNER BROS DISCOVERY INC SERIES A C</StockNm>
+        <EOYBookValueAmt>3973</EOYBookValueAmt>
+        <EOYFMVAmt>1575</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ALTUS REALTY INCOME FUND II LLC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>34131</BookValueAmt>
+        <EOYFMVAmt>95351</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BAMBOO MICRO OPPORTUNITY FUND I LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>10042</BookValueAmt>
+        <EOYFMVAmt>14500</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BAMBOO MICRO OPPORTUNITY FUND II LP6</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>37715</BookValueAmt>
+        <EOYFMVAmt>40500</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BRIDGEWAY ULTRA-SMALL COMPANY MARKET</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>29730</BookValueAmt>
+        <EOYFMVAmt>20148</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DFA EMERGING MARKETS CORE EQUITY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>63670</BookValueAmt>
+        <EOYFMVAmt>76501</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DFA INTERNATIONAL SMALL COMPANY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>37000</BookValueAmt>
+        <EOYFMVAmt>41916</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DFA INTERNATIONAL VALUE PORTFOLIO</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>65394</BookValueAmt>
+        <EOYFMVAmt>76679</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DFA INTL HIGH RELATIVE PROFITABILITY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>25000</BookValueAmt>
+        <EOYFMVAmt>31373</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DFA S/T EXTENDED QUALITY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>318019</BookValueAmt>
+        <EOYFMVAmt>301640</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DFA US LARGE CAP VALUE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>52083</BookValueAmt>
+        <EOYFMVAmt>76029</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DFA US TARGETED VALUE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>61284</BookValueAmt>
+        <EOYFMVAmt>107863</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DODGE &amp; COX INCOME</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>180474</BookValueAmt>
+        <EOYFMVAmt>159068</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GRIFFIN INSTL ACCESS CR FD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>10000</BookValueAmt>
+        <EOYFMVAmt>9503</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>IHARES S&amp;P SMALLCAP 600 INDEX FD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>50852</BookValueAmt>
+        <EOYFMVAmt>131119</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISHARE BARCLY INTERMEDIATE CORP BD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>108207</BookValueAmt>
+        <EOYFMVAmt>97786</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISHARES BARCLAYS US TREASURY INFL PR</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>183406</BookValueAmt>
+        <EOYFMVAmt>181510</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MATTHEWS ASIAN GW &amp; INC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>25000</BookValueAmt>
+        <EOYFMVAmt>18337</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>STONE RIDGE ALTERNATIVE LENDING RISK</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>202608</BookValueAmt>
+        <EOYFMVAmt>187777</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>STONE RIDGE HIGH YEILD REINSURANCE R</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>105909</BookValueAmt>
+        <EOYFMVAmt>93615</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>STONE RIDGE RNS RSK PR INT</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>63062</BookValueAmt>
+        <EOYFMVAmt>65201</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD 500 INDEX SIGNAL</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>49267</BookValueAmt>
+        <EOYFMVAmt>125024</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD DEVELOPED MARKETS INDEX</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>57789</BookValueAmt>
+        <EOYFMVAmt>72637</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD GLBL EX-US REAL EST</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>50754</BookValueAmt>
+        <EOYFMVAmt>35037</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD HIGH YIELD CORP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>210000</BookValueAmt>
+        <EOYFMVAmt>190680</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD INTERMEDIATE TERM BOND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>112297</BookValueAmt>
+        <EOYFMVAmt>98100</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD INTERMEDIATE TERM INV GRADE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>181148</BookValueAmt>
+        <EOYFMVAmt>153073</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD INTL EXPLORER FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>32000</BookValueAmt>
+        <EOYFMVAmt>37450</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD REIT INDEX SIGNAL SH</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>40112</BookValueAmt>
+        <EOYFMVAmt>67874</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD S/T INVESTMENT GRADE ADM SH</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>310871</BookValueAmt>
+        <EOYFMVAmt>287723</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD S/T TIPS INDEX</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>69276</BookValueAmt>
+        <EOYFMVAmt>66192</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VARIANT ALTERNATIVE INCOME</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>89606</BookValueAmt>
+        <EOYFMVAmt>104271</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DORT FIN CR UN GRAND BLANC MI 4.25%</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>42585</BookValueAmt>
+        <EOYFMVAmt>42262</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GLOBAL FED CR UN ANCHORAGE AL 4.75%</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>125000</BookValueAmt>
+        <EOYFMVAmt>122845</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>GLOBAL FED CR UN ANCHORAGE AL 4.6%</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>100000</BookValueAmt>
+        <EOYFMVAmt>97265</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MORGAN STANLEY PRIVATE BK NATL 4.75%</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>100000</BookValueAmt>
+        <EOYFMVAmt>98197</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MORGAN STANLEY PRIVATE BK NATL 4.65%</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>55000</BookValueAmt>
+        <EOYFMVAmt>53631</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CHARLES SCHWAB BK SSB WESTLAKE 5.05%</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>75000</BookValueAmt>
+        <EOYFMVAmt>74524</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CHARLES SCHWAB BK SSB WESTLAKE 4.95%</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>75000</BookValueAmt>
+        <EOYFMVAmt>74257</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FIRST REP BK SAN FRANCISCO CAL 5.15%</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>75000</BookValueAmt>
+        <EOYFMVAmt>74828</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FIRST REP BK SAN FRANCISCO CAL 5.1%</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>50000</BookValueAmt>
+        <EOYFMVAmt>49997</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc6">
+      <OtherDecreasesDetail>
+        <Desc>TAX BASIS ADJ TO ALTUS REALTY</Desc>
+        <Amt>62460</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>TAX BASIS ADJ BAMBOO I</Desc>
+        <Amt>4574</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>TAX BASIS ADJ BAMBOO II</Desc>
+        <Amt>2248</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc8">
+      <OtherIncomeDetail>
+        <Desc>SCHOLARSHIPS RETURNED</Desc>
+        <RevenueAndExpensesPerBooksAmt>11809</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>BAMBOO MICRO OPPORTUNITY FUND</Desc>
+        <RevenueAndExpensesPerBooksAmt>-412</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-412</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>ALTUS REALTY INCOME FUND II L</Desc>
+        <RevenueAndExpensesPerBooksAmt>-2121</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-2121</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>BAMBOO MICRO OPPORTUNITY II</Desc>
+        <RevenueAndExpensesPerBooksAmt>-1491</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>FEDERAL TAX REFUND</Desc>
+        <RevenueAndExpensesPerBooksAmt>466</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc7">
+      <OtherIncreasesDetail>
+        <Desc>NON TAXABLE DISTRIBUTIONS</Desc>
+        <Amt>33501</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>FIRST TRUST EXCHANGE ADJ</Desc>
+        <Amt>693</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>K-1 NON DEDUCTIBLE EXPENSE</Desc>
+        <Amt>2</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>359</Amt>
+        <NetInvestmentIncomeAmt>359</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>AG 990 FEE</CategoryTxt>
+        <Amt>15</Amt>
+        <NetInvestmentIncomeAmt>15</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>990PF ESTIMATES</CategoryTxt>
+        <Amt>4800</Amt>
+        <NetInvestmentIncomeAmt>4800</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>990 PF TAXES</CategoryTxt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

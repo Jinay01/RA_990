@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-14T14:13:29-06:00</ReturnTs>
+    <TaxPeriodEndDt>2023-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Andersen Tax LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>71 South Wacker Drive Suite 2600</AddressLine1Txt>
+        <CityNm>Chicago</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60606</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>363433310</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE PATTIS FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% MARK R PATTIS</InCareOfNm>
+      <BusinessNameControlTxt>PATT</BusinessNameControlTxt>
+      <PhoneNum>8474328700</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>600 CENTRAL AVENUE SUITE 316</AddressLine1Txt>
+        <CityNm>HIGHLAND PARK</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60035</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARK Pattis</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>8474328700</PhoneNum>
+      <SignatureDt>2023-11-03</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>MARK</PersonFirstNm>
+        <PersonLastNm>Pattis</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>BRIDGET BYRNE</PreparerPersonNm>
+      <PTIN>P01890355</PTIN>
+      <PhoneNum>3123573950</PhoneNum>
+      <PreparationDt>2023-11-03</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>13001298</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>225383</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>27807</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>27807</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>122903</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>122903</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>173322</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>406926</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>173322</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">1283632</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>6700</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>1833047</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>330732</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">4240</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>4240</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">10077</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>92</TaxesNetInvstIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>287</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>287</TravConfMeetingNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">8193</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>8193</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>22797</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>12812</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>249288</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>249288</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>272085</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>12812</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>249288</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1560962</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>317920</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>42733</CashBOYAmt>
+        <CashEOYAmt>0</CashEOYAmt>
+        <CashEOYFMVAmt>0</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>504338</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>572679</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>572679</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>0</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvGovtObligSch">300375</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>300375</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>1433108</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">1597250</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1597250</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>75105</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestCorpBondsSch">31165</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>31165</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>8875095</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">10499829</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>10499829</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">509670</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSch">0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>11440049</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>13001298</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>13001298</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabSch">0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabSch">287</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>287</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>11440049</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>13001011</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>11440049</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>13001011</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>11440049</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>13001298</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>11440049</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1560962</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>13001011</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>13001011</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>DISPOSITION OF HILDENE OPPORTUNITIES OFFSHORE</PropertyDesc>
+          <SoldDt>2023-06-30</SoldDt>
+          <GrossSalesPriceAmt>0</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12650</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-12650</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-12650</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>DISTRIBUTION IN EXCESS OF BASIS OF CITADEL KENSINGTON</PropertyDesc>
+          <GrossSalesPriceAmt>222230</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>220954</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1276</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1276</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>173322</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>4419</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>4419</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4419</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>12660</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <TotalPaymentsAndCreditsAmt>12660</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>8241</OverpaymentAmt>
+        <AppliedToESTaxAmt>8241</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>MARK R PATTIS</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8474328700</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>600 CENTRAL AVENUE SUITE 316</AddressLine1Txt>
+          <CityNm>HIGHLAND PARK</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60035</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARK R PATTIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>600 CENTRAL AVENUE SUITE 316</AddressLine1Txt>
+            <CityNm>HIGHLAND PARK</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60035</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LISA J PATTIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>600 CENTRAL AVENUE SUITE 316</AddressLine1Txt>
+            <CityNm>HIGHLAND PARK</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60035</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY AND TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MADELEINE A PATTIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>600 CENTRAL AVENUE SUITE 316</AddressLine1Txt>
+            <CityNm>HIGHLAND PARK</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60035</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>11588934</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>685919</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>35126</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>12309979</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>12309979</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>184650</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>12125329</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>606266</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>606266</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4419</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>4419</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>601847</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>601847</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>601847</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>249288</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>249288</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>601847</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2020</PriorYear1Yr>
+        <PriorYear2Yr>2019</PriorYear2Yr>
+        <PriorYear3Yr>2018</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr2Amt>1477159</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>1477159</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>249288</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>249288</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>352559</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>352559</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>1124600</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>1124600</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>1124600</ExcessFromYear2Amt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>MARK R PATTIS</ContributingManagerNm>
+        <ShareholderManagerNm>NA</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>See Attached Detail To Statement 13</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 CENTRAL AVENUE SUITE 316</AddressLine1Txt>
+            <CityNm>HIGHLAND PARK</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60035</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO SUPPORT PROGRAM AND OPERATIONAL EXPENSES.</GrantOrContributionPurposeTxt>
+          <Amt>249288</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>249288</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>150710</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>525990</BusinessCd>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>173322</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER INCOME</Desc>
+          <BusinessCd>525990</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1283632</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>1607664</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1607664</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>Mark R Pattis Revocable Trust</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>600 CENTRAL AVENUE SUITE 316</AddressLine1Txt>
+          <CityNm>HIGHLAND PARK</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60035</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>225383</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>VARIOUS STOCK</NoncashPropertyDesc>
+        <FairMarketValueAmt>225383</FairMarketValueAmt>
+        <ReceivedDt>2022-12-19</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpBondsSchedule documentId="InvestCorpBondsSch">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORPORATE BONDS</BondNm>
+        <EOYBookValueAmt>31165</EOYBookValueAmt>
+        <EOYFMVAmt>31165</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESTMENT IN CORPORATE STOCKS</StockNm>
+        <EOYBookValueAmt>1597250</EOYBookValueAmt>
+        <EOYFMVAmt>1597250</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvGovtObligSch">
+      <USGovtObligationsBookVlEOYAmt>300375</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>300375</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ABERDEEN STANDARD VENTURES XII</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>288512</BookValueAmt>
+        <EOYFMVAmt>288512</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AHOY CAPITAL SPINNAKER FUND II</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>153247</BookValueAmt>
+        <EOYFMVAmt>153247</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BAKER BROS - ELGANY INVEST LTD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>642724</BookValueAmt>
+        <EOYFMVAmt>642724</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CANTILLON</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1013268</BookValueAmt>
+        <EOYFMVAmt>1013268</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ABERDEEN VENTURE XIII</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>86588</BookValueAmt>
+        <EOYFMVAmt>86588</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CERBERUS GLOBAL NPL FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>371846</BookValueAmt>
+        <EOYFMVAmt>371846</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CERBERUS VI INSTITUTIONAL</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>490862</BookValueAmt>
+        <EOYFMVAmt>490862</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CITADEL KENSINGTON</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1208692</BookValueAmt>
+        <EOYFMVAmt>1208692</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CROWN ASIA-PACIFIC PE V FEEDER</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>153411</BookValueAmt>
+        <EOYFMVAmt>153411</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CVI CREDIT VALUE FUND B III</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>123366</BookValueAmt>
+        <EOYFMVAmt>123366</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CVI CREDIT VALUE FUND B IV</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>424906</BookValueAmt>
+        <EOYFMVAmt>424906</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CVI CREDIT VALUE FUND B V, LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>348124</BookValueAmt>
+        <EOYFMVAmt>348124</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FIRST LIGHT FOCUS FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1176103</BookValueAmt>
+        <EOYFMVAmt>1176103</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FOURTH SAIL LS OFFSHORE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1837926</BookValueAmt>
+        <EOYFMVAmt>1837926</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BLUE OWL RE V FKAOAK ST RE V</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>475420</BookValueAmt>
+        <EOYFMVAmt>475420</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>LEOPARD FUND LIMITED</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>595036</BookValueAmt>
+        <EOYFMVAmt>595036</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NEWSER</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>100</BookValueAmt>
+        <EOYFMVAmt>100</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CAPITALSPRING DIRECT LENDING</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1961</BookValueAmt>
+        <EOYFMVAmt>1961</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BLUE OWL RE IV FKAOAK ST RE IV</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>307991</BookValueAmt>
+        <EOYFMVAmt>307991</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VOGEN FUNDING, LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>15397</BookValueAmt>
+        <EOYFMVAmt>15397</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WHITEBOX RELATIVE VALUE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>784349</BookValueAmt>
+        <EOYFMVAmt>784349</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>DISTRIBUTIONS RECEIVABLE</Desc>
+        <BOYBookValueAmt>509670</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC. EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2617</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2617</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK AND MANAGEMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>5576</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>5576</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>unrealized gain/loss</Desc>
+        <RevenueAndExpensesPerBooksAmt>1276932</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Litigation Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>19</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>19</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Flow-Through Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>6681</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>6681</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilitiesDetail>
+        <Desc>DUE TO NCHCM</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>287</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES</CategoryTxt>
+        <Amt>4240</Amt>
+        <NetInvestmentIncomeAmt>4240</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FILING FEE</CategoryTxt>
+        <Amt>15</Amt>
+        <NetInvestmentIncomeAmt>15</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES PAID</CategoryTxt>
+        <Amt>9985</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID</CategoryTxt>
+        <Amt>77</Amt>
+        <NetInvestmentIncomeAmt>77</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

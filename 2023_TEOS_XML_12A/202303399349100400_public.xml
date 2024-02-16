@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-05T05:08:00-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>651164012</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>NDH Advisors LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>303 W Madison St Suite 950</AddressLine1Txt>
+        <CityNm>Chicago</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60606</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>874069634</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Rowan Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ROWA</BusinessNameControlTxt>
+      <PhoneNum>3125488421</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>303 W Madison St Ste 1000</AddressLine1Txt>
+        <CityNm>Chicago</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60606</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Peter Kinney</PersonNm>
+      <PersonTitleTxt>Director</PersonTitleTxt>
+      <SignatureDt>2023-12-05</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Peter</PersonFirstNm>
+        <PersonLastNm>Kinney</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Justin Shelman</PreparerPersonNm>
+      <PTIN>P01285183</PTIN>
+      <PhoneNum>3124610514</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>20507867</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>252347</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>210</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>210</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>210</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>41217</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>41217</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>41217</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-94831</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>208038</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">4285</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>4285</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>203228</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>45712</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>41427</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">4570</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2285</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>2285</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2285</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">224282</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>224282</OtherProfFeesDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>6154</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>6154</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">103458</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>5</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>5</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>103453</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>338464</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>2290</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>2290</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>336174</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>674127</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>674127</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1012591</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>2290</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>2290</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1010301</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-809363</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>43422</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>39137</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>4000000</CashBOYAmt>
+        <CashEOYAmt>4362447</CashEOYAmt>
+        <CashEOYFMVAmt>4362447</CashEOYFMVAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">22773472</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>16145420</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>4000000</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>27135919</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>20507867</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">2164</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesEOYAmt>2164</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>4000000</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>27133755</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>4000000</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>27133755</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>4000000</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>27135919</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>4000000</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-809363</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">23943118</OtherIncreasesAmt>
+        <SubtotalAmt>27133755</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>27133755</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Countryside Properties PLC GBP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-11-14</AcquiredDt>
+          <SoldDt>2022-02-22</SoldDt>
+          <GrossSalesPriceAmt>208038</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>302869</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-94831</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-94831</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-94831</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-94831</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>604</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>604</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>604</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>28</EsPenaltyAmt>
+        <TaxDueAmt>632</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="SubstantialContributorsSchedul">true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Brent Batts</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3125488422</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>980 N Michigan Ave Suite 1200</AddressLine1Txt>
+          <CityNm>Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60611</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Peter A Kinney</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>179 E Lake Shore Dr 11W</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60611</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.05</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Lisa L Sandquist</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>179 E Lake Shore Dr 11W</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60611</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.05</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Simpacta Limited</BusinessNameLine1Txt>
+          </BusinessName>
+          <ForeignAddress>
+            <AddressLine1Txt>18 Wesminster Gdn</AddressLine1Txt>
+            <CityNm>London</CityNm>
+            <ProvinceOrStateNm>London</ProvinceOrStateNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>SW1P4JD</ForeignPostalCd>
+          </ForeignAddress>
+          <ServiceTypeTxt>Consultation</ServiceTypeTxt>
+          <CompensationAmt>52980</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Taxpayer allocates funds to charitable purposes in accordance with foundation guidelines.</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2032623</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2916262</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>4948885</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>4948885</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>74233</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>4874652</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>243733</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1010301</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1010301</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>39137</CurrentYearAmt>
+          <TotalAmt>39137</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>33266</CurrentYearAmt>
+          <TotalAmt>33266</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>1010301</CurrentYearAmt>
+          <TotalAmt>1010301</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>1010301</CurrentYearAmt>
+          <TotalAmt>1010301</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <CurrentYearAmt>20381365</CurrentYearAmt>
+          <Year1Amt>4000000</Year1Amt>
+          <TotalAmt>24381365</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <CurrentYearAmt>20381365</CurrentYearAmt>
+          <Year1Amt>4000000</Year1Amt>
+          <TotalAmt>24381365</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <TotalAmt>0</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>National Immigrant Justice Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>224 S Michigan Avenue STE 600</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Telluride Angel Baskets</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 W Colorado Ave</AddressLine1Txt>
+            <CityNm>Telluride</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81435</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Tri County Health Network</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 4178 238 E Colorado Ave STE8</AddressLine1Txt>
+            <CityNm>Telluride</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81435</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Chicago Public Media</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 95090</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60694</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Museum of Contemporary Photography</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 S Michigan Ave</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60605</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Crossroads Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3411 West Diversey Avenue STE 20</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60647</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Cabrinigreen Legal Aid</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6 S Clark Street</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60603</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Migrant Rights Centre Ireland</RecipientPersonNm>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>13 Lower Dorset St</AddressLine1Txt>
+            <CityNm>Dublin</CityNm>
+            <ProvinceOrStateNm>Dublin</ProvinceOrStateNm>
+            <CountryCd>EI</CountryCd>
+            <ForeignPostalCd>1 DO1 Y893</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>220532</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The American Ireland Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 Post Office Sq STE 1205</AddressLine1Txt>
+            <CityNm>Boston</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>138000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Irish Penal Reform Trust</RecipientPersonNm>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>MACRO Bldg 1 Green St</AddressLine1Txt>
+            <CityNm>Dublin</CityNm>
+            <ProvinceOrStateNm>Dublin</ProvinceOrStateNm>
+            <CountryCd>EI</CountryCd>
+            <ForeignPostalCd>D07 X6NR</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>12925</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Irish Council for Civil Liberties</RecipientPersonNm>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>Castleriver Hse 14/15 Parliament</AddressLine1Txt>
+            <CityNm>Dublin</CityNm>
+            <ProvinceOrStateNm>Dublin</ProvinceOrStateNm>
+            <CountryCd>EI</CountryCd>
+            <ForeignPostalCd>DO2 FW60</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>7017</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Uplift Solutions</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>417 North 8th Street STE 300</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operating support.</GrantOrContributionPurposeTxt>
+          <Amt>130653</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>674127</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>210</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>41217</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>4285</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-94831</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>-49119</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-49119</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>4570</Amt>
+        <NetInvestmentIncomeAmt>2285</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2285</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2285</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <ContractorCompensationExpln documentId="ContractorProfExpln" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <ContractorCompExplnGrp>
+        <ContractorBusinessName>
+          <BusinessNameLine1Txt>Simpacta Limited</BusinessNameLine1Txt>
+        </ContractorBusinessName>
+        <ExplanationTxt>Consultation expense for operational activities.</ExplanationTxt>
+      </ContractorCompExplnGrp>
+    </ContractorCompensationExpln>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Various Common Stock</StockNm>
+        <EOYBookValueAmt>22773472</EOYBookValueAmt>
+        <EOYFMVAmt>16145420</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Filing Fee</Desc>
+        <RevenueAndExpensesPerBooksAmt>10</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>5</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>5</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>5</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Global Dialogue Membership</Desc>
+        <RevenueAndExpensesPerBooksAmt>2432</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2432</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Meals</Desc>
+        <RevenueAndExpensesPerBooksAmt>1469</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1469</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Other Costs</Desc>
+        <RevenueAndExpensesPerBooksAmt>196</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>196</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Salaries</Desc>
+        <RevenueAndExpensesPerBooksAmt>85332</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>85332</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Staff Training</Desc>
+        <RevenueAndExpensesPerBooksAmt>1951</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1951</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Subscriptions</Desc>
+        <RevenueAndExpensesPerBooksAmt>38</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>38</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Technology Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>10727</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>10727</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Website</Desc>
+        <RevenueAndExpensesPerBooksAmt>1303</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1303</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncomeDetail>
+        <Desc>Other Investment Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>4285</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4285</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncreasesDetail>
+        <Desc>Transferred Assets:Peter Kinney &amp; Lisa Sandquist Foundation</Desc>
+        <Amt>19085897</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherLiabilitiesDetail>
+        <Desc>Credit Card Payable</Desc>
+        <EOYBookValueAmt>2164</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Consulting</CategoryTxt>
+        <Amt>157761</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>157761</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Legal</CategoryTxt>
+        <Amt>66521</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>66521</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="SubstantialContributorsSchedul" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <SubstantialContributorDetail>
+        <PersonNm>Peter Kinney</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>433 West Colorado Ave</AddressLine1Txt>
+          <CityNm>Telluride</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81435</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

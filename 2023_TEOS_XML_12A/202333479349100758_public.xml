@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-13T16:58:30-05:00</ReturnTs>
+    <TaxPeriodEndDt>2023-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>270594820</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>HILL CPA FIRM PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>5112 STAGE RD STE 1</AddressLine1Txt>
+        <CityNm>MEMPHIS</CityNm>
+        <StateAbbreviationCd>TN</StateAbbreviationCd>
+        <ZIPCd>381343160</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>626153838</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>FLORA BELLE MOSS AND BESSIE ABIGAIL</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>MOSS FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FLOR</BusinessNameControlTxt>
+      <PhoneNum>9016826932</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>963 FAIR MEADOW ROAD</AddressLine1Txt>
+        <CityNm>MEMPHIS</CityNm>
+        <StateAbbreviationCd>TN</StateAbbreviationCd>
+        <ZIPCd>381175409</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>CARL R OLSEN</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>9016826932</PhoneNum>
+      <SignatureDt>2023-11-28</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>CARL R</PersonFirstNm>
+        <PersonLastNm>OLSEN</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>BRIAN C HILL CPA</PreparerPersonNm>
+      <PTIN>P00406312</PTIN>
+      <PhoneNum>9018691687</PhoneNum>
+      <PreparationDt>2023-12-13</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc8">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>116567</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>38</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>38</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>38</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>2345</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>2345</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>2345</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc2">-973</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>4737</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc4">1500</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>1500</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>2910</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>2383</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>3883</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">1425</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesAdjNetIncmAmt>1425</AccountingFeesAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc5">1362</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>1362</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>1362</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc6">18</TaxesRevAndExpnssAmt>
+        <TaxesAdjNetIncmAmt>18</TaxesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>2805</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1362</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>2805</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>19800</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>19800</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>22605</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1362</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>2805</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>19800</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-19695</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1021</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1078</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>28392</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>7202</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>7202</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>76566</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">78061</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>109365</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>104958</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>85263</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>116567</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>104958</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>85263</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>104958</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>85263</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>104958</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>85263</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>104958</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-19695</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>85263</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>85263</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>14</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>14</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>14</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>14</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>CARL R OLSEN</IndividualWithBooksNm>
+        <PhoneNum>9016826932</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>963 FAIR MEADOW ROAD</AddressLine1Txt>
+          <CityNm>MEMPHIS</CityNm>
+          <StateAbbreviationCd>TN</StateAbbreviationCd>
+          <ZIPCd>381175409</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CARL R OLSEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>963 FAIR MEADOW ROAD</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>381175409</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAROL C OLSEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>963 FAIR MEADOW ROAD</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>381175409</ZIPCd>
+          </USAddress>
+          <TitleTxt>COMMITTEE ME</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRIAN C HILL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5112 STAGE RD STE 1</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>381343160</ZIPCd>
+          </USAddress>
+          <TitleTxt>COMMITTEE ME</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>108770</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>18214</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>126984</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>126984</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1905</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>125079</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>6254</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>6254</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>14</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>14</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>6240</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>6240</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>6240</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>19800</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>19800</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>6240</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>7613</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>8724</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>8781</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>11585</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>11805</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>48508</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>19800</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>6240</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>13560</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>62068</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>7613</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>54455</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>8724</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>8781</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>11585</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>11805</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>13560</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>CARL C OLSEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>963 FAIR MEADOW ROAD</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>381175409</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9016826932</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>APPLICATION BY LETTER FORM WITH GENERAL INFORMATION AND IRS 501(C) LETTER</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>MUST BE SUBMITTED BY 09/30 OF EACH YEAR.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>MUST BE APPROVED IRS 501(C)3 CHARITABLE ORGANIZATION</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>A STEP AHEAD FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 41601</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38174</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AGAPE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3160 DIRECTORS ROW</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38131</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALZHEIMERS ASSN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4825 TROUSDALE DR STE 220</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37220</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN CANCER SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 771557</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38177</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN KIDNEY FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>857 MT MORIAH RD STE 201</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>381175704</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN RED CROSS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 CENTRAL</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHURCH HEALTH CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1350 CONCOURSE AVE STE 14</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COLLEGE HILL PRESBYTERIAN CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9 CR-128</AddressLine1Txt>
+            <CityNm>OXFORD</CityNm>
+            <StateAbbreviationCd>MS</StateAbbreviationCd>
+            <ZIPCd>38655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FIRST PRESBYTERIAN CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>166 POPLAR AVE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEBONHEUR CHILDREN'S CTR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 NO DUNLAP ST</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LIFE BEAT PREGNANCY CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 CHURCH ST</AddressLine1Txt>
+            <CityNm>TIPTONVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38079</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARCH OF DIMES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5384 POPLAR AVE 107</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38119</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEMPHIS LIBRARY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3030 POPLAR AVE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RANDOLPH BRANCH</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEMPHIS UNION MISSION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>383 POPLAR AVE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>1300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MIFA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>910 VANCE AVE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38126</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MS UNIVERSITY FOR WOMEN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1100 COLLEGE ST</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>MS</StateAbbreviationCd>
+            <ZIPCd>39701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PARKINSON'S FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1359 BROADWAY ST SUITE 15</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAMARITAN'S PURSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3000</AddressLine1Txt>
+            <CityNm>BOONE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28607</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST JUDE CHILDRENS HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>262 DANNY THOMAS PL</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>381053678</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SALVATION ARMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>696 JACKSON AVE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE VETERANS MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 VETERANS DR N</AddressLine1Txt>
+            <CityNm>HALLS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38040</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TRANSITIONS OF DYER COUNT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>250 YOUTH HOME RD</AddressLine1Txt>
+            <CityNm>DYERSBURG</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF TENNESSEE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 ANDY HOLT TOWER</AddressLine1Txt>
+            <CityNm>KNOXVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37996</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YOUTH VILLAGES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3320 BROTHER BLVD</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38133</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>"</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>19800</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>38</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>2345</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-973</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>THEFT RECOVERY</Desc>
+          <ExclusionCd>41</ExclusionCd>
+          <ExclusionAmt>500</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>VOID CHECK 1366</Desc>
+          <ExclusionCd>25</ExclusionCd>
+          <ExclusionAmt>500</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>VOID CHECK 1384</Desc>
+          <ExclusionCd>25</ExclusionCd>
+          <ExclusionAmt>500</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>1500</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>1410</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>2910</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>HILL CPA FIRM, PLLC</CategoryTxt>
+        <Amt>1425</Amt>
+        <AdjustedNetIncomeAmt>1425</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>V F CORPORATION</AssetDesc>
+        <AcquiredDt>2020-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2022-12</SoldDt>
+        <GrossSalesPriceAmt>587</GrossSalesPriceAmt>
+        <BasisAmt>1125</BasisAmt>
+        <TotalNetAmt>-538</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CLOROX COMPANY</AssetDesc>
+        <AcquiredDt>2020-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2023-06</SoldDt>
+        <GrossSalesPriceAmt>1257</GrossSalesPriceAmt>
+        <BasisAmt>1527</BasisAmt>
+        <TotalNetAmt>-270</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WALMART INC</AssetDesc>
+        <AcquiredDt>2020-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2023-06</SoldDt>
+        <GrossSalesPriceAmt>1050</GrossSalesPriceAmt>
+        <BasisAmt>899</BasisAmt>
+        <TotalNetAmt>151</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>RTX CORP</AssetDesc>
+        <AcquiredDt>2020-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2023-09</SoldDt>
+        <GrossSalesPriceAmt>805</GrossSalesPriceAmt>
+        <BasisAmt>695</BasisAmt>
+        <TotalNetAmt>110</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US BANCORP NEW</AssetDesc>
+        <AcquiredDt>2018-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2023-09</SoldDt>
+        <GrossSalesPriceAmt>445</GrossSalesPriceAmt>
+        <BasisAmt>666</BasisAmt>
+        <TotalNetAmt>-221</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US BANCORP NEW</AssetDesc>
+        <AcquiredDt>2020-03</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2023-09</SoldDt>
+        <GrossSalesPriceAmt>371</GrossSalesPriceAmt>
+        <BasisAmt>461</BasisAmt>
+        <TotalNetAmt>-90</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>US BANCORP NEW</AssetDesc>
+        <AcquiredDt>2021-06</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2023-09</SoldDt>
+        <GrossSalesPriceAmt>222</GrossSalesPriceAmt>
+        <BasisAmt>337</BasisAmt>
+        <TotalNetAmt>-115</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO</StockNm>
+        <EOYBookValueAmt>78061</EOYBookValueAmt>
+        <EOYFMVAmt>109365</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc4">
+      <OtherIncomeDetail>
+        <Desc>THEFT RECOVERY</Desc>
+        <RevenueAndExpensesPerBooksAmt>500</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>500</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>VOID CHECK 1366</Desc>
+        <RevenueAndExpensesPerBooksAmt>500</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>500</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>VOID CHECK 1384</Desc>
+        <RevenueAndExpensesPerBooksAmt>500</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>500</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc5">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>WELLS FARGO-ADVISORY FEE</CategoryTxt>
+        <Amt>1362</Amt>
+        <NetInvestmentIncomeAmt>1362</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1362</AdjustedNetIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc6">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INCOME TAX</CategoryTxt>
+        <Amt>18</Amt>
+        <AdjustedNetIncomeAmt>18</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

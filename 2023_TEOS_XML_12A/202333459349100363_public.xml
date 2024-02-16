@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-11T14:13:35-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>911944475</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Cheryl K Woods CPA PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>550 Woods Rd</AddressLine1Txt>
+        <CityNm>Centerville</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98613</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>936041768</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>James Weir Memorial Fund - Biglow Dist</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JAME</BusinessNameControlTxt>
+      <PhoneNum>5414425290</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>70544 McKinney Rd</AddressLine1Txt>
+        <CityNm>Wasco</CityNm>
+        <StateAbbreviationCd>OR</StateAbbreviationCd>
+        <ZIPCd>97065</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Norman Fridley</PersonNm>
+      <PersonTitleTxt>Chairman</PersonTitleTxt>
+      <SignatureDt>2023-12-09</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Norman</PersonFirstNm>
+        <PersonLastNm>Fridley</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Cheryl K Woods</PreparerPersonNm>
+      <PTIN>P00187514</PTIN>
+      <PhoneNum>5097735670</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1457032</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>2403</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>2403</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>2403</InterestOnSavingsAdjNetIncmAmt>
+        <GrossRentsRevAndExpnssAmt>230560</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>230560</GrossRentsNetInvstIncmAmt>
+        <GrossRentsAdjNetIncmAmt>230560</GrossRentsAdjNetIncmAmt>
+        <NetRentalIncomeOrLossAmt>214994</NetRentalIncomeOrLossAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">-1095</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>231868</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>232963</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>232963</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">3242</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>1621</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>1621</LegalFeesAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">4000</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>2000</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>2000</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">5107</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>5107</TaxesNetInvstIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">264</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>132</DeprecAndDpltnNetInvstIncmAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>132</DeprecAndDpltnAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">17607</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>8804</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>8803</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>30220</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>17664</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>12556</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>187844</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>187844</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>218064</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>17664</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>12556</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>187844</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>13804</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>215299</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>220407</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>298847</CashBOYAmt>
+        <CashEOYAmt>161727</CashEOYAmt>
+        <CashEOYFMVAmt>161727</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>512475</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>662831</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>662832</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>800</PrepaidExpensesBOYAmt>
+        <USGovernmentObligationsBOYAmt>81312</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>82944</USGovernmentObligationsEOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>88494</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>35468</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>53290</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">53026</LandEOYAmt>
+        <LandEOYFMVAmt>630840</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">1633</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">1633</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">1633</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>948357</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>962161</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1457032</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>69000</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>69000</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>879357</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>893161</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>948357</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>962161</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>948357</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>962161</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>948357</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>13804</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>962161</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>962161</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2993</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2993</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2993</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1800</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1800</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>1193</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OR</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Kim McKinney</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5414425290</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>70544 McKinney Rd</AddressLine1Txt>
+          <CityNm>Wasco</CityNm>
+          <StateAbbreviationCd>OR</StateAbbreviationCd>
+          <ZIPCd>97065</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Brett Gray</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 325</AddressLine1Txt>
+            <CityNm>Wasco</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97065</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Kevin McCullough</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 194</AddressLine1Txt>
+            <CityNm>Wasco</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97065</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Norman Fridley</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 46</AddressLine1Txt>
+            <CityNm>Wasco</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97065</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Scholarships provided to qualifying individuals and organizations.</Description1Txt>
+        <Expenses1Amt>64202</Expenses1Amt>
+        <Description2Txt>Other aid to qualifying individuals - School supplies and educational activities.</Description2Txt>
+        <Expenses2Amt>4165</Expenses2Amt>
+        <Description3Txt>Sherman County School District Donations - FFA, Greenhouse, Chess Club, PE Supplies and Science Lab</Description3Txt>
+        <Expenses3Amt>119177</Expenses3Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>82128</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>862956</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>502753</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1447837</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1447837</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt referenceDocumentId="ExplCashDeemedHeld">82125</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1365712</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>68286</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>68286</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2993</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2993</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>65293</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>65293</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>65293</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>187844</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>187844</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>65293</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr4Amt>19676</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>35900</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>45137</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>15405</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>116118</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>187844</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>65293</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>122551</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>238669</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>238669</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>19676</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>35900</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>45137</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>15405</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>122551</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>James Weir Memorial Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>70544 McKinney Rd</AddressLine1Txt>
+            <CityNm>Wasco</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97065</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5414425290</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>kimmckinney1986@gmail.com</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>Statement giving name, address, purposes and amount of funds desired.</FormAndInfoAndMaterialsTxt>
+          <RestrictionsOnAwardsTxt>Must conform to the guidelines established by the fund's organizational documents and the Oregon Attorney General.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Wyatt Stutzman</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 194</AddressLine1Txt>
+            <CityNm>Wasco</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97065</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Educational Fees and Programs</GrantOrContributionPurposeTxt>
+          <Amt>28000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Emma Stutzman</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 194</AddressLine1Txt>
+            <CityNm>Wasco</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97065</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Educational Expenses and Fees</GrantOrContributionPurposeTxt>
+          <Amt>28000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Raelynn and Natalie Macnab</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>97327 Emigrant Spgs Ln</AddressLine1Txt>
+            <CityNm>Wasco</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97065</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Educational Expenses and Fees</GrantOrContributionPurposeTxt>
+          <Amt>3490</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Becky Hilderbrand</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 363</AddressLine1Txt>
+            <CityNm>Wasco</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97065</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Educational Expenses and Fees</GrantOrContributionPurposeTxt>
+          <Amt>9177</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Sherman County School District</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>65912 High School Loop</AddressLine1Txt>
+            <CityNm>Moro</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97039</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Purchase shop equipement and finish greenhouse for school.</GrantOrContributionPurposeTxt>
+          <Amt>119177</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>187844</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>2403</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>214994</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1095</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>216302</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>216302</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <CashDeemedCharitableExplnStmt documentId="ExplCashDeemedHeld" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <ShortExplanationTxt>Operation of the Foundation's Noncharitable AssetsIn accordance with Reg. 53.4942(a)-2(c)(3)(iv), the above-referenced foundation is excluding from its minimum investment return (MIR) calculation a total of $ 82,125 in cash that it deems held for charitable activities. This amount is in excess of 1.5% of the fair market value of the foundation's noncharitable assets. The following information is submitted in support of the exclusion from MIR of this amount.1. FMV of foundation's noncharitable assets - $ 1,411,8882. 1.5% of line 1 - $ 21,1783. Facts and circumstances justifying the exclusion of an amount in excess of the amount on line 2: Educational support committed for 2023 - $ 68,000; Administrative costs for 2023, based on prior years' history - $14,125. Total - $ 82,125.</ShortExplanationTxt>
+    </CashDeemedCharitableExplnStmt>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>7' Container</PropertyDesc>
+        <AcquiredDt>2020-05-18</AcquiredDt>
+        <CostOrOtherBasisAmt>2640</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>550</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>264</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>264</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>32589</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>30763</AccumulatedDepreciationAmt>
+        <BookValueAmt>1826</BookValueAmt>
+        <EOYFMVAmt>129720</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Land</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>51200</CostOrOtherBasisAmt>
+        <BookValueAmt>51200</BookValueAmt>
+        <EOYFMVAmt>501120</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Miscellaneous</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>4705</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>4705</AccumulatedDepreciationAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <LegalFeesGrp>
+        <CategoryTxt>Legal</CategoryTxt>
+        <LegalFeesAmt>3242</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>1621</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1621</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>Co-op Investments</Desc>
+        <BOYBookValueAmt>1633</BOYBookValueAmt>
+        <EOYBookValueAmt>1633</EOYBookValueAmt>
+        <EOYFMVAmt>1633</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank &amp; Investment Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>35</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>18</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>17</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>1888</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>944</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>944</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Meeting Expense</Desc>
+        <RevenueAndExpensesPerBooksAmt>300</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>150</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>150</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>82</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>41</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>41</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>15302</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>7651</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>7651</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncomeDetail>
+        <Desc>Other Investment Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>-1095</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Clerk Fees</CategoryTxt>
+        <Amt>4000</Amt>
+        <NetInvestmentIncomeAmt>2000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2000</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal Taxes</CategoryTxt>
+        <Amt>4925</Amt>
+        <NetInvestmentIncomeAmt>4925</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>State Taxes</CategoryTxt>
+        <Amt>289</Amt>
+        <NetInvestmentIncomeAmt>289</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Tax Refund</CategoryTxt>
+        <Amt>107</Amt>
+        <NetInvestmentIncomeAmt>-107</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-20T10:31:49-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>263000418</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ABEST TAX SERVICES INC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1621A S MAIN ST</AddressLine1Txt>
+        <CityNm>MILPITAS</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95035</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>853765594</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>RED HIPPO FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>REDH</BusinessNameControlTxt>
+      <PhoneNum>4082605899</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>10438 VISTA DRIVE</AddressLine1Txt>
+        <CityNm>CUPERTINO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95014</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SHIH CHANG CHANG</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <SignatureDt>2023-12-20</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>SHIH CHANG</PersonFirstNm>
+        <PersonLastNm>CHANG</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>SHUANG MAO</PreparerPersonNm>
+      <PTIN>P00660082</PTIN>
+      <PhoneNum>4083929977</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2141113</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>211709</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>8345</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>8345</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>8345</DividendsAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>220054</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>8345</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>8345</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1950</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>1950</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">95</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>95</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">4631</DeprecAndDpltnRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>11562</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>11562</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">26189</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>26189</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>44427</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>39796</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>63000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>63000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>107427</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>102796</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>112627</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>8345</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>8345</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>491827</CashBOYAmt>
+        <CashEOYAmt>594686</CashEOYAmt>
+        <CashEOYFMVAmt>594686</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>644388</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">644388</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1527927</CorporateStockEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>40518</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>10303</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>25428</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">30215</LandEOYAmt>
+        <LandEOYFMVAmt>18500</LandEOYFMVAmt>
+        <TotalAssetsBOYAmt>1161643</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1269289</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2141113</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">13586</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">8605</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>13586</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>8605</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>1148057</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1260684</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1148057</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1260684</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1161643</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1269289</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1148057</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>112627</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1260684</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1260684</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>116</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>116</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>116</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>116</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="SubstantialContributorsSchedul">true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>JUN CHANG</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4082605899</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>10438 VISTA DRIVE</AddressLine1Txt>
+          <CityNm>CUPERTINO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95014</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JUN CHANG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10438 VISTA DRIVE</AddressLine1Txt>
+            <CityNm>CUPERTINO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95014</ZIPCd>
+          </USAddress>
+          <TitleTxt>President &amp; CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SHIH CHANG CHANG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10438 VISTA DRIVE</AddressLine1Txt>
+            <CityNm>CUPERTINO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95014</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary &amp; CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1446782</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>491240</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1938022</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1938022</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>29070</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1908952</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>95448</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>95448</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>116</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>116</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>95332</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>95332</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>95332</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>102796</ExpensesAndContributionsAmt>
+        <CharitableAssetsAcquisPaidAmt>9418</CharitableAssetsAcquisPaidAmt>
+        <QualifyingDistributionsAmt>112214</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>95332</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>30849</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>11129</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>41978</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>112214</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>95332</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>16882</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>58860</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>58860</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>30849</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>11129</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>16882</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>SHIH CHANG CHANG</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Judes Childrens Research Hospita</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>262 Danny Thomas Place</AddressLine1Txt>
+            <CityNm>Memphis</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>Donation</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To find cures for children with cancer and other catastrophic diseases through research and treatment. It is supported primarily by donations raised by ALSAC. Research efforts are directed at understanding the molecular, genetic and chemical bases of catastrophic diseases in children; identifying cures for such diseases; and promoting their prevention. Research is focused specifically on cancers, some acquired and inherited immunodeficiencys, sickle cell disease, infectious diseases and genetic National Park Foundation.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Green Ocean Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10438 Vista Drive</AddressLine1Txt>
+            <CityNm>Cupertino</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95014</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>Donation</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support advancement of education, science and music. To develop and expand a variety of philanthropic missions for the general public. To support churches, universities, schools, libraries, local community events and other places of general public benefit. To support efforts to create and improve opportunities for children and the elderly.</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>63000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>8345</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>8345</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>8345</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>SHIH CHANG CHANG</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>10438 VISTA DRIVE</AddressLine1Txt>
+          <CityNm>CUPERTINO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95014</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>191000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>CHANG TSENG FAMILY FOUNDATION</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>10438 VISTA DRIVE</AddressLine1Txt>
+          <CityNm>CUPERTINO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95014</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>20709</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>1950</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1950</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAPTOP</PropertyDesc>
+        <AcquiredDt>2021-05-09</AcquiredDt>
+        <CostOrOtherBasisAmt>2237</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1740</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1481</Rt>
+        <CurrentYearExpenseAmt>331</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2021-09-29</AcquiredDt>
+        <CostOrOtherBasisAmt>93</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>36</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1749</Rt>
+        <CurrentYearExpenseAmt>16</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2021-04-07</AcquiredDt>
+        <CostOrOtherBasisAmt>109</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>43</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1749</Rt>
+        <CurrentYearExpenseAmt>19</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2021-04-15</AcquiredDt>
+        <CostOrOtherBasisAmt>3376</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1309</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1749</Rt>
+        <CurrentYearExpenseAmt>590</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2021-04-24</AcquiredDt>
+        <CostOrOtherBasisAmt>1360</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>527</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1749</Rt>
+        <CurrentYearExpenseAmt>238</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2021-05-12</AcquiredDt>
+        <CostOrOtherBasisAmt>368</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>143</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1749</Rt>
+        <CurrentYearExpenseAmt>64</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OFFICE IMPROVEMENT</PropertyDesc>
+        <AcquiredDt>2021-05-03</AcquiredDt>
+        <CostOrOtherBasisAmt>7500</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>398</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>273</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OFFICE IMPROVEMENT</PropertyDesc>
+        <AcquiredDt>2021-08-17</AcquiredDt>
+        <CostOrOtherBasisAmt>3595</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>158</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>131</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OFFICE IMPROVEMENT</PropertyDesc>
+        <AcquiredDt>2021-09-02</AcquiredDt>
+        <CostOrOtherBasisAmt>1895</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>78</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>69</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OFFICE IMPROVEMENT</PropertyDesc>
+        <AcquiredDt>2021-09-07</AcquiredDt>
+        <CostOrOtherBasisAmt>6805</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>278</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>247</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OFFICE IMPROVEMENT</PropertyDesc>
+        <AcquiredDt>2021-09-07</AcquiredDt>
+        <CostOrOtherBasisAmt>1000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>41</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>36</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IPHONE</PropertyDesc>
+        <AcquiredDt>2021-10-02</AcquiredDt>
+        <CostOrOtherBasisAmt>645</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>215</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.4445</Rt>
+        <CurrentYearExpenseAmt>287</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAPTOP</PropertyDesc>
+        <AcquiredDt>2022-02-15</AcquiredDt>
+        <CostOrOtherBasisAmt>2117</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>706</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.4445</Rt>
+        <CurrentYearExpenseAmt>941</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IPHONE</PropertyDesc>
+        <AcquiredDt>2022-12-17</AcquiredDt>
+        <CostOrOtherBasisAmt>981</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.3333</Rt>
+        <CurrentYearExpenseAmt>327</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HEADSET</PropertyDesc>
+        <AcquiredDt>2023-02-23</AcquiredDt>
+        <CostOrOtherBasisAmt>479</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.2000</Rt>
+        <CurrentYearExpenseAmt>96</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IPHONE</PropertyDesc>
+        <AcquiredDt>2023-05-18</AcquiredDt>
+        <CostOrOtherBasisAmt>985</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.3333</Rt>
+        <CurrentYearExpenseAmt>328</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IPAD</PropertyDesc>
+        <AcquiredDt>2023-09-28</AcquiredDt>
+        <CostOrOtherBasisAmt>962</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.3333</Rt>
+        <CurrentYearExpenseAmt>321</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE</PropertyDesc>
+        <AcquiredDt>2023-09-29</AcquiredDt>
+        <CostOrOtherBasisAmt>2011</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1429</Rt>
+        <CurrentYearExpenseAmt>287</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HVAC SYSTEM</PropertyDesc>
+        <AcquiredDt>2023-07-24</AcquiredDt>
+        <CostOrOtherBasisAmt>4000</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0076</Rt>
+        <CurrentYearExpenseAmt>30</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TD Ameritrade - 6381</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Charles Schwab - 9480</StockNm>
+        <EOYBookValueAmt>644388</EOYBookValueAmt>
+        <EOYFMVAmt>1527927</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Furniture and Fixtures</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>7317</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>3272</AccumulatedDepreciationAmt>
+        <BookValueAmt>4045</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Machinery and Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>8406</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>5292</AccumulatedDepreciationAmt>
+        <BookValueAmt>3114</BookValueAmt>
+        <EOYFMVAmt>2000</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <EOYFMVAmt>1500</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>24795</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1739</AccumulatedDepreciationAmt>
+        <BookValueAmt>23056</BookValueAmt>
+        <EOYFMVAmt>15000</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Automobile Expense</Desc>
+        <RevenueAndExpensesPerBooksAmt>646</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>646</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Due &amp; Subscriptions Expense</Desc>
+        <RevenueAndExpensesPerBooksAmt>915</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>915</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Filing Expense</Desc>
+        <RevenueAndExpensesPerBooksAmt>100</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>100</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Insurance Expense</Desc>
+        <RevenueAndExpensesPerBooksAmt>295</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>295</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Meals &amp; Entertainment</Desc>
+        <RevenueAndExpensesPerBooksAmt>20389</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>20389</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Expense</Desc>
+        <RevenueAndExpensesPerBooksAmt>2829</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2829</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>505</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>505</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Parking and Toll</Desc>
+        <RevenueAndExpensesPerBooksAmt>20</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>20</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Postage, Mailing Service</Desc>
+        <RevenueAndExpensesPerBooksAmt>73</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>73</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Repair &amp; Maintanence</Desc>
+        <RevenueAndExpensesPerBooksAmt>417</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>417</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherLiabilitiesDetail>
+        <Desc>Credit Card Payable</Desc>
+        <BOYBookValueAmt>3586</BOYBookValueAmt>
+        <EOYBookValueAmt>8605</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>Advance From Founder</Desc>
+        <BOYBookValueAmt>10000</BOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <SubstantialContributorsSch documentId="SubstantialContributorsSchedul" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <SubstantialContributorDetail>
+        <PersonNm>SHIH CHANG CHANG</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>10438 VISTA DR</AddressLine1Txt>
+          <CityNm>CUPERTINO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95014</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>Income Tax - IRS</CategoryTxt>
+        <Amt>95</Amt>
+        <DisbursementsCharitablePrpsAmt>95</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

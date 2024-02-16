@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-18T15:11:15-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>823422354</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Cornelius &amp; Davini LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1721 2nd St Ste 201</AddressLine1Txt>
+        <CityNm>Sacramento</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95811</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>461544429</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Our Little Light Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>OURL</BusinessNameControlTxt>
+      <PhoneNum>9162951633</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1400 Rocky Ridge Drive 280</AddressLine1Txt>
+        <CityNm>Roseville</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95661</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Dale R Carlsen</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <SignatureDt>2023-12-18</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>Dale R</PersonFirstNm>
+        <PersonLastNm>Carlsen</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Jenny L Davini</PreparerPersonNm>
+      <PTIN>P00706310</PTIN>
+      <PhoneNum>9164449868</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>11212927</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>3210</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>3210</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>230709</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>230709</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>168916</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2268771</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>168916</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">62</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>62</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>402897</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>402897</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">2750</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>275</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2475</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">6553</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">32810</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>32604</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>206</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>42113</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>32879</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2681</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>575000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>575000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>617113</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>32879</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>577681</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-214216</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>370018</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>31791</CashBOYAmt>
+        <CashEOYAmt>2782</CashEOYAmt>
+        <CashEOYFMVAmt>2782</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>158023</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>81241</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>81241</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>9486923</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">9376976</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>11128904</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>9676737</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>9460999</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>11212927</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>9676737</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>9460999</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>9676737</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>9460999</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>9676737</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>9460999</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>9676737</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-214216</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>9462521</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">1522</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>9460999</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>2174150</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2099855</CostOrOtherBasisAmt>
+          <GainOrLossAmt>74295</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>74295</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gain Dividends</PropertyDesc>
+          <GainOrLossAmt>94621</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>168916</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>74295</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>5143</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>5143</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>5143</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>7260</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>7260</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>27</EsPenaltyAmt>
+        <OverpaymentAmt>2090</OverpaymentAmt>
+        <AppliedToESTaxAmt>2090</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Dale R Carlsen</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9162951633</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1400 Rocky Ridge Drive 280</AddressLine1Txt>
+          <CityNm>Roseville</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95661</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Kathryn W Carlsen</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1400 Rocky Ridge Drive 280</AddressLine1Txt>
+            <CityNm>Roseville</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95661</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>4.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Dale R Carlsen</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1400 Rocky Ridge Drive 280</AddressLine1Txt>
+            <CityNm>Roseville</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95661</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Beth M Carlsen</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1400 Rocky Ridge Drive 280</AddressLine1Txt>
+            <CityNm>Roseville</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95661</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>10700006</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>147991</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>10847997</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>10847997</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>162720</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>10685277</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>534264</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>534264</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>5143</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>5143</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>529121</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>529121</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>529121</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>577681</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>577681</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>529121</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>68665</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>23130</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>91795</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>577681</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>529121</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>48560</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>140355</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>140355</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>68665</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>23130</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>48560</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Kathryn W Carlsen</ContributingManagerNm>
+        <ContributingManagerNm>Dale R Carlsen</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>Kathryn W Carlsen</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 Rocky Ridge Drive 280</AddressLine1Txt>
+            <CityNm>Roseville</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95661</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9162951633</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>GRANT APPLICATION FORM (PROVIDED BY OUR LITTLE LIGHT FOUNDATION) INCLUDING THE FOLLOWING REQUESTED INFORMATION: 1. GRANT AMOUNT REQUESTED, INCLUDING THE PERCENTAGE OF FUNDS USED FOR DIRECT SERVICES AND/OR PROGRAM SUPPORT, 2. NAME, ADDRESS, TAX ID#, CONTACT INFORMATION FOR THE ORGANIZATION REQUESTING THE GRANT, 2. HOW THE FUNDS WILL HELP THE HEALTH, WELL-BEING OR EDUCATION OF CHILDREN, YOUTH, OR FAMILIES, AND HOW MANY CHILDREN/YOUTH AND FAMILIES WILL BE SERVED BY THE GRANT.THE GRANT APPLICATION FORM SHOULD BE ACCOMPANIED BY A FULL GRANT PROPOSAL INCLUDING THE FOLLOWING INFORMATION: 1. A COVER LETTER DESCRIBING THE ORGANIZATION, THE PROPOSED PROGRAM OR PROJECT AND THE AMOUNT REQUESTED, 2. BACKGROUND INFORMATION FOR THE ORGANIZATION, INCLUDING ITS HISTORY AND PURPOSE AND THE PRIMARY POPULATION SERVED, 3. A DESCRIPTION OF THE PROGRAM, INCLUDING A DETAILED DESCRIPTION OF THE PROPOSED PROJECT OR PROGRAM, ITS GOALS AND OBJECTIVES, AN EXPLANATION OF HOW THE FUNDS WILL BE USED AND AN EVALUATION</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>December 31</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>SUPPORT IS PROVIDED STRICTLY FOR REGISTERED IRS QUALIFIED EXEMPT ORGANIZATIONS. FUNDS ARE INTENDED TO BENEFIT PROGRAMS THAT HELP PROMOTE THE HEALTH, WELL-BEING, EDUCATION OF CHILDREN, YOUTH, FAMILIES. A MINIMUM OF 90% OF THE FUNDS MUST BE ALLOCATED TOWARDS DIRECT SERVICES WITH AT MOST 10% USED TOWARD ADMINISTRATION COSTS. THE BENEFICIARY MISSION MUST MEET THE EXPECTATIONS OF THE FOUNDATIONS FOCUS TO PROMOTE THE HEALTH, WELL-BEING, EDUCATION OF CHILDREN, YOUTH, FAMILIES. SUPPORT IS PRIMARILY FOR EXISTING AND SUSTAINABLE PROGRAMS. NEW PROGRAMS AND PROGRAMS THAT ARE NOT YET ABLE TO REPORT MEASURABLE RESULTS MAY BE CONSIDERED ON A CASE BY CASE BASIS. BENEFICIARIES MUST HAVE A PROCEDURE IN PLACE TO ENSURE THAT THE CLIENTS THEY SERVE MEET CERTAIN CRITERIA. BENEFICIARIES ARE REQUIRED TO SUBMIT AN OPERATING BUDGET ALONG WITH A PROPOSAL INDICATING HOW/WHEN FUNDING WILL BE SPENT IN ORDER FOR FUNDS TO BE DISTRIBUTED AND MUST AGREE TO SUBMIT PERIODIC RECAPS. VARIANCE FROM PROPOSED USE OF FUNDS MUS</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UC Davis Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 160186</AddressLine1Txt>
+            <CityNm>Sacramento</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95816</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding for CIRCLE clinic.</GrantOrContributionPurposeTxt>
+          <Amt>230000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Improve Your Tomorrow</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3780 Rosin Ct Suite 240</AddressLine1Txt>
+            <CityNm>Sacramento</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95834</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding for IYT College Success Center - Our Little Light Foundation Makerspace.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Camp to Belong</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1222</AddressLine1Txt>
+            <CityNm>Littleton</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01460</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding to Support camps to reunite brothers/sisters in foster care.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St John's Program for Real Change</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2443 Fair Oaks Blvd 369</AddressLine1Txt>
+            <CityNm>Sacramento</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95825</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding to support women as they move from crisis to stability.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Yolo Crisis Nursery Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1107 Kennedy Place Suite 5</AddressLine1Txt>
+            <CityNm>Davis</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95616</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding to support crisis overnight and respite care, wraparound services and specialized infant day care and preschool.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Alliance for Children's Rights</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3333 Wilshire Blvd Ste 550</AddressLine1Txt>
+            <CityNm>Los Angeles</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for education program to support legal education advocacy for students in foster care.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Community Grows</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>762 Fulton Street</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding for supplies and materials, curriculum and staff for programming to those in need.</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Intervention Center for Early Child</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17461 Derian Ave Suite 114</AddressLine1Txt>
+            <CityNm>Irvine</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92614</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding for Ounce of Prevention Program to improve the well being of underserved children in Orange County.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Koinonia Family Services</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1403</AddressLine1Txt>
+            <CityNm>Loomis</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95650</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding for Peer Mentorship Program to develop, support and retain valuable workforce to continue quality programs.</GrantOrContributionPurposeTxt>
+          <Amt>55000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Los Angeles City College Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>855 North Cermont Ave</AddressLine1Txt>
+            <CityNm>Los Angeles</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90029</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support the Guardian Scholars Program which empowers LACC students who are foster youth.</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Project Access Resource Centers</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2100 W Orangewood Ave Ste 230</AddressLine1Txt>
+            <CityNm>Orange</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92868</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding to help level the playing field for low-income students with high quality academic support and enrichment activitites.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>575000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>3210</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>230709</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>168916</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Other Income</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>62</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>402897</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>402897</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>2750</Amt>
+        <NetInvestmentIncomeAmt>275</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2475</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>16,933.25 SHS - Dodge &amp; Cox Income</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>232208</BookValueAmt>
+        <EOYFMVAmt>209126</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>167,431.44 SHS - JPM Core Bd Fd</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1921117</BookValueAmt>
+        <EOYFMVAmt>1707801</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>110,246.04 SHS - Blackrock High Yield Pt</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>769222</BookValueAmt>
+        <EOYFMVAmt>748571</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>12,481.00 SHS - Vanguard Ttl Intl Bnd ET</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>612634</BookValueAmt>
+        <EOYFMVAmt>610071</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>8,209.245 shs - JH Fndmntl Lg Cap Cor R6</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>346597</BookValueAmt>
+        <EOYFMVAmt>526541</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>9,605.916 SHS - Parnassus Core Equity</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>385007</BookValueAmt>
+        <EOYFMVAmt>520833</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>6,491.000 SHS - SPDR S&amp;P 500 EFT Trust</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1316710</BookValueAmt>
+        <EOYFMVAmt>2877330</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>11,445.000 SHS - Ishares Core Msci Eafe</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>685450</BookValueAmt>
+        <EOYFMVAmt>772538</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>7,529.273 SHS - Matthews Pacific Tiger</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>219177</BookValueAmt>
+        <EOYFMVAmt>149983</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>473.000 SHS - Ishares Russell 1000 Gro</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>64142</BookValueAmt>
+        <EOYFMVAmt>130160</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>3,588.000 SHS - Ishares MSCI EAFE Growth</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>7,242.340 SHS - International Growth-R6</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>2,477.000 SHS - Vanguard Mid-Cap</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>400745</BookValueAmt>
+        <EOYFMVAmt>545336</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>6,452.000 SHS - Ishares Core Msci Emerg</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>9,577.273 SHS - Artisan Intl Val</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>421716</BookValueAmt>
+        <EOYFMVAmt>423603</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>2,127.00 SHS - Ishares 7-10 Year Treas</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>214714</BookValueAmt>
+        <EOYFMVAmt>205468</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>13,750.955 SHS - Artisan International</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>360000</BookValueAmt>
+        <EOYFMVAmt>361375</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>2,074.000 SHS - JPMorgan BetaBuilders</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>110705</BookValueAmt>
+        <EOYFMVAmt>112245</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>4,638.000 SHS - Ishares MSCI All Country</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>298999</BookValueAmt>
+        <EOYFMVAmt>308149</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>47,216.31 SHS - Vanguard TTL Intl Bnd-AD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1017833</BookValueAmt>
+        <EOYFMVAmt>919774</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherDecreasesDetail>
+        <Desc>Other Basis Adjustment</Desc>
+        <Amt>1522</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Investment Management Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>32604</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>32604</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>61</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>61</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>state charity registration fee</Desc>
+        <RevenueAndExpensesPerBooksAmt>125</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>125</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>state filing fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>20</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>20</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncomeDetail>
+        <Desc>Other Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>62</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>62</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal Taxes</CategoryTxt>
+        <Amt>6553</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

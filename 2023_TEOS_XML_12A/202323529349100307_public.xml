@@ -1,0 +1,2429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-18T13:35:04-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>133487848</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>GOLDBURD &amp; CO LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>11 BROADWAY SUITE 1155</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10004</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>206754883</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>FUCHS FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FUCH</BusinessNameControlTxt>
+      <PhoneNum>2123028970</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>990 EAST 23RD STREET</AddressLine1Txt>
+        <CityNm>BROOKLYN</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11210</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MICHAEL FUCHS</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>2123028970</PhoneNum>
+      <SignatureDt>2023-11-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>MICHAEL</PersonFirstNm>
+        <PersonLastNm>FUCHS</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JACOB GOLDBURD</PreparerPersonNm>
+      <PTIN>P00674529</PTIN>
+      <PhoneNum>2123028970</PhoneNum>
+      <PreparationDt>2023-12-18</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>480977</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>222000</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>3544</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>3544</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>248</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>248</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-91784</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1159331</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">119221</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>139817</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>253229</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>143609</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">5000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>500</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <InterestRevAndExpnssAmt>1229</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>1229</InterestNetInvstIncmAmt>
+        <InterestDsbrsChrtblAmt>0</InterestDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">24225</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">410</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>210</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>30864</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1939</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>278840</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>278840</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>309704</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1939</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>278840</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-56475</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>141670</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>119421</CashBOYAmt>
+        <CashEOYAmt>13801</CashEOYAmt>
+        <CashEOYFMVAmt>13801</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>208843</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>141129</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>141129</SavAndTempCashInvstEOYFMVAmt>
+        <OtherNtsAndLoansRcvblAmt>211880</OtherNtsAndLoansRcvblAmt>
+        <OtherRcvblAllwncDbtflAcctAmt>0</OtherRcvblAllwncDbtflAcctAmt>
+        <OtherNtsAndLoansRcvblBOYAmt>129506</OtherNtsAndLoansRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>211880</OtherNtsAndLoansRcvblEOYAmt>
+        <OtherNtsAndLoansRcvblEOYFMVAmt>211880</OtherNtsAndLoansRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>72509</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">165300</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>114167</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>403556</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">345250</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>0</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>933835</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>877360</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>480977</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>933835</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>877360</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>933835</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>877360</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>933835</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>877360</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>933835</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-56475</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>877360</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>877360</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ADITXT INC</PropertyDesc>
+          <AcquiredDt>2021-12-27</AcquiredDt>
+          <SoldDt>2022-02-01</SoldDt>
+          <GrossSalesPriceAmt>467</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>683</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-216</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-216</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>AIADVERTISING INC</PropertyDesc>
+          <AcquiredDt>2022-01-18</AcquiredDt>
+          <SoldDt>2022-01-25</SoldDt>
+          <GrossSalesPriceAmt>1278</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1174</CostOrOtherBasisAmt>
+          <GainOrLossAmt>104</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>104</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>AIADVERTISING INC</PropertyDesc>
+          <AcquiredDt>2022-01-18</AcquiredDt>
+          <SoldDt>2022-01-25</SoldDt>
+          <GrossSalesPriceAmt>206</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>185</CostOrOtherBasisAmt>
+          <GainOrLossAmt>21</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>21</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>AIADVERTISING INC</PropertyDesc>
+          <AcquiredDt>2022-01-18</AcquiredDt>
+          <SoldDt>2022-01-25</SoldDt>
+          <GrossSalesPriceAmt>1160</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1026</CostOrOtherBasisAmt>
+          <GainOrLossAmt>134</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>134</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BEYOND MEAT INC</PropertyDesc>
+          <AcquiredDt>2022-02-04</AcquiredDt>
+          <SoldDt>2022-02-07</SoldDt>
+          <GrossSalesPriceAmt>59705</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>58745</CostOrOtherBasisAmt>
+          <GainOrLossAmt>960</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>960</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BIOGEN INC</PropertyDesc>
+          <AcquiredDt>2021-08-23</AcquiredDt>
+          <SoldDt>2022-02-04</SoldDt>
+          <GrossSalesPriceAmt>6482</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10466</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3984</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3984</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BIOGEN INC</PropertyDesc>
+          <AcquiredDt>2021-08-23</AcquiredDt>
+          <SoldDt>2022-07-07</SoldDt>
+          <GrossSalesPriceAmt>3277</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5233</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1956</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1956</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BIOGEN INC</PropertyDesc>
+          <AcquiredDt>2021-08-23</AcquiredDt>
+          <SoldDt>2022-07-07</SoldDt>
+          <GrossSalesPriceAmt>1092</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1560</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-468</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-468</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BIOGEN INC</PropertyDesc>
+          <AcquiredDt>2021-12-07</AcquiredDt>
+          <SoldDt>2022-07-07</SoldDt>
+          <GrossSalesPriceAmt>1092</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1136</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-44</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-44</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BIOGEN INC</PropertyDesc>
+          <AcquiredDt>2022-01-03</AcquiredDt>
+          <SoldDt>2022-07-07</SoldDt>
+          <GrossSalesPriceAmt>9832</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10921</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1089</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1089</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BIOGEN INC</PropertyDesc>
+          <AcquiredDt>2022-05-31</AcquiredDt>
+          <SoldDt>2022-07-07</SoldDt>
+          <GrossSalesPriceAmt>6555</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6030</CostOrOtherBasisAmt>
+          <GainOrLossAmt>525</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>525</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BIOGEN INC</PropertyDesc>
+          <AcquiredDt>2022-06-09</AcquiredDt>
+          <SoldDt>2022-07-07</SoldDt>
+          <GrossSalesPriceAmt>43699</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>40654</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3045</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3045</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BIOGEN INC</PropertyDesc>
+          <AcquiredDt>2022-06-10</AcquiredDt>
+          <SoldDt>2022-06-24</SoldDt>
+          <GrossSalesPriceAmt>21155</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19718</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1437</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1437</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CF ACQUISITION CORP VI</PropertyDesc>
+          <AcquiredDt>2022-01-11</AcquiredDt>
+          <SoldDt>2022-01-25</SoldDt>
+          <GrossSalesPriceAmt>2339</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2450</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-111</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-111</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>COINBASE GLOBAL INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-08-23</SoldDt>
+          <GrossSalesPriceAmt>151396</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>149250</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2146</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2146</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CORTEXYME INC</PropertyDesc>
+          <AcquiredDt>2021-12-27</AcquiredDt>
+          <SoldDt>2022-03-08</SoldDt>
+          <GrossSalesPriceAmt>4260</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14250</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9990</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9990</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CYCLO THERAPEUTICS INC</PropertyDesc>
+          <AcquiredDt>2022-01-13</AcquiredDt>
+          <SoldDt>2022-01-25</SoldDt>
+          <GrossSalesPriceAmt>1122</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1433</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-311</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-311</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>DRONE GUARDER INC</PropertyDesc>
+          <AcquiredDt>2022-01-14</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>1089</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2555</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1466</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1466</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>EXTREME BIODIESEL INC</PropertyDesc>
+          <AcquiredDt>2022-01-19</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>1194</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2021</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-827</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-827</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>EXTREME BIODIESEL INC</PropertyDesc>
+          <AcquiredDt>2022-01-19</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>44</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>84</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-40</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-40</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>HOME DEPOT INC</PropertyDesc>
+          <AcquiredDt>2022-03-08</AcquiredDt>
+          <SoldDt>2022-03-15</SoldDt>
+          <GrossSalesPriceAmt>16325</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16266</CostOrOtherBasisAmt>
+          <GainOrLossAmt>59</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>59</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>IDERA PHARMACEUTICALS INC</PropertyDesc>
+          <AcquiredDt>2022-01-18</AcquiredDt>
+          <SoldDt>2022-01-21</SoldDt>
+          <GrossSalesPriceAmt>1836</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2190</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-354</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-354</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MOLECULAR DATA INC</PropertyDesc>
+          <AcquiredDt>2022-01-05</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>1779</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2330</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-551</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-551</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-07-15</AcquiredDt>
+          <SoldDt>2022-07-15</SoldDt>
+          <GrossSalesPriceAmt>55063</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>54242</CostOrOtherBasisAmt>
+          <GainOrLossAmt>821</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>821</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-09-30</SoldDt>
+          <GrossSalesPriceAmt>207</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>207</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-09-30</SoldDt>
+          <GrossSalesPriceAmt>20530</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20530</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-04</SoldDt>
+          <GrossSalesPriceAmt>31240</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>31240</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-12</SoldDt>
+          <GrossSalesPriceAmt>8794</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8794</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-12</SoldDt>
+          <GrossSalesPriceAmt>8750</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8750</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-13</SoldDt>
+          <GrossSalesPriceAmt>9117</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9117</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-13</SoldDt>
+          <GrossSalesPriceAmt>17962</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>17962</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-17</SoldDt>
+          <GrossSalesPriceAmt>18580</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18580</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-18</SoldDt>
+          <GrossSalesPriceAmt>19113</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19113</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-18</SoldDt>
+          <GrossSalesPriceAmt>18922</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18922</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-18</SoldDt>
+          <GrossSalesPriceAmt>191</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>191</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-25</SoldDt>
+          <GrossSalesPriceAmt>9731</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9731</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-25</SoldDt>
+          <GrossSalesPriceAmt>9699</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9699</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-25</SoldDt>
+          <GrossSalesPriceAmt>9718</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9718</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-25</SoldDt>
+          <GrossSalesPriceAmt>10006</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10006</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-26</SoldDt>
+          <GrossSalesPriceAmt>9759</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9759</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-26</SoldDt>
+          <GrossSalesPriceAmt>9725</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13336</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3611</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3611</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-26</SoldDt>
+          <GrossSalesPriceAmt>9767</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9767</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-26</SoldDt>
+          <GrossSalesPriceAmt>9725</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11123</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1398</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1398</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>3738</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6297</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2559</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2559</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>5607</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8618</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3011</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3011</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-03</SoldDt>
+          <GrossSalesPriceAmt>15816</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>15816</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-03</SoldDt>
+          <GrossSalesPriceAmt>7908</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7908</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-04</SoldDt>
+          <GrossSalesPriceAmt>14341</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14341</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-04</SoldDt>
+          <GrossSalesPriceAmt>6884</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16665</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9781</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9781</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-04</SoldDt>
+          <GrossSalesPriceAmt>7171</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7171</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-04</SoldDt>
+          <GrossSalesPriceAmt>143</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>347</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-204</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-204</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-04</SoldDt>
+          <GrossSalesPriceAmt>143</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>347</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-204</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-204</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-10</SoldDt>
+          <GrossSalesPriceAmt>3193</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5321</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2128</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2128</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-10</SoldDt>
+          <GrossSalesPriceAmt>4789</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8130</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3341</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3341</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-10</SoldDt>
+          <GrossSalesPriceAmt>7981</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>17377</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9396</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9396</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-11</SoldDt>
+          <GrossSalesPriceAmt>5307</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7309</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2002</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2002</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-11</SoldDt>
+          <GrossSalesPriceAmt>3538</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4878</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1340</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1340</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-11</SoldDt>
+          <GrossSalesPriceAmt>5307</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9546</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4239</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4239</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-11</SoldDt>
+          <GrossSalesPriceAmt>5307</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7034</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1727</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1727</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-01</AcquiredDt>
+          <SoldDt>2022-11-11</SoldDt>
+          <GrossSalesPriceAmt>3538</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5373</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1835</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1835</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-02</AcquiredDt>
+          <SoldDt>2022-11-11</SoldDt>
+          <GrossSalesPriceAmt>12383</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19537</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7154</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7154</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-02</AcquiredDt>
+          <SoldDt>2022-11-15</SoldDt>
+          <GrossSalesPriceAmt>23639</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>36284</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-12645</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-12645</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-16</AcquiredDt>
+          <SoldDt>2022-11-15</SoldDt>
+          <GrossSalesPriceAmt>3637</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4576</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-939</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-939</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-16</AcquiredDt>
+          <SoldDt>2022-11-15</SoldDt>
+          <GrossSalesPriceAmt>18450</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>22882</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4432</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4432</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MONGODB INC</PropertyDesc>
+          <AcquiredDt>2022-09-16</AcquiredDt>
+          <SoldDt>2022-11-22</SoldDt>
+          <GrossSalesPriceAmt>28823</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>45763</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-16940</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-16940</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NRP STONE INC</PropertyDesc>
+          <AcquiredDt>2022-01-04</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>418</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>695</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-277</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-277</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NUVERRA ENVIORMENTAL SOLUTIONS INC</PropertyDesc>
+          <AcquiredDt>2022-01-11</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>1895</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2625</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-730</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-730</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ORAGENICES INC</PropertyDesc>
+          <AcquiredDt>2022-01-03</AcquiredDt>
+          <SoldDt>2022-02-09</SoldDt>
+          <GrossSalesPriceAmt>55</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>74</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-19</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-19</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ORAGENICES INC</PropertyDesc>
+          <AcquiredDt>2022-01-03</AcquiredDt>
+          <SoldDt>2022-02-09</SoldDt>
+          <GrossSalesPriceAmt>1178</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1585</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-407</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-407</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ORAGENICES INC</PropertyDesc>
+          <AcquiredDt>2022-01-03</AcquiredDt>
+          <SoldDt>2022-02-09</SoldDt>
+          <GrossSalesPriceAmt>2352</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3156</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-804</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-804</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ORAGENICES INC</PropertyDesc>
+          <AcquiredDt>2022-01-03</AcquiredDt>
+          <SoldDt>2022-02-09</SoldDt>
+          <GrossSalesPriceAmt>189</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>254</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-65</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-65</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ORAGENICES INC</PropertyDesc>
+          <AcquiredDt>2022-01-03</AcquiredDt>
+          <SoldDt>2022-02-09</SoldDt>
+          <GrossSalesPriceAmt>422</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>570</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-148</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-148</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ORAGENICES INC</PropertyDesc>
+          <AcquiredDt>2022-01-03</AcquiredDt>
+          <SoldDt>2022-02-09</SoldDt>
+          <GrossSalesPriceAmt>19</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-6</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-6</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PETROS PHARMACEUTICALS INC</PropertyDesc>
+          <AcquiredDt>2022-01-04</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>1740</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3060</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1320</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1320</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>REMARK HOLDINGS INC</PropertyDesc>
+          <AcquiredDt>2022-01-11</AcquiredDt>
+          <SoldDt>2022-01-21</SoldDt>
+          <GrossSalesPriceAmt>783</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>949</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-166</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-166</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SOUTHERN CONCEPTS RESTAURANT GROUP IN</PropertyDesc>
+          <AcquiredDt>2022-01-13</AcquiredDt>
+          <SoldDt>2022-01-25</SoldDt>
+          <GrossSalesPriceAmt>172</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>195</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-23</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-23</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SOUTHERN CONCEPTS RESTAURANT GROUP IN</PropertyDesc>
+          <AcquiredDt>2022-01-13</AcquiredDt>
+          <SoldDt>2022-01-25</SoldDt>
+          <GrossSalesPriceAmt>2125</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2410</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-285</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-285</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TAMINO MINERALS INC</PropertyDesc>
+          <AcquiredDt>2022-01-19</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>655</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1267</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-612</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-612</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TAMINO MINERALS INC</PropertyDesc>
+          <AcquiredDt>2022-01-19</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>564</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1077</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-513</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-513</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TAMINO MINERALS INC</PropertyDesc>
+          <AcquiredDt>2022-01-19</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>135</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>261</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-126</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-126</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT W</PropertyDesc>
+          <AcquiredDt>2022-09-29</AcquiredDt>
+          <SoldDt>2022-09-20</SoldDt>
+          <CostOrOtherBasisAmt>430</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-430</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-430</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT WMT</PropertyDesc>
+          <AcquiredDt>2022-05-19</AcquiredDt>
+          <SoldDt>2022-05-20</SoldDt>
+          <CostOrOtherBasisAmt>775</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-775</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-775</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL RBLX</PropertyDesc>
+          <AcquiredDt>2021-12-31</AcquiredDt>
+          <SoldDt>2022-01-27</SoldDt>
+          <GrossSalesPriceAmt>15</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18405</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-18390</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-18390</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MDB</PropertyDesc>
+          <AcquiredDt>2022-09-29</AcquiredDt>
+          <SoldDt>2022-09-30</SoldDt>
+          <CostOrOtherBasisAmt>2205</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2205</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2205</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MDB</PropertyDesc>
+          <AcquiredDt>2022-09-29</AcquiredDt>
+          <SoldDt>2022-09-30</SoldDt>
+          <CostOrOtherBasisAmt>2205</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2205</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2205</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL MDB</PropertyDesc>
+          <AcquiredDt>2022-12-02</AcquiredDt>
+          <SoldDt>2022-12-07</SoldDt>
+          <GrossSalesPriceAmt>2179</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1231</CostOrOtherBasisAmt>
+          <GainOrLossAmt>948</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>948</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL MDB</PropertyDesc>
+          <AcquiredDt>2022-12-02</AcquiredDt>
+          <SoldDt>2022-12-07</SoldDt>
+          <GrossSalesPriceAmt>2179</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1221</CostOrOtherBasisAmt>
+          <GainOrLossAmt>958</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>958</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WALMART INC</PropertyDesc>
+          <AcquiredDt>2021-08-18</AcquiredDt>
+          <SoldDt>2022-03-30</SoldDt>
+          <GrossSalesPriceAmt>14969</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14976</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WALMART INC</PropertyDesc>
+          <AcquiredDt>2021-11-30</AcquiredDt>
+          <SoldDt>2022-03-10</SoldDt>
+          <GrossSalesPriceAmt>7142</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7014</CostOrOtherBasisAmt>
+          <GainOrLossAmt>128</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>128</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WALMART INC</PropertyDesc>
+          <AcquiredDt>2022-02-28</AcquiredDt>
+          <SoldDt>2022-03-03</SoldDt>
+          <GrossSalesPriceAmt>6998</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6707</CostOrOtherBasisAmt>
+          <GainOrLossAmt>291</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>291</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-10-03</SoldDt>
+          <GrossSalesPriceAmt>6744</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6744</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-10-03</SoldDt>
+          <GrossSalesPriceAmt>6923</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6923</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-10-04</SoldDt>
+          <GrossSalesPriceAmt>7322</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7322</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-10-04</SoldDt>
+          <GrossSalesPriceAmt>3709</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6068</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2359</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2359</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-10-17</SoldDt>
+          <GrossSalesPriceAmt>2447</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4551</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2104</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2104</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-10-25</SoldDt>
+          <GrossSalesPriceAmt>1668</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3034</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1366</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1366</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-11-02</SoldDt>
+          <GrossSalesPriceAmt>5611</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8676</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3065</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3065</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-11-02</SoldDt>
+          <GrossSalesPriceAmt>955</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1566</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-611</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-611</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-11-02</SoldDt>
+          <GrossSalesPriceAmt>3860</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6073</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2213</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2213</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-11-03</SoldDt>
+          <GrossSalesPriceAmt>1978</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2992</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1014</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1014</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-11-03</SoldDt>
+          <GrossSalesPriceAmt>1978</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3037</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1059</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1059</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-11-03</SoldDt>
+          <GrossSalesPriceAmt>3916</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5984</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2068</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2068</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-11-10</SoldDt>
+          <GrossSalesPriceAmt>1868</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2992</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1124</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1124</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-11-10</SoldDt>
+          <GrossSalesPriceAmt>1868</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3007</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1139</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1139</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WESTERN SIERRA RESOURCE CORP</PropertyDesc>
+          <AcquiredDt>2022-01-18</AcquiredDt>
+          <SoldDt>2022-02-01</SoldDt>
+          <GrossSalesPriceAmt>948</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1234</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-286</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-286</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WESTERN SIERRA RESOURCE CORP</PropertyDesc>
+          <AcquiredDt>2022-01-18</AcquiredDt>
+          <SoldDt>2022-02-01</SoldDt>
+          <GrossSalesPriceAmt>320</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>411</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-91</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-91</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ZILLOW GROUP INC</PropertyDesc>
+          <AcquiredDt>2022-01-07</AcquiredDt>
+          <SoldDt>2022-01-20</SoldDt>
+          <GrossSalesPriceAmt>85234</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>85328</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-94</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-94</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT AMAT</PropertyDesc>
+          <AcquiredDt>2022-05-20</AcquiredDt>
+          <SoldDt>2022-05-19</SoldDt>
+          <GrossSalesPriceAmt>526</GrossSalesPriceAmt>
+          <GainOrLossAmt>526</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>526</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT AMAT</PropertyDesc>
+          <AcquiredDt>2022-05-20</AcquiredDt>
+          <SoldDt>2022-05-19</SoldDt>
+          <GrossSalesPriceAmt>58</GrossSalesPriceAmt>
+          <GainOrLossAmt>58</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>58</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT COIN</PropertyDesc>
+          <AcquiredDt>2022-02-25</AcquiredDt>
+          <SoldDt>2022-02-25</SoldDt>
+          <GrossSalesPriceAmt>415</GrossSalesPriceAmt>
+          <GainOrLossAmt>415</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>415</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT LCID</PropertyDesc>
+          <AcquiredDt>2022-01-21</AcquiredDt>
+          <SoldDt>2022-01-20</SoldDt>
+          <GrossSalesPriceAmt>225</GrossSalesPriceAmt>
+          <GainOrLossAmt>225</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>225</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL MDB</PropertyDesc>
+          <AcquiredDt>2022-09-13</AcquiredDt>
+          <SoldDt>2022-09-12</SoldDt>
+          <GrossSalesPriceAmt>2590</GrossSalesPriceAmt>
+          <GainOrLossAmt>2590</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2590</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT LULU</PropertyDesc>
+          <AcquiredDt>2022-07-12</AcquiredDt>
+          <SoldDt>2022-07-11</SoldDt>
+          <GrossSalesPriceAmt>696</GrossSalesPriceAmt>
+          <GainOrLossAmt>696</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>696</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MDB</PropertyDesc>
+          <AcquiredDt>2022-07-15</AcquiredDt>
+          <SoldDt>2022-07-11</SoldDt>
+          <GrossSalesPriceAmt>1260</GrossSalesPriceAmt>
+          <GainOrLossAmt>1260</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1260</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL BIIB</PropertyDesc>
+          <AcquiredDt>2022-06-17</AcquiredDt>
+          <SoldDt>2022-06-14</SoldDt>
+          <GrossSalesPriceAmt>178</GrossSalesPriceAmt>
+          <GainOrLossAmt>178</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>178</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-03-04</AcquiredDt>
+          <SoldDt>2022-02-28</SoldDt>
+          <CostOrOtherBasisAmt>2715</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2715</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2715</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT OTLY</PropertyDesc>
+          <AcquiredDt>2022-04-04</AcquiredDt>
+          <SoldDt>2022-03-22</SoldDt>
+          <CostOrOtherBasisAmt>2</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT ZM</PropertyDesc>
+          <AcquiredDt>2022-01-28</AcquiredDt>
+          <SoldDt>2022-01-24</SoldDt>
+          <GrossSalesPriceAmt>342</GrossSalesPriceAmt>
+          <GainOrLossAmt>342</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>342</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-04-01</AcquiredDt>
+          <SoldDt>2022-03-28</SoldDt>
+          <GrossSalesPriceAmt>1172</GrossSalesPriceAmt>
+          <GainOrLossAmt>1172</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1172</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT LCID</PropertyDesc>
+          <AcquiredDt>2022-01-14</AcquiredDt>
+          <SoldDt>2022-01-14</SoldDt>
+          <GrossSalesPriceAmt>84</GrossSalesPriceAmt>
+          <GainOrLossAmt>84</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>84</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT LCID</PropertyDesc>
+          <AcquiredDt>2022-01-14</AcquiredDt>
+          <SoldDt>2022-01-14</SoldDt>
+          <GrossSalesPriceAmt>73</GrossSalesPriceAmt>
+          <GainOrLossAmt>73</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>73</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT OTLY</PropertyDesc>
+          <AcquiredDt>2022-01-20</AcquiredDt>
+          <SoldDt>2021-12-23</SoldDt>
+          <CostOrOtherBasisAmt>110</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-110</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-110</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT BYND</PropertyDesc>
+          <AcquiredDt>2022-03-04</AcquiredDt>
+          <SoldDt>2022-02-28</SoldDt>
+          <GrossSalesPriceAmt>202</GrossSalesPriceAmt>
+          <GainOrLossAmt>202</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>202</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL BIIB</PropertyDesc>
+          <AcquiredDt>2022-06-17</AcquiredDt>
+          <SoldDt>2022-06-07</SoldDt>
+          <GrossSalesPriceAmt>159</GrossSalesPriceAmt>
+          <GainOrLossAmt>159</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>159</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL RBLX</PropertyDesc>
+          <AcquiredDt>2022-01-14</AcquiredDt>
+          <SoldDt>2022-01-11</SoldDt>
+          <GrossSalesPriceAmt>355</GrossSalesPriceAmt>
+          <GainOrLossAmt>355</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>355</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-03-11</AcquiredDt>
+          <SoldDt>2022-03-08</SoldDt>
+          <GrossSalesPriceAmt>737</GrossSalesPriceAmt>
+          <GainOrLossAmt>737</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>737</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-03-25</AcquiredDt>
+          <SoldDt>2022-03-21</SoldDt>
+          <GrossSalesPriceAmt>1925</GrossSalesPriceAmt>
+          <GainOrLossAmt>1925</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1925</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT ZM</PropertyDesc>
+          <AcquiredDt>2022-03-01</AcquiredDt>
+          <SoldDt>2022-02-28</SoldDt>
+          <GrossSalesPriceAmt>1965</GrossSalesPriceAmt>
+          <GainOrLossAmt>1965</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1965</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL W</PropertyDesc>
+          <AcquiredDt>2022-09-13</AcquiredDt>
+          <SoldDt>2022-09-12</SoldDt>
+          <GrossSalesPriceAmt>1800</GrossSalesPriceAmt>
+          <GainOrLossAmt>1800</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1800</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL W</PropertyDesc>
+          <AcquiredDt>2022-09-13</AcquiredDt>
+          <SoldDt>2022-09-12</SoldDt>
+          <GrossSalesPriceAmt>200</GrossSalesPriceAmt>
+          <GainOrLossAmt>200</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>200</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL BIIB</PropertyDesc>
+          <AcquiredDt>2022-01-07</AcquiredDt>
+          <SoldDt>2022-01-03</SoldDt>
+          <GrossSalesPriceAmt>104</GrossSalesPriceAmt>
+          <GainOrLossAmt>104</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>104</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT AAPL</PropertyDesc>
+          <AcquiredDt>2022-01-21</AcquiredDt>
+          <SoldDt>2022-01-21</SoldDt>
+          <GrossSalesPriceAmt>135</GrossSalesPriceAmt>
+          <GainOrLossAmt>135</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>135</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT BYND</PropertyDesc>
+          <AcquiredDt>2022-01-21</AcquiredDt>
+          <SoldDt>2022-01-21</SoldDt>
+          <GrossSalesPriceAmt>337</GrossSalesPriceAmt>
+          <GainOrLossAmt>337</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>337</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-04-14</AcquiredDt>
+          <SoldDt>2022-04-13</SoldDt>
+          <GrossSalesPriceAmt>99</GrossSalesPriceAmt>
+          <GainOrLossAmt>99</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>99</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-04-14</AcquiredDt>
+          <SoldDt>2022-04-13</SoldDt>
+          <GrossSalesPriceAmt>298</GrossSalesPriceAmt>
+          <GainOrLossAmt>298</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>298</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-04-14</AcquiredDt>
+          <SoldDt>2022-04-13</SoldDt>
+          <GrossSalesPriceAmt>382</GrossSalesPriceAmt>
+          <GainOrLossAmt>382</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>382</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-04-14</AcquiredDt>
+          <SoldDt>2022-04-13</SoldDt>
+          <GrossSalesPriceAmt>199</GrossSalesPriceAmt>
+          <GainOrLossAmt>199</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>199</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL RBLX</PropertyDesc>
+          <AcquiredDt>2022-01-21</AcquiredDt>
+          <SoldDt>2022-01-19</SoldDt>
+          <GrossSalesPriceAmt>115</GrossSalesPriceAmt>
+          <GainOrLossAmt>115</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>115</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-04-08</AcquiredDt>
+          <SoldDt>2022-04-06</SoldDt>
+          <GrossSalesPriceAmt>3695</GrossSalesPriceAmt>
+          <GainOrLossAmt>3695</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3695</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-08-05</AcquiredDt>
+          <SoldDt>2022-08-01</SoldDt>
+          <GrossSalesPriceAmt>4995</GrossSalesPriceAmt>
+          <GainOrLossAmt>4995</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4995</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PENN</PropertyDesc>
+          <AcquiredDt>2022-01-07</AcquiredDt>
+          <SoldDt>2022-01-03</SoldDt>
+          <GrossSalesPriceAmt>67</GrossSalesPriceAmt>
+          <GainOrLossAmt>67</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>67</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PENN</PropertyDesc>
+          <AcquiredDt>2022-01-07</AcquiredDt>
+          <SoldDt>2022-01-03</SoldDt>
+          <GrossSalesPriceAmt>135</GrossSalesPriceAmt>
+          <GainOrLossAmt>135</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>135</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL RBLX</PropertyDesc>
+          <AcquiredDt>2022-01-07</AcquiredDt>
+          <SoldDt>2022-01-03</SoldDt>
+          <GrossSalesPriceAmt>2255</GrossSalesPriceAmt>
+          <GainOrLossAmt>2255</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2255</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT RDFN</PropertyDesc>
+          <AcquiredDt>2022-02-18</AcquiredDt>
+          <SoldDt>2022-02-15</SoldDt>
+          <CostOrOtherBasisAmt>6651</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-6651</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-6651</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT LCID</PropertyDesc>
+          <AcquiredDt>2022-02-04</AcquiredDt>
+          <SoldDt>2022-02-01</SoldDt>
+          <GrossSalesPriceAmt>232</GrossSalesPriceAmt>
+          <GainOrLossAmt>232</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>232</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PTON</PropertyDesc>
+          <AcquiredDt>2022-01-21</AcquiredDt>
+          <SoldDt>2022-01-20</SoldDt>
+          <GrossSalesPriceAmt>407</GrossSalesPriceAmt>
+          <GainOrLossAmt>407</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>407</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT BYND</PropertyDesc>
+          <AcquiredDt>2022-01-07</AcquiredDt>
+          <SoldDt>2022-01-03</SoldDt>
+          <GrossSalesPriceAmt>637</GrossSalesPriceAmt>
+          <GainOrLossAmt>637</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>637</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL CRTX</PropertyDesc>
+          <AcquiredDt>2022-01-21</AcquiredDt>
+          <SoldDt>2021-12-27</SoldDt>
+          <GrossSalesPriceAmt>1045</GrossSalesPriceAmt>
+          <GainOrLossAmt>1045</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1045</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT Z</PropertyDesc>
+          <AcquiredDt>2022-02-04</AcquiredDt>
+          <SoldDt>2022-02-01</SoldDt>
+          <GrossSalesPriceAmt>87</GrossSalesPriceAmt>
+          <GainOrLossAmt>87</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>87</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT Z</PropertyDesc>
+          <AcquiredDt>2022-02-04</AcquiredDt>
+          <SoldDt>2022-02-01</SoldDt>
+          <GrossSalesPriceAmt>12</GrossSalesPriceAmt>
+          <GainOrLossAmt>12</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT Z</PropertyDesc>
+          <AcquiredDt>2022-02-04</AcquiredDt>
+          <SoldDt>2022-02-01</SoldDt>
+          <GrossSalesPriceAmt>87</GrossSalesPriceAmt>
+          <GainOrLossAmt>87</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>87</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PTON</PropertyDesc>
+          <AcquiredDt>2022-01-07</AcquiredDt>
+          <SoldDt>2022-01-03</SoldDt>
+          <GrossSalesPriceAmt>52</GrossSalesPriceAmt>
+          <GainOrLossAmt>52</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>52</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PTON</PropertyDesc>
+          <AcquiredDt>2022-01-07</AcquiredDt>
+          <SoldDt>2022-01-03</SoldDt>
+          <GrossSalesPriceAmt>32</GrossSalesPriceAmt>
+          <GainOrLossAmt>32</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>32</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PTON</PropertyDesc>
+          <AcquiredDt>2022-01-07</AcquiredDt>
+          <SoldDt>2022-01-03</SoldDt>
+          <GrossSalesPriceAmt>19</GrossSalesPriceAmt>
+          <GainOrLossAmt>19</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT W</PropertyDesc>
+          <AcquiredDt>2022-07-08</AcquiredDt>
+          <SoldDt>2022-07-06</SoldDt>
+          <GrossSalesPriceAmt>1474</GrossSalesPriceAmt>
+          <GainOrLossAmt>1474</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1474</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT BYND</PropertyDesc>
+          <AcquiredDt>2022-01-14</AcquiredDt>
+          <SoldDt>2022-01-14</SoldDt>
+          <GrossSalesPriceAmt>35</GrossSalesPriceAmt>
+          <GainOrLossAmt>35</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>35</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT BYND</PropertyDesc>
+          <AcquiredDt>2022-01-14</AcquiredDt>
+          <SoldDt>2022-01-14</SoldDt>
+          <GrossSalesPriceAmt>140</GrossSalesPriceAmt>
+          <GainOrLossAmt>140</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>140</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT ZM</PropertyDesc>
+          <AcquiredDt>2022-01-21</AcquiredDt>
+          <SoldDt>2022-01-21</SoldDt>
+          <GrossSalesPriceAmt>317</GrossSalesPriceAmt>
+          <GainOrLossAmt>317</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>317</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-03-11</AcquiredDt>
+          <SoldDt>2022-03-08</SoldDt>
+          <GrossSalesPriceAmt>1897</GrossSalesPriceAmt>
+          <GainOrLossAmt>1897</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1897</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT COIN</PropertyDesc>
+          <AcquiredDt>2022-08-16</AcquiredDt>
+          <SoldDt>2022-08-16</SoldDt>
+          <GrossSalesPriceAmt>1649</GrossSalesPriceAmt>
+          <GainOrLossAmt>1649</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1649</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL W</PropertyDesc>
+          <AcquiredDt>2022-09-02</AcquiredDt>
+          <SoldDt>2022-08-29</SoldDt>
+          <GrossSalesPriceAmt>1290</GrossSalesPriceAmt>
+          <GainOrLossAmt>1290</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1290</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT RBLX</PropertyDesc>
+          <AcquiredDt>2022-02-04</AcquiredDt>
+          <SoldDt>2022-02-01</SoldDt>
+          <GrossSalesPriceAmt>165</GrossSalesPriceAmt>
+          <GainOrLossAmt>165</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>165</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-02-18</AcquiredDt>
+          <SoldDt>2022-02-16</SoldDt>
+          <GrossSalesPriceAmt>497</GrossSalesPriceAmt>
+          <GainOrLossAmt>497</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>497</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT OTLY</PropertyDesc>
+          <AcquiredDt>2022-03-11</AcquiredDt>
+          <SoldDt>2022-03-09</SoldDt>
+          <CostOrOtherBasisAmt>2851</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2851</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2851</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-04-29</AcquiredDt>
+          <SoldDt>2022-02-26</SoldDt>
+          <GrossSalesPriceAmt>1305</GrossSalesPriceAmt>
+          <GainOrLossAmt>1305</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1305</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-05-06</AcquiredDt>
+          <SoldDt>2022-05-03</SoldDt>
+          <GrossSalesPriceAmt>7582</GrossSalesPriceAmt>
+          <GainOrLossAmt>7582</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7582</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT LULU</PropertyDesc>
+          <AcquiredDt>2022-06-03</AcquiredDt>
+          <SoldDt>2022-05-31</SoldDt>
+          <GrossSalesPriceAmt>2075</GrossSalesPriceAmt>
+          <GainOrLossAmt>2075</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2075</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT TSLA</PropertyDesc>
+          <AcquiredDt>2022-05-13</AcquiredDt>
+          <SoldDt>2022-05-09</SoldDt>
+          <GrossSalesPriceAmt>3445</GrossSalesPriceAmt>
+          <GainOrLossAmt>3445</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3445</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL BIIB</PropertyDesc>
+          <AcquiredDt>2022-06-03</AcquiredDt>
+          <SoldDt>2022-05-31</SoldDt>
+          <GrossSalesPriceAmt>133</GrossSalesPriceAmt>
+          <GainOrLossAmt>133</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>133</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT TSLA</PropertyDesc>
+          <AcquiredDt>2022-07-05</AcquiredDt>
+          <SoldDt>2022-07-05</SoldDt>
+          <GrossSalesPriceAmt>1280</GrossSalesPriceAmt>
+          <GainOrLossAmt>1280</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1280</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-06-15</AcquiredDt>
+          <SoldDt>2022-06-13</SoldDt>
+          <GrossSalesPriceAmt>1061</GrossSalesPriceAmt>
+          <GainOrLossAmt>1061</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1061</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-06-15</AcquiredDt>
+          <SoldDt>2022-06-13</SoldDt>
+          <GrossSalesPriceAmt>8632</GrossSalesPriceAmt>
+          <GainOrLossAmt>8632</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8632</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-06-17</AcquiredDt>
+          <SoldDt>2022-06-13</SoldDt>
+          <GrossSalesPriceAmt>1361</GrossSalesPriceAmt>
+          <GainOrLossAmt>1361</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1361</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-06-17</AcquiredDt>
+          <SoldDt>2022-06-16</SoldDt>
+          <GrossSalesPriceAmt>4996</GrossSalesPriceAmt>
+          <GainOrLossAmt>4996</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4996</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-06-17</AcquiredDt>
+          <SoldDt>2022-06-16</SoldDt>
+          <GrossSalesPriceAmt>1259</GrossSalesPriceAmt>
+          <GainOrLossAmt>1259</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1259</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT COIN</PropertyDesc>
+          <AcquiredDt>2022-08-10</AcquiredDt>
+          <SoldDt>2022-08-09</SoldDt>
+          <GrossSalesPriceAmt>94</GrossSalesPriceAmt>
+          <GainOrLossAmt>94</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>94</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT COIN</PropertyDesc>
+          <AcquiredDt>2022-08-10</AcquiredDt>
+          <SoldDt>2022-08-09</SoldDt>
+          <GrossSalesPriceAmt>94</GrossSalesPriceAmt>
+          <GainOrLossAmt>94</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>94</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT COIN</PropertyDesc>
+          <AcquiredDt>2022-08-10</AcquiredDt>
+          <SoldDt>2022-08-09</SoldDt>
+          <GrossSalesPriceAmt>4487</GrossSalesPriceAmt>
+          <GainOrLossAmt>4487</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4487</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT COIN</PropertyDesc>
+          <AcquiredDt>2022-08-10</AcquiredDt>
+          <SoldDt>2022-08-09</SoldDt>
+          <GrossSalesPriceAmt>94</GrossSalesPriceAmt>
+          <GainOrLossAmt>94</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>94</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL BIIB</PropertyDesc>
+          <AcquiredDt>2022-07-07</AcquiredDt>
+          <SoldDt>2022-07-05</SoldDt>
+          <CostOrOtherBasisAmt>1383</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1383</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1383</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL MDB</PropertyDesc>
+          <AcquiredDt>2022-09-09</AcquiredDt>
+          <SoldDt>2022-09-06</SoldDt>
+          <GrossSalesPriceAmt>590</GrossSalesPriceAmt>
+          <GainOrLossAmt>590</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>590</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT W</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-08-17</SoldDt>
+          <CostOrOtherBasisAmt>7002</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7002</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7002</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT W</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-08-17</SoldDt>
+          <CostOrOtherBasisAmt>780</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-780</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-780</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT OTLY</PropertyDesc>
+          <AcquiredDt>2022-03-11</AcquiredDt>
+          <SoldDt>2022-03-09</SoldDt>
+          <CostOrOtherBasisAmt>85</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-85</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-85</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT OTLY</PropertyDesc>
+          <AcquiredDt>2022-03-11</AcquiredDt>
+          <SoldDt>2022-03-09</SoldDt>
+          <CostOrOtherBasisAmt>204</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-204</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-204</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT OTLY</PropertyDesc>
+          <AcquiredDt>2022-03-11</AcquiredDt>
+          <SoldDt>2022-03-09</SoldDt>
+          <CostOrOtherBasisAmt>529</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-529</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-529</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT ZM</PropertyDesc>
+          <AcquiredDt>2022-02-18</AcquiredDt>
+          <SoldDt>2022-02-17</SoldDt>
+          <GrossSalesPriceAmt>207</GrossSalesPriceAmt>
+          <GainOrLossAmt>207</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>207</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT BYND</PropertyDesc>
+          <AcquiredDt>2022-02-11</AcquiredDt>
+          <SoldDt>2022-02-09</SoldDt>
+          <GrossSalesPriceAmt>277</GrossSalesPriceAmt>
+          <GainOrLossAmt>277</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>277</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT LCID</PropertyDesc>
+          <AcquiredDt>2022-01-28</AcquiredDt>
+          <SoldDt>2022-01-24</SoldDt>
+          <CostOrOtherBasisAmt>128</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-128</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-128</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT LCID</PropertyDesc>
+          <AcquiredDt>2022-01-28</AcquiredDt>
+          <SoldDt>2022-01-24</SoldDt>
+          <CostOrOtherBasisAmt>352</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-352</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-352</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PTON</PropertyDesc>
+          <AcquiredDt>2022-02-11</AcquiredDt>
+          <SoldDt>2022-02-09</SoldDt>
+          <GrossSalesPriceAmt>337</GrossSalesPriceAmt>
+          <GainOrLossAmt>337</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>337</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT AAPL</PropertyDesc>
+          <AcquiredDt>2022-01-28</AcquiredDt>
+          <SoldDt>2022-01-24</SoldDt>
+          <GrossSalesPriceAmt>195</GrossSalesPriceAmt>
+          <GainOrLossAmt>195</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>195</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PENN</PropertyDesc>
+          <AcquiredDt>2022-01-28</AcquiredDt>
+          <SoldDt>2022-01-24</SoldDt>
+          <GrossSalesPriceAmt>62</GrossSalesPriceAmt>
+          <GainOrLossAmt>62</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>62</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PENN</PropertyDesc>
+          <AcquiredDt>2022-01-28</AcquiredDt>
+          <SoldDt>2022-01-24</SoldDt>
+          <GrossSalesPriceAmt>25</GrossSalesPriceAmt>
+          <GainOrLossAmt>25</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>25</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PENN</PropertyDesc>
+          <AcquiredDt>2022-01-28</AcquiredDt>
+          <SoldDt>2022-01-24</SoldDt>
+          <GrossSalesPriceAmt>12</GrossSalesPriceAmt>
+          <GainOrLossAmt>12</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PENN</PropertyDesc>
+          <AcquiredDt>2022-01-28</AcquiredDt>
+          <SoldDt>2022-01-24</SoldDt>
+          <GrossSalesPriceAmt>12</GrossSalesPriceAmt>
+          <GainOrLossAmt>12</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PENN</PropertyDesc>
+          <AcquiredDt>2022-01-28</AcquiredDt>
+          <SoldDt>2022-01-24</SoldDt>
+          <GrossSalesPriceAmt>75</GrossSalesPriceAmt>
+          <GainOrLossAmt>75</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>75</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT Z</PropertyDesc>
+          <AcquiredDt>2022-01-28</AcquiredDt>
+          <SoldDt>2022-01-24</SoldDt>
+          <GrossSalesPriceAmt>645</GrossSalesPriceAmt>
+          <GainOrLossAmt>645</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>645</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-05-20</AcquiredDt>
+          <SoldDt>2022-05-16</SoldDt>
+          <GrossSalesPriceAmt>6995</GrossSalesPriceAmt>
+          <GainOrLossAmt>6995</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6995</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT BYND</PropertyDesc>
+          <AcquiredDt>2022-02-25</AcquiredDt>
+          <SoldDt>2022-02-22</SoldDt>
+          <GrossSalesPriceAmt>1717</GrossSalesPriceAmt>
+          <GainOrLossAmt>1717</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1717</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT BYND</PropertyDesc>
+          <AcquiredDt>2022-02-25</AcquiredDt>
+          <SoldDt>2022-02-22</SoldDt>
+          <GrossSalesPriceAmt>1702</GrossSalesPriceAmt>
+          <GainOrLossAmt>1702</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1702</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT TSLA</PropertyDesc>
+          <AcquiredDt>2022-03-04</AcquiredDt>
+          <SoldDt>2022-03-01</SoldDt>
+          <GrossSalesPriceAmt>589</GrossSalesPriceAmt>
+          <GainOrLossAmt>589</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>589</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT Z</PropertyDesc>
+          <AcquiredDt>2022-02-11</AcquiredDt>
+          <SoldDt>2022-02-08</SoldDt>
+          <GrossSalesPriceAmt>1312</GrossSalesPriceAmt>
+          <GainOrLossAmt>1312</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1312</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT PTON</PropertyDesc>
+          <AcquiredDt>2022-02-18</AcquiredDt>
+          <SoldDt>2022-02-14</SoldDt>
+          <GrossSalesPriceAmt>532</GrossSalesPriceAmt>
+          <GainOrLossAmt>532</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>532</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT TSLA</PropertyDesc>
+          <AcquiredDt>2022-04-01</AcquiredDt>
+          <SoldDt>2022-03-28</SoldDt>
+          <GrossSalesPriceAmt>1202</GrossSalesPriceAmt>
+          <GainOrLossAmt>1202</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1202</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-03-18</AcquiredDt>
+          <SoldDt>2022-03-14</SoldDt>
+          <GrossSalesPriceAmt>2107</GrossSalesPriceAmt>
+          <GainOrLossAmt>2107</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2107</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT TSLA</PropertyDesc>
+          <AcquiredDt>2022-04-29</AcquiredDt>
+          <SoldDt>2022-04-26</SoldDt>
+          <GrossSalesPriceAmt>1387</GrossSalesPriceAmt>
+          <GainOrLossAmt>1387</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1387</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT TSLA</PropertyDesc>
+          <AcquiredDt>2022-05-25</AcquiredDt>
+          <SoldDt>2022-05-23</SoldDt>
+          <GrossSalesPriceAmt>3910</GrossSalesPriceAmt>
+          <GainOrLossAmt>3910</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3910</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL SHOP</PropertyDesc>
+          <AcquiredDt>2022-06-24</AcquiredDt>
+          <SoldDt>2022-06-22</SoldDt>
+          <CostOrOtherBasisAmt>4350</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4350</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4350</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT TSLA</PropertyDesc>
+          <AcquiredDt>2022-07-21</AcquiredDt>
+          <SoldDt>2022-07-19</SoldDt>
+          <GrossSalesPriceAmt>1557</GrossSalesPriceAmt>
+          <GainOrLossAmt>1557</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1557</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL BIIB</PropertyDesc>
+          <AcquiredDt>2022-07-01</AcquiredDt>
+          <SoldDt>2022-06-27</SoldDt>
+          <GrossSalesPriceAmt>340</GrossSalesPriceAmt>
+          <GainOrLossAmt>340</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>340</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MDB</PropertyDesc>
+          <AcquiredDt>2022-06-02</AcquiredDt>
+          <SoldDt>2022-06-01</SoldDt>
+          <GrossSalesPriceAmt>1668</GrossSalesPriceAmt>
+          <GainOrLossAmt>1668</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1668</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MDB</PropertyDesc>
+          <AcquiredDt>2022-06-02</AcquiredDt>
+          <SoldDt>2022-06-01</SoldDt>
+          <GrossSalesPriceAmt>417</GrossSalesPriceAmt>
+          <GainOrLossAmt>417</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>417</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MDB</PropertyDesc>
+          <AcquiredDt>2022-06-02</AcquiredDt>
+          <SoldDt>2022-06-01</SoldDt>
+          <GrossSalesPriceAmt>2085</GrossSalesPriceAmt>
+          <GainOrLossAmt>2085</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2085</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-07-01</AcquiredDt>
+          <SoldDt>2022-06-27</SoldDt>
+          <GrossSalesPriceAmt>2220</GrossSalesPriceAmt>
+          <GainOrLossAmt>2220</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2220</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT SHOP</PropertyDesc>
+          <AcquiredDt>2022-05-26</AcquiredDt>
+          <SoldDt>2022-05-23</SoldDt>
+          <GrossSalesPriceAmt>1095</GrossSalesPriceAmt>
+          <GainOrLossAmt>1095</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1095</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT TSLA</PropertyDesc>
+          <AcquiredDt>2022-06-10</AcquiredDt>
+          <SoldDt>2022-06-07</SoldDt>
+          <GrossSalesPriceAmt>2115</GrossSalesPriceAmt>
+          <GainOrLossAmt>2115</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2115</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT TSLA</PropertyDesc>
+          <AcquiredDt>2022-07-14</AcquiredDt>
+          <SoldDt>2022-07-14</SoldDt>
+          <GrossSalesPriceAmt>636</GrossSalesPriceAmt>
+          <GainOrLossAmt>636</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>636</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MDB</PropertyDesc>
+          <AcquiredDt>2022-07-27</AcquiredDt>
+          <SoldDt>2022-07-25</SoldDt>
+          <GrossSalesPriceAmt>680</GrossSalesPriceAmt>
+          <GainOrLossAmt>680</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>680</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MDB</PropertyDesc>
+          <AcquiredDt>2022-07-28</AcquiredDt>
+          <SoldDt>2022-07-26</SoldDt>
+          <GrossSalesPriceAmt>696</GrossSalesPriceAmt>
+          <GainOrLossAmt>696</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>696</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MDB</PropertyDesc>
+          <AcquiredDt>2022-07-29</AcquiredDt>
+          <SoldDt>2022-07-26</SoldDt>
+          <GrossSalesPriceAmt>466</GrossSalesPriceAmt>
+          <GainOrLossAmt>466</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>466</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MDB</PropertyDesc>
+          <AcquiredDt>2022-07-20</AcquiredDt>
+          <SoldDt>2022-07-19</SoldDt>
+          <GrossSalesPriceAmt>1630</GrossSalesPriceAmt>
+          <GainOrLossAmt>1630</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1630</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL BIIB</PropertyDesc>
+          <AcquiredDt>2022-06-24</AcquiredDt>
+          <SoldDt>2022-06-21</SoldDt>
+          <GrossSalesPriceAmt>318</GrossSalesPriceAmt>
+          <GainOrLossAmt>318</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>318</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUT MELI</PropertyDesc>
+          <AcquiredDt>2022-08-09</AcquiredDt>
+          <SoldDt>2022-08-09</SoldDt>
+          <GrossSalesPriceAmt>790</GrossSalesPriceAmt>
+          <GainOrLossAmt>790</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>790</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL W</PropertyDesc>
+          <AcquiredDt>2022-09-09</AcquiredDt>
+          <SoldDt>2022-09-07</SoldDt>
+          <GrossSalesPriceAmt>590</GrossSalesPriceAmt>
+          <GainOrLossAmt>590</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>590</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CALL MDB</PropertyDesc>
+          <AcquiredDt>2022-10-25</AcquiredDt>
+          <SoldDt>2022-10-24</SoldDt>
+          <CostOrOtherBasisAmt>3653</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3653</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3653</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TDH HOLDINGS INC</PropertyDesc>
+          <AcquiredDt>2022-01-10</AcquiredDt>
+          <SoldDt>2022-02-02</SoldDt>
+          <GrossSalesPriceAmt>1408</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2175</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-767</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-767</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>AMANI GOLD LTD</PropertyDesc>
+          <AcquiredDt>2022-01-03</AcquiredDt>
+          <SoldDt>2022-01-12</SoldDt>
+          <GrossSalesPriceAmt>4189</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3305</CostOrOtherBasisAmt>
+          <GainOrLossAmt>884</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>884</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>40765</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>71293</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-30528</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-30528</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WAYFAIR INC</PropertyDesc>
+          <AcquiredDt>2022-08-19</AcquiredDt>
+          <SoldDt>2022-10-28</SoldDt>
+          <GrossSalesPriceAmt>867</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1566</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-699</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-699</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-91784</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1969</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>1969</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1969</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>0</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>5</EsPenaltyAmt>
+        <TaxDueAmt>1974</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>1</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>1</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>GOLDBURD CO LLP</IndividualWithBooksNm>
+        <PhoneNum>2123028970</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>11 BROADWAY SUITE 1155</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10004</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL FUCHS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>990 E 23RD STREET</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11210</ZIPCd>
+          </USAddress>
+          <TitleTxt>GRANTOR/ TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>YECHIEL BROMBERG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1154 E 12TH STREET</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11230</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SAMUEL SHLAGBAUM</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>838 47TH STREET</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11219</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>96460</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>243877</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>340337</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>340337</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>5105</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>335232</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>16762</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>16762</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1969</TaxBasedOnInvestmentIncomeAmt>
+        <IncomeTaxAmt>12875</IncomeTaxAmt>
+        <TotalTaxAmt>14844</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1918</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>1918</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>1918</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>278840</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>278840</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1918</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>32599</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>68648</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>48446</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>31604</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>77115</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>258412</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>278840</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>1918</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>276922</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>535334</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>32599</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>502735</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>68648</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>48446</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>31604</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>77115</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>276922</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>MICHAEL FUCHS</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VARIOUS</RecipientPersonNm>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>VARIOUS</AddressLine1Txt>
+            <CityNm>VARIOUS</CityNm>
+            <ProvinceOrStateNm>VARIOUS</ProvinceOrStateNm>
+            <CountryCd>OC</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENTS TO VARIOUS RABBIS, ORGANIZATIONS AND NEEDY INDIVIDUALS IN VARIOUS COUNTRIES</GrantOrContributionPurposeTxt>
+          <Amt>278840</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>278840</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>3544</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>248</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <BusinessCd>531390</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>139817</UnrelatedBusinessTaxblIncmAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-91784</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>1842 LAKEWOOD ROAD LLC</Desc>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>-20596</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>139817</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>-108588</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>31229</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>MICHAEL FUCHS</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>990 EAST 23RD STREET</AddressLine1Txt>
+          <CityNm>BROOKLYN</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11210</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>210000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>5000</Amt>
+        <NetInvestmentIncomeAmt>500</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>E*TRADE</StockNm>
+        <EOYBookValueAmt>165300</EOYBookValueAmt>
+        <EOYFMVAmt>114167</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SIMON PROPERTIES LLC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>53874</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>1842 LAKEWOOD ROAD LLC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>291376</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>210</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>210</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FILING FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>200</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>FUCHS FAMILY HOLDINGS LLC</Desc>
+        <RevenueAndExpensesPerBooksAmt>139817</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>139817</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>139817</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>1842 LAKEWOOD ROAD LLC</Desc>
+        <RevenueAndExpensesPerBooksAmt>-20596</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>-20596</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE</CategoryTxt>
+        <Amt>24225</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

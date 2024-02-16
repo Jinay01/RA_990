@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-04T14:25:43-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>112715389</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Ives Sultan &amp; Spike CPAs</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>100 Crossways Park Drive West</AddressLine1Txt>
+        <CityNm>Woodbury</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11797</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>834397831</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>RIDE WELL WHEELS INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>RIDE</BusinessNameControlTxt>
+      <PhoneNum>5614066080</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3889 MILITARY TRL 104</AddressLine1Txt>
+        <CityNm>JUPITER</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>33458</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MAZIN SHIKARA</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2023-12-04</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>MAZIN</PersonFirstNm>
+        <PersonLastNm>SHIKARA</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>FRANK CICARELLI CPA</PreparerPersonNm>
+      <PTIN>P00173467</PTIN>
+      <PhoneNum>5164969500</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AmendedReturnInd>X</AmendedReturnInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>771379</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>2794624</ContriRcvdRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>2794624</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>233390</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>233390</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">2000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>2000</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">33195</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>33195</OtherProfFeesDsbrsChrtblAmt>
+        <InterestRevAndExpnssAmt>6173</InterestRevAndExpnssAmt>
+        <InterestDsbrsChrtblAmt>6173</InterestDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">19615</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>19615</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">133707</DeprecAndDpltnRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>108388</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>108388</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">2237923</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>2237923</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>2774391</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2640684</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>2774391</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>2640684</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>20233</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>112825</CashBOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>766679</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>392059</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>252825</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">374620</LandEOYAmt>
+        <LandEOYFMVAmt>766679</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">4700</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">4700</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">4700</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>370350</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>379320</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>771379</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>267896</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>256633</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>267896</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>256633</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>102454</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>122687</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>102454</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>122687</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>370350</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>379320</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>102454</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>20233</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>122687</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>122687</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>MAZIN SHIKARA</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5614066080</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3889 MILITARY TRL STE 104</AddressLine1Txt>
+          <CityNm>JUPITER</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33458</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MAZIN SHIKARA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 4189</AddressLine1Txt>
+            <CityNm>DEERFIELD BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33442</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>JOSE FIGUEREDO MARCHENA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4108 COLLE DR</AddressLine1Txt>
+            <CityNm>LAKE WORTH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33461</ZIPCd>
+          </USAddress>
+          <TitleTxt>ADMINISTRATIVE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>45710</CompensationAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>PATRICIA CAMACHO ACOSTA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>881 SW GENERAL PATTON TERRACE</AddressLine1Txt>
+            <CityNm>PORT ST LUCIE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34953</ZIPCd>
+          </USAddress>
+          <TitleTxt>ADMINISTRATIVE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>46612</CompensationAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>BEATRIZ GUERRERO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>707 PALM AVE</AddressLine1Txt>
+            <CityNm>FORT PIERCE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34982</ZIPCd>
+          </USAddress>
+          <TitleTxt>ADMINISTRATIVE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>20.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>23796</CompensationAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>STEPHANIE FIGUEREDO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4108 COLLE DR</AddressLine1Txt>
+            <CityNm>LAKE WORTH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33461</ZIPCd>
+          </USAddress>
+          <TitleTxt>ADMINISTRATIVE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>35921</CompensationAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>YUSLEIDIS GARCIA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2535 GULFSTREAM RD APT A</AddressLine1Txt>
+            <CityNm>PALM SPRINGS</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33406</ZIPCd>
+          </USAddress>
+          <TitleTxt>ADMINISTRATIVE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>20.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>17056</CompensationAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>As a non-profit community resource organization, our mission is to work with local medical and commercial organizations to safeguard and help improve the lives of seniors.</Description1Txt>
+        <Expenses1Amt>2242178</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>26346</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>26346</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>26346</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>395</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>25951</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1298</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1298</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>1298</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1298</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1298</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>2640684</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>2640684</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1298</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr3Amt>481170</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>1694730</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>2887285</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>5063185</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>2640684</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>1298</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>2639386</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>7702571</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>7702571</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>481170</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>1694730</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>2887285</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>2639386</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>XPRESS URGENT CARE</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 4189</AddressLine1Txt>
+          <CityNm>DEERFIELD BEACH</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33442</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>178000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>MEDICAL CONSULTANTS OF FLORIDA</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 4189</AddressLine1Txt>
+          <CityNm>DEERFIELD BEACH</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33442</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>1674499</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>MEDICAL CONSULTANTS MANAGEMENT</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 4189</AddressLine1Txt>
+          <CityNm>DEERFIELD BEACH</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33442</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>190000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>4</ContributorNum>
+        <ContributorPersonNm>MEDFLORIDA SPECIALISTS</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 4189</AddressLine1Txt>
+          <CityNm>DEERFIELD BEACH</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33442</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>65125</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>5</ContributorNum>
+        <ContributorPersonNm>Mazin and Julissa Shikara</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 4189</AddressLine1Txt>
+          <CityNm>DEERFIELD BEACH</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33442</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>687000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <Amt>2000</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2000</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>AUTO</PropertyDesc>
+        <AcquiredDt>2019-10-31</AcquiredDt>
+        <CostOrOtherBasisAmt>12500</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>8225</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.4000</Rt>
+        <CurrentYearExpenseAmt>1710</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>AUTO</PropertyDesc>
+        <AcquiredDt>2019-10-31</AcquiredDt>
+        <CostOrOtherBasisAmt>55000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>36190</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.4000</Rt>
+        <CurrentYearExpenseAmt>7524</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>AUTO</PropertyDesc>
+        <AcquiredDt>2019-10-31</AcquiredDt>
+        <CostOrOtherBasisAmt>18750</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>12338</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.4000</Rt>
+        <CurrentYearExpenseAmt>2565</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>TRACTOR TRAILER</PropertyDesc>
+        <AcquiredDt>2020-06-09</AcquiredDt>
+        <CostOrOtherBasisAmt>5000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2600</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.4000</Rt>
+        <CurrentYearExpenseAmt>960</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>VAN</PropertyDesc>
+        <AcquiredDt>2020-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>127300</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>66196</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.4000</Rt>
+        <CurrentYearExpenseAmt>24442</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>VAN</PropertyDesc>
+        <AcquiredDt>2020-07-06</AcquiredDt>
+        <CostOrOtherBasisAmt>231650</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>120458</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.4000</Rt>
+        <CurrentYearExpenseAmt>44477</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LEASEHOLD IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2019-11-08</AcquiredDt>
+        <CostOrOtherBasisAmt>9180</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2857</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.2857</Rt>
+        <CurrentYearExpenseAmt>1806</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LEASEHOLD IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2020-04-21</AcquiredDt>
+        <CostOrOtherBasisAmt>8525</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3306</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.2857</Rt>
+        <CurrentYearExpenseAmt>1491</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LEASEHOLD IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2020-06-30</AcquiredDt>
+        <CostOrOtherBasisAmt>29603</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>4229</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.2857</Rt>
+        <CurrentYearExpenseAmt>7249</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE AND EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2020-06-30</AcquiredDt>
+        <CostOrOtherBasisAmt>13669</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1953</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.2857</Rt>
+        <CurrentYearExpenseAmt>3347</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FURNITURE AND EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2022-06-30</AcquiredDt>
+        <CostOrOtherBasisAmt>65371</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.2857</Rt>
+        <CurrentYearExpenseAmt>9338</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LEASEHOLD IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2022-06-30</AcquiredDt>
+        <CostOrOtherBasisAmt>161481</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.2857</Rt>
+        <CurrentYearExpenseAmt>23068</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>VAN</PropertyDesc>
+        <AcquiredDt>2022-06-30</AcquiredDt>
+        <CostOrOtherBasisAmt>28650</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.4000</Rt>
+        <CurrentYearExpenseAmt>5730</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Auto./Transportation Equip.</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>478850</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>333415</AccumulatedDepreciationAmt>
+        <BookValueAmt>145435</BookValueAmt>
+        <EOYFMVAmt>478850</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Furniture and Fixtures</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>79040</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>14638</AccumulatedDepreciationAmt>
+        <BookValueAmt>64402</BookValueAmt>
+        <EOYFMVAmt>79041</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>208789</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>44006</AccumulatedDepreciationAmt>
+        <BookValueAmt>164783</BookValueAmt>
+        <EOYFMVAmt>208788</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>SECURITY DEPOSIT</Desc>
+        <BOYBookValueAmt>4700</BOYBookValueAmt>
+        <EOYBookValueAmt>4700</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING AND PROMOTION</Desc>
+        <RevenueAndExpensesPerBooksAmt>1634</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1634</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>AUTO</Desc>
+        <RevenueAndExpensesPerBooksAmt>1620</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1620</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>COMPUTER</Desc>
+        <RevenueAndExpensesPerBooksAmt>4209</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4209</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CONTINUING EDUCATION EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1800</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1800</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DONATED FOOD PURCHASES</Desc>
+        <RevenueAndExpensesPerBooksAmt>117532</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>117532</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>GARBAGE REMOVAL</Desc>
+        <RevenueAndExpensesPerBooksAmt>2100</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2100</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>LICENSING FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>782</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>782</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MEALS</Desc>
+        <RevenueAndExpensesPerBooksAmt>26175</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>26175</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>12572</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>12572</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>184</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>184</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PEST CONTROL</Desc>
+        <RevenueAndExpensesPerBooksAmt>1225</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1225</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2290</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2290</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REIMBURSEMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>30317</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>30317</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>1734509</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1734509</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REPAIRS</Desc>
+        <RevenueAndExpensesPerBooksAmt>156747</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>156747</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Special Event Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>78225</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>78225</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SPONSORSHIP</Desc>
+        <RevenueAndExpensesPerBooksAmt>585</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>585</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>17230</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>17230</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UNIFORM</Desc>
+        <RevenueAndExpensesPerBooksAmt>77</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>77</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UTILITIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>48110</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>48110</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONSULTANT FEES</CategoryTxt>
+        <Amt>33195</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>33195</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAXES</CategoryTxt>
+        <Amt>19615</Amt>
+        <DisbursementsCharitablePrpsAmt>19615</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-11T11:01:38-05:00</ReturnTs>
+    <TaxPeriodEndDt>2023-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>550657218</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>HESS STEWART &amp; CAMPBELL PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>940 4TH AVE STE 250</AddressLine1Txt>
+        <CityNm>HUNTINGTON</CityNm>
+        <StateAbbreviationCd>WV</StateAbbreviationCd>
+        <ZIPCd>257011455</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>556101813</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE JAMES H AND ALICE TEUBERT</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>CHARITABLE TRUST</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JAME</BusinessNameControlTxt>
+      <PhoneNum>3045256637</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+        <CityNm>HUNTINGTON</CityNm>
+        <StateAbbreviationCd>WV</StateAbbreviationCd>
+        <ZIPCd>25722</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JIMELLE BOWEN</PersonNm>
+      <PersonTitleTxt>EX. DIRECTOR</PersonTitleTxt>
+      <PhoneNum>3045256637</PhoneNum>
+      <SignatureDt>2023-12-05</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>JIMELLE</PersonFirstNm>
+        <PersonLastNm>BOWEN</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CHARLES M MORRIS CPA</PreparerPersonNm>
+      <PTIN>P01354970</PTIN>
+      <PhoneNum>3045236464</PhoneNum>
+      <PreparationDt>2023-12-11</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="14">
+    <IRS990PF documentId="RetDoc15">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>23487997</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>8249</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>8249</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>542605</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>542605</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>504696</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>3537716</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>504696</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc12">51011</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>1106561</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1055550</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>98500</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>9850</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>88650</CompOfcrDirTrstDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>4600</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>460</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>4140</PensionEmplBnftDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">11000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>9900</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1100</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc13">80415</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>80415</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc14">19880</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>662</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>5962</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc3">492</DeprecAndDpltnRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>6019</OccupancyRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>2555</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>2555</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc10">15400</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>571</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>14829</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>238861</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>101858</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>117236</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1090327</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1090327</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1329188</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>101858</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1207563</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-222627</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>953692</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>11572</CashBOYAmt>
+        <CashEOYAmt>3989</CashEOYAmt>
+        <CashEOYFMVAmt>3989</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>376812</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>486405</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>486405</SavAndTempCashInvstEOYFMVAmt>
+        <GrantsReceivableBOYAmt>17347</GrantsReceivableBOYAmt>
+        <PrepaidExpensesBOYAmt>9158</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>5902</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>5902</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1523426</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc6">1379000</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>1379000</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>1153554</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">1266931</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1266931</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>1161660</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc4">1233209</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1233209</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>17408218</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc7">19043753</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>19043753</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>19786</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>15203</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>1270</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc8">4583</LandEOYAmt>
+        <LandEOYFMVAmt>4583</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc9">59185</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc9">64225</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc9">64225</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>21722202</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>23487997</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>23487997</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>39236</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>40494</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>39236</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>40494</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>11993289</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>13757826</NoDonorRstrNetAssestsEOYAmt>
+        <DonorRstrNetAssetsBOYAmt>9689677</DonorRstrNetAssetsBOYAmt>
+        <DonorRstrNetAssetsEOYAmt>9689677</DonorRstrNetAssetsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>21682966</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>23447503</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>21722202</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>23487997</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>21682966</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-222627</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc11">1987164</OtherIncreasesAmt>
+        <SubtotalAmt>23447503</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>23447503</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>INVESTMENT SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>3537716</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3033020</CostOrOtherBasisAmt>
+          <GainOrLossAmt>504696</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>504696</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>504696</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>13256</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>13256</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>13256</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>19158</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>19158</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>5902</OverpaymentAmt>
+        <AppliedToESTaxAmt>5902</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WV</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JIMELLE BOWEN</IndividualWithBooksNm>
+        <PhoneNum>3045256637</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+          <CityNm>HUNTINGTON</CityNm>
+          <StateAbbreviationCd>WV</StateAbbreviationCd>
+          <ZIPCd>25722</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DR MATTHEW A ROHRBACH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25722</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DINA BLOM</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25722</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID H LUNSFORD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25722</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GRANT MCGUIRE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25722</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>AARON PREECE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25722</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JIMELLE BOWEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25722</ZIPCd>
+          </USAddress>
+          <TitleTxt>EX. DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>30.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>98500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>4500</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TAYLOR HOOD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25722</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DETRA BANNISTER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25722</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>JPMORGAN PRIVATE BANK</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>1000 5TH AVE</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25701</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>FIN. ADVISOR</ServiceTypeTxt>
+          <CompensationAmt>80415</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>23289129</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>311268</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>79308</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>23679705</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>23679705</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>355196</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>23324509</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1166225</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1166225</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>13256</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>13256</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1152969</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1152969</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1152969</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1207563</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1207563</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1152969</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr4Amt>100083</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>150751</ExcessDistributionCyovYr3Amt>
+        <TotalExcessDistributionCyovAmt>250834</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1207563</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>1152969</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>54594</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>305428</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>305428</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>100083</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>150751</ExcessFromYear3Amt>
+        <ExcessFromCurrentYearAmt>54594</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JIMELLE BOWEN EXECUTIVE DIRECTOR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2131</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25722</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3045256337</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>REQUEST APPLICATION</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>OCTOBER 1ST FOR NOVEMBER AWARDS; MARCH 1ST FOR APRIL AWARDS</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>TAX EXEMPT ORGANIZATION WHICH PROVIDES AID TO THE BLIND IN CABELL AND WAYNE COUNTIES IN WEST VIRGINIA.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>US SPACE CAMP &amp; ROCKET</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE TRANQUILITY BASE</AddressLine1Txt>
+            <CityNm>HUNTSVILLE</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35805</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID TO THE BLIND</GrantOrContributionPurposeTxt>
+          <Amt>31013</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN FOUNDATION OF THE BLIND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1101 WILSON BLVD 6TH FL</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22209</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID TO THE BLIND</GrantOrContributionPurposeTxt>
+          <Amt>145000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YMCA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>935 10TH AVENUE</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25701</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID TO THE BLIND</GrantOrContributionPurposeTxt>
+          <Amt>24337</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CABELL-WAYNE ASSOCIATION OF</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>38 WASHINGTON AVE</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25701</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID TO THE BLIND</GrantOrContributionPurposeTxt>
+          <Amt>708906</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FAITH IN ACTION OF THE RIVER CITIES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1900 3RD AVENUE</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25703</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID TO THE BLIND</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN PRINTING HOUSE OF THE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1839 FRANKFORT AVENUE</AddressLine1Txt>
+            <CityNm>LOUISVILLE</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>40206</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID TO THE BLIND</GrantOrContributionPurposeTxt>
+          <Amt>106410</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WVU FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1650</AddressLine1Txt>
+            <CityNm>MORGANTOWN</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>26507</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID TO THE BLIND</GrantOrContributionPurposeTxt>
+          <Amt>59961</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUNTINGTON LITTLE LEAGUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 MEMORIAL BLVD W</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25701</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>COURT STIPULATED</GrantOrContributionPurposeTxt>
+          <Amt>1667</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CABELL COUNTY SCHOOLS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 446</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25702</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>COURT STIPULATED- DUKE RIDGELY GOLF</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MOUNTWEST COMMUNITY AND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 MOUNTWEST WAY</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25701</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>AID TO THE BLIND</GrantOrContributionPurposeTxt>
+          <Amt>4600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VINSON LITTLE LEAGUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2800 PARK AVENUE</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25704</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>COURT STIPULATED</GrantOrContributionPurposeTxt>
+          <Amt>1667</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HITE SAUNDERS LITTLE LEAGUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 9254</AddressLine1Txt>
+            <CityNm>HUNTINGTON</CityNm>
+            <StateAbbreviationCd>WV</StateAbbreviationCd>
+            <ZIPCd>25704</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>COURT STIPULATED</GrantOrContributionPurposeTxt>
+          <Amt>1666</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1090327</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>8249</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>542605</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>504696</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER INCOME</Desc>
+          <RelatedOrExemptFunctionIncmAmt>51011</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>1055550</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>51011</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1106561</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING/AUDITING FEES</CategoryTxt>
+        <Amt>11000</Amt>
+        <NetInvestmentIncomeAmt>9900</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1100</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc3">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2 WOODMARK</PropertyDesc>
+        <AcquiredDt>1988-09-08</AcquiredDt>
+        <CostOrOtherBasisAmt>556</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>556</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>NAT MR AIRY</PropertyDesc>
+        <AcquiredDt>1988-09-08</AcquiredDt>
+        <CostOrOtherBasisAmt>789</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>789</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>NAT MT AIRY</PropertyDesc>
+        <AcquiredDt>1988-09-08</AcquiredDt>
+        <CostOrOtherBasisAmt>799</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>799</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CHAIR</PropertyDesc>
+        <AcquiredDt>1988-09-22</AcquiredDt>
+        <CostOrOtherBasisAmt>250</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>250</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FILE CABINET</PropertyDesc>
+        <AcquiredDt>1988-09-01</AcquiredDt>
+        <CostOrOtherBasisAmt>105</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>105</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CONFERENCE</PropertyDesc>
+        <AcquiredDt>1988-10-07</AcquiredDt>
+        <CostOrOtherBasisAmt>698</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>698</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>8 CHAIRS</PropertyDesc>
+        <AcquiredDt>1988-10-07</AcquiredDt>
+        <CostOrOtherBasisAmt>1680</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1680</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>PICTURE</PropertyDesc>
+        <AcquiredDt>1988-01-18</AcquiredDt>
+        <CostOrOtherBasisAmt>71</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>71</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>1990-03-12</AcquiredDt>
+        <CostOrOtherBasisAmt>3465</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3465</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SONY CAMCOPY</PropertyDesc>
+        <AcquiredDt>1991-05-14</AcquiredDt>
+        <CostOrOtherBasisAmt>950</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>950</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MAGNOVOX 19</PropertyDesc>
+        <AcquiredDt>1991-05-14</AcquiredDt>
+        <CostOrOtherBasisAmt>205</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>205</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>VCR MAGNOVOX</PropertyDesc>
+        <AcquiredDt>1991-05-14</AcquiredDt>
+        <CostOrOtherBasisAmt>200</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>200</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SONY CASSET</PropertyDesc>
+        <AcquiredDt>1991-05-08</AcquiredDt>
+        <CostOrOtherBasisAmt>59</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>59</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FILE CABINET</PropertyDesc>
+        <AcquiredDt>1992-02-05</AcquiredDt>
+        <CostOrOtherBasisAmt>137</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>137</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FAX MACHINE</PropertyDesc>
+        <AcquiredDt>1995-10-26</AcquiredDt>
+        <CostOrOtherBasisAmt>465</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>465</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>1997-02-13</AcquiredDt>
+        <CostOrOtherBasisAmt>2063</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2063</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SCANNER</PropertyDesc>
+        <AcquiredDt>1999-05-13</AcquiredDt>
+        <CostOrOtherBasisAmt>70</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>70</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>2007-02-08</AcquiredDt>
+        <CostOrOtherBasisAmt>1039</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1039</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>2018-02-13</AcquiredDt>
+        <CostOrOtherBasisAmt>2380</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1110</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+        <CurrentYearExpenseAmt>238</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2 LAPTOPS</PropertyDesc>
+        <AcquiredDt>2023-06-05</AcquiredDt>
+        <CostOrOtherBasisAmt>3805</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>254</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORPORATE BONDS</BondNm>
+        <EOYBookValueAmt>1233209</EOYBookValueAmt>
+        <EOYFMVAmt>1233209</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORPORATE STOCKS</StockNm>
+        <EOYBookValueAmt>1266931</EOYBookValueAmt>
+        <EOYFMVAmt>1266931</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtObligationsBookVlEOYAmt>1379000</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>1379000</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc7">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MUTUAL FUNDS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>17887955</BookValueAmt>
+        <EOYFMVAmt>17887955</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MINERAL INTEREST PARTNERSHIPS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>4598</BookValueAmt>
+        <EOYFMVAmt>4598</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>US GOV'T AGENCY OBLIGATIONS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>1151200</BookValueAmt>
+        <EOYFMVAmt>1151200</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc8">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>FURNITURE AND EQUIPMENT</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>19786</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>15203</AccumulatedDepreciationAmt>
+        <BookValueAmt>4583</BookValueAmt>
+        <EOYFMVAmt>4583</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc9">
+      <OtherAssetsScheduleGrp>
+        <Desc>INTEREST &amp; DIVIDENDS RECEIVABLE</Desc>
+        <BOYBookValueAmt>59185</BOYBookValueAmt>
+        <EOYBookValueAmt>64225</EOYBookValueAmt>
+        <EOYFMVAmt>64225</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc10">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>5030</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>503</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4527</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1972</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1972</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>6307</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>6307</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1794</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1794</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REAL ESTATE</Desc>
+        <RevenueAndExpensesPerBooksAmt>42</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>42</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WORKERS COMP</Desc>
+        <RevenueAndExpensesPerBooksAmt>255</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>26</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>229</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc12">
+      <OtherIncomeDetail>
+        <Desc>OTHER INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>51011</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc11">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN/LOSS ON INVESTMENTS</Desc>
+        <Amt>1865079</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>PRIOR PERIOD ADJUSTMENT</Desc>
+        <Amt>122085</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc13">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>FIDUCIARY TRUSTEE FEES</CategoryTxt>
+        <Amt>80415</Amt>
+        <NetInvestmentIncomeAmt>80415</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc14">
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAX</CategoryTxt>
+        <Amt>6624</Amt>
+        <NetInvestmentIncomeAmt>662</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>5962</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>13256</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

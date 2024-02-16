@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-11-27T14:36:57-05:00</ReturnTs>
+    <TaxPeriodEndDt>2023-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>201981316</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LYNCH JOHNSON &amp; LONG LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>603 NORTH INDIAN RIVER DRIVE SUITE</AddressLine1Txt>
+        <CityNm>FORT PIERCE</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>34950</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>872444177</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE TIERNEY &amp; WETZEL FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>TIER</BusinessNameControlTxt>
+      <PhoneNum>7722164997</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>100 SOUTH 2ND STREET SUITE 208</AddressLine1Txt>
+        <CityNm>FORT PIERCE</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>34950</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARY JO TIERNEY</PersonNm>
+      <PersonTitleTxt>PRESIDENT/TREASURER</PersonTitleTxt>
+      <PhoneNum>7722164997</PhoneNum>
+      <SignatureDt>2023-11-10</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>MARY JO</PersonFirstNm>
+        <PersonLastNm>TIERNEY</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>WALLACE T LONG</PreparerPersonNm>
+      <PTIN>P00104846</PTIN>
+      <PhoneNum>7724661040</PhoneNum>
+      <PreparationDt>2023-11-10</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc9">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>3022597</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>181</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>181</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>37692</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>37692</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>99057</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1009603</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>99057</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>136930</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>136930</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">4940</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1647</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>3293</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">43469</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>29969</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>13500</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">1975</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>409</TaxesNetInvstIncmAmt>
+        <OccupancyRevAndExpnssAmt>15704</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>5235</OccupancyNetInvstIncmAmt>
+        <OccupancyDsbrsChrtblAmt>10469</OccupancyDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>66088</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>37260</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>27262</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>108400</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>108400</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>174488</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>37260</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>135662</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-37558</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>99670</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>202</CashBOYAmt>
+        <CashEOYAmt>300</CashEOYAmt>
+        <CashEOYFMVAmt>300</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>125119</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>263034</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>263034</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>2595875</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">2759263</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2759263</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>2721196</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>3022597</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>3022597</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc5">1271</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesEOYAmt>1271</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>2721196</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>3021326</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2721196</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3021326</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2721196</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>3022597</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2721196</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-37558</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc4">337688</OtherIncreasesAmt>
+        <SubtotalAmt>3021326</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3021326</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>700 SHARES SEAGEN INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-13</AcquiredDt>
+          <SoldDt>2023-07-21</SoldDt>
+          <GrossSalesPriceAmt>135973</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>102028</CostOrOtherBasisAmt>
+          <GainOrLossAmt>33945</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>33945</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10,000 SHARES BLUE OWL CAPITAL CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>140101</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>143206</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3105</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3105</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SHARES SEAGEN INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-14</AcquiredDt>
+          <SoldDt>2023-07-21</SoldDt>
+          <GrossSalesPriceAmt>38850</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>29405</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9445</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9445</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,000 SHARES UNITED AIRLS HLDGS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>54464</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>44149</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10315</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10315</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHARES SEAGEN INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-15</AcquiredDt>
+          <SoldDt>2023-07-21</SoldDt>
+          <GrossSalesPriceAmt>19425</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14606</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4819</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4819</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SHARES UNITED AIRLS HLDGS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-13</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>10893</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8386</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2507</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2507</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 SHARES SEAGEN INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-03</AcquiredDt>
+          <SoldDt>2023-07-21</SoldDt>
+          <GrossSalesPriceAmt>58274</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>46625</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11649</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11649</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SHARES BANK OF AMERICA CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-18</SoldDt>
+          <GrossSalesPriceAmt>5824</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8910</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3086</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3086</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 SHARES DELTA AIR LINES INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>18285</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>15240</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3045</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3045</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHARES BANK OF AMERICA CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-18</SoldDt>
+          <GrossSalesPriceAmt>14561</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>22263</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-7702</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-7702</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHARES DOW INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>5499</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5476</CostOrOtherBasisAmt>
+          <GainOrLossAmt>23</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>23</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SHARES BANK OF AMERICA CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-15</AcquiredDt>
+          <SoldDt>2023-08-18</SoldDt>
+          <GrossSalesPriceAmt>5824</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8809</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2985</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2985</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHARES DOW INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>27495</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>27589</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-94</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-94</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>600 SHARES DELTA AIR LINES INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-18</SoldDt>
+          <GrossSalesPriceAmt>24907</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>22859</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2048</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2048</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SHARES DUPONT DE NEMOURS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>15562</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>15918</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-356</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-356</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 SHARES DELTA AIR LINES INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-15</AcquiredDt>
+          <SoldDt>2023-08-18</SoldDt>
+          <GrossSalesPriceAmt>16604</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14407</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2197</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2197</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHARES DUPONT DE NEMOURS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>38905</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>39751</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-846</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-846</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 SHARES SPLUNK INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-09-25</SoldDt>
+          <GrossSalesPriceAmt>7251</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5501</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1750</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1750</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 SHARES DUPONT DE NEMOURS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>23343</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>23883</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-540</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-540</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHARES SPLUNK INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-09-25</SoldDt>
+          <GrossSalesPriceAmt>72505</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>57243</CostOrOtherBasisAmt>
+          <GainOrLossAmt>15262</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>15262</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHARES ELECTRONIC ARTS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>12316</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12630</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-314</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-314</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 SHARES SPLUNK INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-09-25</SoldDt>
+          <GrossSalesPriceAmt>21752</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16952</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4800</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4800</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 SHARES ELECTRONIC ARTS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>36948</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>38007</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1059</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1059</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHARES SPLUNK INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-13</AcquiredDt>
+          <SoldDt>2023-09-25</SoldDt>
+          <GrossSalesPriceAmt>14501</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11134</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3367</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3367</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHARES ELECTRONIC ARTS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-13</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>12316</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12681</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-365</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-365</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SHARES SPLUNK INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-15</AcquiredDt>
+          <SoldDt>2023-09-25</SoldDt>
+          <GrossSalesPriceAmt>14501</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11055</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3446</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3446</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 SHARES LENNAR CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>63671</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>58305</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5366</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5366</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SHARES SPLUNK INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-15</AcquiredDt>
+          <SoldDt>2023-09-25</SoldDt>
+          <GrossSalesPriceAmt>29002</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>22122</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6880</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6880</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5,000 SHARES BLUE OWL CAPITAL CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-10</AcquiredDt>
+          <SoldDt>2023-08-08</SoldDt>
+          <GrossSalesPriceAmt>70051</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>71406</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1355</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1355</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>99057</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1385</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1385</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1385</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>150</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>150</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1">X</Form2220AttachedInd>
+        <EsPenaltyAmt>36</EsPenaltyAmt>
+        <TaxDueAmt>1271</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>THETANDWFOUNDATION.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>MARY JO TIERNEY</IndividualWithBooksNm>
+        <PhoneNum>7722164997</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>100 SOUTH 2ND STREET SUITE 208</AddressLine1Txt>
+          <CityNm>FORT PIERCE</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>34950</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY JO TIERNEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1712 COCONUT DRIVE</AddressLine1Txt>
+            <CityNm>FORT PIERCE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34949</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/TR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL E WETZEL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1712 COCONUT DRIVE</AddressLine1Txt>
+            <CityNm>FORT PIERCE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34949</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP/SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>J STEPHEN TIERNEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3707 PROMENADE WAY</AddressLine1Txt>
+            <CityNm>FORT PIERCE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34982</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>CONTRIBUTIONS TO CHARITABLE ORGANIZATION LOCATED IN CENTRAL AND SOUTH FLORIDA WITH AN EMPHASIS ON ORGANIZATIONS THAT BENEFIT CHILDREN, THE ARTS, LITERACY, EDUCATION, THE ENVIRONMENT AND COMMUNITY REVITALIZATION.</Description1Txt>
+        <Expenses1Amt>108400</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3011492</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>109648</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>3121140</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>3121140</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>46817</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>3074323</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>153716</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>153716</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1385</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1385</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>152331</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>152331</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>152331</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>135662</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>135662</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>152331</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>84171</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>84171</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>135662</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>135662</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>16669</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>16669</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>67502</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>67502</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>67502</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>MARY JO TIERNEY</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MARY JO TIERNEY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 12699</AddressLine1Txt>
+            <CityNm>FORT PIERCE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34979</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7722164997</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>MJTIERNEY321@GMAIL.COM</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>APPLICATIONS SHOULD BE IN WRITING AND INCLUDE THE MISSION STATEMENT OF THE ORGANIZATION, BOARD MEMBERS, THE AMOUNT THE ORGANIZATION IS REQUESTING, HOW THE ORGANIZATION INTENDS TO USE THE GRANT FUNDS AND WHAT THE ORGANIZATION WANTS TO ACCOMPLISH WITH THE GRANT.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>THE DEADLINE TO SUBMIT GRANT APPLICATIONS IS AUGUST 1.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>THE FOUNDATION FOCUSES ON ENVIRONMENTAL, EDUCATIONAL AND CULTURAL CAUSES.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WPSL CHRISTMAS KIDS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4100 METZGER ROAD</AddressLine1Txt>
+            <CityNm>FORT PIERCE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34947</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WATER SAFETY COURSES</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AE BACKUS MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 NORTH INDIAN RIVER DR</AddressLine1Txt>
+            <CityNm>FORT PIERCE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34950</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MUSEUM EXHIBITS</GrantOrContributionPurposeTxt>
+          <Amt>400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF THE EVERGLADES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3727 SE OCEAN BLVD</AddressLine1Txt>
+            <CityNm>STUART</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34996</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROMOTE ACTIONS TO STOP POLLUTION</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VOTE WATER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3727 SE OCEAN BLVD</AddressLine1Txt>
+            <CityNm>STUART</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34996</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ENVIRONMENTAL RESEARCH AND EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>108400</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>181</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>37692</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>99057</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>136930</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>136930</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>4940</Amt>
+        <NetInvestmentIncomeAmt>1647</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3293</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CRISPR THERAPEUTICS AG</StockNm>
+        <EOYBookValueAmt>90780</EOYBookValueAmt>
+        <EOYFMVAmt>90780</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRANSOCEAN LTD</StockNm>
+        <EOYBookValueAmt>82100</EOYBookValueAmt>
+        <EOYFMVAmt>82100</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ROYAL CARIBBEAN GROUP</StockNm>
+        <EOYBookValueAmt>156638</EOYBookValueAmt>
+        <EOYFMVAmt>156638</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ACADIA PHARMACEUTICALS INC</StockNm>
+        <EOYBookValueAmt>104200</EOYBookValueAmt>
+        <EOYFMVAmt>104200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALIBABA GROUP HLDG LTD</StockNm>
+        <EOYBookValueAmt>216850</EOYBookValueAmt>
+        <EOYFMVAmt>216850</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BK OF AMERICA CORP</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BIOMARIN PHARMACEUTICAL INC</StockNm>
+        <EOYBookValueAmt>88480</EOYBookValueAmt>
+        <EOYFMVAmt>88480</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BOEING CO</StockNm>
+        <EOYBookValueAmt>268352</EOYBookValueAmt>
+        <EOYFMVAmt>268352</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CVS HEALTH CORP</StockNm>
+        <EOYBookValueAmt>139640</EOYBookValueAmt>
+        <EOYFMVAmt>139640</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CARNIVAL CORP</StockNm>
+        <EOYBookValueAmt>109760</EOYBookValueAmt>
+        <EOYFMVAmt>109760</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CISCO SYS INC</StockNm>
+        <EOYBookValueAmt>75264</EOYBookValueAmt>
+        <EOYFMVAmt>75264</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CITIGROUP INC</StockNm>
+        <EOYBookValueAmt>57582</EOYBookValueAmt>
+        <EOYFMVAmt>57582</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DELTA AIR LINES INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DISNEY WALT CO</StockNm>
+        <EOYBookValueAmt>105365</EOYBookValueAmt>
+        <EOYFMVAmt>105365</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DOW INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DUPONT DE NEMOURS INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ELECTRONIC ARTS INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GE HEALTHCARE TECHNOLOGIES INC</StockNm>
+        <EOYBookValueAmt>95256</EOYBookValueAmt>
+        <EOYFMVAmt>95256</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HCA HEALTHCARE INC</StockNm>
+        <EOYBookValueAmt>122990</EOYBookValueAmt>
+        <EOYFMVAmt>122990</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HASHICORP INC</StockNm>
+        <EOYBookValueAmt>22830</EOYBookValueAmt>
+        <EOYFMVAmt>22830</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IGM BIOSCIENCES INC</StockNm>
+        <EOYBookValueAmt>58450</EOYBookValueAmt>
+        <EOYFMVAmt>58450</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JD.COM INC</StockNm>
+        <EOYBookValueAmt>37869</EOYBookValueAmt>
+        <EOYFMVAmt>37869</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KODIAK SCIENCES INC</StockNm>
+        <EOYBookValueAmt>2880</EOYBookValueAmt>
+        <EOYFMVAmt>2880</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LENNAR CORP</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LUMENTUM HLDGS INC</StockNm>
+        <EOYBookValueAmt>27108</EOYBookValueAmt>
+        <EOYFMVAmt>27108</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICRON TECHNOLOGY INC</StockNm>
+        <EOYBookValueAmt>81636</EOYBookValueAmt>
+        <EOYFMVAmt>81636</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>OWL ROCK CAPITAL CORPORATION</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PINTEREST INC</StockNm>
+        <EOYBookValueAmt>54060</EOYBookValueAmt>
+        <EOYFMVAmt>54060</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEAGEN INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SNAP INC</StockNm>
+        <EOYBookValueAmt>15147</EOYBookValueAmt>
+        <EOYFMVAmt>15147</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPLUNK INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TAIWAN SEMICONDUCTOR MFG LTD</StockNm>
+        <EOYBookValueAmt>95590</EOYBookValueAmt>
+        <EOYFMVAmt>95590</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TELADOC HEALTH INC</StockNm>
+        <EOYBookValueAmt>13013</EOYBookValueAmt>
+        <EOYFMVAmt>13013</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TWILIO INC</StockNm>
+        <EOYBookValueAmt>93648</EOYBookValueAmt>
+        <EOYFMVAmt>93648</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBER TECHNOLOGIES INC</StockNm>
+        <EOYBookValueAmt>45990</EOYBookValueAmt>
+        <EOYFMVAmt>45990</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNITED AIRLS HLDGS INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNITY SOFTWARE INC</StockNm>
+        <EOYBookValueAmt>15695</EOYBookValueAmt>
+        <EOYFMVAmt>15695</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VF CORP</StockNm>
+        <EOYBookValueAmt>17670</EOYBookValueAmt>
+        <EOYFMVAmt>17670</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ARK INNOVATION ETF</StockNm>
+        <EOYBookValueAmt>198350</EOYBookValueAmt>
+        <EOYFMVAmt>198350</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES TR 20 YR TR BD ETF</StockNm>
+        <EOYBookValueAmt>266070</EOYBookValueAmt>
+        <EOYFMVAmt>266070</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc4">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAINS ON INVESTMENTS</Desc>
+        <Amt>337688</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc5">
+      <OtherLiabilitiesDetail>
+        <Desc>EXCISE TAX PAYABLE</Desc>
+        <EOYBookValueAmt>1271</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONSULTING FEES</CategoryTxt>
+        <Amt>13500</Amt>
+        <DisbursementsCharitablePrpsAmt>13500</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>29969</Amt>
+        <NetInvestmentIncomeAmt>29969</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>TAXES - EXCISE</CategoryTxt>
+        <Amt>1566</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>TAXES - FOREIGN</CategoryTxt>
+        <Amt>409</Amt>
+        <NetInvestmentIncomeAmt>409</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-12T12:06:05-05:00</ReturnTs>
+    <TaxPeriodEndDt>2023-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>352072184</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DWC CPAS LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3454 DOUGLAS RD</AddressLine1Txt>
+        <CityNm>SOUTH BEND</CityNm>
+        <StateAbbreviationCd>IN</StateAbbreviationCd>
+        <ZIPCd>46635</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>311220336</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MUNN FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MUNN</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>5917 HARTFORD WAY</AddressLine1Txt>
+        <CityNm>BRIGHTON</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>48116</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>LAURA SEAGRAM</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>9708973840</PhoneNum>
+      <SignatureDt>2023-11-27</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>LAURA</PersonFirstNm>
+        <PersonLastNm>SEAGRAM</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MIKE WOJTYSIAK</PreparerPersonNm>
+      <PTIN>P00435113</PTIN>
+      <PhoneNum>5742339366</PhoneNum>
+      <PreparationDt>2023-11-27</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc7">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>763001</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>24321</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>24321</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc2">16062</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>170482</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>40383</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>24321</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">2800</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2240</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>560</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc5">5032</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>4026</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1006</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc6">310</TaxesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>8142</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>6266</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1566</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>40000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>40000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>48142</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>6266</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>41566</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-7759</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>18055</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>32093</CashBOYAmt>
+        <CashEOYAmt>30649</CashEOYAmt>
+        <CashEOYFMVAmt>30649</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>449257</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">428715</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>501330</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>297495</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc3">302531</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>231022</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>778845</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>761895</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>763001</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>778845</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>761895</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>778845</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>761895</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>778845</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>761895</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>778845</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-7759</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>771086</SubtotalAmt>
+        <OtherDecreasesAmt>9191</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>761895</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>251</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>251</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>251</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>252</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>252</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>1</OverpaymentAmt>
+        <AppliedToESTaxAmt>1</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>DWC CPAS LLC</IndividualWithBooksNm>
+        <PhoneNum>5742339366</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3454 DOUGLAS ROAD</AddressLine1Txt>
+          <AddressLine2Txt>STE 100</AddressLine2Txt>
+          <CityNm>SOUTH BEND</CityNm>
+          <StateAbbreviationCd>IN</StateAbbreviationCd>
+          <ZIPCd>46635</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LAURA SEAGRAM</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>17359 LAKE VIEW CIRCLE</AddressLine1Txt>
+            <CityNm>NORTHVILLE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48168</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>758899</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>30090</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>788989</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>788989</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>11835</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>777154</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>38858</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>38858</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>251</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>251</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>38607</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>38607</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>38607</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>41566</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>41566</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>38607</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr3Amt>37080</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>10336</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>8646</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>56062</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>41566</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>38607</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>2959</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>59021</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>59021</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>37080</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>10336</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>8646</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>2959</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MUNN FOUNDATION LAURA SEAGRAM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5917 HARTFORD WAY</AddressLine1Txt>
+            <CityNm>BRIGHTON</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48116</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2489242952</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>NO FORM FOR APPLICATION BUT MUST STATE PURPOSE OF EXEMPT ORGANIZATION.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>THE FOUNDATION IS ORGANIZED FOR CHARITABLE, RELIGIOUS, SCIENTIFIC, LITERARY AND EDUCATIONAL PURPOSES, INCLUDING FOR SUCH PURPOSES, THE MAKING OF DISTRIBUTIONS TO ORGANIZATIONS THAT QUALIFY UNDER SECTION 501(C)(3) OF THE INTERNAL REVENUE CODE.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL JEWISH HEALTH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1400 JACKSON STREET</AddressLine1Txt>
+            <CityNm>DENVER</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80206</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF MICHIGAN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 S STATE STREET</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48109</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>40000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>24321</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>16062</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>24321</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>16062</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>40383</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>2800</Amt>
+        <NetInvestmentIncomeAmt>2240</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>560</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ANALOG DEVICES INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2129</GrossSalesPriceAmt>
+        <BasisAmt>2079</BasisAmt>
+        <TotalNetAmt>50</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BLACKROCK</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1909</GrossSalesPriceAmt>
+        <BasisAmt>1692</BasisAmt>
+        <TotalNetAmt>217</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CISCO SYSTEMS INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>5017</GrossSalesPriceAmt>
+        <BasisAmt>5141</BasisAmt>
+        <TotalNetAmt>-124</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>JPMORGAN CHASE &amp; CO</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1261</GrossSalesPriceAmt>
+        <BasisAmt>1080</BasisAmt>
+        <TotalNetAmt>181</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AUTOMATIC DATA PROCESSING INC.</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1506</GrossSalesPriceAmt>
+        <BasisAmt>1173</BasisAmt>
+        <TotalNetAmt>333</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DISCOVER FINANCIAL SERVICES</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1090</GrossSalesPriceAmt>
+        <BasisAmt>1058</BasisAmt>
+        <TotalNetAmt>32</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MEDTRONIC PLC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2547</GrossSalesPriceAmt>
+        <BasisAmt>2536</BasisAmt>
+        <TotalNetAmt>11</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>COMCAST CORP NEW CL A</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1952</GrossSalesPriceAmt>
+        <BasisAmt>2932</BasisAmt>
+        <TotalNetAmt>-980</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MORGAN STANLEY</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2615</GrossSalesPriceAmt>
+        <BasisAmt>3072</BasisAmt>
+        <TotalNetAmt>-457</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AUTOMATIC DATA PROCESSING INC.</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2628</GrossSalesPriceAmt>
+        <BasisAmt>2151</BasisAmt>
+        <TotalNetAmt>477</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>COMCAST CORP NEW CL A</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>5607</GrossSalesPriceAmt>
+        <BasisAmt>7860</BasisAmt>
+        <TotalNetAmt>-2253</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DISCOVER FINANCIAL SERVICES</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1205</GrossSalesPriceAmt>
+        <BasisAmt>1287</BasisAmt>
+        <TotalNetAmt>-82</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MEDTRONIC PLC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>8321</GrossSalesPriceAmt>
+        <BasisAmt>9964</BasisAmt>
+        <TotalNetAmt>-1643</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UNITED PARCEL SERVICE INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2531</GrossSalesPriceAmt>
+        <BasisAmt>2124</BasisAmt>
+        <TotalNetAmt>407</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DISCOVER FINANCIAL SERVICES</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1482</GrossSalesPriceAmt>
+        <BasisAmt>1800</BasisAmt>
+        <TotalNetAmt>-318</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EOG RESOURCES INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2316</GrossSalesPriceAmt>
+        <BasisAmt>1556</BasisAmt>
+        <TotalNetAmt>760</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PHILLIPS 66</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1716</GrossSalesPriceAmt>
+        <BasisAmt>1196</BasisAmt>
+        <TotalNetAmt>520</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>REPUBLIC SERVICES INC.</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1036</GrossSalesPriceAmt>
+        <BasisAmt>652</BasisAmt>
+        <TotalNetAmt>384</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMGEN INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2397</GrossSalesPriceAmt>
+        <BasisAmt>2198</BasisAmt>
+        <TotalNetAmt>199</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>STARBUCKS CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2535</GrossSalesPriceAmt>
+        <BasisAmt>3370</BasisAmt>
+        <TotalNetAmt>-835</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ABBVIE INC COM</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2641</GrossSalesPriceAmt>
+        <BasisAmt>2352</BasisAmt>
+        <TotalNetAmt>289</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AUTOMATIC DATA PROCESSING INC.</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1291</GrossSalesPriceAmt>
+        <BasisAmt>978</BasisAmt>
+        <TotalNetAmt>313</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BLACKROCK INC.</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2116</GrossSalesPriceAmt>
+        <BasisAmt>1724</BasisAmt>
+        <TotalNetAmt>392</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CISCO SYSTEMS INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2730</GrossSalesPriceAmt>
+        <BasisAmt>2158</BasisAmt>
+        <TotalNetAmt>572</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>COCA COLA CO COM</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1377</GrossSalesPriceAmt>
+        <BasisAmt>1015</BasisAmt>
+        <TotalNetAmt>362</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DIAGEO PLC NEW GB SPON</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1495</GrossSalesPriceAmt>
+        <BasisAmt>1131</BasisAmt>
+        <TotalNetAmt>364</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DISCOVER FINANCIAL SERVICES</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2138</GrossSalesPriceAmt>
+        <BasisAmt>2383</BasisAmt>
+        <TotalNetAmt>-245</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EOG RESOURCES INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>3709</GrossSalesPriceAmt>
+        <BasisAmt>2585</BasisAmt>
+        <TotalNetAmt>1124</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>HOME DEPOT INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1610</GrossSalesPriceAmt>
+        <BasisAmt>1246</BasisAmt>
+        <TotalNetAmt>364</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LINDE PLC EUR</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2656</GrossSalesPriceAmt>
+        <BasisAmt>1706</BasisAmt>
+        <TotalNetAmt>950</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PHILLIPS 66</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>3598</GrossSalesPriceAmt>
+        <BasisAmt>2343</BasisAmt>
+        <TotalNetAmt>1255</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PROCTOR &amp; GAMBLE CO</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>734</GrossSalesPriceAmt>
+        <BasisAmt>594</BasisAmt>
+        <TotalNetAmt>140</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>RAYTHEON TECHNOLOGIES CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2275</GrossSalesPriceAmt>
+        <BasisAmt>1470</BasisAmt>
+        <TotalNetAmt>805</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>TRUIST FINL CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2743</GrossSalesPriceAmt>
+        <BasisAmt>2536</BasisAmt>
+        <TotalNetAmt>207</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>TRUIST FINL CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>8404</GrossSalesPriceAmt>
+        <BasisAmt>9859</BasisAmt>
+        <TotalNetAmt>-1455</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CHUBB LD CHF</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2788</GrossSalesPriceAmt>
+        <BasisAmt>1672</BasisAmt>
+        <TotalNetAmt>1116</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DISCOVER FINANCIAL SERVICES</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1264</GrossSalesPriceAmt>
+        <BasisAmt>1366</BasisAmt>
+        <TotalNetAmt>-102</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>JOHNSON &amp; JOHNSON COM</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>3893</GrossSalesPriceAmt>
+        <BasisAmt>3441</BasisAmt>
+        <TotalNetAmt>452</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MCDONALDS CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>3926</GrossSalesPriceAmt>
+        <BasisAmt>2821</BasisAmt>
+        <TotalNetAmt>1105</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MORGAN STANLEY</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1871</GrossSalesPriceAmt>
+        <BasisAmt>1938</BasisAmt>
+        <TotalNetAmt>-67</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CISCO SYSTEMS INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>6408</GrossSalesPriceAmt>
+        <BasisAmt>5645</BasisAmt>
+        <TotalNetAmt>763</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LINDE PLC EUR</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2488</GrossSalesPriceAmt>
+        <BasisAmt>1493</BasisAmt>
+        <TotalNetAmt>995</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ABBOTT LABS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>887</GrossSalesPriceAmt>
+        <BasisAmt>825</BasisAmt>
+        <TotalNetAmt>62</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EXXON MOBIL CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1858</GrossSalesPriceAmt>
+        <BasisAmt>1767</BasisAmt>
+        <TotalNetAmt>91</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ORACLE CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1547</GrossSalesPriceAmt>
+        <BasisAmt>1181</BasisAmt>
+        <TotalNetAmt>366</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PROLOGIS INC COM</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1016</GrossSalesPriceAmt>
+        <BasisAmt>982</BasisAmt>
+        <TotalNetAmt>34</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ABBVIE INC COM</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1321</GrossSalesPriceAmt>
+        <BasisAmt>1322</BasisAmt>
+        <TotalNetAmt>-1</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ACCENTURE PLC IRELAND</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1322</GrossSalesPriceAmt>
+        <BasisAmt>1088</BasisAmt>
+        <TotalNetAmt>234</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMERICAN ELECTRIC POWER CO</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1106</GrossSalesPriceAmt>
+        <BasisAmt>972</BasisAmt>
+        <TotalNetAmt>134</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ANALOG DEVICES INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1656</GrossSalesPriceAmt>
+        <BasisAmt>1439</BasisAmt>
+        <TotalNetAmt>217</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BLACKROCK INC.</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>643</GrossSalesPriceAmt>
+        <BasisAmt>572</BasisAmt>
+        <TotalNetAmt>71</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BROADCOM INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>628</GrossSalesPriceAmt>
+        <BasisAmt>496</BasisAmt>
+        <TotalNetAmt>132</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CHUBB LD CHF</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1201</GrossSalesPriceAmt>
+        <BasisAmt>764</BasisAmt>
+        <TotalNetAmt>437</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>COCA COLA CO COM</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1344</GrossSalesPriceAmt>
+        <BasisAmt>969</BasisAmt>
+        <TotalNetAmt>375</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DIAGEO PLC NEW GB SPON</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>3327</GrossSalesPriceAmt>
+        <BasisAmt>2546</BasisAmt>
+        <TotalNetAmt>781</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EOG RESOURCES INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>804</GrossSalesPriceAmt>
+        <BasisAmt>603</BasisAmt>
+        <TotalNetAmt>201</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>HOME DEPOT INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>862</GrossSalesPriceAmt>
+        <BasisAmt>766</BasisAmt>
+        <TotalNetAmt>96</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>HONEYWELL INTL INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>984</GrossSalesPriceAmt>
+        <BasisAmt>984</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>JOHNSON &amp; JOHNSON COM</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1459</GrossSalesPriceAmt>
+        <BasisAmt>1289</BasisAmt>
+        <TotalNetAmt>170</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>JPMORGAN CHASE &amp; CO</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1234</GrossSalesPriceAmt>
+        <BasisAmt>884</BasisAmt>
+        <TotalNetAmt>350</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>LINDE PLC EUR</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1462</GrossSalesPriceAmt>
+        <BasisAmt>853</BasisAmt>
+        <TotalNetAmt>609</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MARSH &amp; MCLENNAN COS INCOM</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1259</GrossSalesPriceAmt>
+        <BasisAmt>744</BasisAmt>
+        <TotalNetAmt>515</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MCDONALDS CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1186</GrossSalesPriceAmt>
+        <BasisAmt>752</BasisAmt>
+        <TotalNetAmt>434</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MICROSOFT CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>4934</GrossSalesPriceAmt>
+        <BasisAmt>3237</BasisAmt>
+        <TotalNetAmt>1697</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MORGAN STANLEY</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>591</GrossSalesPriceAmt>
+        <BasisAmt>713</BasisAmt>
+        <TotalNetAmt>-122</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>NEXTERA ENERGY INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1371</GrossSalesPriceAmt>
+        <BasisAmt>1106</BasisAmt>
+        <TotalNetAmt>265</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PHILLIPS 66</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>938</GrossSalesPriceAmt>
+        <BasisAmt>666</BasisAmt>
+        <TotalNetAmt>272</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PROCTOR &amp; GAMBLE CO</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1399</GrossSalesPriceAmt>
+        <BasisAmt>1068</BasisAmt>
+        <TotalNetAmt>331</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>RAYTHEON TECHNOLOGIES CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1531</GrossSalesPriceAmt>
+        <BasisAmt>1051</BasisAmt>
+        <TotalNetAmt>480</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>REPUBLIC SERVICES INC.</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>877</GrossSalesPriceAmt>
+        <BasisAmt>489</BasisAmt>
+        <TotalNetAmt>388</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>STARBUCKS CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1284</GrossSalesPriceAmt>
+        <BasisAmt>1331</BasisAmt>
+        <TotalNetAmt>-47</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>TEXAS INSTRUMENTS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1147</GrossSalesPriceAmt>
+        <BasisAmt>1331</BasisAmt>
+        <TotalNetAmt>-184</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UNION PACIFIC CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>599</GrossSalesPriceAmt>
+        <BasisAmt>510</BasisAmt>
+        <TotalNetAmt>89</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UNITED PARCEL SERVICE INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1221</GrossSalesPriceAmt>
+        <BasisAmt>1187</BasisAmt>
+        <TotalNetAmt>34</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UNITEDHEALTH GROUP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1970</GrossSalesPriceAmt>
+        <BasisAmt>1836</BasisAmt>
+        <TotalNetAmt>134</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMGEN INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>5610</GrossSalesPriceAmt>
+        <BasisAmt>6041</BasisAmt>
+        <TotalNetAmt>-431</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ANALOG DEVICES INC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2078</GrossSalesPriceAmt>
+        <BasisAmt>1733</BasisAmt>
+        <TotalNetAmt>345</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DIAGEO PLC NEW GB SPON</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>1212</GrossSalesPriceAmt>
+        <BasisAmt>990</BasisAmt>
+        <TotalNetAmt>222</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>TEXAS INSTRUMENTS</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>2659</GrossSalesPriceAmt>
+        <BasisAmt>1956</BasisAmt>
+        <TotalNetAmt>703</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SEE ATTACHED</BondNm>
+        <EOYBookValueAmt>302531</EOYBookValueAmt>
+        <EOYFMVAmt>231022</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEE ATTACHMENT</StockNm>
+        <EOYBookValueAmt>428715</EOYBookValueAmt>
+        <EOYFMVAmt>501330</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc5">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES UBS</CategoryTxt>
+        <Amt>5032</Amt>
+        <NetInvestmentIncomeAmt>4026</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1006</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc6">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX</CategoryTxt>
+        <Amt>310</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

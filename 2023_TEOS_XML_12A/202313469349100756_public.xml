@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-12T12:22:09-06:00</ReturnTs>
+    <TaxPeriodEndDt>2023-07-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BDO USA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>200 PARK AVENUE 38TH FLOOR</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10166</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-08-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>133920469</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE PETER A AND DEBORAH L WEINBERG</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FAMILY FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <InCareOfNm>% AYCO</InCareOfNm>
+      <BusinessNameControlTxt>PETE</BusinessNameControlTxt>
+      <PhoneNum>2124400800</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>c/o ayco po box 15201</AddressLine1Txt>
+        <CityNm>Albany</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>122125201</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>PETER WEINBERG</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>5188864104</PhoneNum>
+      <SignatureDt>2023-12-08</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>PETER</PersonFirstNm>
+        <PersonLastNm>WEINBERG</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Liliana Lopez</PreparerPersonNm>
+      <PTIN>P00969154</PTIN>
+      <PhoneNum>2125761400</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>19102018</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>4172420</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>27</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>27</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>478251</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>478251</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>3688098</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>12889489</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>3688098</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">150690</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>123955</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>8489486</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>4290331</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">15000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>7500</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>7500</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">56749</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>56749</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">47535</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1634</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">2600</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>121884</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>65883</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>7500</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1883900</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1883900</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>2005784</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>65883</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1891400</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>6483702</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>4224448</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>29141</CashBOYAmt>
+        <CashEOYAmt>37166</CashEOYAmt>
+        <CashEOYFMVAmt>37166</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>28530</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>38638</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>38638</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>7216074</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">10205854</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>16964200</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>2153500</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">2118832</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>2062014</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>9427245</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>12400490</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>19102018</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>9427245</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>12400490</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>9427245</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>12400490</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>9427245</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>12400490</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>9427245</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>6483702</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>15910947</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSch">3510457</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>12400490</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GS FINANCIAL SQUARE FEDERAL INSTRUMENTS</PropertyDesc>
+          <AcquiredDt>2021-01-01</AcquiredDt>
+          <SoldDt>2023-05-15</SoldDt>
+          <GrossSalesPriceAmt>7930983</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7930983</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES TRUST-ISHARES CURRENCY HEDGED MSCI EAFE ETF</PropertyDesc>
+          <AcquiredDt>2021-01-01</AcquiredDt>
+          <SoldDt>2023-05-15</SoldDt>
+          <GrossSalesPriceAmt>39922</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>39002</CostOrOtherBasisAmt>
+          <GainOrLossAmt>920</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>920</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES MSCI EAFE ETF</PropertyDesc>
+          <AcquiredDt>2021-01-01</AcquiredDt>
+          <SoldDt>2023-05-15</SoldDt>
+          <GrossSalesPriceAmt>359639</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>378533</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-18894</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-18894</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SPDR S&amp;P 500 ETF TRUST</PropertyDesc>
+          <AcquiredDt>2021-01-01</AcquiredDt>
+          <SoldDt>2023-05-15</SoldDt>
+          <GrossSalesPriceAmt>155396</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>108942</CostOrOtherBasisAmt>
+          <GainOrLossAmt>46454</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>46454</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VICTORY CAPITAL HOLDINGS</PropertyDesc>
+          <AcquiredDt>2021-01-01</AcquiredDt>
+          <SoldDt>2023-03-27</SoldDt>
+          <GrossSalesPriceAmt>178570</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>23479</CostOrOtherBasisAmt>
+          <GainOrLossAmt>155091</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>155091</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>APPLE INC</PropertyDesc>
+          <AcquiredDt>2020-01-01</AcquiredDt>
+          <SoldDt>2023-05-05</SoldDt>
+          <GrossSalesPriceAmt>2190687</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>325959</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1864728</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1864728</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MICROSOFT CORP</PropertyDesc>
+          <AcquiredDt>2020-01-01</AcquiredDt>
+          <SoldDt>2023-05-04</SoldDt>
+          <GrossSalesPriceAmt>1426544</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>242616</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1183928</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1183928</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NVIDIA CORP</PropertyDesc>
+          <AcquiredDt>2020-01-01</AcquiredDt>
+          <SoldDt>2023-05-04</SoldDt>
+          <GrossSalesPriceAmt>435950</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13128</CostOrOtherBasisAmt>
+          <GainOrLossAmt>422822</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>422822</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>K-1 INCOME SUMMARY - S/T SUMMARY</PropertyDesc>
+          <AcquiredDt>2022-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <CostOrOtherBasisAmt>14387</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-14387</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-14387</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>K-1 INCOME SUMMARY - L/T SUMMARY</PropertyDesc>
+          <AcquiredDt>2021-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <CostOrOtherBasisAmt>5676</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5676</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5676</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHANGE VENTURES LP EXCESS DISTRBUTION GAIN</PropertyDesc>
+          <AcquiredDt>2020-01-01</AcquiredDt>
+          <SoldDt>2022-12-31</SoldDt>
+          <GrossSalesPriceAmt>165980</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>118686</CostOrOtherBasisAmt>
+          <GainOrLossAmt>47294</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>47294</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>3688098</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>58720</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>58720</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>58720</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>0</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>1347</EsPenaltyAmt>
+        <TaxDueAmt>60067</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CT</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="SubsContributorsSch">true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>AYCO</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5188864104</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 15201</AddressLine1Txt>
+          <CityNm>Albany</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>122125201</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Peter A Weinberg</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>ayco po box 15201</AddressLine1Txt>
+            <CityNm>Albany</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>122125201</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.19</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Deborah L Weinberg</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>ayco po box 15201</AddressLine1Txt>
+            <CityNm>Albany</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>122125201</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.19</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>THE FOUNDATION IS NOT INVOLVED IN ANY DIRECT CHARITABLE ACTIVITIES. ITS PRIMARY PURPOSE IS TO SUPPORT BY CONTRIBUTIONS, OTHER ORGANIZATIONS EXEMPT UNDER SECTION</Description1Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Description2Txt>N/A</Description2Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>13057499</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>291288</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>2062014</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>15410801</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>15410801</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>231162</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>15179639</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>758982</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>758982</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>58720</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>58720</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>700262</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>700262</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>700262</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1891400</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>1891400</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>700262</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2020</PriorYear1Yr>
+        <PriorYear2Yr>2019</PriorYear2Yr>
+        <PriorYear3Yr>2018</PriorYear3Yr>
+        <ExcessDistributionCyovYr4Amt>1033884</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>1858672</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>1303597</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>2103985</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>6300138</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1891400</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>700262</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>1191138</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>7491276</TotalCorpusAmt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>7491276</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>1033884</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>1858672</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>1303597</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>2103985</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>1191138</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>PETER WEINBERG</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>PETER WEINBERG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 15201</AddressLine1Txt>
+            <CityNm>ALBANY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12212</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5188864104</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>pweinberg@pwpartners.com</RecipientEmailAddressTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AccesSport America</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>165 East 56 Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>Public</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>2023 Regatta; Lindenauer Boat</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>American Jewish Committee (AJC)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6760 PO Box 7247</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19170</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>Public</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>In Honor of Dan Och's receipt of Herbert H. Lehman Human Relations Award (per PW email on 10/24/22)</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Bloomberg Museum of the City of New York</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1220 5th Ave</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10029</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>Public</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Bloomberg Brackets for a Cause</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Central Synagogue</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>652 Lexington Ave</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>Public</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Cerebral Palsy Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3 Columbus Circle 15th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CitySquash</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>602 E 187th St 204</AddressLine1Txt>
+            <CityNm>Bronx</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10458</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Coffee for Good</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>48 Maple Ave</AddressLine1Txt>
+            <CityNm>Greenwich</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06830</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Columbia University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>622 West 113th Street Mail Code 45</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10025</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>22400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Cooke School - Food For Thought Gala</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1713 Madison Avenue NY</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10029</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Graham Windham</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>One Pierrepont Plaza Suite 901</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>In Honor of Georgia Gogel; Not attending Gala</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HBSCNY - HBS Club of New York</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1460 Broadway</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10036</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>In Honor of John Hess; HBS Club of New York; Not attending</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Kravis Leadership Institute - Claremont McKenna Co</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>850 Columbia Avenue</AddressLine1Txt>
+            <CityNm>Claremont</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91711</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>2023 Annual Gift</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Lincoln Center for the Performing Arts Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Lincoln Center Plaza</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10023</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>In Honor of Sheryl J. Kaye</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Meeting Street Schools</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>642 Meeting Street</AddressLine1Txt>
+            <CityNm>Charleston</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29403</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>In Honor of Julie Ostrover</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Memorial Sloan Kettering Cancer Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1275 York Avenue</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10065</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>2022 Annual Board Gift</GrantOrContributionPurposeTxt>
+          <Amt>550000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>National CASA Association</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 W Harrison St N500</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98119</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>In Honor of Lisa Stuart</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PEF Israel Endowment Funds Inc (Friends of Ra</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>630 3rd Ave 15th</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>Janice coordinated payment</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Partnership to End Addiction</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>711 3rd Ave 5th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PASE - Partnership for After School Education</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11 Broadway 1515</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ReadWorks</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 24673</AddressLine1Txt>
+            <CityNm>Brooklyn</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11202</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>In Honor of Howard and Debbie Schiller</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Smith College</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10 Elm Street</AddressLine1Txt>
+            <CityNm>Northampton</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01063</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>750000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The New York Bar Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 Elk Street</AddressLine1Txt>
+            <CityNm>Albany</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12207</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UJA Federation of New York</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>130 E 59th St</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>In Honor of Bruce Mendelsohn and Curtis Lane</GrantOrContributionPurposeTxt>
+          <Amt>130000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Vail Dance Festival</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>530 S Frontage Rd E</AddressLine1Txt>
+            <CityNm>Vail</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81657</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Waterside School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>770 Pacific Street</AddressLine1Txt>
+            <CityNm>Stamford</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06902</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Women's Forum of New York</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>59 E 54th St 81</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>In Honor of Pam Craig</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1883900</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>27</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>478251</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>150690</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>3688098</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>UNITED STATES TREASURY IRS RE</Desc>
+          <ExclusionCd>41</ExclusionCd>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>4317066</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>4317066</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>PETER WEINBERG</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 15201</AddressLine1Txt>
+          <CityNm>Albany</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>12212</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>4172420</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>4,726 SHARES OF VICTORY CAPITAL HOLDING</NoncashPropertyDesc>
+        <FairMarketValueAmt>140409</FairMarketValueAmt>
+        <ReceivedDt>2023-03-27</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>6,450 SHARES OF APPLE, INC</NoncashPropertyDesc>
+        <FairMarketValueAmt>1069345</FairMarketValueAmt>
+        <ReceivedDt>2023-05-04</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>4,650 SHARES OF MICROSOFT</NoncashPropertyDesc>
+        <FairMarketValueAmt>1420157</FairMarketValueAmt>
+        <ReceivedDt>2023-05-04</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>1,580 SHARES OF NVIDIA</NoncashPropertyDesc>
+        <FairMarketValueAmt>435480</FairMarketValueAmt>
+        <ReceivedDt>2023-05-04</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>6,450 SHARES OF APPLE, INC</NoncashPropertyDesc>
+        <FairMarketValueAmt>1069345</FairMarketValueAmt>
+        <ReceivedDt>2023-05-05</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>1,188 SHARES OF VICTORY CAPITAL HOLDING</NoncashPropertyDesc>
+        <FairMarketValueAmt>37683</FairMarketValueAmt>
+        <ReceivedDt>2023-06-22</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>BDO USA, LLP</CategoryTxt>
+        <Amt>15000</Amt>
+        <NetInvestmentIncomeAmt>7500</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>7500</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="AllOthProgInvSch">
+      <AllOtherProgramRelatedInvstGrp>
+        <Desc>N/A</Desc>
+      </AllOtherProgramRelatedInvstGrp>
+    </AllOthProgRltdInvestmentsSch>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EXXON MOBIL CORPORATION CMN</StockNm>
+        <EOYBookValueAmt>67683</EOYBookValueAmt>
+        <EOYFMVAmt>729232</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GS FINANCIAL SQUARE FEDERAL IN</StockNm>
+        <EOYBookValueAmt>368926</EOYBookValueAmt>
+        <EOYFMVAmt>368926</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GS FINANCIAL SQUARE FEDERAL IN</StockNm>
+        <EOYBookValueAmt>37148</EOYBookValueAmt>
+        <EOYFMVAmt>37148</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES MSCI EAFE ETF</StockNm>
+        <EOYBookValueAmt>1025240</EOYBookValueAmt>
+        <EOYFMVAmt>1329111</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES RUSSELL 2000 ETF</StockNm>
+        <EOYBookValueAmt>1230979</EOYBookValueAmt>
+        <EOYFMVAmt>1509202</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES TRUST-ISHARES CURRENCY</StockNm>
+        <EOYBookValueAmt>992579</EOYBookValueAmt>
+        <EOYFMVAmt>1347224</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHNSON &amp; JOHNSON CMN</StockNm>
+        <EOYBookValueAmt>144262</EOYBookValueAmt>
+        <EOYFMVAmt>637452</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR S&amp;P 500 ETF TRUST</StockNm>
+        <EOYBookValueAmt>6117271</EOYBookValueAmt>
+        <EOYFMVAmt>10384966</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TARGET CORPORATION CMN</StockNm>
+        <EOYBookValueAmt>221766</EOYBookValueAmt>
+        <EOYFMVAmt>620939</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BLUE ORCHID SPV, LTD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>28013</BookValueAmt>
+        <EOYFMVAmt>13108</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CHANGE VENTURES CAP FD I LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FARALLON CAPITAL INSTL PTRS LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>2033455</BookValueAmt>
+        <EOYFMVAmt>1964903</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MIDDLE EAST VENTURE CAP FD, LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>57364</BookValueAmt>
+        <EOYFMVAmt>84003</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreasesDetail>
+        <Desc>BOOK/TAX DIFFERENCE</Desc>
+        <Amt>3510457</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2600</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>OTHER INCOME(LOSS) - K-1S</Desc>
+        <RevenueAndExpensesPerBooksAmt>123955</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>123955</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>IRS REFUND INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>26735</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES THRU</CategoryTxt>
+        <Amt>56749</Amt>
+        <NetInvestmentIncomeAmt>56749</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="SubsContributorsSch">
+      <SubstantialContributorDetail>
+        <PersonNm>PETER WEINBERG</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 15201</AddressLine1Txt>
+          <CityNm>Albany</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>12212</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID</CategoryTxt>
+        <Amt>1634</Amt>
+        <NetInvestmentIncomeAmt>1634</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>2021 FEDERAL BALANCE DUE</CategoryTxt>
+        <Amt>19401</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL ESTIMATE TAX PAYMENTS</CategoryTxt>
+        <Amt>26500</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

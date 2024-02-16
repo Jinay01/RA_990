@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-20T10:06:29-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>363155592</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>WAYNE W HAACK &amp; CO PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1010 Jorie Blvd Ste 120</AddressLine1Txt>
+        <CityNm>Oak Brook</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60523</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>364104629</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>RUNDGREN FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>RUND</BusinessNameControlTxt>
+      <PhoneNum>6309908855</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1010 JORIE BLVD 120</AddressLine1Txt>
+        <CityNm>OAK BROOK</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60523</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>WAYNE W HAACK</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <SignatureDt>2023-12-20</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>WAYNE W</PersonFirstNm>
+        <PersonLastNm>HAACK</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>PATRICIA A DOYLE</PreparerPersonNm>
+      <PTIN>P01250142</PTIN>
+      <PhoneNum>6309908855</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AmendedReturnInd>X</AmendedReturnInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2887995</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>20000</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>64779</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>64779</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>64779</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>79236</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>276268</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>79236</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>164015</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>144015</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>64779</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>20000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>2000</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>18000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">13495</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1350</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>1350</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>12145</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">5572</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>5572</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">28133</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>28133</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>67200</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>37055</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>1350</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>30145</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>124000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>124000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>191200</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>37055</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>1350</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>154145</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-27185</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>106960</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>63429</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>22420</CashBOYAmt>
+        <CashEOYAmt>3099</CashEOYAmt>
+        <CashEOYFMVAmt>3099</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>1469038</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">1464946</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2023488</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>993473</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">989701</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>861408</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>2484931</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2457746</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2887995</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>2484931</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>2457746</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2484931</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2457746</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2484931</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2457746</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2484931</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-27185</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2457746</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2457746</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SCHWAB-CAPITAL GAIN DISTRIBUTION</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-01-01</AcquiredDt>
+          <SoldDt>2022-06-30</SoldDt>
+          <GrossSalesPriceAmt>60563</GrossSalesPriceAmt>
+          <GainOrLossAmt>60563</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>60563</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SCHWAB #2242-4983</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-01-01</AcquiredDt>
+          <SoldDt>2022-06-30</SoldDt>
+          <GrossSalesPriceAmt>215705</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>197032</CostOrOtherBasisAmt>
+          <GainOrLossAmt>18673</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>18673</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>79236</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1487</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1487</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1487</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>3100</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>3100</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>1613</OverpaymentAmt>
+        <AppliedToESTaxAmt>1613</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>WAYNE W HAACK &amp; CO PC</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6309908855</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1010 JORIE BLVD SUITE 120</AddressLine1Txt>
+          <CityNm>OAK BROOK</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>605234448</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WAYNE W HAACK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1622 FOX HILL PLACE</AddressLine1Txt>
+            <CityNm>DARIEN</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>605615320</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>20000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHRISTOPHER M REISER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1352 EAST GARTNER ROAD</AddressLine1Txt>
+            <CityNm>NAPERVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60540</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3115344</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>11582</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>3126926</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>3126926</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>56067</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>3070859</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>153543</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>153543</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1487</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1487</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>152056</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>152056</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>152056</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>154145</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>154145</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>152056</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>5862</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>154145</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>5862</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>148283</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>3773</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN INDIAN COLLEGE FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8333 GREENWOOD BLVD</AddressLine1Txt>
+            <CityNm>DENVER</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80221</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST OTHER CHARITABLE ORGANIZATIONS IN THEIR PHILANTHROPIC EFFORTS</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHICAGO SCHOLARS FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>247 S STATE ST 700</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST OTHER CHARITABLE ORGANIZATIONS IN THEIR PHILANTHROPIC EFFORTS</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>READING IS FUNDAMENTAL INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1730 RHODE ISLAND AVE 1100</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST OTHER CHARITABLE ORGANIZATIONS IN THEIR PHILANTHROPIC EFFORTS</GrantOrContributionPurposeTxt>
+          <Amt>28000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>READING IN MOTION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>65 W WACKER PL STE 1800</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST OTHER CHARITABLE ORGANIZATIONS IN THEIR PHILANTHROPIC EFFORTS</GrantOrContributionPurposeTxt>
+          <Amt>14000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ONE MILLION DEGREES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>226 W JACKSON BLVD 528</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60606</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST OTHER CHARITABLE ORGANIZATIONS IN THEIR PHILANTHROPIC EFFORTS</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF ILLINOIS FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1305 W GREEN ST</AddressLine1Txt>
+            <CityNm>URBANA</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>61181</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST OTHER CHARITABLE ORGANIZATIONS IN THEIR PHILANTHROPIC EFFORTS</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LITTLE FRIENDS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>27555 DIEHL ROAD</AddressLine1Txt>
+            <CityNm>WARRENVILLE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60555</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ASSIST OTHER CHARITABLE ORGANIZATIONS IN THEIR PHILANTHROPIC EFFORTS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>124000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>64779</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>79236</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>144015</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>144015</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>RUNDGREN FAMILY TRUST</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>1010 JORIE BLVD STE 120</AddressLine1Txt>
+          <CityNm>OAK BROOK</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>605234448</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>20000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>13495</Amt>
+        <NetInvestmentIncomeAmt>1350</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1350</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>12145</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DFA AMERICAN FUND HIGH INCOME</BondNm>
+        <EOYBookValueAmt>107255</EOYBookValueAmt>
+        <EOYFMVAmt>86306</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DFA INVESTMENT GRADE</BondNm>
+        <EOYBookValueAmt>650593</EOYBookValueAmt>
+        <EOYFMVAmt>558137</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DFA SHORT DURATION REAL RETURN</BondNm>
+        <EOYBookValueAmt>44210</EOYBookValueAmt>
+        <EOYFMVAmt>44654</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DFA SHORT TERM EXTENDED QUALITY</BondNm>
+        <EOYBookValueAmt>187643</EOYBookValueAmt>
+        <EOYFMVAmt>172311</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA US LARGE CAP VALUE</StockNm>
+        <EOYBookValueAmt>320760</EOYBookValueAmt>
+        <EOYFMVAmt>505334</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA US LARGE CO</StockNm>
+        <EOYBookValueAmt>263153</EOYBookValueAmt>
+        <EOYFMVAmt>476008</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA US SMALL CAP VALUE</StockNm>
+        <EOYBookValueAmt>210624</EOYBookValueAmt>
+        <EOYFMVAmt>287715</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA US SMALL CO</StockNm>
+        <EOYBookValueAmt>113569</EOYBookValueAmt>
+        <EOYFMVAmt>169234</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA INTERNATIONAL VALUE</StockNm>
+        <EOYBookValueAmt>114905</EOYBookValueAmt>
+        <EOYFMVAmt>120932</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA INTERNATIONAL LARGE CAP</StockNm>
+        <EOYBookValueAmt>100583</EOYBookValueAmt>
+        <EOYFMVAmt>113900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA INTERNATIONAL SMALL CAP VALUE</StockNm>
+        <EOYBookValueAmt>58974</EOYBookValueAmt>
+        <EOYFMVAmt>63741</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA INTERNATIONAL SMALL CO</StockNm>
+        <EOYBookValueAmt>63823</EOYBookValueAmt>
+        <EOYFMVAmt>61012</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA REAL ESTATE</StockNm>
+        <EOYBookValueAmt>77598</EOYBookValueAmt>
+        <EOYFMVAmt>100161</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EMERGING MARKETS</StockNm>
+        <EOYBookValueAmt>65368</EOYBookValueAmt>
+        <EOYFMVAmt>50783</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DIMENSIONAL US EQUITIES ETF</StockNm>
+        <EOYBookValueAmt>27206</EOYBookValueAmt>
+        <EOYFMVAmt>28044</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DIMENSIONAL US SMALL CAP ETF</StockNm>
+        <EOYBookValueAmt>14017</EOYBookValueAmt>
+        <EOYFMVAmt>12124</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DIMENSIONAL US TARGETED VALUE</StockNm>
+        <EOYBookValueAmt>34366</EOYBookValueAmt>
+        <EOYFMVAmt>34500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVISOR FEES-BROKER</Desc>
+        <RevenueAndExpensesPerBooksAmt>28108</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>28108</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>25</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>TAXES-EXCISE AND FOREIGN</CategoryTxt>
+        <Amt>5572</Amt>
+        <NetInvestmentIncomeAmt>5572</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

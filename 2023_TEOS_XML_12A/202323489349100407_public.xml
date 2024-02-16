@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-14T11:57:12-06:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>135565207</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KPMG LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>401 UNION STREET SUITE 2800</AddressLine1Txt>
+        <CityNm>SEATTLE</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98101</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>981668188</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE SITKA FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SITK</BusinessNameControlTxt>
+      <PhoneNum>6048063188</PhoneNum>
+      <ForeignAddress>
+        <AddressLine1Txt>1550-625 HOWE ST</AddressLine1Txt>
+        <CityNm>VANCOUVER</CityNm>
+        <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+        <CountryCd>CA</CountryCd>
+        <ForeignPostalCd>V6C 2T6</ForeignPostalCd>
+      </ForeignAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DEANNA SIM</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <ForeignPhoneNum>6048063188</ForeignPhoneNum>
+      <SignatureDt>2023-11-10</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>DEANNA</PersonFirstNm>
+        <PersonLastNm>SIM</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KATHRYN J OKIMOTO</PreparerPersonNm>
+      <PTIN>P00746598</PTIN>
+      <PhoneNum>2069134000</PhoneNum>
+      <PreparationDt>2023-11-10</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>0</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="RetDoc1235000001" referenceDocumentId="RetDoc2258700001">
+      <ForeignOrganizationInd>X</ForeignOrganizationInd>
+      <ForeignOrgMeeting85PctTestInd>X</ForeignOrgMeeting85PctTestInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>187641538</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>6568531</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>1943380</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>2722</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>1585546</DividendsRevAndExpnssAmt>
+        <NetGainSaleAstRevAndExpnssAmt>7730280</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>7730280</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">1346915</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>1417</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>19174652</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>4139</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>239781</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>239781</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>281225</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>281225</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">17322</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>17322</LegalFeesDsbrsChrtblAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">430364</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>24836</OtherProfFeesDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>91955</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>91955</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">43105</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>104445</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>1103752</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>759564</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>3252056</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>3252056</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>4355808</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>4011620</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>14818844</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>4139</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>42923289</CashBOYAmt>
+        <CashEOYAmt>32219381</CashEOYAmt>
+        <CashEOYFMVAmt>32219381</CashEOYFMVAmt>
+        <AcctRcvblAmt>39817</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>13903</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>39817</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>39817</AcctRcvblEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>16812</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>22360</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>22360</PrepaidExpensesEOYFMVAmt>
+        <CorporateStockBOYAmt>44060141</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">45646883</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>40466318</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>96182631</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">117456196</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>114876925</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>14017</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>10219</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>4740</LandBOYAmt>
+        <LandEOYAmt>3798</LandEOYAmt>
+        <LandEOYFMVAmt>3798</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">8449</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">12939</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">12939</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>183209965</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>195401374</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>187641538</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>147577</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>91785</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>147577</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>91785</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>183062388</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>195309589</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>183062388</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>195309589</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>183209965</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>195401374</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>183062388</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>14818844</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>197881232</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">2571643</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>195309589</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>0</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>0</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>0</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>0</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>DEANNA SIM</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6048063188</PhoneNum>
+        <LocationOfBooksForeignAddress>
+          <AddressLine1Txt>1550-625 HOWE ST</AddressLine1Txt>
+          <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+          <CountryCd>CA</CountryCd>
+          <ForeignPostalCd>V6C 2T6</ForeignPostalCd>
+        </LocationOfBooksForeignAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>1</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>0</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROSS BEATY</PersonNm>
+          <ForeignAddress>
+            <AddressLine1Txt>1550-625 HOWE ST</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+            <ForeignPostalCd>V6C 2T6</ForeignPostalCd>
+          </ForeignAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PATRICIA BEATY</PersonNm>
+          <ForeignAddress>
+            <AddressLine1Txt>1550-625 HOWE ST</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+            <ForeignPostalCd>V6C 2T6</ForeignPostalCd>
+          </ForeignAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NANCY BARON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6935 SHEPARD MESA ROAD</AddressLine1Txt>
+            <CityNm>CARPINTERIA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93013</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SARAH OTTO</PersonNm>
+          <ForeignAddress>
+            <AddressLine1Txt>1812 MAPLE STREET</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+            <ForeignPostalCd>V6J 2B7</ForeignPostalCd>
+          </ForeignAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LAUREN STORER</PersonNm>
+          <ForeignAddress>
+            <AddressLine1Txt>1550-625 HOWE ST</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+            <ForeignPostalCd>V6C 2T6</ForeignPostalCd>
+          </ForeignAddress>
+          <TitleTxt>SECRETARY, DIR OF OPERATIONS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>120611</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DEANNA SIM</PersonNm>
+          <ForeignAddress>
+            <AddressLine1Txt>1550-625 HOWE ST</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+            <ForeignPostalCd>V6C 2T6</ForeignPostalCd>
+          </ForeignAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAROLYNN BEATY</PersonNm>
+          <ForeignAddress>
+            <AddressLine1Txt>1550-625 HOWE ST</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+            <ForeignPostalCd>V6C 2T6</ForeignPostalCd>
+          </ForeignAddress>
+          <TitleTxt>EXECUTIVE DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>119170</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>TRAVIS INLOW</PersonNm>
+          <ForeignAddress>
+            <AddressLine1Txt>1550-625 HOWE ST</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+          </ForeignAddress>
+          <TitleTxt>DIRECTOR OF INVESTME</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>166928</CompensationAmt>
+          <EmployeeBenefitsAmt>0</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>ROSS JAMESON</PersonNm>
+          <ForeignAddress>
+            <AddressLine1Txt>1550-625 HOWE ST</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+          </ForeignAddress>
+          <TitleTxt>GRANTS MANAGER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>65826</CompensationAmt>
+          <EmployeeBenefitsAmt>0</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>4011620</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>4011620</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <SupplementaryInformationGrp>
+        <TotalGrantOrContriPdDurYrAmt>0</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1943380</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1585546</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>1346915</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>7730280</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>12606121</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>12606121</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>ROSS BEATY</ContributorPersonNm>
+        <ContributorForeignAddress>
+          <AddressLine1Txt>1550-625 HOWE STREET</AddressLine1Txt>
+          <CityNm>VANCOUVER</CityNm>
+          <ProvinceOrStateNm>BC</ProvinceOrStateNm>
+          <CountryCd>CA</CountryCd>
+        </ContributorForeignAddress>
+        <TotalContributionsAmt>6568531</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>273 COMMON SHARES OF FIRST QUANTUM MINERALS LTD.</NoncashPropertyDesc>
+        <FairMarketValueAmt>6568531</FairMarketValueAmt>
+        <ReceivedDt>2022-01-31</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <GeneralExplanationAttachment documentId="RetDoc2258700001">
+      <GeneralExplanationGrp>
+        <IdentifierTxt>85% TEST FOR FOREIGN ORGANIZATIONS</IdentifierTxt>
+        <FormAndLineReferenceDesc>FORM 990-PF, BOX D2</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>TAX SUPPORT RECEIVED FROM SUPPORT RECEIVED FROM TOTAL SUPPORTYEAR SOURCES OUTSIDE THE US SOURCES WITHIN THE US RECEIVED 2008 36,509,378 0 36,509,378 2009 0 0 0 2010 0 0 0 2011 0 0 0 2012 13,900,206 0 13,900,206 2013 2,303,450 0 2,303,450 2014 33,646,467 0 33,646,467 2015 2,351,245 0 2,351,245 2016 14,093,335 0 14,093,335 2017 0 0 0 2018 9,766,513 0 9,766,513 2019 15,803,122 0 15,803,122 2020 19,516,175 0 19,516,175 2021 27,297,701 0 27,297,701 2022 6,568,531 0 6,568,531---------------------------------------------------------------------- 181,756,123 0 181,756,123 100% 0%</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+      <GeneralExplanationGrp>
+        <IdentifierTxt>EXCISE TAX ON NET INVESTMENT INCOME</IdentifierTxt>
+        <FormAndLineReferenceDesc>PART V, LINE 1A</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>UNDER ARTICLE II THE US-CANADA TREATY:(B) THE UNITED STATES EXCISE TAXES IMPOSED WITH RESPECT TO PRIVATE FOUNDATIONS, TO THE EXTENT; AND ONLY TO THE EXTENT, NECESSARY TO IMPLEMENT THE PROVISIONS OF PARAGRAPH 4 OF ARTICLE XXI (EXEMPT ORGANIZATIONS)</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+      <GeneralExplanationGrp>
+        <IdentifierTxt>IRC SECTION 508(E)</IdentifierTxt>
+        <FormAndLineReferenceDesc>PART VI-A, LINE 6</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>AS A FOREIGN ORGANIZATION THAT MEETS THE IRC SECTION 4948(B) RULES, IRC SECTIONS 507 AND 508 AND CHAPTER 42 (OTHER THAN SECTION 4948) DON'T APPLY.</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CARBON STREAMING CORP. (1,392,000 SHARES; 2021 - 1,400,000)</StockNm>
+        <EOYBookValueAmt>5646159</EOYBookValueAmt>
+        <EOYFMVAmt>2579561</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GRAPHENE MANUFACTURING GROUP LTD. (1,133,000 SHARES)</StockNm>
+        <EOYBookValueAmt>661947</EOYBookValueAmt>
+        <EOYFMVAmt>1982491</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INNERGEX RENEWABLE ENERGY INC. (2,349,327 SHARES)</StockNm>
+        <EOYBookValueAmt>33594818</EOYBookValueAmt>
+        <EOYFMVAmt>28099031</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NANO ONE MATERIALS CORP. (300,000 SHARES)</StockNm>
+        <EOYBookValueAmt>243570</EOYBookValueAmt>
+        <EOYFMVAmt>540436</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AQUACYCL, LLC (167,462 SHARES)</StockNm>
+        <EOYBookValueAmt>7531</EOYBookValueAmt>
+        <EOYFMVAmt>385847</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ENCYCLE CORP. (52,427 SHARES)</StockNm>
+        <EOYBookValueAmt>816090</EOYBookValueAmt>
+        <EOYFMVAmt>738295</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EVANESCE PACKAGING SOLUTIONS INC. (685,000 SHARES; 2021 - 560,000)</StockNm>
+        <EOYBookValueAmt>1348982</EOYBookValueAmt>
+        <EOYFMVAmt>1972368</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EVANESCE PACKAGING SOLUTIONS INC. - CONVERTIBLE DEBENTURE</StockNm>
+        <EOYBookValueAmt>700000</EOYBookValueAmt>
+        <EOYFMVAmt>703585</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KING ENERGY SERVICES INC (208,916 SHARES)</StockNm>
+        <EOYBookValueAmt>499999</EOYBookValueAmt>
+        <EOYFMVAmt>490414</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LOTUS GOLD CORP. (1,000,000 SHARES)</StockNm>
+        <EOYBookValueAmt>778</EOYBookValueAmt>
+        <EOYFMVAmt>369150</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN SOLAR INC. (1,059,378 SHARES)</StockNm>
+        <EOYBookValueAmt>430107</EOYBookValueAmt>
+        <EOYFMVAmt>1026088</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RONIN8 TECHNOLOGIES LTD. (23,809 SHARES)</StockNm>
+        <EOYBookValueAmt>391381</EOYBookValueAmt>
+        <EOYFMVAmt>404298</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SOLAR EARTH TECHNOLOGIES LTD. (344,722 SHARES; 2021 - 304,995)</StockNm>
+        <EOYBookValueAmt>264954</EOYBookValueAmt>
+        <EOYFMVAmt>203607</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SUSTAIN.LIFE, INC. (83,982 SHARES)</StockNm>
+        <EOYBookValueAmt>249998</EOYBookValueAmt>
+        <EOYFMVAmt>232876</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRU EARTH ENVIRONMENTAL PRODUCTS INC (3,030 SHARES)</StockNm>
+        <EOYBookValueAmt>790569</EOYBookValueAmt>
+        <EOYFMVAmt>738271</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ACM COMMERCIAL MORTGAGE FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>3091516</BookValueAmt>
+        <EOYFMVAmt>2843841</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ANTRIM BALANCED MORTGAGE FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>8484463</BookValueAmt>
+        <EOYFMVAmt>7861699</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CAMBRIDGE MORTGAGE INVESTMENT CORP.</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>6073957</BookValueAmt>
+        <EOYFMVAmt>5634074</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CONNOR CLARK &amp; LUNN</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>64553825</BookValueAmt>
+        <EOYFMVAmt>66522829</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>JARISLOWSKY FRASER</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>5032405</BookValueAmt>
+        <EOYFMVAmt>5042538</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MAXAM DIVERSIFIED STRATEGIES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1478730</BookValueAmt>
+        <EOYFMVAmt>1630443</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>NORTHLEAF CAPITAL PARTNERS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>5498655</BookValueAmt>
+        <EOYFMVAmt>4989335</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PENDERFUND CAPITAL MANAGEMENT INC.</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>18730874</BookValueAmt>
+        <EOYFMVAmt>15596609</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ACTIVE IMPACT INVESTMENTS I LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>267495</BookValueAmt>
+        <EOYFMVAmt>520987</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ACTIVE IMPACT INVESTMENTS II LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>517059</BookValueAmt>
+        <EOYFMVAmt>532159</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BROOKFIELD GLOBAL TRANSITION FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1469060</BookValueAmt>
+        <EOYFMVAmt>1502551</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>RENEWAL3 TRUST</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>305435</BookValueAmt>
+        <EOYFMVAmt>249101</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VOLO EARTH IMPACT FUND I LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1952722</BookValueAmt>
+        <EOYFMVAmt>1950759</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>PROFESSIONAL &amp; LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>17322</LegalFeesAmt>
+        <DisbursementsCharitablePrpsAmt>17322</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>GST REBATE RECEIVABLE</Desc>
+        <BOYBookValueAmt>8449</BOYBookValueAmt>
+        <EOYBookValueAmt>12939</EOYBookValueAmt>
+        <EOYFMVAmt>12939</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSSES/FOREIGN CURRENCY CONVERSION</Desc>
+        <Amt>2571643</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE &amp; MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>16739</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>16739</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EVENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1614</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1614</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SOFTWARE LICENSES &amp; SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>21507</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>21507</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ACCRUAL TO CASH ADJUSMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>61340</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>AMORTIZATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>3245</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3245</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>FOREIGN INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>1346915</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1417</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT FEES</CategoryTxt>
+        <Amt>405528</Amt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONSULTING FEES</CategoryTxt>
+        <Amt>24836</Amt>
+        <DisbursementsCharitablePrpsAmt>24836</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

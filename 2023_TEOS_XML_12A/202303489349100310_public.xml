@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-14T10:42:45-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>830845170</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>STANLEY EARNHARDT CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>121 E 6th Ave</AddressLine1Txt>
+        <CityNm>Bristow</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>74010</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>730721557</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MONTFORT JONES AND ALLIE BROWN JONES</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MONT</BusinessNameControlTxt>
+      <PhoneNum>9183675979</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 1234</AddressLine1Txt>
+        <CityNm>BRISTOW</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>74010</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>STAN EARNHARDT</PersonNm>
+      <PersonTitleTxt>Treasurer</PersonTitleTxt>
+      <SignatureDt>2023-12-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>STAN</PersonFirstNm>
+        <PersonLastNm>EARNHARDT</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>STAN EARNHARDT</PreparerPersonNm>
+      <PTIN>P00092061</PTIN>
+      <PhoneNum>9183675979</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>5391601</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>144410</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>144410</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>144410</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>88979</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>88979</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>88979</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>233389</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>233389</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>144410</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>40050</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>10013</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>30037</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">37331</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>9333</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>27998</LegalFeesDsbrsChrtblAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">33958</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>8490</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>25468</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">6191</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1548</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>4643</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">236</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>59</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>177</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>117766</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>29443</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>88323</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>136350</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>136350</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>254116</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>29443</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>224673</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-20727</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>203946</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>144410</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>68357</CashBOYAmt>
+        <CashEOYAmt>2862</CashEOYAmt>
+        <CashEOYFMVAmt>2862</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>56567</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>87955</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>87955</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>2448300</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>2463040</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>5192381</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>134282</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt>134282</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>108403</CorporateBondsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">2280536</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">2703462</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>4988042</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>5391601</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>5391601</TotalAssetsEOYFMVAmt>
+        <AccountsPayableEOYAmt>1360</AccountsPayableEOYAmt>
+        <TotalLiabilitiesEOYAmt>1360</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>4988042</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>5390241</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>4988042</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>5390241</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>4988042</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>5391601</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>4988042</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-20727</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">422926</OtherIncreasesAmt>
+        <SubtotalAmt>5390241</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>5390241</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PER CORIENT SCHEDULE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-01-01</AcquiredDt>
+          <SoldDt>2022-08-31</SoldDt>
+          <GrossSalesPriceAmt>88979</GrossSalesPriceAmt>
+          <GainOrLossAmt>88979</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>88979</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>88979</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2835</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2835</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2835</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>148</EsPenaltyAmt>
+        <TaxDueAmt>2983</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OK</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>NONE</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>STAN EARNHARDT</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9183675979</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>121 E 6TH AVE</AddressLine1Txt>
+          <CityNm>BRISTOW</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>74010</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>COLBY WISSEL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>600 WEST 6TH</AddressLine1Txt>
+            <CityNm>BRISTOW</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74010</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2400</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY COLLINS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 660</AddressLine1Txt>
+            <CityNm>BRISTOW</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74010</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2400</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEPHANIE COLLINS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5685 CENTRAL AVE</AddressLine1Txt>
+            <CityNm>INDIANAPOLIS</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46220</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>6900</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STAN EARNHARDT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 E 5TH</AddressLine1Txt>
+            <CityNm>BRISTOW</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74010</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>12150</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROGER COLLINS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 660</AddressLine1Txt>
+            <CityNm>BRISTOW</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74010</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>16200</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>5081951</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>107870</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>5189821</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>5189821</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>77847</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>5111974</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>255599</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>255599</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2835</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2835</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>252764</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>252764</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>252764</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>224673</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>224673</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>252764</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>87945</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>224673</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>87945</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>136728</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>116036</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JONES FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>121 E 6TH</AddressLine1Txt>
+            <CityNm>BRISTOW</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9183675979</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>JONES FOUNDATION APPLICATION</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>JULY 31</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>ORGANIZATIONS THAT SERVE AND/OR BENEFIT THE CITIZENS OF BRISTOW,OKLAHOMA AND THE SURROUNDING AREA.THIS FOUNDATION ALSO MAKES DONATIONS TO THE UNIVERSITY OF MISSISSIPPI AND THE SOUTHERN METHODIST UNIVERSITY PERKINS SCHOOL OF THEOLOGY. THE UNIVERSITIES HAVE COMPLETE DISCRETION OVER THE ADMINISTRATION OF THESE FUNDS AND THE RELATED AWARDS.SCHOLARSHIP APPLICANTS MUST APPLY THROUGH THE UNIVERSITIES. THIS FOUNDATION DOES NOT AWARD SCHOLARSHIPS.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF MISS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 STREET</AddressLine1Txt>
+            <CityNm>OXFORD</CityNm>
+            <StateAbbreviationCd>MS</StateAbbreviationCd>
+            <ZIPCd>38655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE SCHOLARSHIPS(APPLY THRU SCHOOL)</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOUTHERN METHODIST UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 STREET</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75275</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE SCHOLARSHIPS(APPLY THRU SCHOOL)</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BRISTOW HISTORICAL SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>DEPOT</AddressLine1Txt>
+            <CityNm>BRISTOW</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RELOCATE CHRYSLER TOWER</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BRISTOW POLICE DEPARTMENT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>WEST 7TH</AddressLine1Txt>
+            <CityNm>BRISTOW</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FLOCK CAMERAS</GrantOrContributionPurposeTxt>
+          <Amt>16350</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>136350</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>144410</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>88979</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>233389</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>233389</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <LegalFeesGrp>
+        <LegalFeesAmt>37331</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>9333</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>27998</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>UNREALIZED GAIN ON SECURITIES</Desc>
+        <BOYBookValueAmt>2280536</BOYBookValueAmt>
+        <EOYBookValueAmt>2703462</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC</Desc>
+        <RevenueAndExpensesPerBooksAmt>236</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>59</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>177</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncreasesDetail>
+        <Desc>INCREASE IN UNREALIZED GAINS</Desc>
+        <Amt>422926</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISOR</CategoryTxt>
+        <Amt>33958</Amt>
+        <NetInvestmentIncomeAmt>8490</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>25468</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE</CategoryTxt>
+        <Amt>4335</Amt>
+        <NetInvestmentIncomeAmt>1084</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3251</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL</CategoryTxt>
+        <Amt>1856</Amt>
+        <NetInvestmentIncomeAmt>464</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1392</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

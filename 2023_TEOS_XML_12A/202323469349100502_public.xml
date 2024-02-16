@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-12T06:46:41-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>061052184</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SPIVEY LEMONIK SWENOR PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 1349</AddressLine1Txt>
+        <CityNm>MANCHESTER CENTER</CityNm>
+        <StateAbbreviationCd>VT</StateAbbreviationCd>
+        <ZIPCd>05255</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>262698626</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE ROWLAND FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ROWL</BusinessNameControlTxt>
+      <PhoneNum>8022307879</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>47 MAPLE STREET 200</AddressLine1Txt>
+        <CityNm>BURLINGTON</CityNm>
+        <StateAbbreviationCd>VT</StateAbbreviationCd>
+        <ZIPCd>05401</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>HEIDI LYNN</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2023-12-11</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>HEIDI</PersonFirstNm>
+        <PersonLastNm>LYNN</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Lee M Spivey Jr</PreparerPersonNm>
+      <PTIN>P00105442</PTIN>
+      <PhoneNum>8023621946</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="12">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>31803380</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>729775</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>729775</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-207654</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>10697997</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">48402</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>570523</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>729775</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>153000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>153000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>75599</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>75599</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>11000</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>11000</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">783</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>783</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">11000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>6600</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>4400</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">77132</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>77132</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">35855</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>8749</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>27106</TaxesDsbrsChrtblAmt>
+        <OccupancyRevAndExpnssAmt>21202</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>21202</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>4360</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>4360</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">75577</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>75577</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>465508</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>92481</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>373027</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>577356</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>577356</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1042864</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>92481</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>950383</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-472341</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>637294</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>108869</CashBOYAmt>
+        <CashEOYAmt>50384</CashEOYAmt>
+        <CashEOYFMVAmt>50384</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>2566565</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>173495</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>173495</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvestmentsGovtObligationsSche">1190484</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>1190484</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>19758664</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">24142588</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>24142588</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>557387</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">382822</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>382822</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>5744449</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">5863787</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>5863607</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>28735934</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>31803560</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>31803380</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">1730</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">1826</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>1730</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>1826</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>28734204</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>31801734</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>28734204</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>31801734</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>28735934</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>31803560</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>28734204</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-472341</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">3539871</OtherIncreasesAmt>
+        <SubtotalAmt>31801734</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>31801734</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-06-30</AcquiredDt>
+          <SoldDt>2023-06-30</SoldDt>
+          <GrossSalesPriceAmt>10697997</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10905651</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-207654</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-207654</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-207654</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>8858</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>8858</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>8858</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>42592</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>42592</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>33734</OverpaymentAmt>
+        <AppliedToESTaxAmt>33734</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>VT</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.THEROWLANDFOUNDATION.ORG</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE ORGANIZATION</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8022307879</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>47 MAPLE STREET SUITE 200</AddressLine1Txt>
+          <CityNm>BURLINGTON</CityNm>
+          <StateAbbreviationCd>VT</StateAbbreviationCd>
+          <ZIPCd>05401</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>true</UndistributedIncomePYInd>
+        <UndistributedIncomePY1Yr>2021</UndistributedIncomePY1Yr>
+        <UndistrIncmSect4942a2NotAppInd>true</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>true</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAITLIN STEELE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>68 MOUNTAIN STREET</AddressLine1Txt>
+            <CityNm>BRISTOL</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05443</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ERICA WALLSTROM</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>135 MERE POINT ROAD</AddressLine1Txt>
+            <CityNm>BRUNSWICK</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04011</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CARTER RAWSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 504</AddressLine1Txt>
+            <CityNm>DORSET</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05251</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>HEIDI LYNN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 337</AddressLine1Txt>
+            <CityNm>DORSET</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05251</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES C MOONEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 405</AddressLine1Txt>
+            <CityNm>KEENE VALLEY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12943</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DANIEL B ROWLAND</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>121 N MARTIN L KING BLVD - 404</AddressLine1Txt>
+            <CityNm>LEXINGTON</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>40507</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN A SHEPARD JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>879 WESTHOLM ROAD</AddressLine1Txt>
+            <CityNm>NISKAYUNA</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12307</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHARLES SCRANTON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>BOX 405</AddressLine1Txt>
+            <CityNm>MANCHESTER</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05254</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL MARTIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>24 HIGH GROVE COURT</AddressLine1Txt>
+            <CityNm>BURLINGTON</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05401</ZIPCd>
+          </USAddress>
+          <TitleTxt>Executive Dir.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>153000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>29414811</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>355907</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>29770718</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>29770718</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>446561</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>29324157</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1466208</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1466208</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>8858</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>8858</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1457350</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1457350</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1457350</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>950383</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>950383</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1457350</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>1263642</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>950383</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>950383</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <Taxable2Amt>313259</Taxable2Amt>
+        <UndistributedIncomeCYAmt>1457350</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MICHAEL MARTIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>47 MAPLE STREET</AddressLine1Txt>
+            <CityNm>BURLINGTON</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8022307879</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>APPLICATION FORM AND REQUIREMENTS ARE ON WWW.THEROWLANDFOUNDATION.ORG</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>9/1 APPLIC PERIOD OPENS, 12/31 APPLIC PERIOD CLOSES</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>VERMONT SECONDARY SCHOOL EDUCATORS ONLY</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MONTPELIER HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5 HIGH SCHOOL DRIVE</AddressLine1Txt>
+            <CityNm>MONTPELIER</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ESSEX HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2 EDUCATIONAL DR</AddressLine1Txt>
+            <CityNm>ESSEX JUNCTION</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05452</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GREEN MOUNTAIN UNION HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>719 VT RTE 103</AddressLine1Txt>
+            <CityNm>CHESTER</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05143</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VERGENNES UNION HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 MONKTON RD</AddressLine1Txt>
+            <CityNm>VERGENNES</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05491</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MIDDLEBURY UNION HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>73 CHARLES AVENUE</AddressLine1Txt>
+            <CityNm>MIDDLEBURY</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05753</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>STOWE HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>413 BARROWS ROAD</AddressLine1Txt>
+            <CityNm>STOWE</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05672</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NORTHFIELD UNION HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>37 CROSS ST UNIT 1</AddressLine1Txt>
+            <CityNm>NORTHFIELD</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05663</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NORTH COUNTRY UNION HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>209 VETERANS AVENUE</AddressLine1Txt>
+            <CityNm>NEWPORT</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05855</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWHSIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OTTER VALLEY UNION HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2997 FRANKLIN STREET</AddressLine1Txt>
+            <CityNm>BRANDON</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05733</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EDMUNDS MIDDLE SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>275 MAIN STREET</AddressLine1Txt>
+            <CityNm>BURLINGTON</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TWINFIELD SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>106 NASMITH BROOK ROAD</AddressLine1Txt>
+            <CityNm>PLAINFIELD</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05667</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ROWLAND FELLOWSHIP</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DR ANDREW JONES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1544 LINCOLD GAP ROAD</AddressLine1Txt>
+            <CityNm>LINCOLN</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05443</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ENCORE GRANT</GrantOrContributionPurposeTxt>
+          <Amt>13000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BONNIE JOHNSON-ATEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>557 NORTH STREET</AddressLine1Txt>
+            <CityNm>MONTPELIER</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DIVERSITY IN EDUCATION WORKFORCE MENTOR</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ESTHER CHARLESTIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>23 FAIRVIEW CIRCLE</AddressLine1Txt>
+            <CityNm>MIDDLEBURY</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05753</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DIVERSITY IN EDUCATION GRANT</GrantOrContributionPurposeTxt>
+          <Amt>5627</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAFIA HAJI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>220 RIVERSIDE AVE - APT G-12</AddressLine1Txt>
+            <CityNm>BURLINGTON</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DIVERSITY IN EDUCATION GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1229</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>577356</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>729775</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-207654</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>CONFERENCE INCOME</Desc>
+          <RelatedOrExemptFunctionIncmAmt>48402</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>522121</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>48402</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>570523</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>11a</LineNumberTxt>
+          <RelationshipStatementTxt>Every fall The Rowland Foundation offers a one-day conference hosted by the University of Vermont. While the conference is open to all educators, the Foundation specifically encourages eight-member teams from Vermont high schools. Team members typically include the principal or head of school, two or three teachers, an additional administrator or two, two students (strongly advised) and a school board member or superintendent.A keynote address will be delivered by a nationally or internationally known educator, followed by morning and afternoon session workshops facilitated by our Rowland Fellows.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>4000</Amt>
+        <NetInvestmentIncomeAmt>2400</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1600</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>BOOKKEEPING</CategoryTxt>
+        <Amt>7000</Amt>
+        <NetInvestmentIncomeAmt>4200</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2800</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>STATE STREET A/C 7820 CORP BONDS</BondNm>
+        <EOYBookValueAmt>382822</EOYBookValueAmt>
+        <EOYFMVAmt>382822</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STATE STREET A/C 7820 STOCK</StockNm>
+        <EOYBookValueAmt>22773836</EOYBookValueAmt>
+        <EOYFMVAmt>22773836</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHARLES SCHWAB 4907 STOCK</StockNm>
+        <EOYBookValueAmt>1368752</EOYBookValueAmt>
+        <EOYFMVAmt>1368752</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <USGovtObligationsBookVlEOYAmt>1190484</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>1190484</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>STATE STREET A/C 7820 OTHER INVESTMENTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>5738138</BookValueAmt>
+        <EOYFMVAmt>5738138</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CHARLES SCHWAB 4907 OTHER INV</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>125649</BookValueAmt>
+        <EOYFMVAmt>125469</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <LegalFeesGrp>
+        <LegalFeesAmt>783</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>783</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>101</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>101</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CONFERENCE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>54509</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>54509</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4197</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4197</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>20</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>20</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>7182</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>7182</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL SERVICE FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>765</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>765</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROFESSIONAL DEVELOPMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>1171</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1171</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TECHNOLOGY/WEBSITE</Desc>
+        <RevenueAndExpensesPerBooksAmt>7632</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>7632</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncomeDetail>
+        <Desc>CONFERENCE INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>48402</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherLiabilitiesDetail>
+        <Desc>PAYROLL WITHHOLDING - EMPLOYEE SHARE</Desc>
+        <BOYBookValueAmt>1730</BOYBookValueAmt>
+        <EOYBookValueAmt>1826</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherProfessionalFeesDetail>
+        <Amt>77132</Amt>
+        <NetInvestmentIncomeAmt>77132</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES WITHHELD</CategoryTxt>
+        <Amt>8749</Amt>
+        <NetInvestmentIncomeAmt>8749</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>NET INVESTMENT INCOME TAX</CategoryTxt>
+        <Amt>10000</Amt>
+        <DisbursementsCharitablePrpsAmt>10000</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAXES</CategoryTxt>
+        <Amt>17106</Amt>
+        <DisbursementsCharitablePrpsAmt>17106</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

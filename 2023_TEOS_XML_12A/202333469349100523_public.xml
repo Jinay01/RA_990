@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-12T14:19:03-08:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>352161169</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>WILLIS &amp; COMPANY PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>705 E MAIN ST</AddressLine1Txt>
+        <CityNm>PETERSBURG</CityNm>
+        <StateAbbreviationCd>IN</StateAbbreviationCd>
+        <ZIPCd>47567</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>351835106</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>OTWELL RURITAN SENIOR HOUSING INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>OTWE</BusinessNameControlTxt>
+      <PhoneNum>8123549117</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 153</AddressLine1Txt>
+        <CityNm>OTWELL</CityNm>
+        <StateAbbreviationCd>IN</StateAbbreviationCd>
+        <ZIPCd>47564</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOSEPH DICKSON</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>8123549117</PhoneNum>
+      <SignatureDt>2023-12-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>JOSEPH</PersonFirstNm>
+        <PersonLastNm>DICKSON</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>GREG K WILLIS</PreparerPersonNm>
+      <PTIN>P00315724</PTIN>
+      <PhoneNum>8123546274</PhoneNum>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990PF documentId="IRS990PF-01">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>726011</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>200</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>200</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>200</InterestOnSavingsAdjNetIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <GrossProfitRevAndExpnssAmt>0</GrossProfitRevAndExpnssAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2-01" referenceDocumentName="OtherIncomeSchedule2">211708</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>211708</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>211908</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>200</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>211908</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>23678</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>23678</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>23678</CompOfcrDirTrstDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>225</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftAdjNetIncmAmt>225</PensionEmplBnftAdjNetIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>225</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt>0</LegalFeesRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt>2430</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesAdjNetIncmAmt>2430</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2430</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt>0</OtherProfFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt>0</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>51854</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>51854</DeprecAndDpltnAdjNetIncmAmt>
+        <OccupancyRevAndExpnssAmt>48489</OccupancyRevAndExpnssAmt>
+        <OccupancyAdjNetIncmAmt>48489</OccupancyAdjNetIncmAmt>
+        <OccupancyDsbrsChrtblAmt>48489</OccupancyDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule-01" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">108898</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesAdjNetIncmAmt>108898</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>108898</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>235574</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>235574</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>183720</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>235574</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>235574</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>183720</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-23666</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>200</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>44800</CashBOYAmt>
+        <CashEOYAmt>39595</CashEOYAmt>
+        <CashEOYFMVAmt>39595</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>115954</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>118305</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>118305</SavAndTempCashInvstEOYFMVAmt>
+        <RcvblFromOfficersEOYAmt>0</RcvblFromOfficersEOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>0</OtherNtsAndLoansRcvblEOYAmt>
+        <LandBldgInvestmentsEOYAmt>0</LandBldgInvestmentsEOYAmt>
+        <OtherInvestmentsEOYAmt>0</OtherInvestmentsEOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>1746007</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>1177896</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>605554</LandBOYAmt>
+        <LandEOYAmt>568111</LandEOYAmt>
+        <LandEOYFMVAmt>568111</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt>0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt>0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt>0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>766308</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>726011</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>726011</TotalAssetsEOYFMVAmt>
+        <LoansFromOfficersEOYAmt>0</LoansFromOfficersEOYAmt>
+        <MortgagesAndNotesPayableBOYAmt>1201298</MortgagesAndNotesPayableBOYAmt>
+        <MortgagesAndNotesPayableEOYAmt referenceDocumentId="MortgagesAndNotesPayableSch-01" referenceDocumentName="MortgagesAndNotesPayableSchedule">1183602</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt>14381</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt>15446</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>1215679</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>1199048</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>-449371</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>-473037</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>-449371</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>-473037</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>766308</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>726011</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>-449371</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-23666</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>-473037</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>-473037</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>3</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>3</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3</TaxBasedOnInvestmentIncomeAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnTaxPaidAmt>0</OriginalReturnTaxPaidAmt>
+        <TaxDueAmt>3</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>LINDA MCCRAY</IndividualWithBooksNm>
+        <PhoneNum>8123549117</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 153</AddressLine1Txt>
+          <CityNm>OTWELL</CityNm>
+          <StateAbbreviationCd>IN</StateAbbreviationCd>
+          <ZIPCd>475640153</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GARY PRIDERESIGNED MARCH 2022</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2559 N SPRING STREET</AddressLine1Txt>
+            <CityNm>OTWELL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47564</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JERRY TRAYLOR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5453 N COUNTY ROAD 850 E</AddressLine1Txt>
+            <CityNm>OTWELL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47564</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE-PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOSEPH DICKSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6363 E STATE ROAD 56</AddressLine1Txt>
+            <CityNm>WINSLOW</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47598</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>HORACE DILLONRESIGNED MARCH 2022</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>8400 E STATE ROAD 356</AddressLine1Txt>
+            <CityNm>OTWELL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47564</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KEVIN SCHNARRRESIGNED MARCH 2022</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3366 N STATE ROAD 257</AddressLine1Txt>
+            <CityNm>OTWELL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47564</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAT DILLON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3638 N COUNTY ROAD 900 W</AddressLine1Txt>
+            <CityNm>OTWELL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47564</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KEITH BREIDENBAUGHRESIGNED MARCH 20</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5573 N COUNTY ROAD 975 E</AddressLine1Txt>
+            <CityNm>OTWELL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47564</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CONNIE REED</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5332 N COUNTY ROAD 850 E</AddressLine1Txt>
+            <CityNm>OTWELL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47564</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NANCY PRIDERETIRED JANUARY 2022</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2559 N SPRING STREET</AddressLine1Txt>
+            <CityNm>OTWELL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47564</ZIPCd>
+          </USAddress>
+          <TitleTxt>MANAGER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>28.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2016</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LINDA MCCRAY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9814 E CLEVELAND STREET</AddressLine1Txt>
+            <CityNm>PETERSBURG</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47567</ZIPCd>
+          </USAddress>
+          <TitleTxt>MANAGER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>28.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7056</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARLA RENNISONRESIGNED SEPTEMBER 20</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>402 N VAN BUREN STREET</AddressLine1Txt>
+            <CityNm>HUNTINGBURG</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47542</ZIPCd>
+          </USAddress>
+          <TitleTxt>MANAGER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>28.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>14606</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TOM LEEHEEFFECTIVE APRIL 2022</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2230 N SPRING STREET</AddressLine1Txt>
+            <CityNm>OTWELL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47564</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOSH BYRDEFFECTIVE APRIL 2022</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>449 N STATE ROAD 61</AddressLine1Txt>
+            <CityNm>WINSLOW</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47598</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2726</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GARY COOKEFFECTIVE APRIL 2022</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9855 E MCKINLEY STREET</AddressLine1Txt>
+            <CityNm>OTWELL</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47564</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4282</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>PROVIDE ADEQUATE AND APPROPRIATE HOUSING TO LOW INCOME ELDERLY RESIDENTS OF OTWELL, INDIANA COMMUNITY THROUGH A U.S.D.A. RURAL DEVELOPMENT HOUSING PROGRAM</Description1Txt>
+        <Expenses1Amt>183720</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>NONE</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>159327</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>159327</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>159327</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>2390</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>156937</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>7847</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>7847</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>3</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>7844</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>7844</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>7844</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>183720</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>14412</CharitableAssetsAcquisPaidAmt>
+        <QualifyingDistributionsAmt>198132</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>7844</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>199557</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>178188</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>193337</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>192378</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>187939</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>951399</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>198132</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>7844</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>190288</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1141687</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>199557</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>942130</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>178188</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>193337</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>192378</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>187939</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>190288</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevenueDtl>
+          <Desc>APARTMENT RENT FROM TENANTS</Desc>
+          <RelatedOrExemptFunctionIncmAmt>82593</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <Desc>RENT SUBSIDY FROM FmHA</Desc>
+          <RelatedOrExemptFunctionIncmAmt>56449</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <Desc>FmHA LOAN PAYMENT SUBSIDY</Desc>
+          <RelatedOrExemptFunctionIncmAmt>68115</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <Desc>OTHER INCOME</Desc>
+          <RelatedOrExemptFunctionIncmAmt>4551</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>200</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>211908</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>211908</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>RENT RECEIVED FROM TENANTS AND SUBSIDIES RECEIVED FROM FmHA</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>TOWARDS LOAN INTEREST AND RENTS ARE USED FOR MAKING LOAN</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>PAYMENTS AND PAYING OPERATING EXPENSES OF APARTMENTS IN</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>PROVIDING ADEQUATE AND APPROPRIATE HOUSING TO LOW INCOME ELDERLY</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>RESIDENTS OF THE OTWELL, INDIANA COMMUNITY.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>INTEREST IS EARNED ON RESERVE BALANCES REQUIRED BY RURAL</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>DEVELOPMENT HOUSING PROGRAM AND IS USED FOR MAINTAINING AND</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>UPDATING APARTMENTS AS NEEDED.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <MortgagesAndNotesPayableSch documentId="MortgagesAndNotesPayableSch-01">
+      <MortgageAmt>1183602</MortgageAmt>
+    </MortgagesAndNotesPayableSch>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule-01">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>90</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>90</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>90</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>3096</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>3096</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3096</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FmHA LOAN INTEREST</Desc>
+        <RevenueAndExpensesPerBooksAmt>82096</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>82096</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>82096</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>13030</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>13030</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>13030</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OVERAGE FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2700</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>2700</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2700</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SURETY BOND</Desc>
+        <RevenueAndExpensesPerBooksAmt>100</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>100</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>100</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <RevenueAndExpensesPerBooksAmt>3484</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>3484</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3484</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TRAINING EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>242</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>242</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>242</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EMPLOYEE MEDICAL EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4060</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>4060</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4060</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2-01">
+      <OtherIncomeDetail>
+        <Desc>APARTMENT RENT FROM TENANTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>82593</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>82593</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>RENT SUBSIDY FROM FmHA</Desc>
+        <RevenueAndExpensesPerBooksAmt>56449</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>56449</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>FmHA LOAN PAYMENT SUBSIDY</Desc>
+        <RevenueAndExpensesPerBooksAmt>68115</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>68115</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>OTHER INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>4551</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>4551</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

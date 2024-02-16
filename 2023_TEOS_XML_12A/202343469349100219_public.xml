@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-12T18:31:58-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>474709852</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ASAM LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>500 SANSOME ST STE 502</AddressLine1Txt>
+        <CityNm>SAN FRANCISCO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94111</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>203525777</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>M &amp; J FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>M&amp;JF</BusinessNameControlTxt>
+      <PhoneNum>6509482268</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>707 LINDEN AVE</AddressLine1Txt>
+        <CityNm>LOS ALTOS</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94022</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>TAMMY WANG</PersonNm>
+      <PersonTitleTxt>SECRETARY</PersonTitleTxt>
+      <SignatureDt>2023-12-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>TAMMY</PersonFirstNm>
+        <PersonLastNm>WANG</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ASAM LLP</PreparerPersonNm>
+      <PTIN>P01261067</PTIN>
+      <PhoneNum>4157882371</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>0</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>127778</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <NetGainSaleAstRevAndExpnssAmt>120562</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>160000</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>120562</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">50</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>120612</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>120562</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">2033</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2033</AccountingFeesNetInvstIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">1205</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>819</DeprecAndDpltnNetInvstIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>18551</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>18551</TravConfMeetingNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">12836</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>12776</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>45</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>34625</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>34179</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>45</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>535</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>535</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>35160</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>34179</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>580</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>85452</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>86383</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>11550</CashBOYAmt>
+        <CashEOYAmt>127778</CashEOYAmt>
+        <CashEOYFMVAmt>127778</CashEOYFMVAmt>
+        <LandBldgInvestmentsBOYAmt>30390</LandBldgInvestmentsBOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>2554</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>1483</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>1457</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">1071</LandEOYAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">1730</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">1730</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>45127</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>130579</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>127778</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>391180</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>391180</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>-346053</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-260601</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>45127</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>130579</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>45127</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>130579</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>45127</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>85452</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>130579</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>130579</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Condo</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-01-28</AcquiredDt>
+          <SoldDt>2023-01-09</SoldDt>
+          <GrossSalesPriceAmt>160000</GrossSalesPriceAmt>
+          <DepreciationAmt>30466</DepreciationAmt>
+          <CostOrOtherBasisAmt>69904</CostOrOtherBasisAmt>
+          <GainOrLossAmt>120562</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>120562</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>120562</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1201</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1201</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1201</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>63</EsPenaltyAmt>
+        <TaxDueAmt>1264</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>ALEX LEE</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6509482268</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>707 LINDEN AVE</AddressLine1Txt>
+          <CityNm>LOS ALTOS</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94022</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Alex Lee</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>707 Linden Ave</AddressLine1Txt>
+            <CityNm>Los Altos</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94022</ZIPCd>
+          </USAddress>
+          <TitleTxt>President &amp; CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Tammy Wang</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>707 Linden Ave</AddressLine1Txt>
+            <CityNm>Los Altos</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94022</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>4.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>88608</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>61776</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>150384</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>150384</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>2256</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>148128</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>7406</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>7406</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1201</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1201</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>6205</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>6205</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>6205</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>580</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>580</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>6205</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>2260</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>2260</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>580</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>580</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>2260</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>2260</ExcessDistributionCyovAppCYAmt>
+        <UndistributedIncomeCYAmt>3365</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Alex Lee</ContributingManagerNm>
+        <ContributingManagerNm>Tammy Wang</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MONTEREY BAY AQUARIUM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>886 CANNERY ROW</AddressLine1Txt>
+            <CityNm>MONTEREY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93940</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>295</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KQED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2601 MARIPOSA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>240</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>535</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>120562</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Other Income</Desc>
+          <RelatedOrExemptFunctionIncmAmt>50</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>120612</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>120612</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Expenses</CategoryTxt>
+        <Amt>240</Amt>
+        <NetInvestmentIncomeAmt>240</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>Tax Filing Fee</CategoryTxt>
+        <Amt>1793</Amt>
+        <NetInvestmentIncomeAmt>1793</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Condo</PropertyDesc>
+        <AcquiredDt>2009-01-28</AcquiredDt>
+        <CostOrOtherBasisAmt>60037</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>29647</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>819</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Computer</PropertyDesc>
+        <AcquiredDt>2021-06-16</AcquiredDt>
+        <CostOrOtherBasisAmt>1557</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>363</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1920</Rt>
+        <CurrentYearExpenseAmt>299</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Computer</PropertyDesc>
+        <AcquiredDt>2022-06-07</AcquiredDt>
+        <CostOrOtherBasisAmt>272</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>9</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.3200</Rt>
+        <CurrentYearExpenseAmt>87</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Furniture and Fixtures</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>725</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>725</AccumulatedDepreciationAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Machinery and Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1829</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>758</AccumulatedDepreciationAmt>
+        <BookValueAmt>1071</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherAssetsScheduleGrp>
+        <Desc>Other Receivable</Desc>
+        <BOYBookValueAmt>1729</BOYBookValueAmt>
+        <EOYBookValueAmt>1729</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>Rounding</Desc>
+        <BOYBookValueAmt>1</BOYBookValueAmt>
+        <EOYBookValueAmt>1</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Auto and Truck Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>215</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>215</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Charges</Desc>
+        <RevenueAndExpensesPerBooksAmt>15</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Education</Desc>
+        <RevenueAndExpensesPerBooksAmt>2475</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2475</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>HOA</Desc>
+        <RevenueAndExpensesPerBooksAmt>1500</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1500</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Meal</Desc>
+        <RevenueAndExpensesPerBooksAmt>339</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>339</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Expesnes</Desc>
+        <RevenueAndExpensesPerBooksAmt>4639</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4639</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Postage</Desc>
+        <RevenueAndExpensesPerBooksAmt>45</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>45</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Repair and Maintenanace</Desc>
+        <RevenueAndExpensesPerBooksAmt>3608</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>3608</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncomeDetail>
+        <Desc>Other Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>50</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-11-28T07:18:47-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>273236643</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>TILTON CPAS LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 80</AddressLine1Txt>
+        <CityNm>CHARDON</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>44024</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>562053851</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>DONALD D LYNCH FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DONA</BusinessNameControlTxt>
+      <PhoneNum>4194258594</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 449</AddressLine1Txt>
+        <CityNm>FINDLAY</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>458390449</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SUSAN L CAMPBELL</PersonNm>
+      <PersonTitleTxt>BOARD MEMBER</PersonTitleTxt>
+      <PhoneNum>4194258594</PhoneNum>
+      <SignatureDt>2023-11-28</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>SUSAN</PersonFirstNm>
+        <PersonLastNm>CAMPBELL</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Wendy V Shick CPA</PreparerPersonNm>
+      <PTIN>P00394756</PTIN>
+      <PhoneNum>4408125676</PhoneNum>
+      <PreparationDt>2023-11-10</PreparationDt>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>3</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF-01">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>63607958</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>7057762</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>85421</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>85421</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>85421</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>1448095</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>1448095</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>1448095</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="GainLossSaleOtherAssetsSch-01" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">345173</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2432335</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>345173</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>1275</NetSTCapitalGainAdjNetIncmAmt>
+        <GrossProfitRevAndExpnssAmt>0</GrossProfitRevAndExpnssAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2-01" referenceDocumentName="OtherIncomeSchedule2">1948685</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>10885136</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1878689</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>1534791</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>101369</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>101369</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt>0</LegalFeesRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt>7704</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>7704</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt>0</OtherProfFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule-01" referenceDocumentName="TaxesSchedule">31505</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>6644</TaxesNetInvstIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>0</DeprecAndDpltnRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule-01" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">3209</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>3209</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>143787</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>6644</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>112282</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1653214</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1653214</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1797001</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>6644</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1765496</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>9088135</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1872045</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1534791</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>564131</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>4180837</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>4180837</SavAndTempCashInvstEOYFMVAmt>
+        <RcvblFromOfficersEOYAmt>0</RcvblFromOfficersEOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>0</OtherNtsAndLoansRcvblEOYAmt>
+        <CorporateStockBOYAmt>33938804</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedul-01" referenceDocumentName="InvestmentsCorpStockSchedule">39400233</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>59427121</CorporateStockEOYFMVAmt>
+        <LandBldgInvestmentsEOYAmt>0</LandBldgInvestmentsEOYAmt>
+        <OtherInvestmentsEOYAmt>0</OtherInvestmentsEOYAmt>
+        <LandEOYAmt>0</LandEOYAmt>
+        <OtherAssetsBOYAmt>0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt>0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt>0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>34502935</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>43581070</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>63607958</TotalAssetsEOYFMVAmt>
+        <LoansFromOfficersEOYAmt>0</LoansFromOfficersEOYAmt>
+        <MortgagesAndNotesPayableEOYAmt>0</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt>0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt>0</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>34502935</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>43581070</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>34502935</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>43581070</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>34502935</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>43581070</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>34502935</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>9088135</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>43591070</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule-01" referenceDocumentName="OtherDecreasesSchedule">10000</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>43581070</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2000 SH WALT DISNEY CO</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2021-06-16</AcquiredDt>
+          <SoldDt>2023-05-24</SoldDt>
+          <GrossSalesPriceAmt>177920</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>201710</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-23790</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>-23790</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5000 SH TARGET CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-05-17</AcquiredDt>
+          <SoldDt>2023-05-31</SoldDt>
+          <GrossSalesPriceAmt>674725</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>415250</CostOrOtherBasisAmt>
+          <GainOrLossAmt>259475</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>259475</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9000 SH TARGET CORP</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2021-06-16</AcquiredDt>
+          <SoldDt>2023-05-31</SoldDt>
+          <GrossSalesPriceAmt>1214505</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>1294875</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-80370</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>-80370</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5000 SH YAMAHA GOLD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-13</AcquiredDt>
+          <SoldDt>2023-04-06</SoldDt>
+          <GrossSalesPriceAmt>30303</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>43959</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-13656</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>-13656</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5000 SH YAMAHA GOLD</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2021-06-16</AcquiredDt>
+          <SoldDt>2023-04-06</SoldDt>
+          <GrossSalesPriceAmt>30303</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>25688</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4615</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>4615</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4000 SH STORE CAPITAL</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2021-06-16</AcquiredDt>
+          <SoldDt>2023-02-03</SoldDt>
+          <GrossSalesPriceAmt>129000</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>105680</CostOrOtherBasisAmt>
+          <GainOrLossAmt>23320</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>23320</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GE HEALTHCARE - CASH IN LIEU</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-06-23</AcquiredDt>
+          <SoldDt>2023-01-06</SoldDt>
+          <GrossSalesPriceAmt>38</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+          <GainOrLossAmt>38</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>38</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MUTUAL FUNDS LT CAPITAL GAIN DISTRIBUTIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-06-01</AcquiredDt>
+          <SoldDt>2023-06-30</SoldDt>
+          <GrossSalesPriceAmt>174266</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+          <GainOrLossAmt>174266</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>174266</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MUTUAL FUNDS ST CAPITAL GAIN DISTRIBUTIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-07-01</AcquiredDt>
+          <SoldDt>2023-06-30</SoldDt>
+          <GrossSalesPriceAmt>1275</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1275</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>1275</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>345173</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>1275</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>26021</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>26021</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>26021</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>23960</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>28461</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>52421</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnOverpaymentAmt>-52421</OriginalReturnOverpaymentAmt>
+        <OverpaymentAmt>26400</OverpaymentAmt>
+        <AppliedToESTaxAmt>26400</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NC</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SUSAN CAMPBELL</IndividualWithBooksNm>
+        <PhoneNum>4194258594</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 449</AddressLine1Txt>
+          <CityNm>FINDLAY</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>458390449</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SUSAN CAMPBELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 449</AddressLine1Txt>
+            <CityNm>FINDLAY</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45839</ZIPCd>
+          </USAddress>
+          <TitleTxt>SR GRANT OFFICER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>35.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>101369</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DOW CAMPBELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 449</AddressLine1Txt>
+            <CityNm>FINDLAY</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45839</ZIPCd>
+          </USAddress>
+          <TitleTxt>GRANT OFFICER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DONALD D LYNCH JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 134</AddressLine1Txt>
+            <CityNm>SIMSBURY</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06070</ZIPCd>
+          </USAddress>
+          <TitleTxt>GRANT OFFICER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>69970998</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2776788</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>72747786</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>72747786</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1091217</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>71656569</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>3582828</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>3582828</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>26021</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>26021</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>3556807</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>3556807</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>3556807</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1765496</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1765496</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>3556807</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>0</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>0</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>182254</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>0</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>0</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>182254</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1765496</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>1765496</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>182254</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>182254</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>1609057</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>0</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>0</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>0</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>0</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>DONALD LYNCH</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>SUSAN CAMPBELL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 449</AddressLine1Txt>
+            <CityNm>FINDLAY</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>48539</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>4193063328</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>A GRANT REQUEST APPLICATION AND A PROJECT BUDGET</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>GRANT AWARDS WILL ONLY MADE TO 501(c)(3)s WITNESSING GOSPEL VALUES OF JUSTICE, SPIRITUALITY AND PEACE.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEE ATTACHED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SEE ATTACHED</AddressLine1Txt>
+            <CityNm>FINDLAY</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45839</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>VARIOUS</GrantOrContributionPurposeTxt>
+          <Amt>1653214</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1653214</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1448095</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>345173</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>1793268</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1793268</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB-01">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>ESTATE OF DONALD D LYNCH</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 449</AddressLine1Txt>
+          <CityNm>FINDLAY</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>45839</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>2888028</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>ESTATE OF DONALD D LYNCH</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 449</AddressLine1Txt>
+          <CityNm>FINDLAY</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>45839</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>4169734</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>ISHARES INC CORE MSCI EMERGING MKTS ETF IEMG - 2,000 SH, ESTATE COST BASIS $132,605</NoncashPropertyDesc>
+        <FairMarketValueAmt>99094</FairMarketValueAmt>
+        <ReceivedDt>2023-06-12</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>AMERICAN AXLE &amp; MANUFACTURING AXL - 4,500 SH, ESTATE COST BASIS $52,088</NoncashPropertyDesc>
+        <FairMarketValueAmt>37136</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>BANK OF AMERICA CORP BAC - 9,787 SH, ESTATE COST BASIS $404,472</NoncashPropertyDesc>
+        <FairMarketValueAmt>326592</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>BEST BUY CO INC BBY - 1,000 SH, ESTATE COST BASIS $111,220</NoncashPropertyDesc>
+        <FairMarketValueAmt>72600</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>BRISTOL MYERS SQUIBB BMY - 2,500 SH, ESTATE COST BASIS $168,375</NoncashPropertyDesc>
+        <FairMarketValueAmt>183981</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>CORTEVA INC CTVA - 333 SH, ESTATE COST BASIS $14,615</NoncashPropertyDesc>
+        <FairMarketValueAmt>18495</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>CARDINAL HEALTH INC CAH - 1,000 SH, ESTATE COST BASIS $57,945</NoncashPropertyDesc>
+        <FairMarketValueAmt>57635</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>CVS HEALTH CORP CVS - 2,000 SH, ESTATE COST BASIS $170,800</NoncashPropertyDesc>
+        <FairMarketValueAmt>190170</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>DOW INC DOW - 333 SH, ESTATE COST BASIS $22,020</NoncashPropertyDesc>
+        <FairMarketValueAmt>17111</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>DUPONT DE NEMOURS INC DD - 333 SH, ESTATE COST BASIS $26,810</NoncashPropertyDesc>
+        <FairMarketValueAmt>19236</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>DEVON ENERGY CORP DVN - 4,000 SH, ESTATE COST BASIS $116,170</NoncashPropertyDesc>
+        <FairMarketValueAmt>229880</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>WALT DISNEY CO DIS - 2,000 SH, ESTATE COST BASIS $349,850</NoncashPropertyDesc>
+        <FairMarketValueAmt>201710</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>FLUOR CORP FLR - 3,000 SH, ESTATE COST BASIS $54,825</NoncashPropertyDesc>
+        <FairMarketValueAmt>75690</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>FIRST AMERICAN FINANCIAL CORP FAF - 1,179 SH, ESTATE COST BASIS $77,118</NoncashPropertyDesc>
+        <FairMarketValueAmt>65541</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>HIMAX TECHNOLOGIES INC HIMX - 5,000 SH, ESTATE COST BASIS $70,400</NoncashPropertyDesc>
+        <FairMarketValueAmt>34950</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>INTERNATIONAL BUSINESS MACHINES CORP IBM - 1,000 SH, ESTATE COST BASIS $142,263</NoncashPropertyDesc>
+        <FairMarketValueAmt>128465</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>KYNDRYL HOLDINGS INC KD - 200 SH, ESTATE COST BASIS $6,237</NoncashPropertyDesc>
+        <FairMarketValueAmt>2044</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>KINDER MORGAN INC, CL P KMI - 2,000 SH, ESTATE COST BASIS $37,835</NoncashPropertyDesc>
+        <FairMarketValueAmt>36135</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>KOHL'S KSS - 2,000 SH, ESTATE COST BASIS $105,610</NoncashPropertyDesc>
+        <FairMarketValueAmt>53920</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>BATH AND BODY WORKS BBWI - 4,000 SH, ESTATE COST BASIS $207,895</NoncashPropertyDesc>
+        <FairMarketValueAmt>130220</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>MARATHON PETROLEUM CORP MPC - 4,268 SH, ESTATE COST BASIS $269,972</NoncashPropertyDesc>
+        <FairMarketValueAmt>378508</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>MICRON TECHNOLOGY INC MU - 4,000 SH, ESTATE COST BASIS $326,460</NoncashPropertyDesc>
+        <FairMarketValueAmt>240460</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>NEWELL BRANDS INC NWL - 2,000 SH, ESTATE COST BASIS $54,160</NoncashPropertyDesc>
+        <FairMarketValueAmt>39145</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>NEWMONT CORPORATION NEM - 2,000 SH, ESTATE COST BASIS $137,540</NoncashPropertyDesc>
+        <FairMarketValueAmt>91770</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>NORDSTROM INC JWN - 1,000 SH, ESTATE COST BASIS $33,705</NoncashPropertyDesc>
+        <FairMarketValueAmt>22123</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>OLIN CORP OLN - 7,000 SH, ESTATE COST BASIS $333,900</NoncashPropertyDesc>
+        <FairMarketValueAmt>339675</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>QUALCOMM INC QCOM - 4,000 SH, ESTATE COST BASIS $541,380</NoncashPropertyDesc>
+        <FairMarketValueAmt>605020</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>SCHLUMBERGER NV SLB - 6,000 SH, ESTATE COST BASIS $204,585</NoncashPropertyDesc>
+        <FairMarketValueAmt>216510</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>STORE CAPITAL CORP STOR - 2,000 SH, ESTATE COST BASIS $70,730</NoncashPropertyDesc>
+        <FairMarketValueAmt>55910</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>TIMKENSTEEL CORP TMST - 6,000 SH, ESTATE COST BASIS $85,980</NoncashPropertyDesc>
+        <FairMarketValueAmt>114180</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>VICTORIA'S SECRET VSCO - 1,333 SH, ESTATE COST BASIS $51,585</NoncashPropertyDesc>
+        <FairMarketValueAmt>41796</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>NORTHROP GRUMMAN CORP NOC - 98 SH, ESTATE COST BASIS $36,742</NoncashPropertyDesc>
+        <FairMarketValueAmt>44032</FairMarketValueAmt>
+        <ReceivedDt>2022-07-26</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <GainLossSaleOtherAssetsSch documentId="GainLossSaleOtherAssetsSch-01">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>2,000 SH WALT DISNEY CO</AssetDesc>
+        <AcquiredDt>2021-06</AcquiredDt>
+        <HowAcquiredTxt>Donated</HowAcquiredTxt>
+        <SoldDt>2023-05</SoldDt>
+        <GrossSalesPriceAmt>177920</GrossSalesPriceAmt>
+        <BasisAmt>201710</BasisAmt>
+        <TotalNetAmt>-23790</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>5,000 SH TARGET CORP</AssetDesc>
+        <AcquiredDt>2017-05</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2023-05</SoldDt>
+        <GrossSalesPriceAmt>674725</GrossSalesPriceAmt>
+        <BasisAmt>415250</BasisAmt>
+        <TotalNetAmt>259475</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>9,000 SH TARGET CORP</AssetDesc>
+        <AcquiredDt>2021-06</AcquiredDt>
+        <HowAcquiredTxt>Donated</HowAcquiredTxt>
+        <SoldDt>2023-05</SoldDt>
+        <GrossSalesPriceAmt>1214505</GrossSalesPriceAmt>
+        <BasisAmt>1294875</BasisAmt>
+        <TotalNetAmt>-80370</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>5,000 SH YAMAHA GOLD</AssetDesc>
+        <AcquiredDt>2014-08</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2023-04</SoldDt>
+        <GrossSalesPriceAmt>30303</GrossSalesPriceAmt>
+        <BasisAmt>43959</BasisAmt>
+        <TotalNetAmt>-13656</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>5,000 SH YAMAHA GOLD</AssetDesc>
+        <AcquiredDt>2021-06</AcquiredDt>
+        <HowAcquiredTxt>Donated</HowAcquiredTxt>
+        <SoldDt>2023-04</SoldDt>
+        <GrossSalesPriceAmt>30303</GrossSalesPriceAmt>
+        <BasisAmt>25688</BasisAmt>
+        <TotalNetAmt>4615</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>4,000 SH STORE CAPITAL CORP</AssetDesc>
+        <AcquiredDt>2021-06</AcquiredDt>
+        <HowAcquiredTxt>Donated</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>129000</GrossSalesPriceAmt>
+        <BasisAmt>105680</BasisAmt>
+        <TotalNetAmt>23320</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GE HEALTHCARE - CASH IN LIEU</AssetDesc>
+        <AcquiredDt>2008-06</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2023-01</SoldDt>
+        <GrossSalesPriceAmt>38</GrossSalesPriceAmt>
+        <TotalNetAmt>38</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MUTUAL FUNDS - LT CAPITAL GAIN DISTRIBUTIONS</AssetDesc>
+        <AcquiredDt>2022-06</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2023-06</SoldDt>
+        <GrossSalesPriceAmt>174266</GrossSalesPriceAmt>
+        <TotalNetAmt>174266</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>MUTUAL FUNDS - ST CAPITAL GAIN DISTRIBUTIONS</AssetDesc>
+        <AcquiredDt>2022-07</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2023-06</SoldDt>
+        <GrossSalesPriceAmt>1275</GrossSalesPriceAmt>
+        <TotalNetAmt>1275</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedul-01">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEE ATTACHMENT</StockNm>
+        <EOYBookValueAmt>39400233</EOYBookValueAmt>
+        <EOYFMVAmt>59427121</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule-01">
+      <OtherDecreasesDetail>
+        <Desc>PRIOR PERIOD ADJUSTMENT</Desc>
+        <Amt>10000</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule-01">
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE-TRAVEL EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>3209</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3209</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2-01">
+      <OtherIncomeDetail>
+        <Desc>IRA AS BENEFICIARY</Desc>
+        <RevenueAndExpensesPerBooksAmt>1948685</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule-01">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES</CategoryTxt>
+        <Amt>24861</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX-ADR FEES</CategoryTxt>
+        <Amt>6644</Amt>
+        <NetInvestmentIncomeAmt>6644</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

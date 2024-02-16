@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-11-28T05:53:26-08:00</ReturnTs>
+    <TaxPeriodEndDt>2023-05-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ROMAINE &amp; ASSOCIATES PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1214 PARIS RD</AddressLine1Txt>
+        <CityNm>MAYFIELD</CityNm>
+        <StateAbbreviationCd>KY</StateAbbreviationCd>
+        <ZIPCd>42066</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-06-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>610564889</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ANNIE GARDNER FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ANNI</BusinessNameControlTxt>
+      <PhoneNum>2702475803</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>620 SOUTH 6TH STREET</AddressLine1Txt>
+        <CityNm>MAYFIELD</CityNm>
+        <StateAbbreviationCd>KY</StateAbbreviationCd>
+        <ZIPCd>42066</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>TERESA CANTRELL</PersonNm>
+      <PersonTitleTxt>Executive Direc</PersonTitleTxt>
+      <SignatureDt>2023-11-28</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>TERESA</PersonFirstNm>
+        <PersonLastNm>CANTRELL</PersonLastNm>
+      </PersonFullName>
+      <SSN>999009999</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KRISTA ROMAINE CPA</PreparerPersonNm>
+      <PTIN>P00142910</PTIN>
+      <PhoneNum>2702478050</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <AdditionalFilerInformation>
+      <TrustedCustomerGrp>
+        <TrustedCustomerCd>2</TrustedCustomerCd>
+        <AuthenticationAssuranceLevelCd>AAL1</AuthenticationAssuranceLevelCd>
+        <IdentityAssuranceLevelCd>IAL1</IdentityAssuranceLevelCd>
+        <FederatedAssuranceLevelCd>FAL1</FederatedAssuranceLevelCd>
+      </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1205073</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>1310187</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>23166</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>23166</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>23166</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>197700</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>197700</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>197700</DividendsAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">28440</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>1559493</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>220866</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>220866</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>133935</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>21549</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>21549</CompOfcrDirTrstAdjNetIncmAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>269365</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>269365</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">3258</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>3258</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">30870</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>3726</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>3726</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>27145</TaxesDsbrsChrtblAmt>
+        <OccupancyRevAndExpnssAmt>12432</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>12432</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>3534</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>3534</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">282979</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>282979</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>736373</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>25275</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>25275</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>598713</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>529231</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>529231</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1265604</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>25275</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>25275</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1127944</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>293889</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>195591</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>195591</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>691917</CashBOYAmt>
+        <CashEOYAmt>704809</CashEOYAmt>
+        <SavAndTempCashInvstBOYAmt>324342</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>642731</SavAndTempCashInvstEOYAmt>
+        <OtherNtsAndLoansRcvblAmt>1205073</OtherNtsAndLoansRcvblAmt>
+        <OtherNtsAndLoansRcvblBOYAmt>1292615</OtherNtsAndLoansRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>1205073</OtherNtsAndLoansRcvblEOYAmt>
+        <OtherNtsAndLoansRcvblEOYFMVAmt>1205073</OtherNtsAndLoansRcvblEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>5100000</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>5100000</USGovernmentObligationsEOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>1121337</LandBldgEquipCostOrOtherBssAmt>
+        <LandBOYAmt>1071187</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">1121337</LandEOYAmt>
+        <TotalAssetsBOYAmt>8480061</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>8773950</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1205073</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>8399432</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>8773069</NoDonorRstrNetAssestsEOYAmt>
+        <DonorRstrNetAssetsBOYAmt>80629</DonorRstrNetAssetsBOYAmt>
+        <DonorRstrNetAssetsEOYAmt>881</DonorRstrNetAssetsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>8480061</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>8773950</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>8480061</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>8773950</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>8480061</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>293889</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>8773950</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>8773950</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <ExemptOperatingFoundationsInd>X</ExemptOperatingFoundationsInd>
+        <RulingLetterDt>1989-01-27</RulingLetterDt>
+        <NotApplicableCd>N/A</NotApplicableCd>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>KY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>TERESA CANTRELL</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2702475803</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>620 SOUTH 6TH STREET</AddressLine1Txt>
+          <CityNm>MAYFIELD</CityNm>
+          <StateAbbreviationCd>KY</StateAbbreviationCd>
+          <ZIPCd>42066</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TERESA CANTRELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>607 HILLCREST</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </USAddress>
+          <TitleTxt>Executive Direc</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>30.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>69145</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NANCY SPARKS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>222 FAIRLANE</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>30.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>64790</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SCOTT ROBBINS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>100 EAST BROADWAY</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BARRY McDONALD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>113 CAMPBELL CT</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JIM HEATH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>126 ARBOR CREST DR</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DON SPARKS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>307 GOLF CLUB LANE</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KELLY WEBER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>600 PRYOR STREET</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>TERESA CANTRELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>607 HILLCREST</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </USAddress>
+          <TitleTxt>EXECUTIVE DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>30.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>69145</CompensationAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>NANCY SPARKS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>222 FAIRLANE</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>30.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>64790</CompensationAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>NEEDY IN HOMES</Description1Txt>
+        <Expenses1Amt>594282</Expenses1Amt>
+        <Description2Txt>NEEDY IN HOSPITALS</Description2Txt>
+        <Expenses2Amt>44789</Expenses2Amt>
+        <Description3Txt>INDIRECT EXPENSES OF DIRECT CHARITABLE ACTIVITIES</Description3Txt>
+        <Expenses3Amt>660768</Expenses3Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1127944</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1127944</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>1973-02-22</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>3556</Year1Amt>
+          <Year2Amt>1536</Year2Amt>
+          <Year3Amt>75547</Year3Amt>
+          <TotalAmt>80639</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <Year1Amt>3023</Year1Amt>
+          <Year2Amt>1306</Year2Amt>
+          <Year3Amt>64215</Year3Amt>
+          <TotalAmt>68544</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>1127944</CurrentYearAmt>
+          <Year1Amt>1020110</Year1Amt>
+          <Year2Amt>1345248</Year2Amt>
+          <Year3Amt>1221809</Year3Amt>
+          <TotalAmt>4715111</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>1127944</CurrentYearAmt>
+          <Year1Amt>1020110</Year1Amt>
+          <Year2Amt>1345248</Year2Amt>
+          <Year3Amt>1221809</Year3Amt>
+          <TotalAmt>4715111</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <Year1Amt>191315</Year1Amt>
+          <Year2Amt>188097</Year2Amt>
+          <Year3Amt>186622</Year3Amt>
+          <TotalAmt>566034</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>NANCY H SPARKS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>620 S 6TH STREET</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2702478050</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>STUDENT LOAN APPLICATION (AVAILABLE FROM FOUNDATION), HIGHSCHOOL TRANSCRIPT, ACT SCORES, COLLEGE GRADES, AND PICTURE ID</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>JULY 1</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>ONLY RESIDENCE OF GRAVES CO, KENTUCKY, $3,000 MAXIMUM FOR BOTH GRADUATE AND UNDERGRADUATE. ADDITIONAL $1,000 FOR SUMMER SCHOOL</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>APPROXIMATELY 1124 INDIVIDS FAMILIE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>MULTIPLE FAMILES</AddressLine1Txt>
+            <CityNm>MAYFIELD</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>42066</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NA</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT BASIC HUMAN NEEDS</GrantOrContributionPurposeTxt>
+          <Amt>529231</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>529231</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>23166</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>197700</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>249306</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>249306</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <AccountingFeesDetail>
+        <Amt>3258</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3258</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1121337</CostOrOtherBasisAmt>
+        <BookValueAmt>1121337</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Employee Benefits</Desc>
+        <RevenueAndExpensesPerBooksAmt>7170</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>7170</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Insur-Auto, Prop, Workers Comp, &amp; Bonds</Desc>
+        <RevenueAndExpensesPerBooksAmt>167346</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>167346</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Miscellaneous</Desc>
+        <RevenueAndExpensesPerBooksAmt>25256</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>25256</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>12754</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>12754</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Public Relations</Desc>
+        <RevenueAndExpensesPerBooksAmt>22750</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>22750</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Repairs and Maintenance</Desc>
+        <RevenueAndExpensesPerBooksAmt>31790</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>31790</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Write-Off of Bad Student Loans</Desc>
+        <RevenueAndExpensesPerBooksAmt>15913</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>15913</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <OtherIncomeDetail>
+        <RevenueAndExpensesPerBooksAmt>28440</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="22015553" softwareVersionNum="2022v5.0">
+      <TaxesDetail>
+        <CategoryTxt>Other Tax and License</CategoryTxt>
+        <Amt>21</Amt>
+        <NetInvestmentIncomeAmt>21</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>21</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Payroll Taxes</CategoryTxt>
+        <Amt>30849</Amt>
+        <NetInvestmentIncomeAmt>3705</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3705</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>27145</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

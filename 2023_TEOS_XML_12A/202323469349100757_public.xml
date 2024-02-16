@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-12-12T15:20:24-05:00</ReturnTs>
+    <TaxPeriodEndDt>2023-07-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>811964047</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>JOHN L MINTON CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>7316 COMMERCIAL CIR</AddressLine1Txt>
+        <CityNm>FORT PIERCE</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>34951</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-08-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>650859785</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BRENDA K &amp; VERNON D SMITH FAMILY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION INC</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BREN</BusinessNameControlTxt>
+      <PhoneNum>7724674329</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>12030 NE 224TH STREET</AddressLine1Txt>
+        <CityNm>OKEECHOBEE</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>34972</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>VERNON D SMITH</PersonNm>
+      <PersonTitleTxt>DIRECTOR</PersonTitleTxt>
+      <PhoneNum>7724674329</PhoneNum>
+      <SignatureDt>2023-11-22</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>VERNON</PersonFirstNm>
+        <PersonLastNm>SMITH</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JOHN L MINTON</PreparerPersonNm>
+      <PTIN>P01388133</PTIN>
+      <PhoneNum>7724613815</PhoneNum>
+      <PreparationDt>2023-12-12</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc7" referenceDocumentId="RetDoc6">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>259770</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>3</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>3</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>14008</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>14008</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>53586</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>788640</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>53586</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>67597</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>67597</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">3200</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3200</AccountingFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc5">360</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>360</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc4">237</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>237</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>3797</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>3797</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>47000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>47000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>50797</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>3797</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>47000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>16800</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>63800</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>66754</CashBOYAmt>
+        <CashEOYAmt>27728</CashEOYAmt>
+        <CashEOYFMVAmt>27728</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>183558</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2">242706</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>227555</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>7809</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc3">4487</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>4487</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>258121</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>274921</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>259770</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>258121</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>274921</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>258121</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>274921</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>258121</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>274921</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>258121</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>16800</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>274921</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>274921</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SEE ATTACHED SCHEDULE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>788640</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>735054</CostOrOtherBasisAmt>
+          <GainOrLossAmt>53586</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>53586</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>53586</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>887</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>887</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>887</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>887</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>VERNON D SMITH</IndividualWithBooksNm>
+        <PhoneNum>7724674329</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>12030 NE 224TH STREET</AddressLine1Txt>
+          <CityNm>OKEECHOBEE</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>34972</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VERNON D SMITH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12030 NE 224TH STREET</AddressLine1Txt>
+            <CityNm>OKEECHOBEE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34972</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRENDA K SMITH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12030 NE 224TH STREET</AddressLine1Txt>
+            <CityNm>OKEECHOBEE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34972</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHRISTOPHER D SMITH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5057 TURNPIKE FEEDER ROAD</AddressLine1Txt>
+            <CityNm>FORT PIERCE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34951</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KATHY PETRONE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5823 BOWEN DANIEL DRIVE</AddressLine1Txt>
+            <AddressLine2Txt>UNIT 1205</AddressLine2Txt>
+            <CityNm>TAMPA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33616</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KAREN ESPLING</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>111 HIGHVIEW DRIVE</AddressLine1Txt>
+            <CityNm>COCOA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32922</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>INDIAN RIVER STATE COLLEGE FOUNDATION FSU COLLEGE OF MEDICINE BUILDING</Description1Txt>
+        <Expenses1Amt>35000</Expenses1Amt>
+        <Description2Txt>MAYO CLINIC DEPT. OF DEVELOPEMENT</Description2Txt>
+        <Expenses2Amt>10000</Expenses2Amt>
+        <Description3Txt>ST. JUDE CHILDREN'S RESEARCH HOSPITAL</Description3Txt>
+        <Expenses3Amt>1000</Expenses3Amt>
+        <Description4Txt>CAREBAG INC.</Description4Txt>
+        <Expenses4Amt>1000</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>226218</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>52180</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>278398</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>278398</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>4176</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>274222</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>13711</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>13711</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>887</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>887</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>12824</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>12824</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>12824</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>47000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>47000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>12824</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>27273</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>26725</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>28874</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>27614</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>31610</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>142096</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>47000</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>12824</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>34176</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>176272</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>27273</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>148999</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>26725</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>28874</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>27614</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>31610</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>34176</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INDIAN RIVER STATE COLLEGE FOUNDATI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3209 VIRGINIA AVENUE</AddressLine1Txt>
+            <CityNm>FORT PIERCE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>349815596</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FSU COLLEGE OF MEDICINE BUILDING</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST JUDE CHILDREN'S RESEARCH HOSPIT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 ST JUDE PLACE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MAYO CLINIC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 450</AddressLine1Txt>
+            <CityNm>ALBERT LEA</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>56007</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>1 MILLION CHALLENGE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAREBAG INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7548 US HWY 1 262</AddressLine1Txt>
+            <CityNm>PORT SAINT LUCIE</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34952</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>47000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>3</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>14008</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>53586</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>67597</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>67597</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>JOHN MINTON, CPA 990PF PREP 2020</CategoryTxt>
+        <Amt>3200</Amt>
+        <NetInvestmentIncomeAmt>3200</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>APPLE - 100 SHARES</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMMUNITY HEALTH - 5,000 SHARES</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHEVRON CORP. - 115 SHARES</StockNm>
+        <EOYBookValueAmt>17985</EOYBookValueAmt>
+        <EOYFMVAmt>18821</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EOG RESOURCES - 200 SHARES</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RECONNAISSANCE ENERGY - 20,000 SH</StockNm>
+        <EOYBookValueAmt>49490</EOYBookValueAmt>
+        <EOYFMVAmt>21800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DEVON ENERGY - 750 SHARES</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>OCCIDENTAL PETROL - 465 SHARES</StockNm>
+        <EOYBookValueAmt>28118</EOYBookValueAmt>
+        <EOYFMVAmt>29355</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PETROLEO BRASILEIRO - 62 SHARES</StockNm>
+        <EOYBookValueAmt>643</EOYBookValueAmt>
+        <EOYFMVAmt>910</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COTERRA ENERGY INC. - 750 SHARES</StockNm>
+        <EOYBookValueAmt>19225</EOYBookValueAmt>
+        <EOYFMVAmt>20655</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BANK OF AMERICA CORP. - 1,000 SHARES</StockNm>
+        <EOYBookValueAmt>27880</EOYBookValueAmt>
+        <EOYFMVAmt>32000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>APA CORP. - 643 SHARES</StockNm>
+        <EOYBookValueAmt>21209</EOYBookValueAmt>
+        <EOYFMVAmt>26035</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CRACKER BARREL 6 SHARES</StockNm>
+        <EOYBookValueAmt>544</EOYBookValueAmt>
+        <EOYFMVAmt>559</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>C3 AI INC. - 40 SHARES</StockNm>
+        <EOYBookValueAmt>1523</EOYBookValueAmt>
+        <EOYFMVAmt>1680</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HF SINCLAIR CORP. - 200 SHARES</StockNm>
+        <EOYBookValueAmt>7802</EOYBookValueAmt>
+        <EOYFMVAmt>10418</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SHELL PLL - 50 SHARES</StockNm>
+        <EOYBookValueAmt>2994</EOYBookValueAmt>
+        <EOYFMVAmt>3082</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MARATHON OIL - 1,320 SHARES</StockNm>
+        <EOYBookValueAmt>30839</EOYBookValueAmt>
+        <EOYFMVAmt>34676</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SOUTHWESTERN ENERGY - 1,264 SHARES</StockNm>
+        <EOYBookValueAmt>6116</EOYBookValueAmt>
+        <EOYFMVAmt>8191</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TEVA PHARMACEUTICAL - 365 SHARES</StockNm>
+        <EOYBookValueAmt>2765</EOYBookValueAmt>
+        <EOYFMVAmt>3066</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS GROUP = 222 SHARES</StockNm>
+        <EOYBookValueAmt>15701</EOYBookValueAmt>
+        <EOYFMVAmt>4922</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WALGREENS BOOTS - 43 SHARES</StockNm>
+        <EOYBookValueAmt>1222</EOYBookValueAmt>
+        <EOYFMVAmt>1289</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WALT DISNEY - 6 SHARES</StockNm>
+        <EOYBookValueAmt>528</EOYBookValueAmt>
+        <EOYFMVAmt>533</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ZIONS BANCORP - 250 SHARES</StockNm>
+        <EOYBookValueAmt>8122</EOYBookValueAmt>
+        <EOYFMVAmt>9563</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc3">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>TAX CERTIFICATES (FLORIDA)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>4487</BookValueAmt>
+        <EOYFMVAmt>4487</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>237</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>237</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <TaxesDetail>
+        <CategoryTxt>ANNUAL FILING FEE</CategoryTxt>
+        <Amt>61</Amt>
+        <NetInvestmentIncomeAmt>61</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>INVESTMENT INCOME TAX</CategoryTxt>
+        <Amt>220</Amt>
+        <NetInvestmentIncomeAmt>220</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>MISC. TAXES</CategoryTxt>
+        <Amt>79</Amt>
+        <NetInvestmentIncomeAmt>79</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>
